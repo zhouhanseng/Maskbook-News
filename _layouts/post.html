@@ -6,23 +6,6 @@ layout: default
   {{ page.title }}
 </h1>
 
-<ul class="languages">
-  {% for lang in site.languages %}
-    {% unless site.lang == lang %}
-      {% assign filename = page[lang] | split: "/" | last | replace: ".md", "" | slice: 11, site.max_slice_size %}
-      {% if filename != "" %}
-        <li>
-        {% if forloop.index == 1 %}
-          <a href="{{ site.env.BASE_URL }}{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
-        {% else %}
-          <a href="{{ site.env.BASE_URL }}{{ lang }}/{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
-        {% endif %}
-        </li>
-      {% endif %}
-    {% endunless %}
-  {% endfor %}
-</ul>
-
 <span class="post-date">
   {% include date.html date=page.date timezone=page.timezone location=page.location %}
 </span>

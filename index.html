@@ -3,18 +3,6 @@ layout: page
 title: Home
 ---
 
-<ul class="languages">
-  {% for language in site.languages %}
-    <li>
-      {% if forloop.index == 1 %}
-        <a href="{{ site.env.BASE_URL }}">{% t langs.{{ language }} %}</a>
-      {% else %}
-        <a href="{{ site.env.BASE_URL }}{{ language }}">{% t langs.{{ language }} %}</a>
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
-
 <ul class="posts">
   {% for post in site.posts %}
     {% unless post.next %}

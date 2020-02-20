@@ -1,0 +1,41 @@
+{% if page.lang %}
+  <ul class="languages">
+    {% for lang in site.languages %}
+      {% assign filename = page[lang] | split: "/" | last | replace: ".md", "" | slice: 11, site.max_slice_size %}
+      {% if filename != "" %}
+        <li>
+          {% if forloop.index == 1 %}
+            <a href="{{ site.env.BASE_URL }}{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
+          {% else %}
+            <a href="{{ site.env.BASE_URL }}{{ lang }}/{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
+          {% endif %}
+        </li>
+      {% elsif page.lang == lang %}
+        <li class="selected">
+          <a href="javascript: void(0);">{% t langs.{{ lang }} %}</a>
+        </li>
+      {% else %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% else %}
+  <ul class="languages">
+    {% for lang in site.languages %}
+      {% if site.lang == lang %}
+        {% assign class_name = "selected" %}
+      {% else %}
+        {% assign class_name = "" %}
+      {% endif %}
+
+      {% if class_name != '' %}
+        <li class="{{ class_name }}">
+          <a href="{{ site.env.BASE_URL }}{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
+        </li>
+      {% else %}
+        <li>
+          <a href="{{ site.env.BASE_URL }}{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
+        </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
