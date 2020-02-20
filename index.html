@@ -27,6 +27,14 @@ title: Home
       {% endif %}
     {% endunless %}
 
+    {% if post.image and post.image != '' %}
+    <div class="thumbnail-container">
+      <a href="{{ post.url | relative_url }}">
+        <img src="{{ site.env.BASE_URL }}{{ post.image | slice: 23, site.max_slice_size }}">
+      </a>
+    </div>
+    {% endif %}
+
   <li itemscope>
     <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     <p class="post-date">
