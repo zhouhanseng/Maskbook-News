@@ -10,3 +10,8 @@ pagination:
 sharing_button_prompt: "Feel free to share!"
 
 related_posts: "You may also enjoy:"
+
+read_time_less_than_one_minute: "less than 1 minute read"
+read_time_one_minute: "1 minute read"
+read_time_minute_prefix: ""
+read_time_minute_suffix: "minutes read"

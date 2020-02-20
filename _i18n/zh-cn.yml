@@ -12,3 +12,8 @@ sharing_button_prompt: "分享到："
 related_posts: "您可能也喜欢："
 
 post_date_prefix: ""
+
+read_time_less_than_one_minute: "预计阅读时间少于 1 分钟"
+read_time_one_minute: "预计阅读时间 1 分钟"
+read_time_minute_prefix: "预计阅读时间"
+read_time_minute_suffix: "分钟"
