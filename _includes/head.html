@@ -1,0 +1,98 @@
+<head>
+  <title>{{ site.title }} — {{ site.description }}</title>
+
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="utf-8" />
+
+  <!-- For Google -->
+  <meta
+    name="description"
+    content="The Natural Law of Privacy, Now Being Enforced."
+  />
+  <meta name="keywords" content="Privacy,Maskbook" />
+  <meta name="author" content="Project Maskbook" />
+  <meta name="application-name" content="Maskbook" />
+
+  <!-- For Facebook -->
+  <meta property="og:title" content="Maskbook — Make Privacy Protected Again" />
+  <meta property="og:type" content="website" />
+  <meta
+    property="og:image"
+    content="https://maskbook.com/img/fb-share-banner.png"
+  />
+  <meta property="og:url" content="https://maskbook.com/" />
+  <meta
+    property="og:description"
+    content="The Natural Law of Privacy, Now Being Enforced."
+  />
+  <meta property="fb:app_id" content="321539018508290" />
+
+  <!-- For Twitter -->
+  <meta name="twitter:card" content="summary" />
+  <meta
+    name="twitter:title"
+    content="Maskbook — Make Privacy Protected Again"
+  />
+  <meta
+    name="twitter:description"
+    content="The Natural Law of Privacy, Now Being Enforced."
+  />
+  <meta
+    name="twitter:image"
+    content="https://maskbook.com/apple-touch-icon.png"
+  />
+
+  <link
+    rel="shortcut icon"
+    href="{{ site.env.BASE_URL }}assets/img/favicon.ico"
+  />
+  <link
+    rel="apple-touch-icon"
+    href="{{ site.env.BASE_URL }}assets/img/apple-touch-icon.pn"
+  />
+
+  <link rel="stylesheet" href="{{ site.env.BASE_URL }}assets/css/main.css" />
+  <link rel="stylesheet" href="{{ site.env.BASE_URL }}assets/css/syntax.css" />
+
+  <!-- Use Atom -->
+  {% feed_meta %}
+  
+  <!-- Use RSS-2.0 -->
+  <link href="{{ site.env.BASE_URL }}rss-feed.xml" type="application/rss+xml" rel="alternate" title="{{ site.title }} | {{ site.description }}"/>
+
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Source+Code+Pro"
+  />
+  <link
+    rel="stylesheet"
+    href="https://fonts.googleapis.com/css?family=Quattrocento+Sans"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+  />
+
+  <!--
+  <script
+    type="text/javascript"
+    async
+    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"
+  >
+    MathJax.Hub.Config({
+        tex2jax: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']]
+        }
+      });
+  </script> -->
+
+  <!-- Google Analytics -->
+  {% include google-analytics.html %}
+
+  <!-- Use Jekyll SEO plugin -->
+  {% seo %}
+</head>

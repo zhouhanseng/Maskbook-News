@@ -1,0 +1,118 @@
+---
+label: English Post
+hide_body: false
+fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  hidden: true
+  default: post
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+  hidden: true
+- name: lang
+  type: text
+  config:
+    required: true
+  label: Language
+  default: en
+  hidden: true
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  default: English
+  description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: event_date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+- name: timezone
+  type: number
+  label: Timezone
+  description: ''
+  default: '8'
+  required: true
+  config:
+    min: "-12"
+    max: '14'
+    step: '1'
+    required: true
+- name: location
+  type: text
+  config:
+    required: true
+  label: Location
+- name: type
+  type: select
+  default: Visiting Event
+  config:
+    required: false
+    options:
+    - Visiting Event
+    - Official Event
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Event Type
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: zh-cn
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: simplified-chinese-posts
+      file: 
+      path: 
+  label: Simpilified Chinese
+- name: zh-tw
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tranditional-chinese-posts
+      file: 
+      path: 
+  label: Tranditional Chinese
+pages:
+- _i18n/en/_posts/2020-02-20-when-the-internet-was-good.md

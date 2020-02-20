@@ -1,0 +1,11 @@
+<div class="post-date">
+  {% t sharing_button_prompt %}
+</div>
+<div class="sharing-icons">
+  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.env.BASE_URL | slice: 0, -1 }}{{ page.url }}" target="_blank">
+    <i class="fa fa-twitter" aria-hidden="true"></i>
+  </a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.env.BASE_URL | slice: 0, -1 }}{{ page.url }}&amp;title={{ page.title }}" target="_blank">
+    <i class="fa fa-facebook" aria-hidden="true"></i>
+  </a>
+</div>

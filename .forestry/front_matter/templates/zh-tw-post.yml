@@ -1,0 +1,118 @@
+---
+label: Traditional Chinese Post
+hide_body: false
+fields:
+- name: layout
+  type: text
+  config:
+    required: true
+  label: Layout
+  hidden: true
+  default: post
+- name: date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: 
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+  hidden: true
+- name: lang
+  type: text
+  config:
+    required: true
+  label: Language
+  default: zh-tw
+  hidden: true
+- name: template
+  type: text
+  config:
+    required: false
+  label: Template
+  default: Traditional Chinese
+  description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+- name: event_date
+  type: datetime
+  label: Date
+  description: ''
+  config:
+    required: true
+    date_format: YYYY-MM-DD
+    time_format: ''
+    display_utc: false
+    export_format: YYYY-MM-DD
+  default: now
+- name: timezone
+  type: number
+  label: Timezone
+  description: ''
+  default: '8'
+  required: true
+  config:
+    min: "-12"
+    max: '14'
+    step: '1'
+    required: true
+- name: location
+  type: text
+  config:
+    required: true
+  label: Location
+- name: type
+  type: select
+  default: Visiting Event
+  config:
+    required: false
+    options:
+    - 受邀參加
+    - 官方活動
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Event Type
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero Image
+- name: tags
+  type: tag_list
+  default: []
+  label: Tags
+- name: en
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: posts-13e00ebc-66db-4e1e-9893-30605107d378
+      file: 
+      path: 
+  label: English
+- name: zh-cn
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: simplified-chinese-posts
+      file: 
+      path: 
+  label: Simpilified Chinese
+pages:
+- _i18n/zh-tw/_posts/2020-02-20-為防疫港澳轉機也不行-至4-30前出團暫緩.md
