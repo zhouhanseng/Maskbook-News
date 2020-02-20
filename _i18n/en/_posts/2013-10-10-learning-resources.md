@@ -1,10 +1,17 @@
 ---
 layout: post
 lang: en
-title: "Learning Resources"
-tags: [documentation,sample]
----
+title: Learning Resources
+tags:
+- documentation
+- sample
+event_date: 2013-10-10
+timezone: 3
+location: New York
+type: Official Event
+image: "{{ site.env.BASE_URL }}uploads/5-3.jpg"
 
+---
 The beauty of computer programming is that you do not need to formally go to school to learn how to program. You can learn almost everything that you would need to know online, and for free. The following resources are some that I have used personally, that I highly recommend, for anyone looking to learn more about computer programming.
 
 ## [Free Code Camp](https://www.freecodecamp.org/)
