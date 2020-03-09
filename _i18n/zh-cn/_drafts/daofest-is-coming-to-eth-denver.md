@@ -18,15 +18,15 @@ image: "{{ site.env.BASE_URL }}uploads/1.1-1.jpg"
 
 ！\[图片包含文字
 
-描述已自动生成\]（file：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg = 155x117）
+描述已自动生成\]（文件：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg = 155x117）
 
 ！\[图片包含文字
 
-描述已自动生成\]（file：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg = 193x145）
+描述已自动生成\]（文件：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg = 193x145）
 
 ！\[图片包含文字
 
-描述已自动生成\]（file：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg = 209x156）
+描述已自动生成\]（文件：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg = 209x156）
 
 2020年2月13日，DAOfest开放，丹佛CO城堡，古堡，Dimension CEOSuji Yan参加此次次活动并给大家带来Maskbook的最新进展。
 
