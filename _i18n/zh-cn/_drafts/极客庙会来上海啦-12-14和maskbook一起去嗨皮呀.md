@@ -46,6 +46,8 @@ image: ''
 
 名额有限，先到先得！
 
+![]({{ site.env.BASE_URL }}uploads/7.3.jpg)
+
 现场，Maskbook 会准备精美的小礼物哦～记得来我们的展台一起玩呀！
 
 **Dimension官网**
