@@ -24,21 +24,17 @@ DAOfest（ [https://www.daofest.io/](https://www.daofest.io/ "https://www.daofes
 
 DAO（去中心化自治组织）这个概念是从区块链领域提出来的，是一种可在没有任何人为干预的情况下自动系统性运作的组织。DAO 也可被定义为一种通过智能合约维护和维持自身的组织系统，用户可通过投票选举决定其未来发展方向。
 
-（视频）
-
+###### （视频）
 Introducing DAOstack
 
 **时间**
-
 2020 年 2 月 13 日
-
 10:00 - 18:00
 
 **地点**
-
 The Sports Castle, Denver CO
 
-**时间表**  
+ **时间表**  
 ![]({{ site.env.BASE_URL }}uploads/1.2-3.jpg)
 
 **Dimension 官网**
