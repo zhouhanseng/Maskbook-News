@@ -16,7 +16,7 @@ image: ''
 ---
 **活动| DAOFEST即将来到ETH DENVER**
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg =416x287)
+！\[\]（文件：/// C：/用户/L/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg = 416x287）
 
 2020年2月13日，DAOfest开放，丹佛CO城堡，古堡，Dimension CEOSuji Yan参加此次次活动并给大家带来Maskbook的最新进展。
 
@@ -41,7 +41,7 @@ DAOstack简介
 **丹佛运动城堡**
 
 **时间表**  
- ![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg =369x885)
+！\[\]（文件：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image004.jpg = 369x885）
 
 **尺寸官网**
 
@@ -55,7 +55,7 @@ tessercube.com
 
 **社交平台**
 
-**Github** [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
+**Github**  [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
 
 **推特**[https://twitter.com/projectmaskbook](https://www.daofest.io/ "https://www.daofest.io/")
 
@@ -71,6 +71,6 @@ tessercube.com
 
 扫描以下二维码加入我们的电报群吧〜
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg =208x208)
+！\[\]（文件：/// C：/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg = 208x208）
 
 活动链接：[https](https://www.daofest.io/ "https://www.daofest.io/")：[//www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")
