@@ -114,3 +114,5 @@ fields:
       file: 
       path: 
   label: Traditional Chinese
+pages:
+- _i18n/zh-cn/_posts/daofest-is-coming-to-eth-denver.md
