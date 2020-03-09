@@ -11,7 +11,7 @@ en: []
 zh-tw: []
 title: DAOFEST IS COMING TO ETH DENVER
 location: The Sports Castle, Denver CO
-image: "{{ site.env.BASE_URL }}uploads/1.1-2.jpg"
+image: "{{ site.env.BASE_URL }}uploads/1.2.jpg"
 
 ---
 **活动| DAOFEST即将来到ETH DENVER**
@@ -55,7 +55,7 @@ tessercube.com
 
 **社交平台**
 
-**Github**   [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
+**Github**     [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
 
 **推特**[https://twitter.com/projectmaskbook](https://www.daofest.io/ "https://www.daofest.io/")
 
