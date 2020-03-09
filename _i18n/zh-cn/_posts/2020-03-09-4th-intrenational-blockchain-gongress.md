@@ -4,7 +4,7 @@ date: 2020-03-09
 lang: zh-cn
 template: Simplified Chinese
 event_date: 2020-02-06
-timezone: 7
+timezone: 5
 type: ''
 tags: []
 en: []
