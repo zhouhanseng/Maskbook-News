@@ -55,7 +55,7 @@ tessercube.com
 
 **社交平台**
 
-**Github**  [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
+**Github**   [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
 
 **推特**[https://twitter.com/projectmaskbook](https://www.daofest.io/ "https://www.daofest.io/")
 
