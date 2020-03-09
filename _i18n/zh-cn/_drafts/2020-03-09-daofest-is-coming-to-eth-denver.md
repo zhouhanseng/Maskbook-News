@@ -11,13 +11,9 @@ en: []
 zh-tw: []
 title: DAOFEST IS COMING TO ETH DENVER
 location: The Sports Castle, Denver CO
-image: "{{ site.env.BASE_URL }}uploads/1.2.jpg"
+image: "{{ site.env.BASE_URL }}uploads/1.1-11.jpg"
 
 ---
-**活动| DAOFEST即将来到ETH DENVER**
-
-！\[\]（文件：/// C：/用户/L/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg = 416x287）
-
 2020年2月13日，DAOfest开放，丹佛CO城堡，古堡，Dimension CEOSuji Yan参加此次次活动并给大家带来Maskbook的最新进展。
 
 DAOfest（[https://www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")）关注在全球范围内推进技术和应用和组织去中心化治理，目前已经扩展到世界十多个城市。
