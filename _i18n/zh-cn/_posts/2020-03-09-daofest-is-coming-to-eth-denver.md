@@ -35,7 +35,7 @@ Introducing DAOstack
 **地点：**
 The Sports Castle, Denver CO
 
- **时间表**  
+**时间表**  
 ![]({{ site.env.BASE_URL }}uploads/1.2-3.jpg)
 
 **Dimension 官网**
