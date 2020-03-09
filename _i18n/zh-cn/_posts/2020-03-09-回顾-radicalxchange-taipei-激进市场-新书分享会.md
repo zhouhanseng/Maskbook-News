@@ -14,9 +14,7 @@ location: MaiCoin HQ ( MaiCoin 总部 )  No.104 号, Section 1, Bade Road · Zho
 image: ''
 
 ---
-2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等。
-
-![]({{ site.env.BASE_URL }}uploads/1.jpg)
+2019 年 11 月 27 日，RadicalxChange Taipei 举办了第三场线下活动，这次活动的主题聚焦在《激进市场》新书分享、议题讨论等![]({{ site.env.BASE_URL }}uploads/1.jpg)
 
 本次活动邀请了Dimension CEO Suji Yan、 陈昶吾、Mason Kung 和梁智程等人进行分享。主要针对《激进市场》新书书籍中的第4 章“**肢解大章鱼 ”Chapter 4:" Dismembering the Octopus "**，以及第 5 章**“数据作为劳动成果 ”Chapter 5: “ Data as Labor "**等章节进行重点讨论。
 
@@ -34,11 +32,11 @@ Suji Yan 在分享中提到：如果将网络社会的所有活动视作网民�
 
 ![]({{ site.env.BASE_URL }}uploads/7.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/9.7.jpg)
+![]({{ site.env.BASE_URL }}uploads/9.7-1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/9.8.jpg)
+![]({{ site.env.BASE_URL }}uploads/9.8-1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/9.9.jpg)
+![]({{ site.env.BASE_URL }}uploads/9.9-1.jpg)
 
 Suji Yan 在分享
 
@@ -58,7 +56,7 @@ part 2
 
 陈昶吾向观众进行分享
 
-![]({{ site.env.BASE_URL }}uploads/9.11.jpg)
+![]({{ site.env.BASE_URL }}uploads/9.10.jpg)
 
 Brandon Patton进行演讲
 
