@@ -5,7 +5,7 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-12-10
 timezone: 9
-type: ''
+type: 受邀参加
 tags: []
 en: []
 zh-tw: []
