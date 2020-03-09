@@ -19,13 +19,13 @@ image: ''
 
 本次大会吸引了全球 450 多位区块链和加密货币的专业人士参加，邀请了 SEC 专员 Hester M.perice，美国国会议员 Bill Foster，Exchangily CEO Dora Tang 等 60+位特邀嘉宾进行演讲。
 
-#### **时间**
+**时间**
 
 2020 年 2 月 6 日，星期四
 
 （ CST ）8:00 AM – 11:00 PM
 
-#### **地点**
+**地点**
 
 Aon Center, The Auditorium 「 L 」
 
@@ -35,7 +35,7 @@ Chicago, I「 6060 」
 
 United States
 
-#### **议程安排**
+**议程安排**
 
 **08:30**
 
@@ -145,21 +145,21 @@ Networking.
 
 21st-century art of deal-making.
 
-#### **受邀嘉宾**
+**受邀嘉宾**
 
 ![]({{ site.env.BASE_URL }}uploads/2.1.jpg)
 
-#### **Dimension 官网**
+**Dimension 官网**
 
 Dimension.im
 
-#### **旗下产品**
+**旗下产品**
 
 maskbook.com
 
 tessercube.com
 
-#### **社交平台**
+**社交平台**
 
 **Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
 
@@ -169,7 +169,7 @@ tessercube.com
 
 **Telegram** t.me/maskbook_group
 
-#### **Help Us by Donating Us**
+**Help Us by Donating Us**
 
 **Bitcoin** 3PRrXj1HTXDc4j9SCQZ6hovpa74iimqtgX
 
