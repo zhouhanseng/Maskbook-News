@@ -10,7 +10,7 @@ tags: []
 en: []
 zh-tw: []
 title: 快讯 | Dimension.im 最新动向快来了解一下
-location: 亚太区块链中心
+location: 待定
 image: ''
 
 ---
