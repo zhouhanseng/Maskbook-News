@@ -62,6 +62,34 @@ Maskbook使用了对称加密和非对称加密的组合。在图中可以看到
 
 PPT内容截图
 
+![]({{ site.env.BASE_URL }}uploads/10.8.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.9.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.10.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.11.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.12.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.13.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.14.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.15.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.16.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10,17.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.18.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.19.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.20.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.21.jpg)
+
 **Dimension官方网站**
 
 Dimension.im
@@ -84,4 +112,4 @@ tessercube.com
 
 扫描以下二维码加入我们的Telegram群吧～
 
-!\[\](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png =300x300)
+![]({{ site.env.BASE_URL }}uploads/7.2.jpg)
