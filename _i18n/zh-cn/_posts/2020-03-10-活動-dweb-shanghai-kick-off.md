@@ -38,9 +38,7 @@ DWeb Shanghai 是 全球 DWeb 的一个分支，目的是为了聚集本地的�
 
 **活动流程**
 
-**Part 1** 
-
- **分享者：**
+**Part 1  分享者**
 
 Yisi Liu （Dimension.im CTO ）
 
@@ -50,7 +48,7 @@ Yisi Liu （Dimension.im CTO ）
 
 Yisi liu 和 Dweb 的渊源以及为何他想要在上海成立 DWeb Shanghai。
 
-**Part 2  分享者：**
+**Part 2  分享者**
 
 Wendy Hanamura
 
@@ -66,21 +64,15 @@ Joachim Lohkamp
 
 Wendy Hanamura来自Internet Archive，Joachim Lohkamp来自Jolocom，他们两位都是DWeb小区的发起人，本次活动，他们将通过视频与DWeb Shanghai分享他们的故事。
 
-**Part 3**
-
-**Lightning Talk**
+**Part 3  Lightning Talk**
 
 来自不同领域的参与者将向大家分享他们与分布式网络的不解之缘。
 
-**Part 4**
-
-**自由讨论**
+**Part 4  自由讨论**
 
 您是如何看待现在所发生的隐私问题的？针对这些问题，我们应该怎么做？
 
-**Part 5**
-
-**自由讨论**
+**Part 5  自由讨论**
 
 未来如何进行 DWeb Shanghai 的线下活动，以及探讨 DWeb Shanghai 可以开展的潜在项目。
 
