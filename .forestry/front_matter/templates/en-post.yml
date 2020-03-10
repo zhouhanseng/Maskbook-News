@@ -80,7 +80,7 @@ fields:
       section: 
       file: 
       path: 
-  label: Event Type
+  label: Type
 - name: image
   type: file
   config:
