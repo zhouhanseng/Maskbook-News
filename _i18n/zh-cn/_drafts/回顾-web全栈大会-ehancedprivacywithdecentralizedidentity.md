@@ -14,13 +14,17 @@ location: 成都
 image: ''
 
 ---
-2019年11月17日，Dimension受邀参加了2019成都Web全栈大会，JackWorks（Dimension现代前端魔法使）在全栈大会上发表了**“**EnhancedPrivacywithDecentralizedIdentity**”**的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了Maskbook的技术原理。
+2019年11月17日，Dimension受邀参加了2019成都Web全栈大会，JackWorks（Dimension现代前端魔法使）在全栈大会上发表了“**EnhancedPrivacywithDecentralizedIdentity**”的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了Maskbook的技术原理。
 
-**JackWorks**
+![]({{ site.env.BASE_URL }}uploads/10.1.jpg)
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image006.jpg =416x251)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image008.jpg =416x277)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image010.jpg =416x245)
+![]({{ site.env.BASE_URL }}uploads/10.2.jpg)**JackWorks**
 
-**大会精彩片段**
+![]({{ site.env.BASE_URL }}uploads/10.3.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.4.jpg)
+
+![]({{ site.env.BASE_URL }}uploads/10.5.jpg)**大会精彩片段**
 
 **Maskbook简介**
 
@@ -32,7 +36,7 @@ Maskbook是由Dimension公司开发的开源浏览器插件，是不受政府，
 
 [**https://github.com/DimensionDev/Maskbook**](https://github.com/DimensionDev/Maskbook "https://github.com/DimensionDev/Maskbook")
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image012.jpg =416x331)
+![]({{ site.env.BASE_URL }}uploads/10.6.jpg)
 
 **Maskbook页面一览**
 
@@ -40,7 +44,7 @@ Maskbook是由Dimension公司开发的开源浏览器插件，是不受政府，
 
 Maskbook使用了对称加密和非对称加密的组合。在图中可以看到，比如Alice在Facebook上创建了一条post，在Maskbook使用过程中，每一条post都由一个AESkey用来加密，最后呈现在Facebook主页上的就是一段加密的文字。每一个AESkey都由ECDH加密给指定的接收人，最后在GunDB中同步。
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png =416x281)
+![]({{ site.env.BASE_URL }}uploads/10.7.jpg)
 
 注：ECDH(EllipticCurveDiffieHellman)是一种能够让拥有各自的椭圆曲线私钥并知道对方公钥的两方在不安全通道中计算出同一个密文的方法。
 
@@ -48,11 +52,9 @@ Maskbook使用了对称加密和非对称加密的组合。在图中可以看到
 
 **Maskbook有三大设计原则，既：**
 
-l **不依赖平台API**
-
-l **无中心化服务**
-
-l **注入DOM时信息0泄露**
+* **不依赖平台API**
+* **无中心化服务**
+* **注入DOM时信息0泄露**
 
 前文中有说到，Maskbook产生的原因是因为想要抵制互联网巨头滥用用户数据达到盈利的行为，所以Maskbook设计的目的就是能够保护用户的数据隐私。所以在设计之初就坚定了三项设计原则以达到真正的数据保护的目的。
 
@@ -60,13 +62,7 @@ l **注入DOM时信息0泄露**
 
 PPT内容截图
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image016.jpg =416x209)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image018.jpg =416x205)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image020.jpg =416x208)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image022.jpg =416x207)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image024.jpg =416x198)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image026.jpg =416x209)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image028.jpg =416x196)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg =416x203)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg =416x204)
-
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg =416x206)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image036.jpg =416x208)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image038.jpg =416x209)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image040.jpg =416x209)![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image042.jpg =416x210)
-
-Dimension
-
-**官方网站**
+**Dimension官方网站**
 
 Dimension.im
 
@@ -88,4 +84,4 @@ tessercube.com
 
 扫描以下二维码加入我们的Telegram群吧～
 
-![](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png =300x300)
+!\[\](file:///C:/Users/L/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png =300x300)
