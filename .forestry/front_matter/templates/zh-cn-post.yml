@@ -102,6 +102,7 @@ fields:
       file: 
       path: 
   label: English
+  hidden: true
 - name: zh-tw
   type: select
   default: []
@@ -114,6 +115,7 @@ fields:
       file: 
       path: 
   label: Traditional Chinese
+  hidden: true
 pages:
 - _i18n/zh-cn/_posts/2020-03-09-706-上海生活实验室第三期活动即将开始啦.md
 - _i18n/zh-cn/_posts/2020-03-09-daofest-is-coming-to-eth-denver.md
