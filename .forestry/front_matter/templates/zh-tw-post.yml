@@ -73,8 +73,12 @@ fields:
   config:
     required: false
     options:
-    - 受邀參加
-    - 官方活動
+    - 活動
+    - 預告
+    - 回顧
+    - 新聞
+    - 會議
+    - 快訊
     source:
       type: simple
       section: 
