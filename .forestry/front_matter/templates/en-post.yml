@@ -73,8 +73,8 @@ fields:
   config:
     required: false
     options:
-    - Visiting Event
-    - Official Event
+    - Activity
+    - News
     source:
       type: simple
       section: 
