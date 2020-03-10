@@ -30,7 +30,8 @@ image: ''
 
 中国美术学院南山校区南苑报告厅（ 拉姆咖啡旁 ）
 
-**演讲时间及主题**  
+**演讲时间及主题**
+
 11 月 22 日 13：00-14：20
 
 Katt Gu & Yuan He Yesterday is dead , so forget it : The Right to be forgotten in China's Cyber Governance Regime
