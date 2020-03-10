@@ -5,7 +5,7 @@ title: Text Formatting Examples
 tags:
 - documentation
 - sample
-image: "{{ site.env.BASE_URL }}uploads/6-3.jpg"
+image: "uploads/6-3.jpg"
 template: English
 event_date: 2014-01-01
 timezone: 8

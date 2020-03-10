@@ -14,7 +14,7 @@ location: 上海杨浦政学路77号 InnoSpace
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/14.1.jpg)
+![]({{ site.baseurl_root }}/uploads/14.1.jpg)
 
 DWeb Shanghai 是世界范围内 DWeb 运动的独立组成部分，是一个去中心化的非盈利自治组织。我们以去中心化的互联网为核心，围绕互联网上的网络生活、人文、艺术、科技、经济等领域展开自由的讨论，与积极的实践；以求探索和创造一个更加开放、保护隐私、更加安全和有趣的 Web，这一 Web 不局限于互联网，而是代表更广义上的去中心化的科技、人文的一个网络。当前的互联网有着各种不尽人意的问题，而 DWeb 就是为了这些问题连接梦想家和创造者，寻找答案和解决方案的地方。
 
@@ -89,7 +89,7 @@ X - Order Lab
 * 未来的公司形态应该是如何
 * 大家希望 DWeb Shanghai 应该怎么办下去
 
-![]({{ site.env.BASE_URL }}uploads/14.2.jpg)
+![]({{ site.baseurl_root }}/uploads/14.2.jpg)
 
 点击**原文链接**报名活动
 

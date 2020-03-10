@@ -26,16 +26,16 @@ GitHub 是通过 Git 进行版本控制的软件源代码托管服务平台，�
 
 **现场照片**
 
-![]({{ site.env.BASE_URL }}uploads/15.1-1.jpg)
+![]({{ site.baseurl_root }}/uploads/15.1-1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.2-1.jpg)
+![]({{ site.baseurl_root }}/uploads/15.2-1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.3-1.jpg)
+![]({{ site.baseurl_root }}/uploads/15.3-1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.4.jpg)
+![]({{ site.baseurl_root }}/uploads/15.4.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.5.jpg)
+![]({{ site.baseurl_root }}/uploads/15.5.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.6.jpg)
+![]({{ site.baseurl_root }}/uploads/15.6.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.7.jpg)
+![]({{ site.baseurl_root }}/uploads/15.7.jpg)

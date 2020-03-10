@@ -150,9 +150,9 @@ hr {
 
 .languages {
   font-size: 0.8rem;
+  margin: 0;
   padding: 0;
   list-style-type: none;
-  text-align: center;
 }
 
 .languages li {
@@ -257,7 +257,7 @@ hr {
 .footer {
   color: #999;
   text-align: center;
-  margin: 2rem;
+  margin: 2rem 0 1rem;
 }
 
 .footer a {
@@ -268,6 +268,10 @@ hr {
 
 .footer a:hover {
   color: #333;
+}
+
+.footer .post-date {
+  margin: 0;
 }
 
 /*

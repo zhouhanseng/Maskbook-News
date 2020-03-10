@@ -15,7 +15,7 @@ image: ''
 
 ---
 
-![]({{ site.env.BASE_URL }}uploads/18.1.jpg)
+![]({{ site.baseurl_root }}/uploads/18.1.jpg)
 
 **活动简介**
 

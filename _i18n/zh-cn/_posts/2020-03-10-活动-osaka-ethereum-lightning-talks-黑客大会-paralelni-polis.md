@@ -16,7 +16,7 @@ image: ''
 ---
 **Dimension.im 活动**
 
-![]({{ site.env.BASE_URL }}uploads/2.1-1.jpg)
+![]({{ site.baseurl_root }}/uploads/2.1-1.jpg)
 
 2019 年 10 月 7 日，Osaka Ethereum Lightning Talks 将于大阪国际会议厅举行，Dimension.im CEO Suji Yan 将出席活动并发表演讲。
 
@@ -24,7 +24,7 @@ Osaka Ethereum Lightning Talks 是由 ETHPLANET 组织的活动，ETHPLANET 是�
 
 本次会议 Suji 将会就 " Maskbook- Using ETH keypairs and DID to protect your data " 这一主题发表演讲。
 
-![]({{ site.env.BASE_URL }}uploads/2.2-1.jpg)
+![]({{ site.baseurl_root }}/uploads/2.2-1.jpg)
 
 会议详细议程
 
@@ -38,4 +38,4 @@ Yisi Liu 曾经是自然语言处理研究人员，但是当他意识到大公�
 
 本次会议 Yisi Liu 将与大家分享如何通过分散身份的方法来保护自身的隐私不受侵犯。
 
-![]({{ site.env.BASE_URL }}uploads/2.3.jpg)
+![]({{ site.baseurl_root }}/uploads/2.3.jpg)

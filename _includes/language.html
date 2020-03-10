@@ -1,13 +1,14 @@
 {% if page.lang %}
+  {% comment %}
   <ul class="languages">
     {% for lang in site.languages %}
       {% assign filename = page[lang] | split: "/" | last | replace: ".md", "" | slice: 11, site.max_slice_size %}
       {% if filename != "" %}
         <li>
           {% if forloop.index == 1 %}
-            <a href="{{ site.env.BASE_URL }}{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
+            <a href="{{ site.baseurl_root }}{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
           {% else %}
-            <a href="{{ site.env.BASE_URL }}{{ lang }}/{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
+            <a href="{{ site.baseurl_root }}{{ lang }}/{{ filename }}.html" >{% t langs.{{ lang }} %}</a>
           {% endif %}
         </li>
       {% elsif page.lang == lang %}
@@ -18,6 +19,7 @@
       {% endif %}
     {% endfor %}
   </ul>
+  {% endcomment %}
 {% else %}
   <ul class="languages">
     {% for lang in site.languages %}
@@ -29,11 +31,11 @@
 
       {% if class_name != '' %}
         <li class="{{ class_name }}">
-          <a href="{{ site.env.BASE_URL }}{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
+          <a href="{{ site.baseurl_root }}/{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
         </li>
       {% else %}
         <li>
-          <a href="{{ site.env.BASE_URL }}{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
+          <a href="{{ site.baseurl_root }}/{{ lang | replace: 'en', '' }}">{% t langs.{{ lang }} %}</a>
         </li>
       {% endif %}
     {% endfor %}

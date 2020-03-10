@@ -7,7 +7,7 @@ pagination:
   next_page: "下一頁"
   previous_page: "上一頁"
 
-sharing_button_prompt: "分享到："
+sharing_button_prompt: "分享"
 
 related_posts: "您可能也喜歡："
 
@@ -15,3 +15,6 @@ read_time_less_than_one_minute: "預計閱讀時間少于 1 分鐘"
 read_time_one_minute: "預計閱讀時間 1 分鐘"
 read_time_minute_prefix: "預計閱讀時間"
 read_time_minute_suffix: "分鐘"
+
+epilogue_social_title: "社交平台"
+epilogue_donate_title: "捐贈"

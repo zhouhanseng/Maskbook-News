@@ -10,7 +10,7 @@ zh-cn: _i18n/zh-cn/_posts/2020-02-20-为何日本人会使偷袭珍珠港这个�
 zh-tw: _i18n/zh-tw/_posts/2020-02-20-為防疫港澳轉機也不行-至4-30前出團暫緩.md
 title: When the Internet Was Good
 location: New York
-image: "{{ site.env.BASE_URL }}uploads/3-3.jpg"
+image: "uploads/3-3.jpg"
 tags:
 - TESTING
 

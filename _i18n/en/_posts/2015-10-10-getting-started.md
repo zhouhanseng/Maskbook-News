@@ -6,7 +6,7 @@ event_date: 2015-10-10
 timezone: 5
 location: Dubai
 type: Visiting Event
-image: "{{ site.env.BASE_URL }}uploads/3-2.jpg"
+image: "uploads/3-2.jpg"
 template: English
 
 ---

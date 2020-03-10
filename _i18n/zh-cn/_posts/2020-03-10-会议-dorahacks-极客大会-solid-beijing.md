@@ -20,7 +20,7 @@ image: ''
 
 Suji Yan 谈到了他对当前用户与平台之间不平等关系的看法以及对未来加密世界的设想，认为未来会有越来越多的人认识到数据的价值，加密会成为人人都能拥有的基本与权利工具。
 
-![]({{ site.env.BASE_URL }}uploads/17.1.jpg)
+![]({{ site.baseurl_root }}/uploads/17.1.jpg)
 
 **Solid Beijing 首次闭门会议成功举办**
 
@@ -34,4 +34,4 @@ Solid Events 是一个为Solid 社群用户提供线下见面的活动，至今�
 
 本次会议得到了嘉宾们的一致好评，可以在激烈的讨论中碰撞思维的火花以及看到不同的见解。
 
-![]({{ site.env.BASE_URL }}uploads/17.2.jpg)
+![]({{ site.baseurl_root }}/uploads/17.2.jpg)

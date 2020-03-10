@@ -14,7 +14,7 @@ location: 北市大安区基隆路 4 段 43 号 台湾科技大学国际大楼
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/9.1-1.jpg)
+![]({{ site.baseurl_root }}/uploads/9.1-1.jpg)
 
 **活动介绍**
 

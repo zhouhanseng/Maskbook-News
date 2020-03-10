@@ -10,15 +10,13 @@ layout: default
   {% include date.html date=page.date timezone=page.timezone location=page.location %}
 </span>
 
-{% comment %}
-  slice out the "{{ site.env.BASE_URL }}" from page.image
-{% endcomment %}
-
 {% if page.image and page.image != '' %}
-  <img src="{{ site.env.BASE_URL }}{{ page.image | slice: 23, site.max_slice_size }}">
+  <img src="{{ site.baseurl_root }}/{{ page.image }}">
 {% endif %}
 
 {{ content }}
+
+{% include epilogue.html %}
 
 {% include social-sharing.html %}
 
