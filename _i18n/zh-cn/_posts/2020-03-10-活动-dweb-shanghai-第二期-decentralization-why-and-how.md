@@ -20,7 +20,11 @@ DWeb Shanghai 是世界范围内 DWeb 运动的独立组成部分，是一个去
 
 X-Order Lab ( lab.xorder.ai )是一家专注于基础科学研究的实验室，成立于 2018 年，致力于打造中国的“ DeepMind ”，重点关注人工智能、机器学习、分布式计算、复杂系统和算法博弈论等领域研究，以及这些新技术在经济学等社会科学领域中所产生的影响。目前已经成功举办多次学术活动，包括读书会、前沿讲座以及暑期课程等，产生了广泛影响，其中的“知识图谱”与“零知识证明”引起大家热烈关注。
 
-本次活动 DWeb Shanghai 的第二期活动，第一期活动可以点击 [回顾 | Dweb Shanghai Kickoff](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484155&idx=1&sn=bcd24ed42f8412b1904c10ac4910e788&chksm=fdc72d6dcab0a47beb6d3594320ce6e417d7bd86f53189cc7d7ff6ec8632eb3fcae9ae04b968&scene=21#wechat_redirect) 进行回看，本次活动将 Dweb 引进中国，并对去中心化的重要性，以及区块链等技术和机制设计在 DWeb 中的重要性进行探讨。
+本次活动 DWeb Shanghai 的第二期活动，第一期活动可以点击   下方原文链接进行回看，本次活动将 Dweb 引进中国，并对去中心化的重要性，以及区块链等技术和机制设计在 DWeb 中的重要性进行探讨。
+
+Dweb shanghai Kickoff 原文链接：
+
+[https://mp.weixin.qq.com/s/JAFvrhl_9TPXnxueB34bng](https://mp.weixin.qq.com/s/JAFvrhl_9TPXnxueB34bng "https://mp.weixin.qq.com/s/JAFvrhl_9TPXnxueB34bng")
 
 **时间和地点**
 
