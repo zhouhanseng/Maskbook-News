@@ -9,7 +9,7 @@ type: 受邀参加
 tags: []
 en: []
 zh-tw: []
-title: 活动预告 | COSCUP 2019 研讨会即将举行，Dimension 受邀出席
+title: 活动 | COSCUP 2019 研讨会即将举行，Dimension 受邀出席
 location: 北市大安区基隆路 4 段 43 号 台湾科技大学国际大楼
 image: ''
 
