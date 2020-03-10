@@ -35,6 +35,7 @@ fields:
   label: Template
   default: English
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+  hidden: true
 - name: title
   type: text
   config:
