@@ -9,7 +9,7 @@ type: 受邀参加
 tags: []
 en: []
 zh-tw: []
-title: Dimension 股权公司 Sujitech,LLC 加入 ECMA International
+title: 新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International
 location: Tokyo
 image: ''
 
