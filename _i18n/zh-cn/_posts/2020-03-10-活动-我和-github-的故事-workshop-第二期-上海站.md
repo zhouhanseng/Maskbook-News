@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-08-01
 timezone: 8
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | “我和 GitHub 的故事”workshop (第二期)上海站
+title: “我和 GitHub 的故事”workshop (第二期)上海站
 location: 上海市浦东新区栖霞路16号富汇大厦C栋2楼2D会议室
 image: ''
 

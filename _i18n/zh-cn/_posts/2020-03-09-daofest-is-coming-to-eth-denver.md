@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2020-02-13
 timezone: 7
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | DAOFEST IS COMING TO ETH DENVER
+title: DAOFEST IS COMING TO ETH DENVER
 location: The Sports Castle, Denver CO
 image: ''
 

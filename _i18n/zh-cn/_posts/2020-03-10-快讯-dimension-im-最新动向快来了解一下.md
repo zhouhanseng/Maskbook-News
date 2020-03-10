@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2020-03-10
 timezone: 8
-type: 受邀参加
+type: 快讯
 tags: []
 en: []
 zh-tw: []
-title: 快讯 | Dimension.im 最新动向快来了解一下
+title: Dimension.im 最新动向快来了解一下
 location: 待定
 image: ''
 

@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-09-20
 timezone: 7
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | Dimension.im 将参加 Atrium Scale
+title: Dimension.im 将参加 Atrium Scale
 location: 旧金山
 image: ''
 

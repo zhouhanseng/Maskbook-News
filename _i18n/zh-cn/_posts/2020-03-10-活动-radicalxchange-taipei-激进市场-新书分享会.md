@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-11-27
 timezone: 8
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | RadicalxChange Taipei 《激进市场》新书分享会
+title: RadicalxChange Taipei 《激进市场》新书分享会
 location: MaiCoin HQ ( MaiCoin 总部 )  No.104 号, Section 1, Bade Road · Zhongzheng District
 image: ''
 

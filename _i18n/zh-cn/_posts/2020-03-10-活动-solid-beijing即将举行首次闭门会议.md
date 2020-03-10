@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-07-20
 timezone: 8
-type: 官方活动
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动|Solid Beijing即将举行首次闭门会议
+title: Solid Beijing即将举行首次闭门会议
 location: 北京市昭阳区
 image: ''
 

@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-07-16
 timezone: 8
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | RadicalxChange in Taipei
+title: RadicalxChange in Taipei
 location: 台北市
 image: ''
 

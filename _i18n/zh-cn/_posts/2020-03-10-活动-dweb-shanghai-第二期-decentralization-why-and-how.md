@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-10-27
 timezone: 8
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: '活动 | DWeb Shanghai 第二期 : Decentralization Why and How?'
+title: 'DWeb Shanghai 第二期 : Decentralization Why and How?'
 location: 上海杨浦政学路77号 InnoSpace
 image: ''
 

@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-12-10
 timezone: 9
-type: 受邀参加
+type: 新闻
 tags: []
 en: []
 zh-tw: []
-title: 新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International
+title: Dimension 股权公司 Sujitech,LLC 加入 ECMA International
 location: Tokyo
 image: ''
 

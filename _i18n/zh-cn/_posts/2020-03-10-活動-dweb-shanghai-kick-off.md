@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-09-28
 timezone: 8
-type: 官方活动
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活動 | DWeb Shanghai Kick-off
+title: DWeb Shanghai Kick-off
 location: 上海市杨浦区长阳路1687 号
 image: ''
 

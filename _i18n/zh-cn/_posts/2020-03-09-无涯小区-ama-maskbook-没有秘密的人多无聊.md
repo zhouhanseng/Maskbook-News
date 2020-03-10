@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-12-19
 timezone: 8
-type: 官方活动
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | 无涯小区 AMA：“Maskbook，没有秘密的人多无聊”
+title: 无涯小区 AMA：“Maskbook，没有秘密的人多无聊”
 location: 上海
 image: ''
 

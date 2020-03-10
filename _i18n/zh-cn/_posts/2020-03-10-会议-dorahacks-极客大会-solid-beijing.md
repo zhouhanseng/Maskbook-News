@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-07-20
 timezone: 8
-type: 受邀参加
+type: 会议
 tags: []
 en: []
 zh-tw: []
-title: 会议 | DoraHacks 极客大会 & Solid Beijing
+title: DoraHacks 极客大会 & Solid Beijing
 location: 北京
 image: ''
 

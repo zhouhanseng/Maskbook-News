@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-09-28
 timezone: 8
-type: 官方活动
+type: 回顾
 tags: []
 en: []
 zh-tw: []
-title: 回顾 | Dweb Shanghai Kickoff
+title: Dweb Shanghai Kickoff
 location: 上海长阳创谷
 image: ''
 

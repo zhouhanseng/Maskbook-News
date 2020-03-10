@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-11-17
 timezone: 8
-type: 受邀参加
+type: 回顾
 tags: []
 en: []
 zh-tw: []
-title: 回顾 | Web全栈大会：EhancedPrivacywithDecentralizedIdentity
+title: Web全栈大会：EhancedPrivacywithDecentralizedIdentity
 location: 成都
 image: ''
 

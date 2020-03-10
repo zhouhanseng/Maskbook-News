@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-08-01
 timezone: 8
-type: 受邀参加
+type: 回顾
 tags: []
 en: []
 zh-tw: []
-title: 回顾 | “我和 GitHub 的故事” Workshop 上海站
+title: “我和 GitHub 的故事” Workshop 上海站
 location: 上海
 image: ''
 

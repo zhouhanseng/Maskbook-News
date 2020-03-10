@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-07-07
 timezone: 8
-type: 受邀参加
+type: 会议
 tags: []
 en: []
 zh-tw: []
-title: 会议 | 颠覆性变革力量——揭秘2018年经济学人年度推荐书籍Radical Market
+title: 颠覆性变革力量——揭秘2018年经济学人年度推荐书籍Radical Market
 location: 上海长宁
 image: ''
 

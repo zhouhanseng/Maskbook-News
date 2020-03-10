@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-11-22
 timezone: 8
-type: 受邀参加
+type: 预告
 tags: []
 en: []
 zh-tw: []
-title: 预告 | Dimension将参加第四届网络社会年会
+title: Dimension将参加第四届网络社会年会
 location: 杭州
 image: ''
 

@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-11-21
 timezone: 8
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动|ETHPlanet&BTCU高校区块链技术交流系列
+title: ETHPlanet&BTCU高校区块链技术交流系列
 location: 浙江大学
 image: ''
 

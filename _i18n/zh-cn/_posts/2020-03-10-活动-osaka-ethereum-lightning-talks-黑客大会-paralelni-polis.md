@@ -5,11 +5,11 @@ lang: zh-cn
 template: Simplified Chinese
 event_date: 2019-10-07
 timezone: 9
-type: 受邀参加
+type: 活动
 tags: []
 en: []
 zh-tw: []
-title: 活动 | Osaka Ethereum Lightning Talks & 黑客大会 Paralelni Polis
+title: Osaka Ethereum Lightning Talks & 黑客大会 Paralelni Polis
 location: OSaka，Japan
 image: ''
 
