@@ -26,19 +26,21 @@ DWeb Shanghai 是 全球 DWeb 的一个分支，目的是为了聚集本地的�
 
 **主办方**
 
-* **DWeb Shanghai**
-* **SHLUG**
+**DWeb Shanghai**
 
-  ([http://www.shlug.org](http://www.shlug.org "http://www.shlug.org"))
-* **Dimension**
+**SHLUG**
 
-  (dimension.im)
+([http://www.shlug.org](http://www.shlug.org "http://www.shlug.org"))
+
+**Dimension**
+
+(dimension.im)
 
 **活动流程**
 
-**Part 1**
+**Part 1** 
 
-**分享者：**
+ **分享者：**
 
 Yisi Liu （Dimension.im CTO ）
 
@@ -48,9 +50,7 @@ Yisi Liu （Dimension.im CTO ）
 
 Yisi liu 和 Dweb 的渊源以及为何他想要在上海成立 DWeb Shanghai。
 
-**Part 2**
-
-**分享者：**
+**Part 2  分享者：**
 
 Wendy Hanamura
 
@@ -68,17 +68,17 @@ Wendy Hanamura来自Internet Archive，Joachim Lohkamp来自Jolocom，他们两�
 
 **Part 3**
 
-Lightning Talk
+**Lightning Talk**
 
 来自不同领域的参与者将向大家分享他们与分布式网络的不解之缘。
 
-Part 4
+**Part 4**
 
 **自由讨论**
 
 您是如何看待现在所发生的隐私问题的？针对这些问题，我们应该怎么做？
 
-Part 5
+**Part 5**
 
 **自由讨论**
 
