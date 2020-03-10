@@ -22,9 +22,6 @@ X-Order Lab ( lab.xorder.ai )是一家专注于基础科学研究的实验室，
 
 本次活动 DWeb Shanghai 的第二期活动，第一期活动可以点击 [回顾 | Dweb Shanghai Kickoff](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484155&idx=1&sn=bcd24ed42f8412b1904c10ac4910e788&chksm=fdc72d6dcab0a47beb6d3594320ce6e417d7bd86f53189cc7d7ff6ec8632eb3fcae9ae04b968&scene=21#wechat_redirect) 进行回看，本次活动将 Dweb 引进中国，并对去中心化的重要性，以及区块链等技术和机制设计在 DWeb 中的重要性进行探讨。
 
-  
- 
-
 **时间和地点**
 
 2019 年 10 月 27 日 14 ：00 \~ 17 ：00
@@ -43,7 +40,7 @@ X - Order Lab
 
 **Jessica， X-Order Lab，**
 
-**计算经济学中行为博弈机制设计案例分享：冒险**vs**.避险 协作**vs**.竞争的双重困境**
+**计算经济学中行为博弈机制设计案例分享：冒险**vs**.避险 协作**vs__.竞争的双重困境**
 
 * 冒险vs.避险 竞争vs.协作的双重困境
 * 重复试错适应学习及策略优化
