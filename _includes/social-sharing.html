@@ -2,10 +2,16 @@
   {% t sharing_button_prompt %}
 </div>
 <div class="sharing-icons">
-  <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.env.BASE_URL | slice: 0, -1 }}{{ page.url }}" target="_blank">
+  {% assign post_link = page.url | absolute_url | prepend: site.env.URL | url_encode %}
+  {% assign post_title = page.title | url_encode %}
+  <a href="https://twitter.com/intent/tweet?text={{ post_title }}&amp;url={{ post_link }}" target="_blank">
     <i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.env.BASE_URL | slice: 0, -1 }}{{ page.url }}&amp;title={{ page.title }}" target="_blank">
+
+  {% comment %}
+    facebook no longer support prefilled text
+  {% endcomment %}
+  <a href="https://www.facebook.com/sharer/sharer.php?title={{ post_title }}&amp;u={{ post_link }}" target="_blank">
     <i class="fa fa-facebook" aria-hidden="true"></i>
   </a>
 </div>

@@ -14,7 +14,7 @@ location: 上海市浦东新区栖霞路16号富汇大厦C栋2楼2D会议室
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/16.1.jpg)
+![]({{ site.baseurl_root }}/uploads/16.1.jpg)
 
 扫描以上二维码或者点击“活动链接”进行报名，期待您的参与！
 

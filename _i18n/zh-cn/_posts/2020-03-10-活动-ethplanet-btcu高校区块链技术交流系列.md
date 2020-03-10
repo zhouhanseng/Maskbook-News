@@ -20,13 +20,13 @@ Dimension.im创始人SujiYan此次也受邀在列，将为大家带来“数据�
 
 SujiYan介绍
 
-![]({{ site.env.BASE_URL }}uploads/11.1.jpg)
+![]({{ site.baseurl_root }}/uploads/11.1.jpg)
 
 Dimension.im创始人/CEO，从伊利诺大学香槟分校（UIUC）计算机工程系辍学创业。前Qdaily＆财新传媒独立记者，前自动驾驶公司工程师；业余和「激进市场」/RadicalxChange，DataLawGroup等经济学者、法律学者等合作撰文；曾被联机（Wired）、南华早报、华尔街日报等报导。目前个人主要聚焦在开源，以及加密、隐私保护（公司产品maskbook.com/Tessercube.com）。
 
 **活动详情**
 
-![]({{ site.env.BASE_URL }}uploads/11.2.jpg)
+![]({{ site.baseurl_root }}/uploads/11.2.jpg)
 
 **Dimension官方网站**
 
@@ -50,4 +50,4 @@ tessercube.com
 
 扫描以下二维码加入我们的Telegram群吧～
 
-![]({{ site.env.BASE_URL }}uploads/7.2.jpg)
+![]({{ site.baseurl_root }}/uploads/7.2.jpg)

@@ -42,7 +42,7 @@ DWeb Shanghai 是 全球 DWeb 的一个分支，目的是为了聚集本地的�
 
 Yisi Liu （Dimension.im CTO ）
 
-![]({{ site.env.BASE_URL }}uploads/3.1-1.jpg)
+![]({{ site.baseurl_root }}/uploads/3.1-1.jpg)
 
 **话题：**
 
@@ -54,13 +54,13 @@ Wendy Hanamura
 
 （[https://twitter.com/whanamura](https://twitter.com/whanamura "https://twitter.com/whanamura")）
 
-![]({{ site.env.BASE_URL }}uploads/3.2-1.jpg)
+![]({{ site.baseurl_root }}/uploads/3.2-1.jpg)
 
 Joachim Lohkamp
 
 （[https://twitter.com/jockellohkamp](https://twitter.com/jockellohkamp "https://twitter.com/jockellohkamp")）
 
-![]({{ site.env.BASE_URL }}uploads/3.3.jpg)
+![]({{ site.baseurl_root }}/uploads/3.3.jpg)
 
 Wendy Hanamura来自Internet Archive，Joachim Lohkamp来自Jolocom，他们两位都是DWeb小区的发起人，本次活动，他们将通过视频与DWeb Shanghai分享他们的故事。
 

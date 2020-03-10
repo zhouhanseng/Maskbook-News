@@ -14,7 +14,7 @@ location: 杭州
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/15.1.jpg)
+![]({{ site.baseurl_root }}/uploads/15.1.jpg)
 
 2019年11月22日至11月24日，第四届网络社会年会将在杭州举行，本次会议的主题是“网民 21 : 超越个人账户”。其中的“21”既有中国网民 21 年的意思，又指 21 世纪的网络使用者。第四届网络社会年会企图从“网民”这一在上个世纪并未认真思考的二字着手，历史化和社会化当代的符号资本主义，特别是媒体作用。
 
@@ -106,9 +106,9 @@ Suji Yan & Katt Gu The Continuation of FOSS ( Free and Open Source Software ) Mo
 
 **年会议程**
 
-![]({{ site.env.BASE_URL }}uploads/15.2.jpg)
+![]({{ site.baseurl_root }}/uploads/15.2.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/15.3.jpg)
+![]({{ site.baseurl_root }}/uploads/15.3.jpg)
 
 **The Fourth Annual Conference**
 
@@ -156,7 +156,7 @@ Georg Simmel draws the life in 19th century big city: busy yet lonely people loo
 
 Our work, life and even relationship are dominated by mediators that control the technology. The platform is the media, market and corporation. Besides, as a dominator, it watches the now and future life of humans housed in a transparent cage. The platform takes over the reins of community building, buries independent media, Amwayizes blogosphere, and instrumentalizes netizen. In an accelerating society, we have to run faster in order to stand at the same place. Could " precarious rhapsody " become a kind of resonance? Could online community become something like a cooperative? Could social movement surpass the power of fans' union of World of Warcraft? Is it impossible to cross the social media abyss?
 
-![]({{ site.env.BASE_URL }}uploads/15.4.gif)
+![]({{ site.baseurl_root }}/uploads/15.4.gif)
 
 点击“**原文链接**”查看更多内容
 

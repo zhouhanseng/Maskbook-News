@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Home
 ---
 
@@ -18,7 +18,11 @@ title: Home
     {% if post.image and post.image != '' %}
     <div class="thumbnail-container">
       <a href="{{ post.url | relative_url }}">
-        <img src="{{ site.env.BASE_URL }}{{ post.image | slice: 23, site.max_slice_size }}">
+        {% if post.image | slice: 0, 6 == "uploads" %}
+          <img src="{{ site.baseurl_root }}/{{ post.image }}">
+        {% else %}
+          <img src="{{ post.image }}">
+        {% endif %}
       </a>
     </div>
     {% endif %}
@@ -30,7 +34,7 @@ title: Home
       <span>
         {% include date.html date=post.date timezone=post.timezone location=post.location %}
       </span>
-      <span>{% include read-time.html %}</span>
+      <!-- <span>{% include read-time.html %}</span> -->
     </p>
   </li>
   {% endfor %}

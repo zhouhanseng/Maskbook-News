@@ -18,7 +18,7 @@ image: ''
 
 扫描图中二维码关注**无涯小区**公众号，回复 Maskbook ，分享海报至朋友圈邀您入活动群,惊喜多多，不要错过哦！
 
-![]({{ site.env.BASE_URL }}uploads/5.0.jpg)
+![]({{ site.baseurl_root }}/uploads/5.0.jpg)
 
 **Dimension官网**
 
@@ -48,4 +48,4 @@ tessercube.com
 
 扫描以下二维码加入我们的 Telegram 群吧～
 
-![]({{ site.env.BASE_URL }}uploads/1-9.jpg)
+![]({{ site.baseurl_root }}/uploads/1-9.jpg)

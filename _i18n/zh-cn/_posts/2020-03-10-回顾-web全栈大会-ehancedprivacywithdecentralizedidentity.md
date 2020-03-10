@@ -16,15 +16,15 @@ image: ''
 ---
 2019年11月17日，Dimension受邀参加了2019成都Web全栈大会，JackWorks（Dimension现代前端魔法使）在全栈大会上发表了“**EnhancedPrivacywithDecentralizedIdentity**”的演讲，向前来现场的程序员小哥哥，小姐姐们从技术角度讲解了Maskbook的技术原理。
 
-![]({{ site.env.BASE_URL }}uploads/10.1.jpg)
+![]({{ site.baseurl_root }}/uploads/10.1.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.2.jpg)**JackWorks**
+![]({{ site.baseurl_root }}/uploads/10.2.jpg)**JackWorks**
 
-![]({{ site.env.BASE_URL }}uploads/10.3.jpg)
+![]({{ site.baseurl_root }}/uploads/10.3.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.4.jpg)
+![]({{ site.baseurl_root }}/uploads/10.4.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.5.jpg)**大会精彩片段**
+![]({{ site.baseurl_root }}/uploads/10.5.jpg)**大会精彩片段**
 
 **Maskbook简介**
 
@@ -36,7 +36,7 @@ Maskbook是由Dimension公司开发的开源浏览器插件，是不受政府，
 
 [**https://github.com/DimensionDev/Maskbook**](https://github.com/DimensionDev/Maskbook "https://github.com/DimensionDev/Maskbook")
 
-![]({{ site.env.BASE_URL }}uploads/10.6.jpg)
+![]({{ site.baseurl_root }}/uploads/10.6.jpg)
 
 **Maskbook页面一览**
 
@@ -44,7 +44,7 @@ Maskbook是由Dimension公司开发的开源浏览器插件，是不受政府，
 
 Maskbook使用了对称加密和非对称加密的组合。在图中可以看到，比如Alice在Facebook上创建了一条post，在Maskbook使用过程中，每一条post都由一个AESkey用来加密，最后呈现在Facebook主页上的就是一段加密的文字。每一个AESkey都由ECDH加密给指定的接收人，最后在GunDB中同步。
 
-![]({{ site.env.BASE_URL }}uploads/10.7.jpg)
+![]({{ site.baseurl_root }}/uploads/10.7.jpg)
 
 注：ECDH(EllipticCurveDiffieHellman)是一种能够让拥有各自的椭圆曲线私钥并知道对方公钥的两方在不安全通道中计算出同一个密文的方法。
 
@@ -62,33 +62,33 @@ Maskbook使用了对称加密和非对称加密的组合。在图中可以看到
 
 PPT内容截图
 
-![]({{ site.env.BASE_URL }}uploads/10.8.jpg)
+![]({{ site.baseurl_root }}/uploads/10.8.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.9.jpg)
+![]({{ site.baseurl_root }}/uploads/10.9.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.10.jpg)
+![]({{ site.baseurl_root }}/uploads/10.10.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.11.jpg)
+![]({{ site.baseurl_root }}/uploads/10.11.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.12.jpg)
+![]({{ site.baseurl_root }}/uploads/10.12.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.13.jpg)
+![]({{ site.baseurl_root }}/uploads/10.13.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.14.jpg)
+![]({{ site.baseurl_root }}/uploads/10.14.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.15.jpg)
+![]({{ site.baseurl_root }}/uploads/10.15.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.16.jpg)
+![]({{ site.baseurl_root }}/uploads/10.16.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10,17.jpg)
+![]({{ site.baseurl_root }}/uploads/10,17.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.18.jpg)
+![]({{ site.baseurl_root }}/uploads/10.18.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.19.jpg)
+![]({{ site.baseurl_root }}/uploads/10.19.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.20.jpg)
+![]({{ site.baseurl_root }}/uploads/10.20.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/10.21.jpg)
+![]({{ site.baseurl_root }}/uploads/10.21.jpg)
 
 **Dimension官方网站**
 
@@ -112,4 +112,4 @@ tessercube.com
 
 扫描以下二维码加入我们的Telegram群吧～
 
-![]({{ site.env.BASE_URL }}uploads/7.2.jpg)
+![]({{ site.baseurl_root }}/uploads/7.2.jpg)

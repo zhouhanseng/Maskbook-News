@@ -11,11 +11,11 @@ layout: default
 </span>
 
 {% comment %}
-  slice out the "{{ site.env.BASE_URL }}" from page.image
+  slice out the "{{ site.baseurl }}" from page.image
 {% endcomment %}
 
 {% if page.image and page.image != '' %}
-  <img src="{{ site.env.BASE_URL }}{{ page.image | slice: 23, site.max_slice_size }}">
+  <img src="{{ page.image }}">
 {% endif %}
 
 {{ content }}

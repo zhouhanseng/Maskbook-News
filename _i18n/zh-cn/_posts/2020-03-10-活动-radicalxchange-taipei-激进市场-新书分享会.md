@@ -29,7 +29,7 @@ No.104 号, Section 1, Bade Road · Zhongzheng District
 
 Maicoin HQ 总部 2F 空间，台北市中正区八德路一段 104 号 2F（近台北捷运板南线 捷运忠孝新生站 1 号出口，步行约 3 分钟）No. 104, Section 1, Bade Road, Zhongzheng District, Taipei City, Taiwan ( Close to Taipei Metro Zhongxiao Xinsheng Station Exit 1 )
 
-![]({{ site.env.BASE_URL }}uploads/12.1.jpg)
+![]({{ site.baseurl_root }}/uploads/12.1.jpg)
 
 **Details**
 

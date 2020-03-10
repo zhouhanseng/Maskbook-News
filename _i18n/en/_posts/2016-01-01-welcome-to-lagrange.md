@@ -11,7 +11,7 @@ event_date: 2020-02-12
 template: English
 location: 杭州
 type: Visiting Event
-image: "{{ site.env.BASE_URL }}uploads/7-3.jpg"
+image: "uploads/7-3.jpg"
 
 ---
 Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.

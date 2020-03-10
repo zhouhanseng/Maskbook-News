@@ -14,7 +14,7 @@ location: 上海长宁
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/19.1.jpg)
+![]({{ site.baseurl_root }}/uploads/19.1.jpg)
 
 * 什么是RadicalxChange?
 
@@ -28,6 +28,6 @@ RxChange起源于Radical market一书的思想。Radical market是经济学人20
 
 RxChange邀请到了来自美国的Rxchange的CEO Jennifer，经济学和博弈论的知乎大V Richard， Dimension CEO Suji，仙女座科技CEO 小岛现场一起和大家交流讨论，期待大家的参与！
 
-![]({{ site.env.BASE_URL }}uploads/19.2.jpg)
+![]({{ site.baseurl_root }}/uploads/19.2.jpg)
 
 活动链接：[http://www.huodongxing.com/event/2498911157800](http://www.huodongxing.com/event/2498911157800 "http://www.huodongxing.com/event/2498911157800")

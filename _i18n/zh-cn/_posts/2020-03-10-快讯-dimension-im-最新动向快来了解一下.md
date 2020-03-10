@@ -38,9 +38,9 @@ Yisi Liu 则认为：“普通用户对于隐私的认知很难，现在还没�
 
 [https://mp.weixin.qq.com/s/x1U9sUzv2k1EKePDZuXSRg](https://mp.weixin.qq.com/s/x1U9sUzv2k1EKePDZuXSRg "https://mp.weixin.qq.com/s/x1U9sUzv2k1EKePDZuXSRg")
 
-![]({{ site.env.BASE_URL }}uploads/6.1-2.jpg)
+![]({{ site.baseurl_root }}/uploads/6.1-2.jpg)
 
-![]({{ site.env.BASE_URL }}uploads/6.2-1.jpg)
+![]({{ site.baseurl_root }}/uploads/6.2-1.jpg)
 
 原文链接：
 

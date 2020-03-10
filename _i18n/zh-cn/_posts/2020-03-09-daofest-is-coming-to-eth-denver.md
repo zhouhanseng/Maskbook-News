@@ -14,7 +14,7 @@ location: The Sports Castle, Denver CO
 image: ''
 
 ---
-![]({{ site.env.BASE_URL }}uploads/1.1.jpg)
+![]({{ site.baseurl_root }}/uploads/1.1.jpg)
 
 2020 年 2 月 13 日，DAOfest 将于The Sports Castle, Denver CO举行，Dimension CEO Suji Yan 会出席本次活动并给大家带来 Maskbook 的最新进展。
 
@@ -39,7 +39,7 @@ The Sports Castle, Denver CO
 
 **时间表**
 
-![]({{ site.env.BASE_URL }}uploads/1.2-3.jpg)
+![]({{ site.baseurl_root }}/uploads/1.2-3.jpg)
 
 **Dimension 官网**
 
@@ -69,6 +69,6 @@ tessercube.com
 
 扫描以下二维码加入我们的 Telegram 群吧～
 
-![]({{ site.env.BASE_URL }}uploads/1-9.jpg)
+![]({{ site.baseurl_root }}/uploads/1-9.jpg)
 
 活动链接：[https://www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")
