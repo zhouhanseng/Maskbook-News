@@ -9,7 +9,7 @@ type: 受邀参加
 tags: []
 en: []
 zh-tw: []
-title: DAOFEST IS COMING TO ETH DENVER
+title: 活动 | DAOFEST IS COMING TO ETH DENVER
 location: The Sports Castle, Denver CO
 image: ''
 
