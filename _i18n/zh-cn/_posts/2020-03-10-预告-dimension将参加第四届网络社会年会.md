@@ -31,7 +31,7 @@ image: ''
 中国美术学院南山校区南苑报告厅（ 拉姆咖啡旁 ）
 
 **演讲时间及主题**  
- 11 月 22 日 13：00-14：20
+11 月 22 日 13：00-14：20
 
 Katt Gu & Yuan He Yesterday is dead , so forget it : The Right to be forgotten in China's Cyber Governance Regime
 
@@ -61,21 +61,18 @@ Suji Yan & Katt Gu The Continuation of FOSS ( Free and Open Source Software ) Mo
 
 **报告人：**
 
-**吕新雨**
+* **吕新雨**
 
-**(华东师范大学传播学院院长)**
+  **(华东师范大学传播学院院长)**
+* **滨野智史**
 
-**滨野智史**
+  **(日本社会学家、批评家)**
+* **Cleve V. Arguelles**
 
-**(日本社会学家、批评家)**
+  **(澳大利亚国立大学克罗贝尔亚太事务学院政治与社会变革系)**
+* **Nishant Shah**
 
-**Cleve V. Arguelles**
-
-**(澳大利亚国立大学克罗贝尔亚太事务学院政治与社会变革系)**
-
-**Nishant Shah**
-
-**(阿尔特兹艺术学院研究院副主席)**
+  **(阿尔特兹艺术学院研究院副主席)**
 
 **Panel 3 : 媒体考古学**
 
@@ -83,18 +80,15 @@ Suji Yan & Katt Gu The Continuation of FOSS ( Free and Open Source Software ) Mo
 
 **报告人：**
 
-**Michael Goddard**
+* **Michael Goddard**
 
-**(西敏大学电影电视与动态影像学系高级讲师)  
- **
+  **(西敏大学电影电视与动态影像学系高级讲师)**
+* **单小曦**
 
-**单小曦**
+  **(杭州师范大学人文学院教授)**
+* **樱田和也**
 
-**(杭州师范大学人文学院教授)**
-
-**樱田和也**
-
-**(大阪市立大学城市研究中心特约讲师)**
+  **(大阪市立大学城市研究中心特约讲师)**
 
 **Panel 4 : 平台资本主义**
 
@@ -102,13 +96,12 @@ Suji Yan & Katt Gu The Continuation of FOSS ( Free and Open Source Software ) Mo
 
 **报告人：**
 
-**Nathan Schneider**
+* **Nathan Schneider**
 
-**(科罗拉多大学博尔德分校媒体研究助理教授)**
+  **(科罗拉多大学博尔德分校媒体研究助理教授)**
+* **Olivia Solis**
 
-**Olivia Solis**
-
-**(SHARE Labs 信息设计师)**
+  **(SHARE Labs 信息设计师)**
 
 **年会议程**
 
@@ -126,8 +119,7 @@ From November 22 to November 24, 2019, the Fourth Annual Conference of Network S
 
 The Fourth Annual Conference of Network Society fits well with the traditional ideas of Dimension. As a user of the 21st century Internet and a developer of encryption applications, Dimension aims to make more Internet users who are forced to transparently communicate their own information to understand the importance of encryption privacy.
 
-At this annual meeting, Dimension has two submissions to stand out and was selected as a research potential, namely Suji Yan & Katt Gu _The Continuation of FOSS ( Free and Open Source Software ) Movement and Data - The new Form of Labor_ ；Katt Gu & Yuan He _Yesterday is dead , so forget it : The Right to be forgotten in China's Cyber Governance Regime_，they will share with you at the Nanyuan Auditorium of the Nanshan Campus of the China Academy of Art on November 22nd.  
- 
+At this annual meeting, Dimension has two submissions to stand out and was selected as a research potential, namely Suji Yan & Katt Gu _The Continuation of FOSS ( Free and Open Source Software ) Movement and Data - The new Form of Labor_ ；Katt Gu & Yuan He _Yesterday is dead , so forget it : The Right to be forgotten in China's Cyber Governance Regime_，they will share with you at the Nanyuan Auditorium of the Nanshan Campus of the China Academy of Art on November 22nd.
 
 **Time**
 
@@ -149,8 +141,7 @@ The Fourth Annual Conference of Network Society is constituted of four panels:
 
 **Panel 1 : Spiritual Life in Network Society**
 
-Georg Simmel draws the life in 19th century big city: busy yet lonely people looking for a sense of identity and independence through fashion. Today, it is our turn to capture the symptoms of " society of informational capitalism " which includes " cognitariat" and "precariat ". The former are intellectual labours who lose their soul and the later survive through gig economy. Trapped in the " shrinking of present tense " in a accelerating society, how should we think about ourselves, the culture we belong to, and the relationship between its representation and the world?  
- 
+Georg Simmel draws the life in 19th century big city: busy yet lonely people looking for a sense of identity and independence through fashion. Today, it is our turn to capture the symptoms of " society of informational capitalism " which includes " cognitariat" and "precariat ". The former are intellectual labours who lose their soul and the later survive through gig economy. Trapped in the " shrinking of present tense " in a accelerating society, how should we think about ourselves, the culture we belong to, and the relationship between its representation and the world?
 
 **Panel 2 : Political Economy Criticism of Social Media**
 
