@@ -1,5 +1,6 @@
 {% if page.lang %}
-  <!-- <ul class="languages">
+  {% comment %}
+  <ul class="languages">
     {% for lang in site.languages %}
       {% assign filename = page[lang] | split: "/" | last | replace: ".md", "" | slice: 11, site.max_slice_size %}
       {% if filename != "" %}
@@ -17,7 +18,8 @@
       {% else %}
       {% endif %}
     {% endfor %}
-  </ul> -->
+  </ul>
+  {% endcomment %}
 {% else %}
   <ul class="languages">
     {% for lang in site.languages %}
