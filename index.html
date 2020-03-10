@@ -28,7 +28,11 @@ title: Home
     {% endif %}
 
   <li itemscope>
-    <a href="{{ post.url | relative_url }}">{{ post.type }} | {{ post.title }}</a>
+    {% if post.type %}
+      <a href="{{ post.url | relative_url }}">{{ post.type }} | {{ post.title }}</a>
+    {% else %}
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    {% endif %}
     <p class="post-date">
       <span>
         {% include date.html date=post.date timezone=post.timezone location=post.location %}
