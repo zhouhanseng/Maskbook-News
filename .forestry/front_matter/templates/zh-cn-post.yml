@@ -77,6 +77,8 @@ fields:
     - 预告
     - 回顾
     - 新闻
+    - 会议
+    - 快讯
     source:
       type: simple
       section: 
