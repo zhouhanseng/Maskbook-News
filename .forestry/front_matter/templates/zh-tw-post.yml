@@ -35,6 +35,7 @@ fields:
   label: Template
   default: Traditional Chinese
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+  hidden: true
 - name: title
   type: text
   config:
