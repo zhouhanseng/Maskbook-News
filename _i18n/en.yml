@@ -15,3 +15,6 @@ read_time_less_than_one_minute: "less than 1 minute read"
 read_time_one_minute: "1 minute read"
 read_time_minute_prefix: ""
 read_time_minute_suffix: "minutes read"
+
+epilogue_social_title: "Social Media"
+epilogue_donate_title: "Help Us by Donating Us"
