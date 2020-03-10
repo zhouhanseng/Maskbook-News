@@ -35,6 +35,7 @@ fields:
   label: Template
   default: Traditional Chinese
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+  hidden: true
 - name: title
   type: text
   config:
@@ -73,14 +74,18 @@ fields:
   config:
     required: false
     options:
-    - 受邀參加
-    - 官方活動
+    - 活動
+    - 預告
+    - 回顧
+    - 新聞
+    - 會議
+    - 快訊
     source:
       type: simple
       section: 
       file: 
       path: 
-  label: Event Type
+  label: Type
 - name: image
   type: file
   config:

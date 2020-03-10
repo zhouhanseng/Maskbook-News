@@ -35,6 +35,7 @@ fields:
   label: Template
   default: Simplified Chinese
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+  hidden: true
 - name: title
   type: text
   config:
@@ -77,12 +78,14 @@ fields:
     - 预告
     - 回顾
     - 新闻
+    - 会议
+    - 快讯
     source:
       type: simple
       section: 
       file: 
       path: 
-  label: Event Type
+  label: Type
 - name: image
   type: file
   config:

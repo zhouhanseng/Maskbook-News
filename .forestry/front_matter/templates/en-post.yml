@@ -35,6 +35,7 @@ fields:
   label: Template
   default: English
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
+  hidden: true
 - name: title
   type: text
   config:
@@ -73,14 +74,14 @@ fields:
   config:
     required: false
     options:
-    - Visiting Event
-    - Official Event
+    - Activity
+    - News
     source:
       type: simple
       section: 
       file: 
       path: 
-  label: Event Type
+  label: Type
 - name: image
   type: file
   config:
