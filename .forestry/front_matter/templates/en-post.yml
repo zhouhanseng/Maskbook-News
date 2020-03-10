@@ -102,6 +102,7 @@ fields:
       file: 
       path: 
   label: Simpilified Chinese
+  hidden: true
 - name: zh-tw
   type: select
   default: []
@@ -114,5 +115,6 @@ fields:
       file: 
       path: 
   label: Tranditional Chinese
+  hidden: true
 pages:
 - _i18n/en/_posts/2020-02-20-when-the-internet-was-good.md
