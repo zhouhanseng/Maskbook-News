@@ -14,7 +14,7 @@ location: 上海
 image: ''
 
 ---
-**本篇文章转载自 区块客研究室**
+本篇文章转载自 **区块客研究室**
 
 活动最后阶段我们邀请了区块势作者许明恩 Astro Hsu 以及 Unitychain 研究员邱骏 Juin Chiu 一起来和 Suji Yan 及 Yisi Liu 进行对于 DWeb、Maskbook、DID 以及隐私的讨论。
 
