@@ -1,0 +1,21 @@
+---
+layout: post
+date: 2020-03-11
+lang: zh-cn
+template: Simplified Chinese
+event_date: 2018-07-08
+timezone: 8
+type: 回顾
+tags: []
+en: []
+zh-tw: []
+title: 次元链DMS团队成员主讲「日本区块链发展现状讲座」
+location: 上海虹口
+image: ''
+
+---
+2018-07-08日，时代区块链Times在上海虹口举办了「日本区块链发展现状讲座」。沙龙中，三名主讲人——麦子钱包CTO虞家男、时代区块链创始人孙骋和DMS法律顾问顾紫翚——分别从技术、媒体和监管的角度分享了自己的观点，获得了热烈了反响。
+
+![]({{ site.baseurl_root }}/uploads/8.1-3.jpg)顾紫翚，美国UIUC法学博士、信息学博士，亚太区块链发展协会荣誉理事，Blockstream、Usdt前工作人员，目前在华尔街一家家族基金旗下的市场调查和咨询公司strategic coin担任顾问，参与ICO和数字货币的研究咨询工作，现在DMS项目中担任区块链法律和合规顾问。
+
+![]({{ site.baseurl_root }}/uploads/8.2-3.jpg)
