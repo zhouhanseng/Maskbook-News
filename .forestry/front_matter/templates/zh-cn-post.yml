@@ -80,6 +80,7 @@ fields:
     - 新闻
     - 会议
     - 快讯
+    - 采访
     source:
       type: simple
       section: 
