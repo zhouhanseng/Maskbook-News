@@ -80,6 +80,7 @@ fields:
     - 新聞
     - 會議
     - 快訊
+    - 採訪
     source:
       type: simple
       section: 
