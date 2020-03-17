@@ -11,7 +11,7 @@ fields:
   default: post
 - name: date
   type: datetime
-  label: Date
+  label: Create Date
   description: ''
   config:
     required: true
@@ -20,7 +20,7 @@ fields:
     display_utc: false
     export_format: YYYY-MM-DD
   default: now
-  hidden: true
+  hidden: false
 - name: lang
   type: text
   config:
