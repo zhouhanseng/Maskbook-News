@@ -28,7 +28,7 @@ title: Home
     {% endif %}
 
   <li itemscope>
-    {% if post.type %}
+    {% if post.type != '' %}
       <a href="{{ post.url | relative_url }}">{{ post.type }} | {{ post.title }}</a>
     {% else %}
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
