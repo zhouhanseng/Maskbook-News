@@ -122,3 +122,5 @@ fields:
       path: 
   label: Simpilified Chinese
   hidden: true
+pages:
+- _i18n/zh-tw/_posts/test.md
