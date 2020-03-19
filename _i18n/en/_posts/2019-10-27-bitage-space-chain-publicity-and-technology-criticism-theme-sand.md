@@ -10,7 +10,7 @@ zh-cn: []
 zh-tw: []
 title: Exhibition of “Bitcene：Spacechain/Publicness/Criticism of Technology”
 location: Shanghai
-image: ''
+image: "{{ site.baseurl_root }}/uploads/13.2.jpg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-3.jpg)
