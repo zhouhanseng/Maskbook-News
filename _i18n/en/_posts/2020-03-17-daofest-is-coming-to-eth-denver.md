@@ -10,7 +10,7 @@ zh-cn: []
 zh-tw: []
 title: DAOfest is Coming to ETH DENVER
 location: The Sports Castle, Denver CO
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1.1.jpg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1.1.jpg)
