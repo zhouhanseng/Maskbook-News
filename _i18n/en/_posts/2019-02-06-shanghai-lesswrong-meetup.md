@@ -9,7 +9,7 @@ tags: []
 zh-cn: []
 zh-tw: []
 title: " Shanghai LessWrong Meetup"
-location: 上海
+location: Shanghai
 image: ''
 
 ---
