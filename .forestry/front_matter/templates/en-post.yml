@@ -111,6 +111,7 @@ fields:
   label: Tranditional Chinese
   hidden: true
 pages:
+- _i18n/en/_posts/2019-09-20-dimension-im-will-attend-atrium-scale.md
 - _i18n/en/_posts/2019-10-27-bitage-space-chain-publicity-and-technology-criticism-theme-sand.md
 - _i18n/en/_posts/2019-10-27-dweb-shanghai-kick-off.md
 - _i18n/en/_posts/2019-11-17-web-full-stack-conference-enhancedprivacywithdecentralizedidentity.md
