@@ -58,7 +58,7 @@ fields:
   label: Location
 - name: type
   type: select
-  default: Visiting Event
+  default: ''
   config:
     required: false
     options:
@@ -75,6 +75,7 @@ fields:
       file: 
       path: 
   label: Type
+  hidden: true
 - name: image
   type: file
   config:
