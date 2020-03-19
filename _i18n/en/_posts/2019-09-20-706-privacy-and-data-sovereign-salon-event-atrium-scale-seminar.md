@@ -13,7 +13,7 @@ location: San Francisco
 image: ''
 
 ---
-**Dimension.im Newsletter 01**
+**Dimension.im Newsletter** 
 
 On September 20, 2019, Atrium Scale was successfully held in San Francisco. Dimension.im was invited to this event.
 
