@@ -13,7 +13,6 @@ location: The Sports Castle, Denver CO
 image: ''
 
 ---
-
 ![]({{ site.baseurl_root }}/uploads/1.1.jpg)
 
 On February 13, 2020, DAOfest will be held at The Sports Castle, Denver CO. Dimension CEO Suji Yan will attend this event and bring you the latest progress of Maskbook.
@@ -55,7 +54,7 @@ tessercube.com
 
 **Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
 
-**Twitter** [https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
+**Twitter** [https://twitter.com/realmaskbook](https://twitter.com/realmaskbook "https://twitter.com/realmaskbook")
 
 **Facebook** [https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
 
