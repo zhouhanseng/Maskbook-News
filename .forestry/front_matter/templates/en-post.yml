@@ -111,6 +111,7 @@ fields:
   label: Tranditional Chinese
   hidden: true
 pages:
+- _i18n/en/_posts/2019-05-11-katt-gu-went-to-japan-for-a-lecture-on-blockchain-research-education.md
 - _i18n/en/_posts/2019-05-31-publishing-free-software-movement-and-new-forms-of-labor.md
 - _i18n/en/_posts/2019-07-05-maskbook-taipei-meetup.md
 - _i18n/en/_posts/2019-07-07-the-power-of-disruptive-change-revealing-the-2018-economist-s-recommended-book-of-the-year-radical-market.md
