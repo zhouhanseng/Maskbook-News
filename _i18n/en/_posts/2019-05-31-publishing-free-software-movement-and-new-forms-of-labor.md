@@ -38,3 +38,7 @@ E. Glen Weyl is the author of Radical Markets. He believes that the way out of t
 Radical Markets was named the Economist's Recommended Book of the Year in 2018. The starting point for this book is a series of new challenges in today's world despite the global economic growth in recent decades, the gap between countries It is shrinking, but inequality within the country is increasing, and social and political divisions and divisions are becoming increasingly serious-the liberal market economy that once made the Western world proud, especially the United States, is facing an unprecedented crisis.
 
 Change is imminent, but better alternatives than centrally planned economies have yet to emerge. Fortunately, today's technological advances, especially the rapid development of machine learning and artificial intelligence technologies in the context of big data, are quietly redefining social and production relationships. To a certain extent, this makes a feasible institutional design, which might sound unrealistic decades ago. Now, with the help of new technologies, difficult problems can break through institutional barriers and have solutions.
+
+Paper link：
+
+[https://www.radicalxchange.org/?s=The+Free+Software+Movement+and+the+New+Form+of+Labor](https://www.radicalxchange.org/?s=The+Free+Software+Movement+and+the+New+Form+of+Labor "https://www.radicalxchange.org/?s=The+Free+Software+Movement+and+the+New+Form+of+Labor")
