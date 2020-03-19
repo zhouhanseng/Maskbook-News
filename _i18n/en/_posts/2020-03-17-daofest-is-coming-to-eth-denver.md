@@ -4,13 +4,13 @@ lang: en
 template: English
 date: 2020-02-13
 timezone: 6
-type: 活动
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []
 title: DAOfest is Coming to ETH DENVER
 location: The Sports Castle, Denver CO
-image: "{{ site.baseurl_root }}/uploads/1.1.jpg"
+image: "/uploads/1.1.jpg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1.1.jpg)

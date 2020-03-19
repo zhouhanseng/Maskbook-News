@@ -4,13 +4,13 @@ lang: en
 template: English
 date: 2019-10-27
 timezone: 8
-type: 活动
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []
 title: Exhibition of “Bitcene：Spacechain/Publicness/Criticism of Technology”
 location: Shanghai
-image: "{{ site.baseurl_root }}/uploads/13.2.jpg"
+image: "/uploads/13.2.jpg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-3.jpg)

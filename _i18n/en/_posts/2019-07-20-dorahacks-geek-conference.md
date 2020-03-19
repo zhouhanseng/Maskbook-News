@@ -4,7 +4,7 @@ lang: en
 template: English
 date: 2019-07-20
 timezone: 8
-type: 会议
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []

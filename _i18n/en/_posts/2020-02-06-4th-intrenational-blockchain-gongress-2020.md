@@ -4,7 +4,7 @@ lang: en
 template: English
 date: 2020-02-06
 timezone: 5
-type: 活动
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []

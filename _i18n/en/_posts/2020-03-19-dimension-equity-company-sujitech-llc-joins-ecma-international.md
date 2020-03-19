@@ -4,7 +4,7 @@ lang: en
 template: English
 date: 2019-12-10
 timezone: 8
-type: 新闻
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []

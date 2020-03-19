@@ -4,7 +4,7 @@ lang: en
 template: English
 date: 2019-10-27
 timezone: 8
-type: 活动
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []
