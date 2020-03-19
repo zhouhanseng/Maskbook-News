@@ -19,11 +19,11 @@ Now the Internet is no longer a free and open place. More and more services are 
 
 Our mission is to listen to everyone's voices, and use our technology to help realize your ideas and suggestions for the existing Internet, and pass such voices to more people to build the real Internet in our minds.
 
-**Activity details**
+* **Activity details**
 
 At 14:00 on September 28, 2019, we will hold our first DWeb Shanghai party on the 2nd floor of Building B, Changyang Chuanggu (No. 1687 Changyang Road, Yangpu District, Shanghai)! In this first gathering, we warmly welcome everyone from different backgrounds to participate and share their views and opinions on the current Internet, and discuss how to improve and maintain the new Internet.
 
-**Organizer**
+* **Organizer**
 
 **DWeb Shanghai**
 
@@ -35,7 +35,7 @@ At 14:00 on September 28, 2019, we will hold our first DWeb Shanghai party on th
 
 (dimension.im)
 
-**Activity process**
+* **Activity process**
 
 **Part 1**
 
@@ -61,7 +61,9 @@ Wendy Hanamura
 
 （[https://twitter.com/jockellohkamp](https://twitter.com/jockellohkamp "https://twitter.com/jockellohkamp")）
 
-![]({{ site.baseurl_root }}/uploads/3.3.jpg)Wendy Hanamura is from the Internet Archive and Joachim Lohkamp is from Jolocom. Both of them are the sponsors of the DWeb community. For this event, they will share their stories with DWeb Shanghai via video.
+![]({{ site.baseurl_root }}/uploads/3.3.jpg)
+
+Wendy Hanamura is from the Internet Archive and Joachim Lohkamp is from Jolocom. Both of them are the sponsors of the DWeb community. For this event, they will share their stories with DWeb Shanghai via video.
 
 **Part 3**
 
