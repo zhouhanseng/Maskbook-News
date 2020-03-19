@@ -8,7 +8,7 @@ type: 回顾
 tags: []
 zh-cn: []
 zh-tw: []
-title: 706 "Privacy and Data Sovereign" Salon Event & "Atrium Scale" Seminar
+title: '"Atrium Scale" Seminar'
 location: San Francisco
 image: ''
 
