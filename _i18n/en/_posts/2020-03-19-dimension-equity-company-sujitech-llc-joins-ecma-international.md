@@ -3,13 +3,13 @@ layout: post
 lang: en
 template: English
 date: 2019-12-10
-timezone: 9
+timezone: 8
 type: 新闻
 tags: []
 zh-cn: []
 zh-tw: []
-title: " Dimension Equity Company Sujitech, LLC Joins ECMA International"
-location: Tokyo
+title: NEWS | Sujitech, LLC Joins ECMA International
+location: Shanghai
 image: ''
 
 ---
@@ -33,7 +33,7 @@ Develop ECMA Script standard, the process of standard generation, and implement�
 
 **Consists of five steps：**
 
-*  **STAGE 0 STRAWMAN**
+* **STAGE 0 STRAWMAN**
 
 Any discussions, ideas, changes, or features that have not yet been added to the proposal are at this stage. Only TC39 members can submit.
 
@@ -45,7 +45,7 @@ Any discussions, ideas, changes, or features that have not yet been added to the
 
 (3) The proposal includes detailed API descriptions,usage examples, and related semantics and algorithms.
 
-* STAGE 2 DRAFT
+* **STAGE 2 DRAFT**
 
 (1) Provide an initial draft specification that does not differ much from the features included in the final standard. After the draft, only incremental changes were accepted in principle.
 
@@ -64,37 +64,5 @@ Any discussions, ideas, changes, or features that have not yet been added to the
 (1) It is ready, and this feature will appear in the next version of the ECMA Script specification.
 
 (2) Need to pass two independent implementations and pass acceptance tests to obtain important practical experience in the use process.
-
-**Dimension Official website**
-
-Dimension.im
-
-**Its products**
-
-maskbook.com
-
-tessercube.com
-
-**Social platform**
-
-**Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter** [https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
-
-**Facebook** [https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram** t.me/maskbook_group
-
-**Help Us by Donating Us**
-
-**Bitcoin** 3PRrXj1HTXDc4j9SCQZ6hovpa74iimqtgX
-
-**Ethereum** 0xD71c7150962fd484a4291a193c85426Df9EaABbB
-
-Scan the QR code below to join our Telegram group \~
-
-![]({{ site.baseurl_root }}/uploads/1-11.jpg)
-
-新闻链接：
 
 [https://www.ecma-international.org/publications/standards/Ecma-262.htm](https://www.ecma-international.org/publications/standards/Ecma-262.htm "https://www.ecma-international.org/publications/standards/Ecma-262.htm")
