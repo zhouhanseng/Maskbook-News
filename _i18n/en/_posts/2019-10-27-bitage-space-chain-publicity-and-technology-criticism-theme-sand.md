@@ -65,7 +65,7 @@ Bitcoin Exhibition – A Schizoanalytical Representation of Technical Discourse
 
 **13:05-13:25**
 
-**吴越 | Yue Wu**
+吴越 | Yue Wu
 
 (Network-side remote login speech)
 
@@ -91,7 +91,7 @@ Digitization is not a process of "literally encoding the world we want to see". 
 
 **13:25-13:45**
 
-**谭天 | Tian Tan**
+谭天 | Tian Tan
 
 One of the founders of the cryptocurrency community Oura
 
@@ -113,7 +113,7 @@ With the emergence of public networks based on information science, while coveri
 
 **13:45-14:05**
 
-**阎晗 |** Suji Yan
+阎晗 | Suji Yan
 
 Dimension.im Founder / CEO
 
@@ -139,7 +139,7 @@ If we want to protect our privacy and break the digital dungeon, we need to not 
 
 **14:05-14:25**
 
-**言语 | Yu Yan**
+言语 | Yu Yan
 
 Tongji Ph.D. student
 
