@@ -2,14 +2,14 @@
 layout: post
 lang: en
 template: English
-date: 2020-03-19
+date: 2019-12-10
 timezone: 7
 type: 新闻
 tags: []
 zh-cn: []
 zh-tw: []
 title: " Dimension Equity Company Sujitech, LLC Joins ECMA International"
-location: Japan
+location: Tokyo
 image: ''
 
 ---
