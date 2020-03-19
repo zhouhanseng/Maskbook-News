@@ -8,7 +8,7 @@ type: 回顾
 tags: []
 zh-cn: []
 zh-tw: []
-title: Katt Gu went to Japan for a lecture on blockchain research education
+title: 2019 Waseda BBC Blockchain Research Institute
 location: Japan
 image: ''
 
