@@ -4,7 +4,7 @@ lang: en
 template: English
 date: 2019-02-27
 timezone: 9
-type: 回顾
+type: ''
 tags: []
 zh-cn: []
 zh-tw: []
