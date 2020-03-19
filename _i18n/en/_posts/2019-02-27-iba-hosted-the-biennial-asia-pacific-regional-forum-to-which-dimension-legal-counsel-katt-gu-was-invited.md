@@ -8,13 +8,12 @@ type: ''
 tags: []
 zh-cn: []
 zh-tw: []
-title: IBA hosted the biennial Asia Pacific Regional Forum, to which Dimension legal
-  counsel Katt Gu was invited
+title: '6th Asia Pacific Regional Forum Biennial Conference: Unified Asia'
 location: Tokyo, Japan
 image: ''
 
 ---
-From February 27th to March 1st, 2019, "6th Asia Pacific Regional Forum Biennial Conference: Unified Asia" will be held in Tokyo, Japan. Enlighten Law Group consultant, Dimension legal consultant Katt Gu will attend the meeting by the International Bar Association (IBA) was invited，and will discuss and share with the guests on the theme of "Cryptocurrency at the crossroads".
+From February 27th to March 1st, 2019, "6th Asia Pacific Regional Forum Biennial Conference: Unified Asia" will be held in Tokyo, Japan. Enlighten Law Group consultant, Dimension legal consultant _Katt Gu_ will attend the meeting by the International Bar Association (IBA) was invited，and will discuss and share with the guests on the theme of "Cryptocurrency at the crossroads".
 
 ![]({{ site.baseurl_root }}/uploads/2.1-2.jpg)
 
