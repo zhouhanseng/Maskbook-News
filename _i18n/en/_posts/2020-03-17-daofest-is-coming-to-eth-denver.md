@@ -23,13 +23,9 @@ This event was hosted by Felipeduarte and Matoken, and also invited DAOstack fou
 
 The concept of DAO (Decentralized Autonomous Organization) is proposed from the field of blockchain. It is an organization that can automatically and systematically operate without any human intervention. DAO can also be defined as an organizational system that maintains and maintains itself through smart contracts. Users can decide their future development direction by voting.
 
-（视频）
-
-Introducing DAOstack
-
 **Time**
 
-2February 13, 2020
+2 February 13, 2020
 
 10:00-18:00
 
@@ -70,4 +66,4 @@ Scan the QR code below to join our Telegram group \~
 
 ![]({{ site.baseurl_root }}/uploads/7.2.jpg)
 
-活动链接：[https://www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")
+LINK：[https://www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")
