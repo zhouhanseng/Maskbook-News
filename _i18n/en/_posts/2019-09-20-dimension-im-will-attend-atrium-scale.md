@@ -13,10 +13,9 @@ location: San Francisco
 image: ''
 
 ---
-
 Atrium Scale will be held in San Francisco on September 20, 2019. Dimension.im CEO Suji Yan will be attending the event.
 
-Atrium Scale is a law firm co-founded by JustinKan and Augie Rakow to provide a full range of services to startups. JustinKan is the founder of Twitch and a partner of Y Combinator. Augie Rakow is a corporate partner of a large Silicon Valley law firm. Atrium Scale currently accepts a16z investment of nearly 100 million US dollars, known as the a16z legal vest.
+Atrium Scale is a law firm co-founded by Justin Kan and Augie Rakow to provide a full range of services to startups. Justin Kan is the founder of Twitch and a partner of Y Combinator. Augie Rakow is a corporate partner of a large Silicon Valley law firm. Atrium Scale currently accepts a16z investment of nearly 100 million US dollars, known as the a16z legal vest.
 
 This time, the Atrium Scale selected the top 10% of the most suitable venture capital projects and applicants to participate in the two-day seminar. The seminar includes investment counseling, investor and mentor introductions, follow-up online promotion platform help, legal advice, Amazon and Google Cloud Points, and tax and accounting services. Atrium Scale states that they are focused on serving high-quality projects, including previous credit card startups Final (acquired by Goldman Sachs) and Sun Financial Services Wunder Capital.
 
