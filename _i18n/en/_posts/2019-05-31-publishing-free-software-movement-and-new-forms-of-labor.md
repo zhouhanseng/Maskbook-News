@@ -9,7 +9,7 @@ tags: []
 zh-cn: []
 zh-tw: []
 title: Publishing | Free Software Movement and New Forms of Labor
-location: 上海
+location: Shanghai
 image: ''
 
 ---
