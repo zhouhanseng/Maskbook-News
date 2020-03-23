@@ -10,7 +10,7 @@ zh-cn: []
 zh-tw: []
 title: 2019 Waseda BBC Blockchain Research Institute
 location: Japan
-image: "/uploads/1.1-2.jpg"
+image: ''
 
 ---
 In December 2018, the Waseda Institute for Global Science and Integration and Japan's leading blockchain community, the Blockchain Business Community, announced the establishment of the "Waseda BBC Blockchain Research Institute" in 2019, and hired Dimension CEO Suji Yan, and legal counsel Katt Gu as Lecturer, conducting courses.
