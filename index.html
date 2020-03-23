@@ -18,7 +18,8 @@ title: Home
     {% if post.image and post.image != '' %}
     <div class="thumbnail-container">
       <a href="{{ post.url | relative_url }}">
-        {% if post.image | slice: 0, 6 == "uploads" %}
+        {% assign image_prefix = post.image | slice: 0, 6 %}
+        {% if image_prefix == "uploads" and site.baseurl_root != '' %}
           <img src="{{ site.baseurl_root }}/{{ post.image }}">
         {% else %}
           <img src="{{ post.image }}">
