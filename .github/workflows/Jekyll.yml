@@ -12,7 +12,6 @@ jobs:
         uses: actions/checkout@master
       - name: Build & Deploy to GitHub Pages
         env: 
-          BASE_URL: https://guanbinrui.github.io/Maskbook-News/
           GITHUB_TOKEN: ${{ secrets.GITHUB_ACCESS_TOKEN }}
           GITHUB_REPOSITORY: ${{ secrets.GITHUB_REPOSITORY }}
           GITHUB_ACTOR: ${{ secrets.GITHUB_ACTOR }}
