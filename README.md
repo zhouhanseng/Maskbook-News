@@ -1,14 +1,8 @@
 Maskbook News
 =====
 
-## Develop
+## Setup
 
 ```bash
-# development
-export BASE_URL="/"
-bundle exec jekyll server
-
-# build
-export BASE_URL="https://example.com/path/" # ending / is required
-bundle exec jekyll build
+export JEKYLL_ENV=production && export URL=https://news.maskbook.com && bundle exec jekyll server
 ```
