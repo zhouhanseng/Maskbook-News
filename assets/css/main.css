@@ -17,6 +17,10 @@
   Base
 */
 
+* {
+    text-rendering: optimizeLegibility;
+}
+
 body {
   font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
   font-size: 16px;
