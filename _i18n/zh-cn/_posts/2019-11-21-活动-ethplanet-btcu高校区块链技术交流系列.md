@@ -27,27 +27,3 @@ Dimension.im创始人/CEO，从伊利诺大学香槟分校（UIUC）计算机工
 **活动详情**
 
 ![]({{ site.baseurl_root }}/uploads/11.2.jpg)
-
-**Dimension官方网站**
-
-Dimension.im
-
-**旗下产品**
-
-maskbook.com
-
-tessercube.com
-
-**社交平台**
-
-**Github**[https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter**[https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
-
-**Facebook**[https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram**t.me/maskbook_group
-
-扫描以下二维码加入我们的Telegram群吧～
-
-![]({{ site.baseurl_root }}/uploads/7.2.jpg)

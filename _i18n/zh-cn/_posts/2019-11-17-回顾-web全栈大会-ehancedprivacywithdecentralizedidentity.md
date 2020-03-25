@@ -89,27 +89,3 @@ PPT内容截图
 ![]({{ site.baseurl_root }}/uploads/10.20.jpg)
 
 ![]({{ site.baseurl_root }}/uploads/10.21.jpg)
-
-**Dimension官方网站**
-
-Dimension.im
-
-**旗下产品**
-
-maskbook.com
-
-tessercube.com
-
-**社交平台**
-
-**Github**[https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter**[https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
-
-**Facebook**[https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegramt**.me/maskbook_group
-
-扫描以下二维码加入我们的Telegram群吧～
-
-![]({{ site.baseurl_root }}/uploads/7.2.jpg)

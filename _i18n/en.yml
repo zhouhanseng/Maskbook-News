@@ -16,5 +16,7 @@ read_time_one_minute: "1 minute read"
 read_time_minute_prefix: ""
 read_time_minute_suffix: "minutes read"
 
+epilogue_website_title: "Dimension Official Website"
+epilogue_product_title: "Its Products"
 epilogue_social_title: "Social Media"
 epilogue_donate_title: "Help Us by Donating Us"

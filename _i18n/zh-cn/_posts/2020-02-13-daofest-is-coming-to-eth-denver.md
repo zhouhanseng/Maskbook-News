@@ -41,34 +41,4 @@ The Sports Castle, Denver CO
 
 ![]({{ site.baseurl_root }}/uploads/1.2-3.jpg)
 
-**Dimension 官网**
-
-Dimension.im
-
-**旗下产品**
-
-maskbook.com
-
-tessercube.com
-
-**社交平台**
-
-**Github** [https://github.com/DimensionDev](https://www.daofest.io/ "https://www.daofest.io/")
-
-**Twitter** [https://twitter.com/projectmaskbook](https://www.daofest.io/ "https://www.daofest.io/")
-
-**Facebook** [https://www.facebook.com/realmaskbook/](https://www.daofest.io/ "https://www.daofest.io/")
-
-**Telegram** t.me/maskbook_group
-
-**Help Us by Donating Us**
-
-**Bitcoin** 3PRrXj1HTXDc4j9SCQZ6hovpa74iimqtgX
-
-**Ethereum** 0xD71c7150962fd484a4291a193c85426Df9EaABbB
-
-扫描以下二维码加入我们的 Telegram 群吧～
-
-![]({{ site.baseurl_root }}/uploads/1-9.jpg)
-
 活动链接：[https://www.daofest.io/](https://www.daofest.io/ "https://www.daofest.io/")

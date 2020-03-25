@@ -175,6 +175,7 @@ hr {
 
 .post-container {
   margin-bottom: 4rem;
+  word-break: break-word;
 }
 
 .post-container h1 {

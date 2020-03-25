@@ -147,34 +147,4 @@ Networking.
 
 ![]({{ site.baseurl_root }}/uploads/2.1-3.jpg)
 
-**Dimension Official website**
-
-Dimension.im
-
-**Its products**
-
-maskbook.com
-
-tessercube.com
-
-**social platform**
-
-**Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter** [https://twitter.com/realmaskbook](https://twitter.com/realmaskbook "https://twitter.com/realmaskbook")
-
-**Facebook** [https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram** t.me/maskbook_group
-
-**Help Us by Donating Us**
-
-**Bitcoin** 3PRrXj1HTXDc4j9SCQZ6hovpa74iimqtgX
-
-**Ethereum** 0xD71c7150962fd484a4291a193c85426Df9EaABbB
-
-Scan the QR code below to join our Telegram group \~
-
-![]({{ site.baseurl_root }}/uploads/1-11.jpg)
-
 活动链接：[https://www.blockress.com/](https://www.blockress.com/ "https://www.blockress.com/")

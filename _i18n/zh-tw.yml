@@ -16,5 +16,7 @@ read_time_one_minute: "預計閱讀時間 1 分鐘"
 read_time_minute_prefix: "預計閱讀時間"
 read_time_minute_suffix: "分鐘"
 
+epilogue_website_title: "官方網站"
+epilogue_product_title: "產品"
 epilogue_social_title: "社交平台"
 epilogue_donate_title: "捐贈"

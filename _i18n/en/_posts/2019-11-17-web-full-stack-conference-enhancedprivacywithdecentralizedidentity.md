@@ -83,30 +83,4 @@ At the Chengdu Web Full Stack Conference, Jack also demonstrated the operation a
 
 ![]({{ site.baseurl_root }}/uploads/10.21.jpg)
 
-**Dimension**
-
-**Official website**
-
-Dimension.im
-
-**Its products**
-
-maskbook.com
-
-tessercube.com
-
-**Social platform**
-
-**Github**[https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter** [https://twitter.com/realmaskbook](https://twitter.com/realmaskbook "https://twitter.com/realmaskbook")
-
-**Facebook**[https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram**.me/maskbook_group
-
-Scan the following QR code to join our Telegram group \~
-
-![]({{ site.baseurl_root }}/uploads/7.2.jpg)
-
 活动链接：[https://web-conf.dev/#2019/](https://web-conf.dev/#2019/ "https://web-conf.dev/#2019/")

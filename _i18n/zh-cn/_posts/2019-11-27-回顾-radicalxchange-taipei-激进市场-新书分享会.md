@@ -59,27 +59,3 @@ part 2
 ![]({{ site.baseurl_root }}/uploads/9.10.jpg)
 
 Brandon Patton进行演讲
-
-**Dimension官网**
-
-Dimension.im
-
-**旗下产品**
-
-maskbook.com
-
-tessercube.com
-
-**社交平台**
-
-**Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter** [https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
-
-**Facebook** [https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram** t.me/maskbook_group
-
-扫描以下二维码加入我们的Telegram群吧～
-
-![]({{ site.baseurl_root }}/uploads/1-9.jpg)

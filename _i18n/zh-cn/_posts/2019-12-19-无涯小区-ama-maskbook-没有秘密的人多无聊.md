@@ -19,33 +19,3 @@ image: ''
 扫描图中二维码关注**无涯小区**公众号，回复 Maskbook ，分享海报至朋友圈邀您入活动群,惊喜多多，不要错过哦！
 
 ![]({{ site.baseurl_root }}/uploads/5.0.jpg)
-
-**Dimension官网**
-
-Dimension.im
-
-**旗下产品**
-
-maskbook.com
-
-tessercube.com
-
-**社交平台**
-
-**Github** [https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
-
-**Twitter** [https://twitter.com/projectmaskbook](https://twitter.com/projectmaskbook "https://twitter.com/projectmaskbook")
-
-**Facebook** [https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
-
-**Telegram** t.me/maskbook_group
-
-**Help Us by Donating Us**
-
-**Bitcoin** 3PRrXj1HTXDc4j9SCQZ6hovpa74iimqtgX
-
-**Ethereum** 0xD71c7150962fd484a4291a193c85426Df9EaABbB
-
-扫描以下二维码加入我们的 Telegram 群吧～
-
-![]({{ site.baseurl_root }}/uploads/1-9.jpg)
