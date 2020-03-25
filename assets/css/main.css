@@ -17,8 +17,12 @@
   Base
 */
 
+* {
+    text-rendering: optimizeLegibility;
+}
+
 body {
-  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
+  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
   font-size: 16px;
   color: #666;
   line-height: 1.75rem;
@@ -49,7 +53,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
   color: #333;
 }
 
@@ -107,7 +111,7 @@ hr {
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
   margin-bottom: 4rem;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
 }
 
 .masthead a:hover {
@@ -197,7 +201,7 @@ hr {
   margin-top: 3px;
   margin-bottom: 1rem;
   color: #9a9a9a;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
   font-size: 0.8rem;
 }
 
@@ -226,7 +230,7 @@ hr {
 
 .pagination {
   overflow: hidden;
-  font-family: "Quattrocento Sans", sans-serif;
+  font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
   text-align: center;
 }
 
@@ -319,7 +323,7 @@ hr {
 
 code,
 pre {
-  font-family: "Source Code Pro", monospace;
+  font-family: "Source Code Pro", "JetBrains Mono", "Inconsolata", "Consolas", "Monaco", "Menlo", monospace;
 }
 code {
   padding: 0.25em 0.5em;
@@ -364,7 +368,7 @@ pre.highlight {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: "Source Code Pro", monospace !important;
+  font-family: "Source Code Pro", "JetBrains Mono", "Inconsolata", "Consolas", "Monaco", "Menlo", monospace !important;
 }
 .gist .markdown-body {
   padding: 15px;
