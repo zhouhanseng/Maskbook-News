@@ -14,7 +14,7 @@ fields:
   config:
     required: true
   label: Language
-  default: zh-cn
+  default: zh-Hans
   hidden: true
 - name: template
   type: text
@@ -97,7 +97,7 @@ fields:
       path: 
   label: English
   hidden: true
-- name: zh-tw
+- name: zh-Hant
   type: select
   default: []
   config:
@@ -111,4 +111,4 @@ fields:
   label: Traditional Chinese
   hidden: true
 pages:
-- _i18n/zh-cn/_posts/2020-03-11-40-年前-盖茨写了一封信-软件业之后发生了怎样的改变.md
+- _i18n/zh-Hans/_posts/2020-03-11-40-年前-盖茨写了一封信-软件业之后发生了怎样的改变.md

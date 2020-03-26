@@ -6,8 +6,8 @@ date: 2019-09-20
 timezone: 7
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: Dimension.im will attend Atrium Scale
 location: San Francisco
 image: ''
@@ -23,6 +23,6 @@ The guests who participated in the event included many well-known personalities 
 
 Dimension.im is fortunate to stand out among many outstanding investment application projects to participate in this event. Currently, the team's projects include Maskbook.com and Tessercube.com.
 
-活动链接：
+Event Page: 
 
 [https://www.atrium.co/resources/events/scale/](https://www.atrium.co/resources/events/scale/ "https://www.atrium.co/resources/events/scale/")

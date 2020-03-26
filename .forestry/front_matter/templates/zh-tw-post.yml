@@ -14,7 +14,7 @@ fields:
   config:
     required: true
   label: Language
-  default: zh-tw
+  default: zh-Hant
   hidden: true
 - name: template
   type: text
@@ -97,7 +97,7 @@ fields:
       path: 
   label: English
   hidden: true
-- name: zh-cn
+- name: zh-Hans
   type: select
   default: []
   config:

@@ -6,10 +6,10 @@ date: 2019-07-16
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: RadicalxChange in Taipei
-location: 台北
+location: Taipei
 image: ''
 
 ---
@@ -49,4 +49,4 @@ Q & A, Discussing future RxC Taipei community activities, free exchanges and mee
 
 RadicalxChange ([https://radicalxchange.org](https://radicalxchange.org "https://radicalxchange.org")) is a non-profit organization initiated by social movement promoters, artists, and academics. It is committed to promoting competitive, free, and open market mechanisms to reduce social inequality and repair social divisions and differences To create broadly shared fairness, prosperity, and cooperation.
 
-活动链接：[https://www.facebook.com/events/552335881837614/](https://www.facebook.com/events/552335881837614/ "https://www.facebook.com/events/552335881837614/")
+Event Page: [https://www.facebook.com/events/552335881837614/](https://www.facebook.com/events/552335881837614/ "https://www.facebook.com/events/552335881837614/")

@@ -13,19 +13,19 @@ sections:
   templates:
   - en-post
 - type: directory
-  path: _i18n/zh-cn/_posts
+  path: _i18n/zh-Hans/_posts
   label: Simplified Chinese
   create: documents
   match: "*"
   templates:
-  - zh-cn-post
+  - zh-Hans-post
 - type: directory
-  path: _i18n/zh-tw/_posts
+  path: _i18n/zh-Hant/_posts
   label: Traditional Chinese
   create: documents
   match: "*"
   templates:
-  - zh-tw-post
+  - zh-Hant-post
 upload_dir: uploads
 public_path: "{{ site.baseurl_root }}/uploads"
 front_matter_path: ''

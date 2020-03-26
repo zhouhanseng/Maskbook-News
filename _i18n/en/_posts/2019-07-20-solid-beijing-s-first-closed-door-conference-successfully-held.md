@@ -6,10 +6,10 @@ date: 2019-07-20
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: Solid Beijing's first closed-door conference successfully held
-location: 北京
+location: Beijing
 image: ''
 
 ---
@@ -25,4 +25,4 @@ This conference was well received by the guests, and they can collide with the s
 
 ![]({{ site.baseurl_root }}/uploads/1-7.jpg)
 
-活动链接：[https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w](https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w "https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w")
+Event Page: [https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w](https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w "https://mp.weixin.qq.com/s/YXQyWv8yaZgD2pjvso665w")

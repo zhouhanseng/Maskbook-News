@@ -6,8 +6,8 @@ date: 2019-12-10
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: NEWS | Sujitech, LLC Joins ECMA International
 location: Shanghai
 image: ''

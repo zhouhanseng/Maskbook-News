@@ -6,8 +6,8 @@ date: 2019-05-11
 timezone: 9
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: 2019 Waseda BBC Blockchain Research Institute
 location: Japan
 image: ''

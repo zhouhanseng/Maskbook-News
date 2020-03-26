@@ -6,10 +6,10 @@ date: 2019-10-27
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: DWeb Shanghai Kick-off
-location: 上海
+location: Shanghai
 image: ''
 
 ---
@@ -89,4 +89,4 @@ Let's meet and discuss our ideal Internet!
 
 See you all on Saturday!
 
-活动链接：[https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true](https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true "https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true")
+Event Page: [https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true](https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true "https://www.meetup.com/dweb-shanghai/members/?sort=join_date&desc=true")

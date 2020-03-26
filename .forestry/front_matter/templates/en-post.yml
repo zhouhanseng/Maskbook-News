@@ -85,7 +85,7 @@ fields:
   type: tag_list
   default: []
   label: Tags
-- name: zh-cn
+- name: zh-Hans
   type: select
   default: []
   config:
@@ -98,7 +98,7 @@ fields:
       path: 
   label: Simpilified Chinese
   hidden: true
-- name: zh-tw
+- name: zh-Hant
   type: select
   default: []
   config:

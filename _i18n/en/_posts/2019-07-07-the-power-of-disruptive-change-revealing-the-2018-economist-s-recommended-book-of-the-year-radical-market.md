@@ -6,8 +6,8 @@ date: 2019-07-07
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: " The Power of Disruptive Change-Revealing------Radical Market"
 location: Shanghai
 image: ''
