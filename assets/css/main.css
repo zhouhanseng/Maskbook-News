@@ -168,12 +168,16 @@ hr {
 }
 
 .languages li.selected a {
-  color: #9a9a9a;
+  border-bottom: 1px solid #BBB;
   pointer-events: none;
 }
 
 .languages a {
   text-decoration: none;
+  padding: 0 0 2px;
+}
+.languages a:hover {
+  border-bottom: 1px solid #666;
 }
 
 /*
