@@ -6,8 +6,8 @@ date: 2019-09-20
 timezone: 7
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: Atrium Scale
 location: San Francisco
 image: ''

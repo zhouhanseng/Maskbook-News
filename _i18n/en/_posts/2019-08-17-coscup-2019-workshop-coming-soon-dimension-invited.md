@@ -6,10 +6,10 @@ date: 2019-08-17
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: COSCUP 2019 Workshop Coming Soon, Dimension Invited
-location: 台湾
+location: Taiwan
 image: ''
 
 ---
@@ -43,4 +43,4 @@ August 18 11:05 \~ 11:20
 
 IB304
 
-活动链接：[https://coscup2019.kktix.cc/events/coscup2019regist](https://coscup2019.kktix.cc/events/coscup2019regist "https://coscup2019.kktix.cc/events/coscup2019regist")
+Event Page: [https://coscup2019.kktix.cc/events/coscup2019regist](https://coscup2019.kktix.cc/events/coscup2019regist "https://coscup2019.kktix.cc/events/coscup2019regist")

@@ -6,8 +6,8 @@ date: 2019-02-06
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: " Shanghai LessWrong Meetup"
 location: Shanghai
 image: ''

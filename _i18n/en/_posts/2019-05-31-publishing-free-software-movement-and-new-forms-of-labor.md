@@ -6,8 +6,8 @@ date: 2019-05-31
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: Publishing | Free Software Movement and New Forms of Labor
 location: Shanghai
 image: ''

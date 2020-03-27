@@ -6,8 +6,8 @@ date: 2019-11-17
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: Chengdu Web Full Stack Conference 2019
 location: Chengdu
 image: ''
@@ -83,4 +83,4 @@ At the Chengdu Web Full Stack Conference, Jack also demonstrated the operation a
 
 ![]({{ site.baseurl_root }}/uploads/10.21.jpg)
 
-活动链接：[https://web-conf.dev/#2019/](https://web-conf.dev/#2019/ "https://web-conf.dev/#2019/")
+Event Page: [https://web-conf.dev/#2019/](https://web-conf.dev/#2019/ "https://web-conf.dev/#2019/")

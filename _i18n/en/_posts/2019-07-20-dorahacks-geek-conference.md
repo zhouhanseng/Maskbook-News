@@ -6,10 +6,10 @@ date: 2019-07-20
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: DoraHacks Geek Conference
-location: 北京
+location: Beijing
 image: ''
 
 ---

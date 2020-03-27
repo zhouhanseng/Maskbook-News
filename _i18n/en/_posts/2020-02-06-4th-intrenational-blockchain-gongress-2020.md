@@ -6,8 +6,8 @@ date: 2020-02-06
 timezone: 5
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: 4TH INTRENATIONAL BLOCKCHAIN GONGRESS 2020
 location: Chicago
 image: ''
@@ -147,4 +147,4 @@ Networking.
 
 ![]({{ site.baseurl_root }}/uploads/2.1-3.jpg)
 
-活动链接：[https://www.blockress.com/](https://www.blockress.com/ "https://www.blockress.com/")
+Event Page: [https://www.blockress.com/](https://www.blockress.com/ "https://www.blockress.com/")

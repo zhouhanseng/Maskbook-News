@@ -6,10 +6,10 @@ date: 2019-02-27
 timezone: 9
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: '6th Asia Pacific Regional Forum Biennial Conference: Unified Asia'
-location: Tokyo, Japan
+location: Tokyo
 image: ''
 
 ---

@@ -6,8 +6,8 @@ date: 2019-09-20
 timezone: 7
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: 706 "Privacy and Data Sovereign" Salon Event
 location: San Francisco
 image: ''
@@ -19,4 +19,4 @@ On September 22, 2019, the "Privacy Protection and Data Sovereignty" salon spons
 
 Dimension.im CEO Suji Yan and legal counsel Katt were invited to come to this salon event and share their views on privacy protection and data sovereignty on the spot.
 
-![]({{ site.baseurl_root }}/uploads/4.3.jpg)![]({{ site.baseurl_root }}/uploads/4.4.jpg)活动链接：[http://youthsapce706.mikecrm.com/DEDwjkt](http://youthsapce706.mikecrm.com/DEDwjkt "http://youthsapce706.mikecrm.com/DEDwjkt")
+![]({{ site.baseurl_root }}/uploads/4.3.jpg)![]({{ site.baseurl_root }}/uploads/4.4.jpg)Event Page: [http://youthsapce706.mikecrm.com/DEDwjkt](http://youthsapce706.mikecrm.com/DEDwjkt "http://youthsapce706.mikecrm.com/DEDwjkt")

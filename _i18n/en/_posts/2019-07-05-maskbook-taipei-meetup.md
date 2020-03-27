@@ -6,8 +6,8 @@ date: 2019-07-05
 timezone: 8
 type: ''
 tags: []
-zh-cn: []
-zh-tw: []
+zh-Hans: []
+zh-Hant: []
 title: " MaskBook Taipei Meetup"
 location: Taipei
 image: ''
