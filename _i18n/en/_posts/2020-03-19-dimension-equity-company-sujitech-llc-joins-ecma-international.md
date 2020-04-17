@@ -19,7 +19,7 @@ Sujitech, LLC is an equity company of Dimension. After Sujitech becomes a new me
 
 **What is ECMA?**
 
-ECMA International is an information and telecommunications standards organization with an international membership system that has made a significant contribution to global standardization in the information technology and telecommunications fields. Forty years after its establishment, Ecma has established many information and telecommunications technology standards. This includes the standard for JavaScript, the most important programming language in web development: ECMA Script. Also, hundreds of standards such as C #, Dart, and CD-ROM were developed by Ecma. About two-thirds of the Ecma standard is simultaneously approved by ISO as an ISO standard. Its members are Google, Intel, IBM, Microsoft, Apple, etc.
+ECMA International is an information and telecommunications standards organization with an international membership system that has made a significant contribution to global standardization in the information technology and telecommunications fields. Forty years after its establishment, Ecma has established many information and telecommunications technology standards. This includes the standard for JavaScript, the most important programming language in web development: ECMA Script. Also, hundreds of standards such as C #, Dart, and CD-ROM were developed by Ecma. About two-thirds of the Ecma standard is simultaneously approved by ISO as an ISO standard. Its members are Google, Intel, IBM, Microsoft, Apple, Alibaba, etc.
 
 **What is TC39? Who is included?**
 
