@@ -15,7 +15,7 @@ image: ''
 ---
 At the 118th ECMA General Assembly held in December, Sujitech, Alibaba, Huawei, Dell, Sony, and MetaMask as new ECMA members. Later, they will participate in the work of TC39, participate in the formulation of language standards, and promote the development of JavaScript.
 
-Sujitech, LLC is an equity company of Dimension. After Sujitech becomes a new member of ECMA, it will work with Chinese companies such as Alibaba, Huawei, 360 to communicate the voice of Chinese developers to the world and become a high-quality communication bridge.
+Sujitech, LLC is an equity company of Dimension. After Sujitech becomes a new member of ECMA, it will work with other companies to communicate the voice of developers to the world and become a high-quality communication bridge.
 
 **What is ECMA?**
 
