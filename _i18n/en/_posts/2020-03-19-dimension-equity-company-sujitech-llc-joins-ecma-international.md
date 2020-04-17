@@ -43,7 +43,7 @@ Any discussions, ideas, changes, or features that have not yet been added to the
 
 (2) Discover potential problems, such as the relationship with other characteristics, and realize difficult problems.
 
-(3) The proposal includes detailed API descriptions,usage examples, and related semantics and algorithms.
+(3) The proposal includes detailed API descriptions, usage examples, and related semantics and algorithms.
 
 * **STAGE 2 DRAFT**
 
