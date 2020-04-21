@@ -6,11 +6,13 @@ date: 2019-11-17
 timezone: 8
 type: ''
 tags: []
-zh-Hans: []
-zh-Hant: []
+zh-cn: []
+zh-tw: []
 title: Chengdu Web Full Stack Conference 2019
 location: Chengdu
 image: ''
+zh-Hans: ''
+zh-Hant: ''
 
 ---
 On November 17, 2019, Dimension was invited to participate **_Chengdu Web Full Stack Conference 2019_**. JackWorks delivered a speech entitled **_"Enhanced Privacy with Decentralized Identity_"** at the conference. He explained the technical principles of Maskbook from a technical perspective.
@@ -43,11 +45,11 @@ Note: ECDH (Elliptic Curve Diffie Hellman) is a method that allows two parties w
 
 **Maskbook Design Principles**
 
-  **Maskbook has three major design principles, namely:**
+**Maskbook has three major design principles, namely:**
 
-*   **Does not rely on platform APIs**
-*   **Decentralized services**
-*   **Information leaked when DOM is injected**
+* **Does not rely on platform APIs**
+* **Decentralized services**
+* **Information leaked when DOM is injected**
 
 As mentioned earlier, the reason for Maskbook is because it wants to resist the behavior of Internet giants abusing user data to achieve profitability, so the purpose of Maskbook is to protect user data privacy. Therefore, three design principles were firmly established at the beginning of the design to achieve the purpose of real data protection.
 
@@ -83,4 +85,30 @@ At the Chengdu Web Full Stack Conference, Jack also demonstrated the operation a
 
 ![]({{ site.baseurl_root }}/uploads/10.21.jpg)
 
-Event Page: [https://web-conf.dev/#2019/](https://web-conf.dev/#2019/ "https://web-conf.dev/#2019/")
+**Dimension**
+
+**Official website**
+
+Dimension.im
+
+**Its products**
+
+maskbook.com
+
+tessercube.com
+
+**Social platform**
+
+**Github**[https://github.com/DimensionDev](https://github.com/DimensionDev "https://github.com/DimensionDev")
+
+**Twitter** [https://twitter.com/realmaskbook](https://twitter.com/realmaskbook "https://twitter.com/realmaskbook")
+
+**Facebook**[https://www.facebook.com/realmaskbook/](https://www.facebook.com/realmaskbook/ "https://www.facebook.com/realmaskbook/")
+
+**Telegram**.me/maskbook_group
+
+Scan the following QR code to join our Telegram group \~
+
+![]({{ site.baseurl_root }}/uploads/7.2.jpg)
+
+活动链接：[https://web-conf.dev/#2019/](https://web-conf.dev/#2019/ "https://web-conf.dev/#2019/")
