@@ -18,14 +18,14 @@ sections:
   create: documents
   match: "*"
   templates:
-  - zh-Hans-post
+  - zh-cn-post
 - type: directory
   path: _i18n/zh-Hant/_posts
   label: Traditional Chinese
   create: documents
   match: "*"
   templates:
-  - zh-Hant-post
+  - zh-tw-post
 upload_dir: uploads
 public_path: "{{ site.baseurl_root }}/uploads"
 front_matter_path: ''
