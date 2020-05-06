@@ -3,66 +3,66 @@ layout: post
 lang: en
 template: English
 date: 2019-12-10
-timezone: 8
+timezone: 9
 type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
 title: NEWS | Sujitech, LLC Joins ECMA International
-location: Shanghai
+location: 东京
 image: ''
 
 ---
-At the 118th ECMA General Assembly held in December, Sujitech, Alibaba, Huawei, Dell, Sony, and MetaMask as new ECMA members. Later, they will participate in the work of TC39, participate in the formulation of language standards, and promote the development of JavaScript.
+在之后，他们将参与TC39的工作，参与语言标准的制定，并促进JavaScript的发展。
 
-Sujitech, LLC is an equity company of Dimension. After Sujitech becomes a new member of ECMA, it will work with other companies to communicate the voice of developers to the world and become a high-quality communication bridge.
+Sujitech，成为ECMA的新成员后，转变与其他公司合作，将开发人员的声音传达给全世界，并成为替代的沟通同轴。
 
-**What is ECMA?**
+**什么是ECMA？**
 
-ECMA International is an information and telecommunications standards organization with an international membership system that has made a significant contribution to global standardization in the information technology and telecommunications fields. Forty years after its establishment, Ecma has established many information and telecommunications technology standards. This includes the standard for JavaScript, the most important programming language in web development: ECMA Script. Also, hundreds of standards such as C #, Dart, and CD-ROM were developed by Ecma. About two-thirds of the Ecma standard is simultaneously approved by ISO as an ISO standard. Its members are Google, Intel, IBM, Microsoft, Apple, Alibaba, etc.
+ECMA International是具有国际成员资格系统的信息和电信标准组织，为信息技术和电信领域的全球标准化做出了重要贡献。成立40年来，Ecma建立了许多信息和电信技术标准。这包括JavaScript标准，这最初。Ecma开发了多种标准，例如C＃，Dart和CD-ROM。Ecma标准的大约三分之二同时被ISO认可为ISO标准。成员。它是Web开发中最重要的编程语言：ECMA脚本。 。是Google，Intel，IBM，Microsoft，Apple，Alibaba等。
 
-**What is TC39? Who is included?**
+**什么是TC39？包括谁？**
 
-TC39 refers to Technical Committee No. 39 and is part of the ECMA.
+TC39指第39号技术委员会，是ECMA的一部分。
 
-**What is the main work of TC39?**
+**TC39的主要工作是什么？**
 
-Develop ECMA Script standard, the process of standard generation, and implement。
+制定ECMA脚本标准，标准生成过程并实施。
 
-**What is the standard process?**
+**标准流程是什么？**
 
-**Consists of five steps：**
+**包括五个步骤：**
 
-* **STAGE 0 STRAWMAN**
+* **阶段0稻草人**
 
-Any discussions, ideas, changes, or features that have not yet been added to the proposal are at this stage. Only TC39 members can submit.
+尚未添加到初步中的任何讨论，想法，更改或功能都在此阶段。只有TC39成员可以提交。
 
-* **STAGE 1 PROPOSAL**
+* **第一阶段初步**
 
-(1) Produce a formal proposal.
+（1）提出正式建议。
 
-(2) Discover potential problems, such as the relationship with other characteristics, and realize difficult problems.
+（2）发现潜在的问题，例如与其他特征的关系，并导致困难的问题。
 
-(3) The proposal includes detailed API descriptions, usage examples, and related semantics and algorithms.
+（3）该预先包括详细的API描述，使用示例以及相关的语义和算法。
 
-* **STAGE 2 DRAFT**
+* **第二阶段草案**
 
-(1) Provide an initial draft specification that does not differ much from the features included in the final standard. After the draft, only incremental changes were accepted in principle.
+（1）提供与最终标准中包含的功能没有太大的初始规范支出。支出之后，原则上仅接受增量更改。
 
-(2) Start experiments on how to implement it. The implementation forms include polyfill, implementation engines (providing local support for draft implementation), or compilation and conversion (such as babel)
+（2）开始实验如何实现它。实施形式包括polyfill，实施引擎（为实施扩展提供本地支持）或编译和转换（例如babel）
 
-* **STAGE 3 CANDIDATE**
+* **第三阶段候选人**
 
-(1) Candidate phase, get concrete implementation and user feedback. After that, it will only be modified if major issues arise during implementation and use.
+（1）初步阶段，获得具体实施和用户反馈。此后，只有在实施和使用过程中出现重大问题时，才进行修改。
 
-(2) The specification document must be complete, and the reviewer and the editor of the ECMA Script must sign the specification.
+（2）规范文件必须完整，并且ECMA脚本的审阅者和编辑者必须在规范上签名。
 
-(3) It should be implemented in at least one browser and provide polyfill or babel plugins.
+（3）应该在至少一个浏览器中实现，并提供polyfill或babel插件。
 
-* **STAGE 4 FINISHED**
+* **第四阶段完成**
 
-(1) It is ready, and this feature will appear in the next version of the ECMA Script specification.
+（1）准备就绪，此功能将出现在下一版ECMA脚本规范中。
 
-(2) Need to pass two independent implementations and pass acceptance tests to obtain important practical experience in the use process.
+（2）需要通过两个独立的实现并通过验收测试，逐步使用过程中的重要实践经验。
 
 [https://www.ecma-international.org/publications/standards/Ecma-262.htm](https://www.ecma-international.org/publications/standards/Ecma-262.htm "https://www.ecma-international.org/publications/standards/Ecma-262.htm")
