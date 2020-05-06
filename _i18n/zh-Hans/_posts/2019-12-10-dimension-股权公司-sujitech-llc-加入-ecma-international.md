@@ -31,7 +31,7 @@ TC39 指的是技术委员会（ Technical Committee ）第 39 号，是 ECMA �
 
 ![]({{ site.baseurl_root }}/uploads/3-5.jpg)
 
-TC39 主要的工作是什么？
+* **TC39 主要的工作是什么？**
 
 制定 ECMA Script 标准，标准生成的流程，并实现。
 
