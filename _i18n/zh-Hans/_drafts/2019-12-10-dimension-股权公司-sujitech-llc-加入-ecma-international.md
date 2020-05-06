@@ -17,13 +17,13 @@ image: ''
 
 Sujitech,LLC 是 Dimension 的股权公司， Sujitech 成为 ECMA 新成员后，将和 Alibaba，Huawei，360 等中国公司一起向世界传达中国开发者的声音，成为优质的沟通桥梁。
 
-
+![]({{ site.baseurl_root }}/uploads/1-13.jpg)
 
 * **ECMA 是什么？**
 
 ECMA International 是国际性会员制度的信息和电信标准组织，为信息技术和电信领域的全球标准化做出了巨大贡献。成立四十年来，Ecma 制定了很多信息和电信技术标准。其中就包括 Web 开发领域最重要的编程语言 JavaScript 的标准：ECMA Script。此外，C#、Dart 和 CD-ROM 等数百项标准也是由 Ecma 制定的。Ecma 标准有大约三分之二同时被 ISO 批准为 ISO 标准。其会员有 Google，Intel，IBM，微软，Apple 等。
 
-![]({{ site.baseurl_root }}/uploads/2-8.jpg)
+![]({{ site.baseurl_root }}/uploads/微信图片_20200506161217.jpg)
 
 * **TC39 是什么？包括哪些人？**
 
