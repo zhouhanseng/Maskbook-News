@@ -8,7 +8,7 @@ type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: 4TH INTRENATIONAL BLOCKCHAIN GONGRESS 2020
+title: 4TH INTERNATIONAL BLOCKCHAIN CONGRESS 2020
 location: Chicago
 image: ''
 
