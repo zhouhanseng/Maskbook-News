@@ -17,7 +17,7 @@ image: ''
 
 Sujitech,LLC 是 Dimension 的股权公司， Sujitech 成为 ECMA 新成员后，将和 Alibaba，Huawei，360 等中国公司一起向世界传达中国开发者的声音，成为优质的沟通桥梁。
 
-![]({{ site.baseurl_root }}/uploads/1-13.jpg)
+
 
 * **ECMA 是什么？**
 
