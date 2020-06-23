@@ -39,9 +39,7 @@ After setting up, the creators can copy the link of Gitcoin Grants to Twitter co
 
 Since you already installed Maskbook, you will see a rendered Gitcoin Plugin window. Click "Fund This Grant " and you can donate crypto directly to this grant.
 
-![]({{ site.baseurl_root }}/uploads/3.gif)
-
-\- A Brief Recap on Gitcoin Grants
+![]({{ site.baseurl_root }}/uploads/3.gif)- A Brief Recap on Gitcoin Grants
 
 Gitcoin Grants is an experiment where people can fund their open source projects for public benefit with QF (Quadratic Funding) matching contributions from Gitcoin’s QF Fund sponsored by donors in the Ethereum ecosystem. As an example, a project that receives 50 individual 1 DAI donations will receive a significantly higher amount in grant funding from the matching pool than another project that receives a single 100 DAI donation.
 
