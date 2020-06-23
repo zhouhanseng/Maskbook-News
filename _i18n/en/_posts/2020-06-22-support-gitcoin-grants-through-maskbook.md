@@ -49,9 +49,4 @@ Gitcoin, with the support of the Ethereum Foundation and other matching partners
 
 ![]({{ site.baseurl_root }}/uploads/888.jpg)
 
-
-
-
-
-
-
+![]({{ site.baseurl_root }}/uploads/4-5.jpg)
