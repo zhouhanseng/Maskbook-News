@@ -15,17 +15,17 @@ image: ''
 ---
 ![]({{ site.baseurl_root }}/uploads/1-15.jpg)
 
-Event details
+**Event details**
 
-Date：
+**Date：**
 
 2020\.05.30 - 31 (Saturday, Sunday)
 
-Opening hours：
+**Opening hours：**
 
 11:30 – 18:00 (Last entry 17:30)
 
-Venue:
+**Venue:**
 
 Chronus Art Center, Building 18, No. 50 Moganshan Road, Shanghai
 
@@ -37,7 +37,7 @@ Internet Yami-Ichi is conceived as a flea market in which you can share and trad
 
 Every cloud has a silver lining. Now, shut down your computer, bring all the bizarre bao beis, or go find them! All at the Internet Yami-Ichi @Chronus Art Center.
 
-WHAT IS INTERNETYAMI-ICHI
+**WHAT IS INTERNETYAMI-ICHI**
 
 The Internet Yami-Ichi, from the Japanese “Internet Black Market”, but also“sickness” and “addiction”, is a flea market where people consumed by theInternet can share and buy Internet-related things in real life. In this weird market, you can browse through the booths and find the amazing and the useless—in an ironic and humorous atmosphere reminiscent of the early Internet era. The Internet Yami-Ichi is also an art project that aims to materialize the virtual Internet through a performative fleamarket.
 
