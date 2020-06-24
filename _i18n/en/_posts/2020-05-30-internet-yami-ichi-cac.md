@@ -17,15 +17,15 @@ image: ''
 
 **Event details**
 
-**Date：**
+Date：
 
 2020\.05.30 - 31 (Saturday, Sunday)
 
-**Opening hours：**
+Opening hours：
 
 11:30 – 18:00 (Last entry 17:30)
 
-**Venue:**
+Venue:
 
 Chronus Art Center, Building 18, No. 50 Moganshan Road, Shanghai
 
