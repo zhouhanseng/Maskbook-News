@@ -34,7 +34,9 @@ Arweave 创建了真正具有可扩展性的基础设施，将它作为数据经
 
 Maskbook 是一个开源的浏览器隐私插件，帮助用户在 Facebook，Twitter 等社交平台自动加密帖子和聊天记录，防止被社交平台审查和滥用用户数据，仅用户本人和指定好友能够解密。
 
-![]({{ site.baseurl_root }}/uploads/maskbook.png)**Personal Wayback Machine**
+![]({{ site.baseurl_root }}/uploads/maskbook.png)
+
+**Personal Wayback Machine**
 
 本次 Maskbook 与 Arweave 合作，旨在 Arweave 网络上构建一个 Personal Wayback Machine（个人互联网时光机），这是一个能够帮助用户收集和存储个人互联网追踪数据和历史记录的工具，这些数据将被存储在一个仅允许用户自己访问和控制的安全的个人网络数据库之中。
 
