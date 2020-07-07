@@ -13,7 +13,6 @@ location: 上海
 image: ''
 
 ---
-
 Please scroll down for the English.
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/DaptQGFkFfJu6a52ia9sRjUdG50mOyEbrMibalEI8bBO6ssS73WHt5zurjZnsxQibxGyZ5f0MbaJIWia8sia1n0MmoQ/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
@@ -64,7 +63,7 @@ Please scroll down for the English.
 
 美国伊利诺伊大学厄巴纳香槟分校环境科学硕士，法学博士；其论文方向包括刑诉、信息技术法和创业法，曾有多篇论文发表于 Hong Kong Law Review，the China Review 等知名 SSCI 期刊。她从2016年起进入区块链行业，目前担任信息科技初创公司 Dimension 作为合规负责人以及台湾尚澄律师事务所的顾问，并因作为996开源协议的起草人接受了 CCTV、经济观察报、南华早报、连线、路透社等国内外多家知名媒体的采访。
 
-**CAC Presents | Computer Lib & Dream Machine, From Memex and Hypertext to Modern Internet**
+CAC Presents | Computer Lib & Dream Machine, From Memex and Hypertext to Modern Internet
 
 **Event details**
 
