@@ -10,7 +10,7 @@ zh-Hant: []
 title: Internet Yami-Ichi@ CAC
 location: Shanghai
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-15.jpg"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-15.jpg)
