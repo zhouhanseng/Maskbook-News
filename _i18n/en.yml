@@ -4,8 +4,8 @@ langs:
   zh-Hant: 繁體中文
 
 pagination:
-  next_page: "Newer"
-  previous_page: "Older"
+  next_page: "Next Page"
+  previous_page: "Previous Page"
 
 sharing_button_prompt: "Feel free to share!"
 
