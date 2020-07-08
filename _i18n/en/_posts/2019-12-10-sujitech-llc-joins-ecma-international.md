@@ -17,9 +17,13 @@ At the 118th ECMA Meeting, Sujitech, LLC, together with Alibaba, Huawei, Dell, S
 
 Sujitech, LLC is the equity company of Dimension. Since Sujitech becomes a new member of ECMA, we will work together with other Chinese companies such as Alibaba, Huawei, 360, and we want to bridge the Chinese developers and other excellent developers all over the world.
 
+![]({{ site.baseurl_root }}/uploads/1-16.jpg)
+
 **What is ECMA?**
 
-ECMA International is a [standards organization](https://en.wikipedia.org/wiki/Standards_organization) for information and communication systems.The organization was founded in 1961 to standardize computer systems in Europe. Membership is open to large and small companies worldwide that produce, market or develop computer or communication systems, and have interest and experience in the areas addressed by the group's technical
+ECMA International is a [standards organization](https://en.wikipedia.org/wiki/Standards_organization) for information and communication systems.The organization was founded in 1961 to standardize computer systems in Europe. Membership is open to large and small companies worldwide that produce, market or develop computer or communication systems, and have interest and experience in the areas addressed by the group's technical.
+
+![]({{ site.baseurl_root }}/uploads/572210078649987869.jpg)
 
 **What is the purpose of ECMA？**
 
@@ -31,7 +35,9 @@ Ecma has actively contributed to worldwide standardization in information techno
 
 **What is TC39? Who is included?**
 
-TC39 means Technical Committee number 39. It’s part of ECMA。
+TC39 means Technical Committee number 39. It’s part of ECMA.
+
+![]({{ site.baseurl_root }}/uploads/3-8.jpg)
 
 **What is the main work of TC39?**
 
