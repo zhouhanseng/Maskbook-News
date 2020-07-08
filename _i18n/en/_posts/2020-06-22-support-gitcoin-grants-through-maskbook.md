@@ -8,7 +8,7 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: Support Gitcoin Grants through Maskbook !
-location: 上海
+location: Shanghai
 type: ''
 image: ''
 
