@@ -8,7 +8,7 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: Internet Yami-Ichi@ CAC
-location: 上海
+location: Shanghai
 type: ''
 image: ''
 
