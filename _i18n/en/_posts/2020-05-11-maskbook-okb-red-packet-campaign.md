@@ -8,7 +8,7 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: Maskbook & OKB Red Packet Campaign
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
 
