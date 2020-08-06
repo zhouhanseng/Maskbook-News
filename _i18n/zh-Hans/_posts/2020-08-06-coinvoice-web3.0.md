@@ -43,7 +43,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-* **采访 | Decentralized Web 新世界 (I)**
+* **采访 \\Decentralized Web 新世界 (I)**
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyj2jpgzj7qcN6cK61lMdTtJHjQ2ibAf6g1eSiamLSnVehmiciasHEMvibWj6w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484036&idx=1&sn=06cf3c3c356393754f7aa6ec1586eba4&scene=21#wechat_redirect)
 
