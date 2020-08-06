@@ -14,8 +14,8 @@ image: ''
 
 ---
 **本篇文章转载自【CoinVoice】**
-
-![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjx5HdYvHn0nuYQCnsPP0icOu2Q6SOZwlO9HOtmbiaict20A3t7NMkrwnhA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)                                                                                                                                            Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，Web3.0 的愿景是打破平台的垄断，建立全球新的数字经济模式。在这种模式下，将会消除靠促进不同用户群体或使用者之间的交易交互来创造价值的中间商平台，将生产者和消费者直接撮合到一起，给予双方更优惠的待遇。
+![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjx5HdYvHn0nuYQCnsPP0icOu2Q6SOZwlO9HOtmbiaict20A3t7NMkrwnhA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)  
+Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，Web3.0 的愿景是打破平台的垄断，建立全球新的数字经济模式。在这种模式下，将会消除靠促进不同用户群体或使用者之间的交易交互来创造价值的中间商平台，将生产者和消费者直接撮合到一起，给予双方更优惠的待遇。
 
 另外，用户的数据是平台的护城河，但是目前平台并未因为这个数据给予用户应得的收益。所以通过应用区块链等技术和经济学设定，实现将用户在交互过程中创造出的数据价值返回给用户，也是 Web3.0 的愿景之一。
 
@@ -23,7 +23,7 @@ image: ''
 
 **CoinVoice：近几年 Web3.0 一直受众多讨论，作为资深程序员，你理解和认为的什么是 Web3.0？**
 
-**Suji：**先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
+Suji：先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjYuJVRXJgbn1oc0rXssv3soLJZbia0PkyzGmVeiaMJywR9AM02cLicCSLw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
