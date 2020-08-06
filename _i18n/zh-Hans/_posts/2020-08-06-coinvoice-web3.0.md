@@ -23,7 +23,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 **CoinVoice：近几年 Web3.0 一直受众多讨论，作为资深程序员，你理解和认为的什么是 Web3.0？**
 
-\**Suji：**先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
+**Suji：**先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjYuJVRXJgbn1oc0rXssv3soLJZbia0PkyzGmVeiaMJywR9AM02cLicCSLw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -43,7 +43,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-* **采访 \\| Decentralized Web 新世界 (I)**
+**采访 Decentralized Web 新世界 (I)**
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyj2jpgzj7qcN6cK61lMdTtJHjQ2ibAf6g1eSiamLSnVehmiciasHEMvibWj6w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484036&idx=1&sn=06cf3c3c356393754f7aa6ec1586eba4&scene=21#wechat_redirect)
 
