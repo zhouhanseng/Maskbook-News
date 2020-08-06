@@ -23,7 +23,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 **CoinVoice：近几年 Web3.0 一直受众多讨论，作为资深程序员，你理解和认为的什么是 Web3.0？**
 
-**Suji：**先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
+\**Suji：**先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
 
 ![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjYuJVRXJgbn1oc0rXssv3soLJZbia0PkyzGmVeiaMJywR9AM02cLicCSLw/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
@@ -43,11 +43,11 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-**采访 Decentralized Web 新世界 (I)**
+**采访 \| Decentralized Web 新世界 (I)**
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyj2jpgzj7qcN6cK61lMdTtJHjQ2ibAf6g1eSiamLSnVehmiciasHEMvibWj6w/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484036&idx=1&sn=06cf3c3c356393754f7aa6ec1586eba4&scene=21#wechat_redirect)
 
-* **采访 | Decentralized Web 新世界（II）**
+* **采访 \| Decentralized Web 新世界（II）**
 
 [![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjCu346IV2Xhfo8xYotPQkc4sz7T15RJRYxtFAFHW3Fk3q8PVntic8caA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484040&idx=1&sn=fe59aefdf4b02682ed62f405fd0a7f28&scene=21#wechat_redirect)
 
@@ -57,7 +57,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 比如说以下这些功能：《银河系第一款稳定币加密红包》，能在 Twitter/FB 等地发数字货币红包。这个文章是和 Makerdao 合作的活动。
 
-* **活动 | 银河系第一款稳定币加密红包**
+* **活动 \| 银河系第一款稳定币加密红包**
 
 ## [![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjrFeIVjpqA4ic5cMaPrEibVCia1GGNBQBGhLqPiae9hMsxJicNzWPDicHiaYfA/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484396&idx=1&sn=4551336de57b078061ca0f28bc6f0274&scene=21#wechat_redirect)
 
@@ -99,7 +99,7 @@ Vitalik 发的已经被领完了。
 
 关于互联网标准委员会我可以发一些介绍过来，这里有一些别的公司写的文章：国内首家！360 加入 Ecma 参与 JavaScript 语言标准制定。
 
-**新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International**
+**新闻 \| Dimension 股权公司 Sujitech,LLC 加入 ECMA International**
 
 [![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjibUkJQcf4gEkGve8KnyCianDniaYcxTkuyMBrpNtqYMR2II3J4XuYZ9GQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484358&idx=1&sn=791b1d76c3bd5d43dfa514487441d45a&scene=21#wechat_redirect)
 
