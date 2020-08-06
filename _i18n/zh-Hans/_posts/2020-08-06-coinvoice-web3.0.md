@@ -99,7 +99,7 @@ Vitalik 发的已经被领完了。
 
 关于互联网标准委员会我可以发一些介绍过来，这里有一些别的公司写的文章：国内首家！360 加入 Ecma 参与 JavaScript 语言标准制定。
 
-* 新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International
+**新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International**
 
 [![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlnKXt9XXrAm6johhibnoyjibUkJQcf4gEkGve8KnyCianDniaYcxTkuyMBrpNtqYMR2II3J4XuYZ9GQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247484358&idx=1&sn=791b1d76c3bd5d43dfa514487441d45a&scene=21#wechat_redirect)
 
