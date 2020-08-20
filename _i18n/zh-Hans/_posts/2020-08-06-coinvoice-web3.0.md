@@ -53,7 +53,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 比如说以下这些功能：《银河系第一款稳定币加密红包》，能在 Twitter/FB 等地发数字货币红包。这个文章是和 Makerdao 合作的活动。
 
-* [**活动 | 银河系第一款稳定币加密红包**](https://mp.weixin.qq.com/s/ohi53MEaqyIy687mowAixQ)
+* [**活动\| 银河系第一款稳定币加密红包**](https://mp.weixin.qq.com/s/ohi53MEaqyIy687mowAixQ)
 
 Vitalik 发的已经被领完了。
 
@@ -95,7 +95,7 @@ Vitalik 发的已经被领完了。
 
 关于互联网标准委员会我可以发一些介绍过来，这里有一些别的公司写的文章：国内首家！360 加入 Ecma 参与 JavaScript 语言标准制定。
 
-* [**新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International**](https://mp.weixin.qq.com/s/jF-nlirPU6RkId0Z4Ms6oA)
+* [**新闻 \| Dimension 股权公司 Sujitech,LLC 加入 ECMA International**](https://mp.weixin.qq.com/s/jF-nlirPU6RkId0Z4Ms6oA)
 
 Suijtech 是我们的美国公司名字。我觉得扎克伯格就算想和 Vitalik 打一架也会发现，打了白打……
 
