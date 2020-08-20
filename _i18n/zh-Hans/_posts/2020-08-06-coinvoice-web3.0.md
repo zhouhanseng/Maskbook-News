@@ -39,9 +39,8 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-* **采访 | Decentralized Web 新世界 (I)**
-
-* **采访 | Decentralized Web 新世界（II）**
+* [**采访 | Decentralized Web 新世界 (I)**](https://mp.weixin.qq.com/s/ENOiFuktvVrLVSn-r71qoA)
+* [**采访 | Decentralized Web 新世界（II）**](https://mp.weixin.qq.com/s/DuRs8kqQ-tvl7GAmZo6rhg)
 
 **CoinVoice：接下来我们来聊聊 Dimension,很多朋友听说 Dimension 是从一款插件工具 Maskbook 开始的，当时V神都转推了，除了我们熟知的加密聊天功能，能详细再为大家介绍下 Maskbook？接下来还有其他功能上线的计划吗？**
 
@@ -49,11 +48,11 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 比如说以下这些功能：《银河系第一款稳定币加密红包》，能在 Twitter/FB 等地发数字货币红包。这个文章是和 Makerdao 合作的活动。
 
-* **活动 | 银河系第一款稳定币加密红包**
-
-## 
+* [**活动 | 银河系第一款稳定币加密红包**](https://mp.weixin.qq.com/s/ohi53MEaqyIy687mowAixQ)
 
 Vitalik 发的已经被领完了。
+
+![]({{ site.baseurl_root }}/uploads/3.png)
 
 另外在之前疫情严重的期间，我们也帮助 Consensys 子公司 Gitcoin 一起做了筹款功能。可以通过 Maskbook 直接向红十字会等 NGO 捐款稳定币。不用离开 Twitter，之后也会加入法币通道。然后还可以通过 IPFS/Arweave 等去中心化存储，不用离开 Twitter/FB 分享加密文件等等。其实换句话说，就是从有各种问题的互联网旧世界，进入新世界的桥梁/大门。这就是 Maskbook，加密是其中一个组件，这个应该下个月就会上线拉。
 
@@ -68,6 +67,10 @@ Vitalik 发的已经被领完了。
 这里引用一下我去年讲的一个例子：過去的嘗試。過去人們想要跳脫由巨頭壟斷做過很多種嘗試，例如離開現有不安全的平台，改用其他像是“Signal”或是暗網，但這當中都沒有 DAU (Daily Active User) 超過百萬以上的產品，而且也因為不被大多數人了解而遭受到污名化。或是成立新的平台或產品期望顛覆之前的巨頭，像是 Telegram 和 Signal 等都是創始人具有極大勇氣和犧牲才能維持原有的理想，但是因為這些不開源的程式系統，本質上所依賴的還是人治，難以保證在成功顛覆現在的巨頭之後是否會成為另一個新的壟斷企業。”Telegram 很多东西还是没有完全 open 的哦）
 
 我们一开始想的就是既然所谓 Web3.0 是 Web2.0 升级和变革，那就应该像是在旧世界里面升级到新世纪。而不是尝试造一个新的微信如何如何。这是以前写的一些例子：
+
+![]({{ site.baseurl_root }}/uploads/4.png)
+
+![]({{ site.baseurl_root }}/uploads/5.png)
 
 **CoinVoice：问一个比较尖锐的话题，目前推出的几款社交工具产品，商业化路线的规划是什么样的？**
 
@@ -87,7 +90,7 @@ Vitalik 发的已经被领完了。
 
 关于互联网标准委员会我可以发一些介绍过来，这里有一些别的公司写的文章：国内首家！360 加入 Ecma 参与 JavaScript 语言标准制定。
 
-* **新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International**
+* [**新闻 | Dimension 股权公司 Sujitech,LLC 加入 ECMA International**](https://mp.weixin.qq.com/s/jF-nlirPU6RkId0Z4Ms6oA)
 
 Suijtech 是我们的美国公司名字。我觉得扎克伯格就算想和 Vitalik 打一架也会发现，打了白打……
 
@@ -101,7 +104,7 @@ Suijtech 是我们的美国公司名字。我觉得扎克伯格就算想和 Vita
 
 **Suji：** 我知道谷歌当年的回答比较猛，先是说「不作恶」，然后说“Google is not a conventional company. We do not intend to become one”（这句话可以去集团官网看 [https://abc.xyz/](https://abc.xyz/ "https://abc.xyz/") ），要我说的话我希望我们能最终不要成为一家公司,“Dimension is intend to become one \[company\]”，其实很多大家不知道的组织都给互联网的发展做了极大的贡献也赚到了一些小钱，或者看上去很有钱。比如 ：互联网档案馆 Internet Archive 或者 Mozilla（Firefox 浏览器背后的基金会），给大家来在 Internet Archive 照片。
 
-* 他们买了一座教堂，就像互联网神殿一样，过去这样「不是公司」的组织 可能无法达成商业上的成功和平衡。老爷爷是 Ted Nelson；超链接这个词等等都是他发明的,万维网也收到了他的启发，但是在 BTC、ETH 之后,其实已经有了很好的案例。我们最终的目标是 Dimension is intend to not become one \[company\]，成为一个类似于 DAO 的自治组织。
+他们买了一座教堂，就像互联网神殿一样，过去这样「不是公司」的组织 可能无法达成商业上的成功和平衡。老爷爷是 Ted Nelson；超链接这个词等等都是他发明的,万维网也收到了他的启发，但是在 BTC、ETH 之后,其实已经有了很好的案例。我们最终的目标是 Dimension is intend to not become one \[company\]，成为一个类似于 DAO 的自治组织。
 
 发一点相关的资料,过去互联网的成功离不开这些人。
 
