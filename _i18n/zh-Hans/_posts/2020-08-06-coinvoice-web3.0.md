@@ -25,8 +25,6 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 **Suji：** 先来发一本朋友送的藏书，这本书出版于快十年前，最早在十年前，提 Web3.0 是对于 Web2.0 的进化预计不满（Web 产生了垄断和割裂了）。
 
-![]({{ site.baseurl_root }}/uploads/7.png)
-
 包括万维网发明人 Tim 爵士提的语义网（Semantic Web）和一系列尝试。当然这些尝试基本没有成功，最后移动互联网时代到来之后 Web 其实是示威的。由 App 和 App 商店带来的互联网主权化和割裂化越发严重。
 
 比如，大家都看到 Telegram 创始人 Durov 说如果他不停止 Telegram 的区块链项目有可能会遭到下架报复的问题。各国商店下架产品基本也是类似的情况。
@@ -43,7 +41,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-* [**采访 \|Decentralized Web 新世界 (I)**](https://mp.weixin.qq.com/s/ENOiFuktvVrLVSn-r71qoA)
+* [**采访 \| Decentralized Web 新世界 (I)**](https://mp.weixin.qq.com/s/ENOiFuktvVrLVSn-r71qoA)
 * [**采访 \| Decentralized Web 新世界（II）**](https://mp.weixin.qq.com/s/DuRs8kqQ-tvl7GAmZo6rhg)
 
 **CoinVoice：接下来我们来聊聊 Dimension,很多朋友听说 Dimension 是从一款插件工具 Maskbook 开始的，当时V神都转推了，除了我们熟知的加密聊天功能，能详细再为大家介绍下 Maskbook？接下来还有其他功能上线的计划吗？**
