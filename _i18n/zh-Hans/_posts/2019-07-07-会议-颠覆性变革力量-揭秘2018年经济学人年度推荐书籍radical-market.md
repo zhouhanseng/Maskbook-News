@@ -3,7 +3,7 @@ layout: post
 date: 2019-07-07
 lang: zh-Hans
 template: Simplified Chinese
-event_date: 2019-07-07
+event_date: '2019-07-07'
 timezone: 8
 type: 会议
 tags: []
