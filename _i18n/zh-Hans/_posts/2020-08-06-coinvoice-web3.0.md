@@ -43,7 +43,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 这里发一些我们之前的分享文章介绍一些细节。
 
-采访|Decentralized Web 新世界 (I)
+采访 \|Decentralized Web 新世界 (I)
 
 * [**采访 \| Decentralized Web 新世界（II）**](https://mp.weixin.qq.com/s/DuRs8kqQ-tvl7GAmZo6rhg)
 
@@ -53,7 +53,7 @@ Web3.0 一直以来被称之为是下一代互联网的雏形，通俗来讲，W
 
 比如说以下这些功能：《银河系第一款稳定币加密红包》，能在 Twitter/FB 等地发数字货币红包。这个文章是和 Makerdao 合作的活动。
 
-* [**活动\| 银河系第一款稳定币加密红包**](https://mp.weixin.qq.com/s/ohi53MEaqyIy687mowAixQ)
+* [**活动 \| 银河系第一款稳定币加密红包**](https://mp.weixin.qq.com/s/ohi53MEaqyIy687mowAixQ)
 
 Vitalik 发的已经被领完了。
 
