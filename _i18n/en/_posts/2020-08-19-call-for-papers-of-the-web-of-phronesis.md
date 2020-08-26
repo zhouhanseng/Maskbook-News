@@ -13,8 +13,6 @@ type: ''
 image: ''
 
 ---
-Call for Papers of The Web of Phronesis
-
 ![]({{ site.baseurl_root }}/uploads/1-3.png)
 
 While capitalism seems to be generally frustrated with the global spread of the Covid-19, surveillance capitalism has secretly risen with the virus explosion. In the name of security, a centralized digital regime with unchallengeable legitimacy power is now strictly monitoring people, which seems to bring about an information centralized online society.
@@ -89,7 +87,7 @@ Submission Guideline
 
 **Conference date:** October 20，2020；November 20-22, 2020
 
-\**Young Scholars Forum：**November 20-22，2020
+\Young Scholars Forum：November 20-22，2020
 
 **Conference venue:** Nanshan Campus, China Academy of Art, Hangzhou, China
 
