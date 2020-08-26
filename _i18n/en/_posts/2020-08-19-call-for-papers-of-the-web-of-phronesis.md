@@ -41,7 +41,6 @@ History is a filter and a narrative truth about the past. The truths could alway
 
 **Panel III. Decentralized Web(DWeb)**
 
-
 Is the Internet ruled by oligarchies sick? How to create an Internet in which inclusive love could stand, publicness would be compatible with privacy, and everyone is welcomed? We want to shift those centralized forces back to the users, the real participant in the existing Internet. In this panel, The practitioners of Decentralized Web will be invited to share their experiences on architecting in the atlas of the future which has already taken place.
 
 **Panel IV. Crypto-ist**
