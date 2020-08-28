@@ -13,6 +13,7 @@ location: 上海
 image: ''
 
 ---
+![]({{ site.baseurl_root }}/uploads/1-18.jpg)
 
 Injective Protocol 与 Maskbook 达成战略合作。双方将在去中心化网络数据收集与研究，新型衍生品交易和设计等多方面进行合作。数据层面的合作是本次战略合作中最核心的部分，同时双方团队还将围绕 ECIES (Elliptic Curve Integrate Encrypt Scheme 集成加密方案) 和其他混合加密方案进行研究。
 
