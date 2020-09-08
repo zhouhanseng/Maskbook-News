@@ -7,11 +7,10 @@ timezone: 0
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: Release Note: 1.15.10
+title: "Release Note: 1.15.10"
 location:
-type: ''
-image: ''
-
+type: ""
+image: ""
 ---
 
 Maskbook 1.15.0 has been released. We hope that you will like this version.
@@ -24,4 +23,3 @@ Now you can connect MetaMask to Maskbook, so that Maskbook can request to call a
 
 - Fixed a bug which injects duplicate payloads into composition text area when composing a post.
 - Fixed a bug which shows a useless request-for-permission prompt dialogue on mobile devices.
-

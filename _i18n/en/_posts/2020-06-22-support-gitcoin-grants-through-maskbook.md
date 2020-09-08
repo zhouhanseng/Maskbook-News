@@ -7,7 +7,7 @@ timezone: 8
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: Support Gitcoin Grants through Maskbook !
+title: Support Gitcoin Grants through Maskbook!
 location: Shanghai
 type: ''
 image: ''

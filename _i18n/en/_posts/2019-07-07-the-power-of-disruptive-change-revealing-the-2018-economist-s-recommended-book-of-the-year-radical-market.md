@@ -8,7 +8,7 @@ type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: " The Power of Disruptive Change-Revealing------Radical Market"
+title: "The Power of Disruptive Change-Revealing------Radical Market"
 location: Shanghai
 image: "{{ site.baseurl_root }}/uploads/19.1.jpg"
 

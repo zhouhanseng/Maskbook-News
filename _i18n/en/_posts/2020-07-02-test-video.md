@@ -8,8 +8,8 @@ type: ''
 tags: []
 en: []
 zh-Hant: []
-title: Video I How to  use Maskbook
-location: 'Shanghai '
+title: Video I How to use Maskbook
+location: 'Shanghai'
 image: ''
 
 ---

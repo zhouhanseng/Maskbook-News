@@ -8,11 +8,11 @@ type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: " Shanghai LessWrong Meetup"
+title: "Shanghai LessWrong Meetup"
 location: Shanghai
 image: ''
-
 ---
+
 I'm inviting to start a new Shanghai LW meetup, with a focus on a broader discussion about less wrong in the AI safety and cryptography in the context of the long-term outcomes for life and humanity. I'd suggest the common theme of the meetup tobe composition of relations in a general sense, — e.g., compositions of neuron models, compositions of cryptographic functions, etc.
 
 The initial objective of this meetup may well be to know the readers of LessWrong in Shanghai, and exchange the ideas how to estimate the collection of everyone's true (minimally biased) utility functions, and find ways to optimize the composition of relations (world's I/O)systems to improve the way they satisfy them.

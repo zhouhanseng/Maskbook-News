@@ -8,7 +8,7 @@ type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: " Maskbook Taipei Meetup"
+title: "Maskbook Taipei Meetup"
 location: Taipei
 image: ''
 
