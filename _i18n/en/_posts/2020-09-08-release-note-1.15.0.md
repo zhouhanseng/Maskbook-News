@@ -7,7 +7,7 @@ timezone: 0
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: "Release Note: 1.15.10"
+title: "Release Note: 1.15.0"
 location:
 type: ""
 image: ""
