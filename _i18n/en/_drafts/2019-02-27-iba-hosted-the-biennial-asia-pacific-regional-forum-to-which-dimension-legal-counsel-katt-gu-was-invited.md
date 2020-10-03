@@ -21,7 +21,7 @@ The conference will focus on blockchain technology and cryptocurrencies. With th
 
 ![]({{ site.baseurl_root }}/uploads/2.2-2.jpg)
 
-Katt Gu is a master of environmental science, doctor of law, and Ph.D. candidate in informatics at UIUC in the United States. Her thesis includes blockchain/cryptocurrency legislation and entrepreneurship law. She started to enter the blockchain industry in 2016, and currently serves as an advisor to the Asia-Pacific Blockchain Development Association and a specially-appointed researcher at the Waseda University Blockchain Research Institute. She is mainly responsible for providing recommendations on cryptocurrency legislation for governments / various countries.
+Katt Gu is a master of environmental science, Doctor of Laws, and Ph.D. candidate in informatics at UIUC in the United States. Her thesis includes blockchain/cryptocurrency legislation and entrepreneurship law. She started to enter the blockchain industry in 2016, and currently serves as an advisor to the Asia-Pacific Blockchain Development Association and a specially-appointed researcher at the Waseda University Blockchain Research Institute. She is mainly responsible for providing recommendations on cryptocurrency legislation for governments / various countries.
 
 ![]({{ site.baseurl_root }}/uploads/2.3-1.jpg)
 
