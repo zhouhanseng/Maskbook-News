@@ -47,32 +47,32 @@ Develop ECMA Script standard, the process of standard generation, and implement�
 
 **Consists of five steps：**
 
-**STAGE 0** 
+**STAGE 0**
 
 Any discussion, idea, change, or addition which has not yet been submitted as a formal proposal is considered to be a “strawman” proposal at Stage 0. Only members of TC39 can create these proposals,。
 
-**STAGE 1** 
+**STAGE 1**
 
 At Stage 1 a proposal is formalized and expected to address cross-cutting concerns, interactions with other proposals, and implementation concerns. Proposals in this stage identify a discrete problem and offer a concrete solution to that problem.
 
-**STAGE 2** 
+**STAGE 2**
 
 Proposals in Stage 2 should offer an initial draft of the specification.
 
 At this point, it’s reasonable for implementers to begin experimenting with actual implementations in runtimes. The implementation could come in the form of a polyfill, user code that mangles the runtime into adhering to the proposal; an engine implementation, which natively provides support for the proposal; or it could be support by a build-time compiler like Babel.
 
-**STAGE 3** 
+**STAGE 3**
 
 Proposals in Stage 3 are candidate recommendations. At this advanced stage, the specification editor and designated reviewers must have signed off on the final specification. A Stage 3 proposal is unlikely to change beyond fixes to issues identified in the wild.
 
 Implementors should have expressed interest in the proposal as well — a proposal without support from implementors is dead in the water. In practice, proposals move to this level with at least one browser implementation, a high-fidelity polyfill or when supported by a build-time transpiler like Babel.
 
-**STAGE 4** 
+**STAGE 4**
 
 Finally, proposals get to Stage 4 when there are at least two independent implementations that pass acceptance tests.
 
 Proposals that make their way through to stage four will be included in the next revision of ECMAScript.
 
-新闻链接：
+News Link:
 
 [https://www.ecma-international.org/publications/standards/Ecma-262.htm](https://www.ecma-international.org/publications/standards/Ecma-262.htm "https://www.ecma-international.org/publications/standards/Ecma-262.htm")
