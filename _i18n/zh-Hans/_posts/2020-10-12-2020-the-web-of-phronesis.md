@@ -75,7 +75,7 @@ _天问特别场 危机与转变 线上报名_
 
 **基进市场**
 
-天问特别场第六场 危机 | 转机
+天问特别场第六场 危机 \| 转机
 
 时间：2020/10/20 （週二） 18:30-21:30
 
@@ -192,6 +192,8 @@ Nym Technologies 首席执行官 哈里·哈尔平 Harry Halpin
 加密无政府主义者，Nethemba 创始人，Hacktrophy 联合创始人 帕沃尔·卢普塔克 Pavol Luptak
 
 **年会议程 PROGRAM**
+
+![]({{ site.baseurl_root }}/uploads/6-5.jpg)
 
 ![]({{ site.baseurl_root }}/uploads/7-5.jpg)
 ![]({{ site.baseurl_root }}/uploads/8-5.jpg)
