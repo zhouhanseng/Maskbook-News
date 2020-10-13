@@ -89,7 +89,7 @@ _名列 ECMA 的官网上_
 
 **_（二）个人理财_**
 
-除了支付业务，我们也涉足了个人理财业务，并希望改变人们的理财方式。我们已经在 Twitter 上线了由 CMC 和 Uniswap 支持的加密货币交易小插件（[_教程 | 行情交易一网打尽，一起来玩转 Mask Network 新功能！_](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）。接下来，我们将在 Facebook 和 Twitter 等平台上进一步引入一整套去中心化金融应用，以为下一代个人带来全新的理财体验。用户将能够在不离开传统社交网络的情况下进行付款、交易代币、借款、追踪优秀的交易者，参与代币公开发行，发行个人代币，甚至押注时事并获取专业级的投资组合分析。尽管在大规模应用的过程中，Mask Network 还存在许多问题，但我们也在逐步解决它们。
+除了支付业务，我们也涉足了个人理财业务，并希望改变人们的理财方式。我们已经在 Twitter 上线了由 CMC 和 Uniswap 支持的加密货币交易小插件（[_教程 \| 行情交易一网打尽，一起来玩转 Mask Network 新功能！_](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）。接下来，我们将在 Facebook 和 Twitter 等平台上进一步引入一整套去中心化金融应用，以为下一代个人带来全新的理财体验。用户将能够在不离开传统社交网络的情况下进行付款、交易代币、借款、追踪优秀的交易者，参与代币公开发行，发行个人代币，甚至押注时事并获取专业级的投资组合分析。尽管在大规模应用的过程中，Mask Network 还存在许多问题，但我们也在逐步解决它们。
 
 我们应用的第一个版本已经于 9 月 24 日在 Twitter 上线，这是一个整合了 CMC 价格图标和 Uniswap 交易功能的小插件。第二个版本将在 45 天内推出，新增功能包括 Twitter 上的首次发行（Initial Twitter Offering, ITO）、收益聚合器以及投资组合分析。![]({{ site.baseurl_root }}/uploads/8-1.png)
 
@@ -103,7 +103,7 @@ _（由 CMC & Uniswap 🦄 提供技术支持）_
 
 Web 3.0 的另一个主要部分是去中心化存储。**如果我们能将去中心化支付和去中心化存储功能结合在一起，并引入隐私控制和反审查功能，便有可能永久性地改变多媒体内容的分发方式以及互联网上的电子商务模式。**多媒体内容和艺术作品很可能会被转换成不同的 NFT ，再通过去中心化的存储解决方案，被存储在去中心化的网络中。
 
-现在，去中心化存储项目 Arweave 已经和我们进行了合作（[_教程 | 如何在Maskbook上使用去中心化文件存储及分享_](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485534&idx=1&sn=d9348c6612dc9b3d9b628504bf81a91f&chksm=fdc727c8cab0aede411398b38f6f108b0bfcbcec3417e59c3ad41fd97aaaa0657fd8e8030f06&scene=21#wechat_redirect)），其存储功能也已整合上线。除此之外，他们还给我们提供了一笔捐赠。现在，你已经可以通过 Twitter 和 Facebook 向你的朋友发送文件。我们仍在致力于支付+存储的功能完善。
+现在，去中心化存储项目 Arweave 已经和我们进行了合作（[_教程 \| 如何在Maskbook上使用去中心化文件存储及分享_](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485534&idx=1&sn=d9348c6612dc9b3d9b628504bf81a91f&chksm=fdc727c8cab0aede411398b38f6f108b0bfcbcec3417e59c3ad41fd97aaaa0657fd8e8030f06&scene=21#wechat_redirect)），其存储功能也已整合上线。除此之外，他们还给我们提供了一笔捐赠。现在，你已经可以通过 Twitter 和 Facebook 向你的朋友发送文件。我们仍在致力于支付+存储的功能完善。
 
 ![]({{ site.baseurl_root }}/uploads/10-2.png)
 
