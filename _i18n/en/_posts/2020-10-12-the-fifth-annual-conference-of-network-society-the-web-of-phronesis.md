@@ -13,7 +13,8 @@ type: ''
 image: ''
 
 ---
-  
+![]({{ site.baseurl_root }}/uploads/1-2.gif)
+
 **TIME**
 
 2020/10/20
