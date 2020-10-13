@@ -19,7 +19,7 @@ image: ''
 
 征稿启事详见：
 
-###### [**延至 10 月 10 日截稿！“实践智慧之网”青年学者论坛征稿截稿日期延迟公告**](https://mp.weixin.qq.com/s?__biz=MzI0MzQzNTczMA==&mid=2247486510&idx=1&sn=e4540cbb4dd964f831ca3cc14e5d5028&scene=21#wechat_redirect)
+##### [**延至 10 月 10 日截稿！“实践智慧之网”青年学者论坛征稿截稿日期延迟公告**](https://mp.weixin.qq.com/s?__biz=MzI0MzQzNTczMA==&mid=2247486510&idx=1&sn=e4540cbb4dd964f831ca3cc14e5d5028&scene=21#wechat_redirect)
 
 * **论文摘要投稿期限：10/10**
 * **第一场研讨主题，天问场次：10/20**
