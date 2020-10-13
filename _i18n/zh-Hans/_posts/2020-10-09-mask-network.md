@@ -45,8 +45,6 @@ Mask Network 新标识将保留原来的笑脸元素，将文字内容由“ Mas
 
 ![]({{ site.baseurl_root }}/uploads/2-6.png)
 
-![]({{ site.baseurl_root }}/uploads/3-5.png)
-
-三、Mask Network 在运营宣传实工作中，将逐步从旧版品牌，LOGO ，网址向新版品牌，LOGO，网址进行过渡更改。Mask Network 的官方宣传渠道将在近期更改为最新的品牌，LOGO。
+![]({{ site.baseurl_root }}/uploads/3-5.png)三、Mask Network 在运营宣传实工作中，将逐步从旧版品牌，LOGO ，网址向新版品牌，LOGO，网址进行过渡更改。Mask Network 的官方宣传渠道将在近期更改为最新的品牌，LOGO。
 
 未来，也请多多支持 Mask Network。
