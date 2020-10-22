@@ -41,7 +41,7 @@ RadicalxChange
 
 **基进市场 RADICAL MARKET**
 
-\*天问特别场 第六场 危机 | 转机
+\*天问特别场 第六场 危机 \| 转机
 
 **-概要-**
 
@@ -77,7 +77,7 @@ The global crises of declining productivity, economic stagnation, conflict and i
 
 **-主题演讲者-**
 
-**维塔利克·布特林 | Vitalik Buterin**
+**维塔利克·布特林 \| Vitalik Buterin**
 
 ![]({{ site.baseurl_root }}/uploads/3-11.png)
 
@@ -113,7 +113,7 @@ Ethereum community governance and Gitcoin Quadratic Funding
 
 某种程度上，我是一个一直生活在“系统之外”的人。我通过互联网自己学习很多东西的经历，让我意识到一件事情很重要：建立一个世界，让不管以任何方式脱离主流的人们都可以在这里生活。我年轻的时候没有信用卡，比特币使我能够在互联网上买东西，更重要的是它让我能在网上找到工作，开始赚钱。对我来说这就是一个重要的现实生活示范，证明了去中心化技术的价值——创造一个更包容的世界。——Vitalik 谈自由主义及去中心化的初次启蒙
 
-**格伦·韦尔 | Glen Weyl**
+**格伦·韦尔 \| Glen Weyl**
 
 ![]({{ site.baseurl_root }}/uploads/4-9.jpg)
 
