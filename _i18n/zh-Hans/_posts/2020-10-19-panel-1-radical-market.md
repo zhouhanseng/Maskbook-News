@@ -41,7 +41,7 @@ RadicalxChange
 
 **基进市场 RADICAL MARKET**
 
-\*天问特别场 第六场 危机 \| 转机
+\*天问特别场 第六场 危机 | 转机
 
 **-概要-**
 
@@ -77,7 +77,7 @@ The global crises of declining productivity, economic stagnation, conflict and i
 
 **-主题演讲者-**
 
-**维塔利克·布特林 \| Vitalik Buterin**
+**维塔利克·布特林 | Vitalik Buterin**
 
 ![]({{ site.baseurl_root }}/uploads/3-11.png)
 
@@ -95,7 +95,7 @@ Vitalik Buterin is a Russian-Canadian computer engineer and writer. He calls him
 
 Ethereum community governance and Gitcoin Quadratic Funding
 
-摘要：社区素来十分依赖公共物品，这种依赖在线上社区内更甚。然而资助公共物品必然呈现出一种政治上的难题：谁来选择资助的项目？这些选择的好坏如何评定？“二次方募资”这一创新机制就为资助公共物品提供了一种既民主又符合市场规律的规划方式，并且这一机制多半非常适用于不同类型的线上社区。虽然我们在方案实施方面仍面临许多亟待解决的问题，但是至少过去一年半内以太坊通过 Gitcoin 资助平台进行的“二次方募资”实验结果都非常乐观。这次我将就太坊生态系统实验和二次方募资来谈谈此次实验的收获。
+**摘要：**社区素来十分依赖公共物品，这种依赖在线上社区内更甚。然而资助公共物品必然呈现出一种政治上的难题：谁来选择资助的项目？这些选择的好坏如何评定？“二次方募资”这一创新机制就为资助公共物品提供了一种既民主又符合市场规律的规划方式，并且这一机制多半非常适用于不同类型的线上社区。虽然我们在方案实施方面仍面临许多亟待解决的问题，但是至少过去一年半内以太坊通过 Gitcoin 资助平台进行的“二次方募资”实验结果都非常乐观。这次我将就太坊生态系统实验和二次方募资来谈谈此次实验的收获。
 
 **Abstract:** All communities depend heavily on public goods, and online communities even more so. But funding public goods inevitably presents governance challenges: who chooses what projects to fund, and are those choices going to be good? The recent innovation of quadratic funding provides a promising market-like and democratic way of allocating funding to public goods, and is potentially extremely well-suited to many kinds of online communities. In the Ethereum ecosystem, we have been testing quadratic funding through the Gitcoin Grants platform for the last one and a half years, and the mechanism has seen very promising results, though the real-world implementation has revealed challenges that we have had to deal with.I talk about the Ethereum ecosystem's experiences with quadratic funding, and some of the lessons that we have learned.
 
@@ -113,7 +113,7 @@ Ethereum community governance and Gitcoin Quadratic Funding
 
 某种程度上，我是一个一直生活在“系统之外”的人。我通过互联网自己学习很多东西的经历，让我意识到一件事情很重要：建立一个世界，让不管以任何方式脱离主流的人们都可以在这里生活。我年轻的时候没有信用卡，比特币使我能够在互联网上买东西，更重要的是它让我能在网上找到工作，开始赚钱。对我来说这就是一个重要的现实生活示范，证明了去中心化技术的价值——创造一个更包容的世界。——Vitalik 谈自由主义及去中心化的初次启蒙
 
-**格伦·韦尔 \| Glen Weyl**
+**格伦·韦尔 | Glen Weyl**
 
 ![]({{ site.baseurl_root }}/uploads/4-9.jpg)
 
@@ -131,11 +131,11 @@ Glen Weyl, born 1985 in San Francisco, is an economist. He is also Microsoft’s
 
 The Political Philosophy of RadicalxChange
 
-摘要：资本主义只有在收益减少的情况下（当整体小于部分之和）才能有效地配置资源，但人类文明的前提恰好相反。然而，跨越国界并聚集其中的收益增长现象具有一定多样性，即便是民主的民族国家也无法提供明确的解决方案。因此，我们必须超越这些冲突的范式，建立崭新的多样化集体治理机构，以适应不断变化的社会合作模式。RadicalxChange 是一种全新的、通过严谨科学和社会参与，来想象、建立、实验和倡导实现这些目标的运动。Glen Weyl 将与大家探讨这项运动的原则，以及它改变商业和治理的方式。
+**摘要：**资本主义只有在收益减少的情况下（当整体小于部分之和）才能有效地配置资源，但人类文明的前提恰好相反。然而，跨越国界并聚集其中的收益增长现象具有一定多样性，即便是民主的民族国家也无法提供明确的解决方案。因此，我们必须超越这些冲突的范式，建立崭新的多样化集体治理机构，以适应不断变化的社会合作模式。RadicalxChange 是一种全新的、通过严谨科学和社会参与，来想象、建立、实验和倡导实现这些目标的运动。Glen Weyl 将与大家探讨这项运动的原则，以及它改变商业和治理的方式。
 
 **Abstract:** Capitalism is able to efficiently allocates resources only under condition of decreasing returns (when the whole is less than the sum of the parts), but human civilization is premised on the reverse. Yet even a democratic nation state offers no clear solution, given the diversity of increasing returns phenomena we participate in, crossing borders and clustering inside of them. We must move beyond these conflicting paradigms to build diverse and emergent collective governance institutions, capable of adapting to the ever-shifting patterns of social cooperation. RadicalxChange is a movement that imagines, builds, experiments with and advocates for radically new ways of achieving these goals using scientific rigor and social participation. I will discuss the principles of the movement and the way it is already transforming business and governance.
 
-\**关键词：**后资本主义，后民族主义，多元政治主义，公共物品
+**关键词：**后资本主义，后民族主义，多元政治主义，公共物品
 
 **Keywords:** postcapitalism, postnationalism, polypolitanism, public goods
 
@@ -167,19 +167,19 @@ The Web of Phronesis
 
 基进市场/RADICAL MARKET
 
-\时间：2020/10/20（週二） 18:30-21:30
+**时间：**2020/10/20（週二） 18:30-21:30
 
 **TIME:** 2020/10/20 Tuesday 18:30-21:30
 
-\地点：中国美术学院象山校区 8号楼 山北体育馆
+**地点：**中国美术学院象山校区 8号楼 山北体育馆
 
 **VENUE:** Shanbei Gymnasium (BLD.8), Xiangshan Campus, China Academy of Art, Hangzhou
 
-\主持人：黄孙权&刘益红
+**主持人：**黄孙权&刘益红
 
 **MODERATOR:** Huang SunQuan & Liu Yihong
 
-\回应人：刘怿斯&阎晗
+**回应人：**刘怿斯&阎晗
 
 **COMMENTARY:** Liu yisi & Yan Suji
 
