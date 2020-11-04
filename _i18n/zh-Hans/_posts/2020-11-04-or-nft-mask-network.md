@@ -51,9 +51,9 @@ image: ''
 
 ![](https://mmbiz.qpic.cn/mmbiz_gif/QpV1OYwdMHCdqyRgniccjlWpYxW6gAF4psZF2WPdcXfD58pib6vzbPGa6WbFR1EPTIs1STsRAYf4yia2maEibeanYw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
 
-NFT 红包跟普通红包很像也会遵循先到先得的规律，每个账号每次只能抢一个哦～欢迎大家多多参与!
+NFT 红包跟普通红包很像也会遵循先到先得的规律，每个账号每次只能抢一个哦～欢迎大家多多参与！
 
-![]({{ site.baseurl_root }}/uploads/9988b5d01d4ded968e638427af2eaf8d.gif)
+![]({{ site.baseurl_root }}/uploads/9988b5d01d4ded968e638427af2eaf8d-1.gif)
 
 （小声说：这些 NFT 后续还有更高的价值哦，大家一定要去抢看看！有些 NFT 会比另一些更值钱，你的参与可能会影响其他人的结果，但我们也不知道究竟会怎样😊）
 
