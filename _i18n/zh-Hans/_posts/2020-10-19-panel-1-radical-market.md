@@ -25,13 +25,13 @@ image: ''
 
 生产力降低、经济停滞、冲突与不均的全球危机现象，乃因资本主义内在的掠夺性积累、垄断、分配不公以及社会制度的民主表达机制不良，劳动力流动限制与移民政策等所造成。“基进市场”是一场迈向基进改变的思想实验，以之筹划经济、社会、资讯技术的由下而上的未来方案，同时考虑到自由市场的配置效率与投资诱因，成为社会性共好的转机。什么是当下危机的关键问题？如何在自由经济与国家在长期风险管控方面的经济干预之间取得平衡？现代社会如何应对与系统复杂性正相关的伴生风险？
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCx00l7lhnZJJ66a1cu0GqtEtMoHHNyEyiau4iaq2XmrRunS6g65NKHPAJvjjTyO88iapPlCrXpUQKvg/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/1-23.jpg)
 
 Radical Markets
 
 [_http://radicalmarkets.com/_](http://radicalmarkets.com/ "http://radicalmarkets.com/")
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCx00l7lhnZJJ66a1cu0GqtcOEDFxk1UPRjiangrY6HaaLDKLd74JbFUtVNFcM2iargKtvCsHSTzZmQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/2-12.png)
 
 RadicalxChange
 
@@ -41,7 +41,7 @@ RadicalxChange
 
 **基进市场 RADICAL MARKET**
 
-\*天问特别场 第六场 危机 \| 转机
+天问特别场 第六场 危机 | 转机
 
 **-概要-**
 
@@ -77,7 +77,7 @@ The global crises of declining productivity, economic stagnation, conflict and i
 
 **-主题演讲者-**
 
-**维塔利克·布特林 \| Vitalik Buterin**
+**维塔利克·布特林 | Vitalik Buterin**
 
 ![]({{ site.baseurl_root }}/uploads/3-11.png)
 
@@ -113,7 +113,7 @@ Ethereum community governance and Gitcoin Quadratic Funding
 
 某种程度上，我是一个一直生活在“系统之外”的人。我通过互联网自己学习很多东西的经历，让我意识到一件事情很重要：建立一个世界，让不管以任何方式脱离主流的人们都可以在这里生活。我年轻的时候没有信用卡，比特币使我能够在互联网上买东西，更重要的是它让我能在网上找到工作，开始赚钱。对我来说这就是一个重要的现实生活示范，证明了去中心化技术的价值——创造一个更包容的世界。——Vitalik 谈自由主义及去中心化的初次启蒙
 
-**格伦·韦尔 \| Glen Weyl**
+**格伦·韦尔 | Glen Weyl**
 
 ![]({{ site.baseurl_root }}/uploads/4-9.jpg)
 
@@ -161,7 +161,7 @@ The Fifth Annual Conference of Network Society:
 
 The Web of Phronesis
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCx00l7lhnZJJ66a1cu0GqtVfmBnONy48WNkz74bA6icHjEwmW8pjYKswTYKHsdBRkS4PiawQGcR6sw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/5-7.jpg)
 
 主题一/Panel 1
 
@@ -189,7 +189,7 @@ The Web of Phronesis
 
 👇 年会主场与工作坊👇
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCx00l7lhnZJJ66a1cu0GqtH6IJicT2Gu7C6k7UaUkrkCJK4POFoYYN7YiaXgh3ibPY386fgQWAA1yog/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/6-6.png)
 
 👇 年会论坛一（天问第六场）👇
 
