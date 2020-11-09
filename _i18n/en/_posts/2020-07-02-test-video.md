@@ -9,7 +9,7 @@ tags: []
 en: []
 zh-Hant: []
 title: Video I How to use Maskbook
-location: 'Shanghai'
+location: Shanghai
 image: ''
 
 ---
