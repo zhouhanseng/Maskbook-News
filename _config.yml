@@ -32,8 +32,8 @@ exclude_from_localizations: ["uploads", "assets", "admin", "README.md", "LICENSE
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title: "News"
-subtitle: "Maskbook"
-description: "Make Privacy Protected Again"
+subtitle: "Mask"
+description: "The Portal to the New, Open Internet."
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
