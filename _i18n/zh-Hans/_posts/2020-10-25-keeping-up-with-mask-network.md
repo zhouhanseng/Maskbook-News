@@ -84,4 +84,4 @@ Dimension / Mask Network CTO
 
 Q&A
 
-![](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHAhyRz3dia8ks2gvlibOXicxBG3vZXv3tVE5p5EURoHoEuWga1zo3kIRLRzz6BTjKCYibpdDVSb3BJicbA/640?wx_fmt=other&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/1-24.jpg)
