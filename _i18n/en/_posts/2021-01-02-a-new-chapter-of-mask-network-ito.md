@@ -15,9 +15,7 @@ image: ''
 ---
 Happy New Year!
 
-Thank you for all your support in the last year! In 2020, Mask Network has launched many new features such as adding Trading and DEXs feature, supporting NFTs on Twitter and adding Fiat On-ramp. Now it’s 2021 and we are glad to announce that Mask Network will launch a really cool new feature**— — ITO（Initial Twitter Offering)**.
-
-!\[Image for post\](https://miro.medium.com/max/38/1*73_T3Dwrm5m9zYz-oF1fhw.png?q=20 =4129x2063)
+Thank you for all your support in the last year! In 2020, Mask Network has launched many new features such as adding Trading and DEXs feature, supporting NFTs on Twitter and adding Fiat On-ramp. Now it’s 2021 and we are glad to announce that Mask Network will launch a really cool new feature— — **ITO（Initial Twitter Offering)**.
 
 ![]({{ site.baseurl_root }}/uploads/1-17.png)
 
