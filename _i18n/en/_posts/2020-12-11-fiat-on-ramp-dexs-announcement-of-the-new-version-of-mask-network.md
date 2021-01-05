@@ -19,9 +19,9 @@ It’s been almost 3 months since Mask Network announced the launch of the Tradi
 
 **_More Trading Information_**
 
-On Sep 24, Mask Network launched a new feature which supported viewing crypto price charts and direct trading on Twitter. The launch of this trading widget was a blast. The data source is powered by CoinMarketCap. After setting up the Mask Plug-in, the users can hover the mouse to any “$+ticker” like $BTC or $ETH, then our widget will automatically detect and pop up with the latest price chart of the token.![]({{ site.baseurl_root }}/uploads/2-25.jpg)
+On Sep 24, Mask Network launched a new feature which supported viewing crypto price charts and direct trading on Twitter. The launch of this trading widget was a blast. The data source is powered by CoinMarketCap. After setting up the Mask Plug-in, the users can hover the mouse to any “$+ticker” like $BTC or $ETH, then our widget will automatically detect and pop up with the latest price chart of the token.
 
-Now, the price chart is supported to display on the search page. You can get the info of cryptocurrencies faster and directly.
+![]({{ site.baseurl_root }}/uploads/2-25.jpg)Now, the price chart is supported to display on the search page. You can get the info of cryptocurrencies faster and directly.
 
 ![]({{ site.baseurl_root }}/uploads/3-18.png)
 
@@ -55,8 +55,6 @@ We use [**Transak**](https://transak.com/) to aggregate fiat on/off ramps across
 
 Fiat on-ramp not only enables direct crypto trading, but it also allows for various purchases via this crypto-fiat bridge. Stay tuned for what you can purchase next!
 
-!\[Image for post\](https://miro.medium.com/max/38/0*0xNgCpWEicLtHeJ2?q=20 =903x503)![]({{ site.baseurl_root }}/uploads/5-13.jpg)
-
-_Follow this link for _[**_Transak_**_’_](https://transak.com/)_s coverage and KYC requirement_
+![]({{ site.baseurl_root }}/uploads/5-13.jpg)_Follow this link for _[**_Transak_**_’_](https://transak.com/)_s coverage and KYC requirement_
 
 [_Coverage, Payment Methods, Fees & Limits_](https://www.notion.so/Coverage-Payment-Methods-Fees-Limits-30c0954fbdf04beca68622d9734c59f9)
