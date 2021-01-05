@@ -13,15 +13,15 @@ type: ''
 image: ''
 
 ---
-TL;DR🗞️
+## TL;DR🗞️
 
 **Mask Network (originally named Maskbook) is a portal that allows users to seamlessly send encrypted messages, cryptocurrencies, and even DApps (Defi, NFTs, DAO) over the top of social networks without migrating, and thereby creating a decentralized Applet(DApplet) ecosystem. In short, we want to bridge the New, Open Internet right on top of the current one.**
 
-**An Overview 🔍**
+## **An Overview 🔍**
 
 Instead of creating a new platform, Mask Network aims to bridge Web2 (the current web) and so-called Web3, to empower the general public to use the better web within the current mainstream platforms, without using any API or centralized server.
 
-**Our Vision 🚩**
+## **Our Vision 🚩**
 
 People live on the Internet. **The current version of the internet consists of big techs after big techs where people essentially have to give up control of their own autonomy and cannot even get a breathing room in between the platforms. Many want to overthrow them by starting new ones.**
 
@@ -29,7 +29,7 @@ People live on the Internet. **The current version of the internet consists of b
 
 The historical reference is the _Operating system vs Web browser_. Microsoft Windows used to be the ‘evil’ dominant player, taking over 90% of the OS market share. But the Internet (more specifically, Web) changes everything. Everyone still uses operating systems, but the pie has been significantly diluted by the Internet. **The web browser is built inside the operating system and sucks in most of the operating system usage gradually and effectively — became the operating system**. Microsoft had to preinstall IE to fight back against Netscape — finally leading to [DOJ’s action against Microsoft](https://www.justice.gov/atr/us-v-microsoft-courts-findings-fact).
 
-!\[Image for post\](https://miro.medium.com/max/38/1*16RRnsCTNKs5uasItl9fXA.png?q=20 =2020x1174)
+![]({{ site.baseurl_root }}/uploads/1-19.png)
 
 Historical Parallel: Microsoft Windows — Netscape Navigator
 
@@ -37,7 +37,7 @@ Now onto the social networks. Some 90% of the global Internet users are social n
 
 Is there something that can fix all those problems? The rise of peer to peer networks, blockchain, decentralized storage, collectively denominated as Web 3, are giving us a silver lining. We want to piece them together and give ordinary users a whole new Internet inside the existing one.
 
-!\[Image for post\](https://miro.medium.com/max/38/1*vU63SiggcP1LluQcBBItXA.png?q=20 =2400x1536)
+![]({{ site.baseurl_root }}/uploads/2-21.png)
 
 _Mask Network — the bridge connect Web2 and Web3_
 
@@ -45,19 +45,19 @@ _Mask Network — the bridge connect Web2 and Web3_
 
 Mask Network has been up and running for almost a year. In the earliest version back in July 2019. The basic function it provides is sending and receiving encrypted posts (tweets/fb posts) with access control. This is achieved without having a centralized server. **We also kept UI consistency with platforms to reduce on-boarding costs.**
 
-!\[Image for post\](https://miro.medium.com/max/38/0*ZLhwL6w0H6QEMiL5?q=20 =1338x446)
+![]({{ site.baseurl_root }}/uploads/3-21.png)
 
 _UI for composing encrypted posts_
 
-!\[Image for post\](https://miro.medium.com/max/38/1*XsW4bO3zzwP-rbrQt43hRA.png?q=20 =1280x800)
+![]({{ site.baseurl_root }}/uploads/4-15.png)
 
 **Text is a form of information, if you can send a text through the dialogue box, then you can send other things too, picture, code, contracts, apps, etc.** So in the next major version released in February 2020, we enabled payment. **Specifically, we launched the Lunar New Year Red Packet campaign with MakderDAO and Vitalik Buterin also sent his 1st ETH give-away red packets using Mask Network. We were able to add 2000+ active non-bot Dai holders in a matter of 3 days(10% of non-bot DAI holders back in Feb!).** With the payment enabled, we launched a feature that makes it simple to send crypto via Gitcoin Grants to Ethereum-based startups and support crypto for black lives. See the [decrypt article](https://decrypt.co/33024/an-new-easy-way-to-fund-gitcoin-grants-via-maskbook) for details.
 
-!\[Vitalik Buterin sending red packets\](https://miro.medium.com/max/38/0*GOoaSuz29ezTLjDT?q=20 =1148x1152)
+![]({{ site.baseurl_root }}/uploads/5-9.png)
 
 _Vitalik Buterin sending red packets_
 
-!\[Image for post\](https://miro.medium.com/max/38/1*qxrh3bTZNEesUCO2Alxf_A.png?q=20 =1198x1070)
+![]({{ site.baseurl_root }}/uploads/6-10.png)
 
 _MakerDAO official account sending DAI red packets_
 
@@ -65,7 +65,7 @@ On the entry point front, Mask Network has multiple versions to fit into differe
 
 **We have also received critical acclaim and have been selected as a member of ECMA/TC39 (one of the only 3 from the blockchain community), setting up standards of JavaScript and pushing the limit of the new Web alongside giants like Apple/Google, and alliances like MetaMask.**
 
-!\[Image for post\](https://miro.medium.com/max/38/0*9NK08pYSSB2Ib-iD?q=20 =1600x1464)
+![]({{ site.baseurl_root }}/uploads/7-8.png)
 
 _Sujitech, LLC (our US company) listed on the ECMA’s Official website with MetaMask, etc._
 
@@ -89,11 +89,11 @@ Going along the payment line, we are tapping into the personal finance business 
 
 The first version with a CMC price chart and Uniswap trading on Twitter is launching on Sept 24th. A second version with Initial Twitter Offering, yield aggregator, and portfolio analysis is also coming in 45 days.
 
-!\[Image for post\](https://miro.medium.com/max/35/0*FHTRATfEHMU0xPOl?q=20 =1350x1434)
+![]({{ site.baseurl_root }}/uploads/8-5.png)
 
 _Trade $UNI without leaving Twitter_
 
-!\[Image for post\](https://miro.medium.com/max/38/1*WSE-xHhsxXcf_ivegRcSKw.png?q=20 =1792x1016)
+![]({{ site.baseurl_root }}/uploads/9-4.png)
 
 Trading View by CMC & Uniswap 🦄 on Twitter
 
@@ -101,7 +101,7 @@ Trading View by CMC & Uniswap 🦄 on Twitter
 
 The other major part of the new web is decentralized storage. **Bringing decentralized payment and storage together, along with privacy control and anti-censorship factors could permanently change how multimedia content is distributed and E-commerce is conducted throughout the internet.** The multimedia contents, artworks, which will likely be turned into NFTs, will be stored on the decentralized storage solutions. Right now Arweave has already given us some grants and the Arweave integration is live. You can send files to your friends via Twitter and Facebook. We are still working on payment + storage.
 
-!\[Image for post\](https://miro.medium.com/max/34/0*3bfhJ17loXzq2K1A?q=20 =1321x1481)
+![]({{ site.baseurl_root }}/uploads/10-7.png)
 
 _Arweave integration for file storage on Twitter_
 
@@ -117,7 +117,7 @@ Recently Crypto art NFTs are gaining traction. Native NFT e-commerce platforms w
 
 In Mask Network, each user can generate unlimited ‘personas’ and each persona represents a _secp256k1_ key pair. One can post their public key onto their social network profiles or create a public post containing the public key. Other users can retrieve this public key and create a pubkey-username mapping in their local Mask Network database.
 
-!\[Image for post\](https://miro.medium.com/max/38/1*lWl8Qox81HyZjWjBQvczQw.jpeg?q=20 =2774x1556)
+![]({{ site.baseurl_root }}/uploads/11-4.png)
 
 _Tech Stack on Encryption & Decryption_
 
@@ -145,7 +145,7 @@ We are still working on more applets to unlock more imaginations on our network 
 
 We have come a long way to build this portal to bridge Web 2 and Web 3. Both the decentralized infrastructures and applications are leaping forward at a magnificent pace. **It will soon be ripe for the general public to have a dose of the new, open Internet. We hope we can be a pivotal and unique part of the process.**
 
-!\[Image for post\](https://miro.medium.com/max/29/0*HltzZZ5OPPPMR0qe?q=20 =960x1280)
+![]({{ site.baseurl_root }}/uploads/12-4.png)
 
 _Happy Mooncake Festival and enjoy the_ [_Independence of Cyberspace_](https://www.eff.org/cyberspace-independence) _(credit: Retric)_
 
