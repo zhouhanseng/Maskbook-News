@@ -17,7 +17,7 @@ _This article is written by Orange Paper(橙皮书) and translated by_ [Tianyu M
 
 **If Bitcoin had existed before Twitter, would the history of social networking have been rewritten?**
 
-[1-jpeg.crdownload]({{ site.baseurl_root }}/uploads/1-jpeg.crdownload "1-jpeg.crdownload")
+![]({{ site.baseurl_root }}/uploads/1.jpeg)
 
 (This story is completely fictional.)
 
