@@ -13,6 +13,14 @@ sections:
   templates:
   - en-post
 - type: directory
+  path: _i18n/ja/_posts
+  label: Japanese
+  create: documents
+  match: "*"
+  exclude: "*.yml"
+  templates:
+  - ja-post
+- type: directory
   path: _i18n/zh-Hans/_posts
   label: Simplified Chinese
   create: documents

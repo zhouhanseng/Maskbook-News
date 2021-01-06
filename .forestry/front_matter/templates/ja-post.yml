@@ -1,5 +1,5 @@
 ---
-label: Traditional Chinese Post
+label: Japanese Post
 hide_body: false
 fields:
 - name: layout
@@ -14,14 +14,14 @@ fields:
   config:
     required: true
   label: Language
-  default: zh-Hant
+  default: en
   hidden: true
 - name: template
   type: text
   config:
     required: false
   label: Template
-  default: Traditional Chinese
+  default: Japanese
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
   hidden: true
 - name: title
@@ -58,23 +58,24 @@ fields:
   label: Location
 - name: type
   type: select
-  default: Visiting Event
+  default: ''
   config:
     required: false
     options:
-    - 活動
-    - 預告
-    - 回顧
-    - 新聞
-    - 會議
-    - 快訊
-    - 採訪
+    - アクティビティ
+    - 通知
+    - レビュー
+    - ニュース
+    - 会議
+    - ニュース
+    - インタビュー
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Type
+  hidden: true
 - name: image
   type: file
   config:
@@ -97,19 +98,6 @@ fields:
       path: 
   label: English
   hidden: true
-- name: ja
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: japanese-posts
-      file: 
-      path: 
-  label: Japanese
-  hidden: true
 - name: zh-Hans
   type: select
   default: []
@@ -122,4 +110,17 @@ fields:
       file: 
       path: 
   label: Simpilified Chinese
+  hidden: true
+- name: zh-Hant
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tranditional-chinese-posts
+      file: 
+      path: 
+  label: Traditional Chinese
   hidden: true

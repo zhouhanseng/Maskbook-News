@@ -79,12 +79,25 @@ fields:
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Hero Image
 - name: tags
   type: tag_list
   default: []
   label: Tags
+- name: ja
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: japanese-posts
+      file: 
+      path: 
+  label: Japanese
+  hidden: true
 - name: zh-Hans
   type: select
   default: []
