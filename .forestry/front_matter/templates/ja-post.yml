@@ -124,3 +124,5 @@ fields:
       path: 
   label: Traditional Chinese
   hidden: true
+pages:
+- _i18n/ja/_posts/2020-12-21-mask-network-sia.md
