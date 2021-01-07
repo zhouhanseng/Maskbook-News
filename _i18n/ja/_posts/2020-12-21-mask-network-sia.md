@@ -14,7 +14,6 @@ type: ''
 image: ''
 
 ---
-翻译：巢小南
 
 ![]({{ site.baseurl_root }}/uploads/2-17.png)
 
