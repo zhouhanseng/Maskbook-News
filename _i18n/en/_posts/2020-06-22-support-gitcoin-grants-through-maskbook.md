@@ -7,19 +7,20 @@ timezone: 8
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: Support Gitcoin Grants through Maskbook!
+title: Support Gitcoin Grants through Mask Network!
 location: Shanghai
 type: ''
 image: ''
+ja: ''
 
 ---
-In early 2020, Maskbook launched a special feature called "Red Packet", which allowed users to claim and distribute cryptocurrencies on Twitter. This is the first time you can send decentralized cryptocurrencies on centralized social media platforms.
+In early 2020, Mask Network launched a special feature called "Red Packet", which allowed users to claim and distribute cryptocurrencies on Twitter. This is the first time you can send decentralized cryptocurrencies on centralized social media platforms.
 
-Now we are proud to announce that Maskbook and Gitcoin have worked together to develop a new plugin within Maskbook. Now you can fund Gitcoin Grants directly on Twitter.
+Now we are proud to announce that Mask Network and Gitcoin have worked together to develop a new plugin within Mask Network. Now you can fund Gitcoin Grants directly on Twitter.
 
-The Gitcoin Grants Round 6 will start soon on June 15th, and Maskbook will fully support this Grant.
+The Gitcoin Grants Round 6 will start soon on June 15th, and Mask Network will fully support this Grant.
 
-What Maskbook wants to do is to make people aware of the value of Gitcoin Grants. Also, we want to build a bridge connecting Web2.0 and Web3.0 and incentivize more people to join the blockchain community.
+What Mask Network wants to do is to make people aware of the value of Gitcoin Grants. Also, we want to build a bridge connecting Web2.0 and Web3.0 and incentivize more people to join the blockchain community.
 
 With Maskbook, it has never been easier for creators of Gitcoin Grants to share links on Twitter. In addition, Maskbook users would be able to identify the Grants immediately and fund the Grants directly on Twitter. You can also retweet and let more people know about this grant.
 
