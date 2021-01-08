@@ -14,7 +14,7 @@ type: ''
 image: ''
 
 ---
-翻译者：Yutaka
+翻译：Yutaka
 
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
 
