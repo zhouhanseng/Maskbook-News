@@ -181,6 +181,6 @@ Maskbook 改め Mask Network は[GitHub](https://github.com/DimensionDev/Maskboo
 
 チャットグループとしては[Telegram](https://t.me/Maskbook_group)と[Discord](https://discord.gg/cKGW45g)があります。Discordには日本語のチャンネルがありますので、こちらに参加してみてください。
 
-**文章の来源：**https://zenn.dev/blank71/articles/28146ff1907d7201c4f4
+\**文章の来源：**https://zenn.dev/blank71/articles/28146ff1907d7201c4f4
 
 **翻訳者：**@8blank71
