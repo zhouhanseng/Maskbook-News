@@ -120,7 +120,7 @@ e コマースの最前線での主な焦点は、マルチメディアコンテ
 
 Mask Network では、各ユーザーは無制限に「人格（personas）」を生成でき、各人格は secp256k1 キーペアを表します。公開鍵をソーシャルネットワークプロフィールに書き込み、公開鍵を含む公開投稿を作成することができます。他のユーザーは、この公開鍵を取得して、ローカルの Mask Network のデータベースに公開鍵とユーザー名のマッピングを作成することができます。
 
-![Tech Stack](https://storage.googleapis.com/zenn-user-upload/pyva01qt270oylwq4iyio1xzvcz6)
+![]({{ site.baseurl_root }}/uploads/1_lwl8qox81hyzjwjbqvczqw.jpeg)
 
 > テックスタック
 
