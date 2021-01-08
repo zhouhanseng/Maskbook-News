@@ -20,8 +20,6 @@ Mask Network is cooperating with [Transak](https://transak.com/) , the fiat onra
 
 The updated version of Mask Network with Transak has gone through extensive testing since early December. _(Details:_ [_Fiat on-ramp & DEXs: Announcement of the New Version of Mask Network_](https://masknetwork.medium.com/fiat-on-ramp-dexs-announcement-of-the-new-version-of-mask-network-3baf5f88d6ff)_)_
 
-With the i
-
 ![]({{ site.baseurl_root }}/uploads/2-23.png)
 
 Transak is a fiat onramp aggregator incubated by ConsenSys. Transak aggregates fiat onramp channels in more than 50 countries and supports multiple ways of payment including credit card, debit card and wire transfer. Transak is a partner with multiple world-renowned crypto projects including AAVE, Chainlink, Zilliqa, CryptoCompare and MetaMask.
