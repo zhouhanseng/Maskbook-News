@@ -52,6 +52,8 @@ A new chapter of Mask Network — ITO:
 
 [https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc](https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc "https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc")
 
+![]({{ site.baseurl_root }}/uploads/11-6.png)
+
 ### **_How to participate in an Initial Twitter Offering?_**
 
 **-Download Mask**
