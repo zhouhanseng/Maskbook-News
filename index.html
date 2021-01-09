@@ -15,19 +15,6 @@ title: Home
       {% endif %}
     {% endunless %}
 
-    {% if post.image and post.image != '' %}
-    <div class="thumbnail-container" style="display: none;">
-      <a href="{{ post.url | relative_url }}">
-        {% assign image_prefix = post.image | slice: 0, 6 %}
-        {% if image_prefix == "uploads" and site.baseurl_root != '' %}
-          <img src="{{ site.baseurl_root }}/{{ post.image }}">
-        {% else %}
-          <img src="{{ post.image }}">
-        {% endif %}
-      </a>
-    </div>
-    {% endif %}
-
   <li itemscope>
     {% if post.type != '' %}
       <a href="{{ post.url | relative_url }}">{{ post.type }} | {{ post.title }}</a>

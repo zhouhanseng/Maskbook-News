@@ -16,13 +16,6 @@ layout: default
   {% include date.html date=page.date timezone=page.timezone location=page.location %}
 </span>
 
-<span style="display: none;">
-  {% assign image_prefix = page.image | slice: 0, 6 %}
-  {% if image_prefix == "uploads" and site.baseurl_root != '' %}
-    <img src="{{ site.baseurl_root }}/{{ page.image }}">
-  {% endif %}
-</span>
-
 {{ content }}
 
 {% include epilogue.html %}

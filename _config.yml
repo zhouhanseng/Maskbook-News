@@ -35,6 +35,8 @@ exclude_from_localizations:
 title: "News"
 subtitle: "Mask"
 description: "The Portal to the New, Open Internet."
+domain: "https://news.maskbook.com"
+
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
 #  path: rss-feed.xml
