@@ -29,6 +29,13 @@ fields:
   config:
     required: true
   label: Title
+- name: description
+  type: text
+  config:
+    required: false
+  label: Description
+  description: The description of the current post. It will be used to describe the
+    link if the post is shared.
 - name: date
   type: datetime
   label: Date
