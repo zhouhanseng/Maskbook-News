@@ -74,10 +74,6 @@ Download and Install Mask at [http://mask.io](http://mask.io "http://mask.io"). 
 * Mask will automatically create a new wallet address for new users. Click the Blue Mask Icon on the top right corner. → Click “Enter Dashboard” → Click “Wallet“ to view your wallet. Remember to back it up.
 * Mask supports importing other wallets. Again, Click the blue smiley face on the top right corner. → Click “Connect Wallet”. → choose “Metamask” or “Wallet Connect” to connect with your daily wallet.
 
-!\[Image for post\](https://miro.medium.com/max/60/0*bj49uS40YvxC-b_d?q=20 =1194x1156)
-
-![]({{ site.baseurl_root }}/uploads/5-10.png)
-
 ![]({{ site.baseurl_root }}/uploads/6-11.png)
 
 ### **- ITO**
