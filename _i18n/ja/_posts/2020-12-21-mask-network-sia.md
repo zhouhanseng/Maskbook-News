@@ -12,7 +12,9 @@ title: Mask Network＆Sia 合同賞金計画ーーより多くのデータス
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109212043.jpg"
-description: ''
+description: The joint effort of Mask Network and Sia aims to provide simple, high-speed,
+  and decentralized file storage functions, and jointly build a more open and free
+  new Internet.
 
 ---
 ![]({{ site.baseurl_root }}/uploads/2-17.png)
