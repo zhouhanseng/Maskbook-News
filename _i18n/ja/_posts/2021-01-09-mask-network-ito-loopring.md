@@ -11,7 +11,7 @@ zh-Hant: []
 title: Mask NetworkのITO発表：Loopring
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-23.png"
 description: ''
 
 ---
