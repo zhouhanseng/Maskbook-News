@@ -11,7 +11,8 @@ zh-Hant: []
 title: Transakの紹介 - - Mask Network上のFiat入金アグリゲーター
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
+description: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
