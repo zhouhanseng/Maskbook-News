@@ -12,7 +12,7 @@ title: Mask NetworkのITO発表：Loopring
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-23.png"
-description: ''
+description: ITO will last for 8 hours, and the swap is first come first served.
 
 ---
 ITO機能が発表されて以来、Twitterオファリングに参加したいというお問い合わせやご要望を多数いただいておりました。
