@@ -11,7 +11,8 @@ zh-Hant: []
 title: Mask Network＆Sia 合同賞金計画ーーより多くのデータストレージ選択を提供
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/_20210109212043.jpg"
+description: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/2-17.png)
