@@ -12,7 +12,8 @@ title: Transakの紹介 - - Mask Network上のFiat入金アグリゲーター
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
-description: ''
+description: In short, we want to bridge the New, Open Internet right on top of the
+  current one.
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
