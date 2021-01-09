@@ -14,7 +14,7 @@ type: ''
 image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
 description: Mask Network announced the formal establishment of a partnership with
   the legal currency aggregator Transak, allowing Internet users to experience the
-  open financial system of the blockchain more directly and quickly
+  open financial system of the blockchain more directly and quickly.
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
