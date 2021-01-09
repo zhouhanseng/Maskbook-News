@@ -12,7 +12,7 @@ title: バージョンアップ｜Mask Network 新バージョン
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/00.png"
-description: ''
+description: Upgraded market trading section, adding legal currency trading function.
 
 ---
 Mask Network の「一つのプラットフォームで相場状況、取引実現」という新しい機能を発表してから３ヶ月が経ったとしています。まずは、長い間、ユーザーの皆様からのご支援とご注目に感謝の気持ちをお伝えしたいと思います。皆様のアドバイスを十分考えた上で、ユーザーのエクスペリエンスを最適化し、Mask Network が提供している様々な機能を十分利用できるように、再びバージョンアップすることを決めました。
