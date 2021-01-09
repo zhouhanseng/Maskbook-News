@@ -88,17 +88,25 @@ ITOについてはこちらの記事を読んでみてください。
 
 ![]({{ site.baseurl_root }}/uploads/7-9.png)
 
+Sample
+
 * Swap Reminder(スワップリマインダー)をよく確認し、「理解しました」をクリックします。
 
 ![]({{ site.baseurl_root }}/uploads/8.gif)
+
+Sample
 
 * あなたが購入したい量を入力し"Enter"をクリックします→トランザクションを確認します。
 
 ![]({{ site.baseurl_root }}/uploads/9.gif)
 
+Sample
+
 * トランザクションを確認後、完了ページに移りMask Dashborad上にアセットを確認することができるでしょう。
 
 ![]({{ site.baseurl_root }}/uploads/10-8.png)
+
+Sample
 
 ワクワクしませんか？ぜひ、初めてのITOに参加してみてください。
 
