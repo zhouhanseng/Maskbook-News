@@ -54,8 +54,6 @@ ITOについてはこちらの記事を読んでみてください。
 
 [マスクネットワークの新章 - ITO：]( "https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc")
 
-[https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc](https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc "https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc")
-
 ![]({{ site.baseurl_root }}/uploads/11-6.png)
 
 ### ITOに参加するには？
