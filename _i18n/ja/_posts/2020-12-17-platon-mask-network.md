@@ -12,7 +12,10 @@ title: PlatON と Mask Networkの戦略連携達成  プライバシー計
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109211309.jpg"
-description: ''
+description: The cooperation between PlatON and Mask Network will endow the platforms
+  and products of both parties with more underlying innovation and commercial value
+  and will empower the development of the digital industry with blockchain and privacy
+  computing as the core engine.
 
 ---
 ![]({{ site.baseurl_root }}/uploads/_20210109211309.jpg)
