@@ -11,7 +11,8 @@ zh-Hant: []
 title: Mask Network（Maskbook）の紹介 ― インターネットの未来
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/_20210108162001.png"
+description: ''
 
 ---
 ### TL;DR🗞️
