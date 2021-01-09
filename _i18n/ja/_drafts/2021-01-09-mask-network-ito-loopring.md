@@ -12,6 +12,7 @@ title: Mask NetworkのITO発表：Loopring
 location: 上海
 type: ''
 image: ''
+description: ''
 
 ---
 ITO機能が発表されて以来、Twitterオファリングに参加したいというお問い合わせやご要望を多数いただいておりました。
@@ -53,6 +54,8 @@ ITOは8時間、スワップは先着順となっています。
 ITOについてはこちらの記事を読んでみてください。
 
 [マスクネットワークの新章 - ITO：]( "https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc")
+
+[https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc](https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc "https://masknetwork.medium.com/a-new-chapter-of-mask-network-ito-aa8182a0badc")
 
 ![]({{ site.baseurl_root }}/uploads/11-6.png)
 
