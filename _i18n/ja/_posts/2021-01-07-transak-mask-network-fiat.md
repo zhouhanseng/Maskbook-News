@@ -12,8 +12,9 @@ title: Transakの紹介 - - Mask Network上のFiat入金アグリゲーター
 location: 上海
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
-description: In short, we want to bridge the New, Open Internet right on top of the
-  current one.
+description: Mask Network announced the formal establishment of a partnership with
+  the legal currency aggregator Transak, allowing Internet users to experience the
+  open financial system of the blockchain more directly and quickly
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
