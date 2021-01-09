@@ -1,4 +1,4 @@
-{% if page.layout == default %}
+{% if page.layout == 'default' %}
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:title" content="Mask Network" />
   <meta name="twitter:description" content="The Natural Law of Privacy, Now Being Enforced." />
@@ -8,9 +8,13 @@
   <meta name="twitter:description" content="{{ page.description }}" />
 {% endif %}
 
-{% assign image_prefix = page.image | slice: 0, 6 %}
-{% if image_prefix == "uploads" and site.baseurl_root != '' %}
-  <meta name="twitter:image" content="{{ page.image }}" />
+{% if page.image %}
+  {% assign image_prefix = page.image | slice: 0, 6 %}
+  {% if image_prefix == "uploads" and site.baseurl_root != '' %}
+    <img src="{{ site.baseurl_root }}/{{ post.image }}">
+  {% else %}
+    <img src="{{ post.image }}">
+  {% endif %}
 {% else %}
   <meta name="twitter:image" content="https://maskbook.com/apple-touch-icon.png" />
 {% endif %}
