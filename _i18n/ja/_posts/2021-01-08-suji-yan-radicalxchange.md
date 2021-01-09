@@ -11,7 +11,7 @@ zh-Hant: []
 title: ニュース｜Suji Yan は「 RadicalxChange 」財団法人教官に招かれ
 location: 上海
 type: ''
-image: "{{ site.baseurl_root }}/uploads/1-22.png"
+image: "{{ site.baseurl_root }}/uploads/_20210109210749.jpg"
 description: ''
 
 ---
