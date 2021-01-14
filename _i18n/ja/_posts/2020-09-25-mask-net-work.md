@@ -29,7 +29,7 @@ Mask Network（Maskbook）にてまた新しい機能更新！！
 
 **1：ダウンロード**
 
-[http://maskbook.com](http://maskbook.com "http://maskbook.com")をクリックし、Mask Networkをダウンロードしてからインストールしたら、ChromeやFirefoxストアでMaskbookを検索しインストールすることができます。
+[http://maskbook.com](http://maskbook.com "http://maskbook.com")をクリックし、Mask Networkをダウンロードしてからインストールしたら、ChromeやFirefoxストアでMask Networkを検索しインストールすることができます。
 
 **2：インストール**
 
