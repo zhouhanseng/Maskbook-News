@@ -133,6 +133,7 @@ fields:
   hidden: true
 pages:
 - _i18n/ja/_posts/2020-10-10-mask-network-maskbook.md
+- _i18n/ja/_posts/2020-11-03-mask-network-hashkey-hashglobal.md
 - _i18n/ja/_posts/2020-12-11-mask-network.md
 - _i18n/ja/_posts/2020-12-17-platon-mask-network.md
 - _i18n/ja/_posts/2020-12-21-mask-network-sia.md
