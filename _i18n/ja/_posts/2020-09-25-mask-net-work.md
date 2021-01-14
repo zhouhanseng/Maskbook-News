@@ -8,7 +8,7 @@ tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
-title: 教程|同一のプラットフォームで相場状況、取引実現！Mask Net work活かせましょう！
+title: 教程|同一のプラットフォームで相場状況、取引実現！Mask Network活かせましょう！
 description: Decentralized Finance on Centralized Social Media
 location: 上海
 type: ''
@@ -51,7 +51,7 @@ Mask Network（Maskbook）にてまた新しい機能更新！！
 
 **— ウォレットの設置**
 
-Mask Networkは、新規ユーザー登録の際に、ウォレットアドレスを自動的に設置します。右上のスマイルをクリック->、「Enter Dashboard」をクリック->「walle」の画面に移したら、チェックできます。ウォレットのバックアップは忘れないでください。
+Mask Network は、新規ユーザー登録の際に、ウォレットアドレスを自動的に設置します。右上のスマイルをクリック->、「Enter Dashboard」をクリック->「walle」の画面に移したら、チェックできます。ウォレットのバックアップは忘れないでください。
 
 2）Mask Networkはウォレット導入もサポートしています。右上のスマイルをクリック->MetaMask 或はWallet Connect を選択し、自分の既存ウォレットを導入できます。
 
