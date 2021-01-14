@@ -25,11 +25,11 @@ Mask Network は既存ソーシャルプラットフォームに構築されて�
 
 Arweaveは、一括払いでデータを永久的にストレージすることができます。ArweaveよりPermawebというネット永久ストレージサービスを提供します。ブロックチェーンの変更不可の特性を利用し、内容を直接ブロックチェーンに入力したら、永久ストレージ機能が実現できます。2020年3月、Arweaveはまた830万ドル戦略投資を完了しました。今回の融資はUnion Square Ventures、A16Z、CoinbaseVenturesが投資参入しました。
 
- **インストール**
+**インストール**
 
 1：ダウンロード
 
-[http://maskbook.com](http://maskbook.com "http://maskbook.com")をクリックし、Mask Networkをダウンロードしてからインストールしたら、ChromeやFirefoxストアでMaskbookを検索しインストールすることができます。
+[http://maskbook.com](http://maskbook.com "http://maskbook.com")をクリックし、Mask Networkをダウンロードしてからインストールしたら、ChromeやFirefoxストアでMask Networkを検索しインストールすることができます。
 
 ![]({{ site.baseurl_root }}/uploads/1-25.png)
 
@@ -59,7 +59,7 @@ Arweaveは、一括払いでデータを永久的にストレージすること�
 
 ![]({{ site.baseurl_root }}/uploads/6-12.png)
 
-**—**シェアーしたいデータを選択し、或はドラッグしたら、アップロードできます。Mask Network は、写真、ビデオ、音楽などを含め多くのデータタイプがサポートされています。（データの大きさは10MB以内で対応可能）-> Textを入力し、見える対象を選んでから“Finish”をクリック。
+\**—**シェアーしたいデータを選択し、或はドラッグしたら、アップロードできます。Mask Network は、写真、ビデオ、音楽などを含め多くのデータタイプがサポートされています。（データの大きさは10MB以内で対応可能）-> Textを入力し、見える対象を選んでから“Finish”をクリック。
 
 ![]({{ site.baseurl_root }}/uploads/7-10.png)
 
@@ -67,11 +67,11 @@ Arweaveは、一括払いでデータを永久的にストレージすること�
 
 ![]({{ site.baseurl_root }}/uploads/9-5.png)
 
-**—**Mask Network はシェアしたフ​​ァイルを自動的に暗号化します。「Tweet」をクリックしたら、アップロード完了となりました。
+\**—**Mask Network はシェアしたフ​​ァイルを自動的に暗号化します。「Tweet」をクリックしたら、アップロード完了となりました。
 
 ![]({{ site.baseurl_root }}/uploads/10-9.png)
 
-**—**同様に、画面の下にある「「ImagePayload 」をクリックすれば、Image Payload」の形でデータを暗号化することができます。
+\**—**同様に、画面の下にある「「ImagePayload 」をクリックすれば、Image Payload」の形でデータを暗号化することができます。
 
 ![]({{ site.baseurl_root }}/uploads/11-7.png)
 
