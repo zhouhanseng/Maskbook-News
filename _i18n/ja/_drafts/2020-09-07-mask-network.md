@@ -12,7 +12,7 @@ title: 教程| Mask Network での非中央集権型データストレージや�
 description: Mask Network での非中央集権型データストレージやシェアーの方法
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/33.png"
 
 ---
 **ご注意**
