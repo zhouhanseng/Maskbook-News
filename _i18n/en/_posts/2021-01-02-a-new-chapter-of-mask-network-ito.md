@@ -7,7 +7,7 @@ timezone: 8
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: A new chapter of Mask Network — ITO
+title: A New Chapter of Mask Network — ITO
 location: 'Shanghai '
 type: ''
 image: ''
