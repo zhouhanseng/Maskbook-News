@@ -15,7 +15,7 @@ type: ''
 image: "{{ site.baseurl_root }}/uploads/封面.png"
 
 ---
-Mask Networkは新らたな融資が完了と宣言しました。HashKey、Hash Globalより合同主導し、Youbi，Alameda Research，Sino Global，IOSG，SNZ，SevenX，EverNew などの投資機関を含め、また梁信軍、 Alex Pack、Josh Hannah、Balaji Srinivasan、Erik Trautman、陳悦天、Scott Moore、Hongbo Tang、Qinwen、Steve Guo、孫铭，劉杰等の個人投資家も参入しました。前回投資家のTheForceとShataCapitalは、投資を追加しました。
+Mask Networkは新らたな融資が完了と宣言しました。HashKey、Hash Globalより合同主導し、Youbi，Alameda Research，Sino Global，IOSG，SNZ，SevenX，EverNew などの投資機関を含め、また梁信軍、 Alex Pack、Josh Hannah、Balaji Srinivasan、Erik Trautman、Scott Moore、Hongbo Tang、Qinwen、Steve Guo、等の個人投資家も参入しました。前回投資家のTheForceとShataCapitalは、投資を追加しました。
 
 ![]({{ site.baseurl_root }}/uploads/mb-logo-combh-circle-blue.png)
 
