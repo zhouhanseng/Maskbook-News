@@ -8,9 +8,11 @@ type: ''
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: Publishing | Free Software Movement and New Forms of Labor
+title: Free Software Movement and New Forms of Labor
 location: Shanghai
 image: ''
+description: ''
+ja: ''
 
 ---
 On May 31, 2019, Suji Yan and Katt Gu published a paper called **_The Free Software Movement and the New Form of Labor_** on RadicalxChange. The content is about the phenomenon of 996 working systems in many technology industries in China today. Therefore, some people established the 996.icu website to arouse a lot of public opinions, combined with the concept of "**Data is labor**" in **_Radical Markets_**, and proposed that "**user production data equals a new form of labor**."
