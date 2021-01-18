@@ -9,7 +9,7 @@ en: []
 zh-Hans: []
 zh-Hant: []
 title: Mask Network がMirror Protocolと提携し、ソーシャルネットワークに合成株式資産を提供
-description: ''
+description: Bringing Synthetic Stock Assets to Social Network
 location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-1.jpeg"
