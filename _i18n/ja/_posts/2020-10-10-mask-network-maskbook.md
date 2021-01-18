@@ -3,13 +3,13 @@ layout: post
 lang: en
 template: Japanese
 date: 2020-10-10
-timezone: 8
+timezone: 9
 tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
 title: Mask Network（Maskbook）の紹介 ― インターネットの未来
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210108162001.png"
 description: In short, we want to bridge the New, Open Internet right on top of the

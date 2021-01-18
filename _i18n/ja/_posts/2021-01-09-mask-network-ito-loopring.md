@@ -3,13 +3,13 @@ layout: post
 lang: en
 template: Japanese
 date: 2021-01-09
-timezone: 8
+timezone: 9
 tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
 title: Mask NetworkのITO発表：Loopring
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-23.png"
 description: ITO will last for 8 hours, and the swap is first come first served.
