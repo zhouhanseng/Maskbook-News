@@ -9,9 +9,11 @@ zh-Hans: []
 zh-Hant: []
 title: Guide to the New Mask Network, now support CoinMarketCap and Uniswap without
   Leaving Twitter!
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/54.jpg)
