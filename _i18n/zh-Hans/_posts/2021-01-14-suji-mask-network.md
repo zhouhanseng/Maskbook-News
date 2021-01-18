@@ -36,3 +36,5 @@ Mask Network 的什么功能居然打动了 V 神为它站台？
 一切答案尽在本期大咖面对面，快来康康吧～
 
 烤仔温馨提示：**一定要看到最后哟，Suji 为小伙伴带礼物了哦～**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CpAc2ExDG8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
