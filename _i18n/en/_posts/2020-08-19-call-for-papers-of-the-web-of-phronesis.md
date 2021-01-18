@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: Call for Papers of The Web of Phronesis
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-3.png)
