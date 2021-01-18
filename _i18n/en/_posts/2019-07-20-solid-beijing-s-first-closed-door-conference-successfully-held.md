@@ -11,6 +11,8 @@ zh-Hant: []
 title: Solid Beijing's first closed-door conference successfully held
 location: Beijing
 image: ''
+description: ''
+ja: ''
 
 ---
 On July 20, 2019, Sponsored by the Solid Chinese community and co-sponsored by Dimension, Thoughtworks, Authing and Pocoweb, the first Solid Events closed-door conference in Beijing was successfully held.
