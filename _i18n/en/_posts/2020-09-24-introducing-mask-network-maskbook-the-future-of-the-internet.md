@@ -9,9 +9,10 @@ ja: []
 zh-Hans: []
 zh-Hant: []
 title: Introducing Mask Network (Maskbook) — the future of the Internet
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
 
 ---
 ### TL;DR🗞️
