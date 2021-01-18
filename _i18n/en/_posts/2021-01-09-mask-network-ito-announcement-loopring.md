@@ -9,7 +9,7 @@ ja: []
 zh-Hans: []
 zh-Hant: []
 title: 'Mask Network ITO Announcement: Loopring'
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-23.png"
 description: Since the announcement of the ITO feature, we have received numerous
