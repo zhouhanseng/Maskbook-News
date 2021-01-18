@@ -9,7 +9,7 @@ en: []
 zh-Hans: []
 zh-Hant: []
 title: ニュース｜Suji Yan は「 RadicalxChange 」財団法人教官に招かれ
-location: 上海
+location: 'shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109210749.jpg"
 description: ユーザーのデータ生産は労働の新しい形である。
@@ -43,7 +43,7 @@ RadicalxChange コミュニティの開発者は「ラディカルマーケッ�
 
 **_Suji Yan_**
 
-Dimension & Mask Network 創業者 / CEO。 UIUC（University of Illinois at Urbana-Champaign）計算機工学専門から退学し創業し始めました。元 Qdaily ＆財新メディア独立記者である上に、元自動運転会社のエンジニアでもあります。 财新传媒独立记者，前自动驾驶公司工程师；アマチュアとして「ラティカルマーケッツ」/ RadicalxChange ，Data Law Group 等の経済学者、法律学者と共同著作し、「ワイヤード」（Wired）、《南華早報》、《ウオール街日報》等に報道されたことがあります。現在はオープンソースソフトウェア、非中央集権型ネットワーク及び暗号化技術等に注目しています。（会社開発品 mask.io / tessercube.com）
+Dimension & Mask Network 創業者 / CEO。 UIUC（University of Illinois at Urbana-Champaign）計算機工学専門から退学し創業し始めました。元 Qdaily ＆財新メディア独立記者である上に、元自動運転会社のエンジニアでもあります。 アマチュアとして「ラティカルマーケッツ」/ RadicalxChange ，Data Law Group 等の経済学者、法律学者と共同著作し、「ワイヤード」（Wired）、《南華早報》、《ウオール街日報》等に報道されたことがあります。現在はオープンソースソフトウェア、非中央集権型ネットワーク及び暗号化技術等に注目しています。（会社開発品 mask.io / tessercube.com）
 
 また、教官は下記のメンバーも含めています。
 
