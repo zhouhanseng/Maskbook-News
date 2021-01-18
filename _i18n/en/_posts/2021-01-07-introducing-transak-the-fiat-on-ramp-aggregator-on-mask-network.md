@@ -9,9 +9,10 @@ ja: []
 zh-Hans: []
 zh-Hant: []
 title: Introducing Transak — — The Fiat On-Ramp Aggregator on Mask Network
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-33.jpg)
