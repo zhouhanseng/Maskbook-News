@@ -7,12 +7,12 @@ timezone: 0
 tags: []
 zh-Hans: []
 zh-Hant: []
-title: "Release Note: 1.15.0"
-location:
-type: ""
-image: ""
----
+title: 'Release Note: 1.15.0'
+location: 'Shanghai '
+type: ''
+image: ''
 
+---
 Maskbook 1.15.0 has been released. We hope that you will like this version.
 
 ## Feature: MetaMask Integration
