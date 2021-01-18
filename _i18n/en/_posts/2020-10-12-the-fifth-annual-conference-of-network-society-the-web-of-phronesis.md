@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: 'The Fifth Annual Conference of Network Society: The Web of Phronesis'
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-2.gif)
