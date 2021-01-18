@@ -10,7 +10,7 @@ zh-Hans: []
 zh-Hant: []
 title: 融資| Mask Networkは数百万ドルの融資を受け、HashKey、HashGlobal等多くの機関が投資に参入
 description: Mask Networkは数百万ドルの融資を受け、HashKey、HashGlobal等多くの機関が投資に参入
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/封面.png"
 
