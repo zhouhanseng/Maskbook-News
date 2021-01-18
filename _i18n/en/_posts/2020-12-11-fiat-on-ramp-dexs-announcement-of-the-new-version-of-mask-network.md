@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: 'Fiat on ramp & DEXs: Announcement of the New Version of Mask Network'
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 It’s been almost 3 months since Mask Network announced the launch of the Trading & Uniswap function on Twitter. First, we want to say thank you to the users for your support and feedback. After synthesizing the opinions we also want to make the user experience a breeze as well as making sure the users get the best value. Now, we are glad to announce that Mask Network updates the Trading widget and adds the fiat on-ramp!

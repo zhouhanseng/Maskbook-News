@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: A new chapter of Mask Network — ITO
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 Happy New Year!
