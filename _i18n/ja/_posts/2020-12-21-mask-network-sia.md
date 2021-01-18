@@ -3,13 +3,13 @@ layout: post
 lang: en
 template: Japanese
 date: 2020-12-21
-timezone: 8
+timezone: 9
 tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
 title: Mask Network＆Sia 合同賞金計画ーーより多くのデータストレージ選択を提供
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109212043.jpg"
 description: Mask Network は非中央集権型ストレージ項目 Sia との提携を宣言し、賞金計画を発表しました。の提携は簡単的、高速的、非中央集権型のデータストレージ機能を提供することが目標とし、よりオープンな、自由的な新しいインタネットを共同構築するように目指しています。
