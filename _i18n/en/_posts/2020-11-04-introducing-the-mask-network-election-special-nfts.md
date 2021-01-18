@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: Introducing the Mask Network Election Special NFTs
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/特朗普拜登.jpg)

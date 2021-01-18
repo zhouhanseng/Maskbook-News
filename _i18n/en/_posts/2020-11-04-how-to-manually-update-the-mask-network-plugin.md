@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: How to manually update the Mask Network plugin?
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 1\.Please click the setting button at the top of the right corner.
