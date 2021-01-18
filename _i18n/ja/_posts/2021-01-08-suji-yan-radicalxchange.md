@@ -8,8 +8,8 @@ tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
-title: ニュース｜Suji Yan は「 RadicalxChange 」財団法人教官に招かれ
-location: 'shanghai '
+title: Suji Yan は「 RadicalxChange 」財団法人教官に招かれ
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109210749.jpg"
 description: ユーザーのデータ生産は労働の新しい形である。

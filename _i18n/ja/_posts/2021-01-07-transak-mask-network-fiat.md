@@ -3,13 +3,13 @@ layout: post
 lang: en
 template: Japanese
 date: 2021-01-07
-timezone: 8
+timezone: 9
 tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
 title: Transakの紹介 - - Mask Network上のFiat入金アグリゲーター
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
 description: Mask Network announced the formal establishment of a partnership with
