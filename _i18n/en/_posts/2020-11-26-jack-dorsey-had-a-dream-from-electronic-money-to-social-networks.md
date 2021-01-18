@@ -8,9 +8,11 @@ tags: []
 zh-Hans: []
 zh-Hant: []
 title: 'Jack Dorsey Had a Dream: From Electronic Money to Social Networks'
-location: 上海
+location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 _This article is written by Orange Paper(橙皮书) and translated by_ [Tianyu M. Fang](https://medium.com/u/e2edf20aad19?source=post_page-----307fc849c860--------------------------------)_. The Mask Network team supported the translation as well. In our perspective, it’s a bold step of Twitter to announce its plan of decentralization last December, though we haven’t heard any news since then. It’s a long term effort to build the portal to the new Internet on top of existing platforms, and Mask Network would like to facilitate this journey._
