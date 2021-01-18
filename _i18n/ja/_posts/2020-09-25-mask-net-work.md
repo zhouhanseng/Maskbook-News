@@ -3,14 +3,14 @@ layout: post
 lang: en
 template: Japanese
 date: 2020-09-25
-timezone: 8
+timezone: 9
 tags: []
 en: []
 zh-Hans: []
 zh-Hant: []
-title: 教程|同一のプラットフォームで相場状況、取引実現！Mask Network活かせましょう！
+title: 同一のプラットフォームで相場状況、取引実現！Mask Network活かせましょう！
 description: Decentralized Finance on Centralized Social Media
-location: 上海
+location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/54-1.jpg"
 
