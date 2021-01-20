@@ -25,7 +25,7 @@ RadicalxChangeは世界中のトレンドと提案です。その思想は Glen 
 
 2019年5月31日、Suji YanはKatt Guと共にRadicalxChangeに「フリーソフトウェアムーブメントと新しい労働の形」という論文を発表しました。その内容は中国の多くのテクノロジー企業が996の勤務スケジュールに従っているという現象についてでした。
 
-そこで、ある人物が目立ち、「996.iu」というサイトを立ち上げ、世論を喚起しました。記事は、<Radical Markets>の「Data as Labor」という概念に焦点を当て、「ユーザーが生み出すデータは新しい労働の形である」という見解を提起しています。
+そこで、ある人物が目立ち、「996.icu」というサイトを立ち上げ、世論を喚起しました。記事は、<Radical Markets>の「Data as Labor」という概念に焦点を当て、「ユーザーが生み出すデータは新しい労働の形である」という見解を提起しています。
 
 これを機に、DimensionとRadicalxChangeの協力関係が始まります。先日、Suji・Yan氏はRadicalxChangeフェローシッププログラムのメンターとして招聘されました。彼のユニークな洞察力と能力に影響を受けて、より多くの人が新しい分野を共同で探求し、変化をもたらすことが期待されています。
 
@@ -55,7 +55,7 @@ Glen Weylは、1985年サンフランシスコ生まれの経済学者。マイ�
 
 **_Suji Yan_**
 
-Suji Yan, Dimension&Mask NetworkのCEO。UIUC（University of Illinois at Urbana-Champaign）コンピュータ工学科を中退して起業。Qdaily & Caixin Mediaの元独立記者、自動運転企業の元エンジニアでもあります。アマチュアとして“radical market”/ RadicalxChange、Data Law Groupや他の経済学者、法律学者との共著記事を執筆。Wired、 South China Morning Post,、Wall Street Journalなどで公開されました。現在、個に特化したオープンソース、暗号化とプライバシー保護（会社の製品であるmask.io / Tessercube.com）に焦点を当てています。
+Suji Yan, Dimension&Mask NetworkのCEO。UIUC（University of Illinois at Urbana-Champaign）コンピュータ工学科を中退して起業。Qdaily & Caixin Mediaの元独立記者、自動運転企業の元エンジニアでもあります。アマチュアとして“radical market”/ RadicalxChange、Data Law Groupや他の経済学者、法律学者との共著記事を執筆。Wired、 South China Morning Post、Wall Street Journalなどで公開されました。現在、個に特化したオープンソース、暗号化とプライバシー保護（会社の製品であるmask.io / Tessercube.com）に焦点を当てています。
 
 また、教官は下記のメンバーも含めています。
 
