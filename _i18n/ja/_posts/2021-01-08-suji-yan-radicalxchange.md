@@ -57,6 +57,8 @@ Glen Weylは、1985年サンフランシスコ生まれの経済学者。マイ�
 
 Suji Yan, Dimension&Mask NetworkのCEO。UIUC（University of Illinois at Urbana-Champaign）コンピュータ工学科を中退して起業。Qdaily & Caixin Mediaの元独立記者、自動運転企業の元エンジニアでもあります。アマチュアとして“radical market”/ RadicalxChange、Data Law Groupや他の経済学者、法律学者との共著記事を執筆。Wired、 South China Morning Post,、Wall Street Journalなどで公開されました。現在、個に特化したオープンソース、暗号化とプライバシー保護（会社の製品であるmask.io / Tessercube.com）に焦点を当てています。
 
+また、教官は下記のメンバーも含めています。
+
 ![]({{ site.baseurl_root }}/uploads/4-17.jpg)
 
 ![]({{ site.baseurl_root }}/uploads/5-16.jpg)
