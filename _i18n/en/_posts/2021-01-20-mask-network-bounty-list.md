@@ -12,7 +12,7 @@ title: Mask Network Bounty List
 description: ''
 location: 上海
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-30.png"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-30.png)
