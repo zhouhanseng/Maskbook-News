@@ -19,7 +19,7 @@ image: "{{ site.baseurl_root }}/uploads/1-30.png"
 
 MaskNetwork は、既存のソーシャルネットワークをベースにしたオープンソースのプロジェクトです。私たちは、コミュニティと開発者の力を結集して、コードベースや機能を改善しより良い体験をユーザーに提供できることを願っております。
 
-現在、MaskNetwork はすでに 10 の報奨金を Gitcoin 上で作成しており、2つは完成したものの、8 つはまだ開発中です。すべてのサイバー市民のための新しく開かれた未来のインターネットに向けて、より多くの開発者の参加を期待しています。
+現在、MaskNetwork はすでに 10 の報奨金を Gitcoin 上で作成しており、2 つは完成したものの、8 つはまだ開発中です。すべてのサイバー市民のための新しく開かれた未来のインターネットに向けて、より多くの開発者の参加を期待しています。
 
 ![]({{ site.baseurl_root }}/uploads/2-28.jpg)
 
@@ -49,17 +49,17 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2069](https://github.com/DimensionDev/Maskbook/issues/2069 "https://github.com/DimensionDev/Maskbook/issues/2069")
 
-**プラットフォーム：**Gitcoin
+\**プラットフォーム：**Gitcoin
 
-**経験：**中級レベル
+\**経験：**中級レベル
 
-**カテゴリ：**Mask プラグイン
+\**カテゴリ：**Mask プラグイン
 
-**締め切り：**4 週間
+\**締め切り：**4 週間
 
-**報奨金：**1,000 DAI
+\**報奨金：**1,000 DAI
 
-**第 1 部：**問題の説明
+\**第 1 部：**問題の説明
 
 我々はすでにファイルサービスのプロバイダとして Arweave を統合しており、ユーザーは任意のタイプのファイルをアップロードしてソーシャルネットワークの投稿に添付することができます。この機能を拡張し、ユーザーに多くのオプションを提供するために、私たちは Sia のようなより多くのプロバイダを追加したいと考えています。Arweave でやったのと同じように、ユーザーのストレージ料金の支払いを支援するマイクロサービスを作る方法を考える必要があるかもしれません。Siaチームからの公式ヘルプは、このバウンティで直接リンクすることができます。
 
@@ -71,15 +71,15 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2160](https://github.com/DimensionDev/Maskbook/issues/2160 "https://github.com/DimensionDev/Maskbook/issues/2160")
 
-**プラットフォーム：**Gitcoin
+\**プラットフォーム：**Gitcoin
 
-**経験：**中級レベル
+\**経験：**中級レベル
 
-**カテゴリ：**Maskプラグイン
+\**カテゴリ：**Maskプラグイン
 
-**締め切り：**2 週間
+\**締め切り：**2 週間
 
-**報奨金：**500 DAI
+\**報奨金：**500 DAI
 
 **第 1 回目 問題の説明**
 
@@ -95,15 +95,15 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2236](https://github.com/DimensionDev/Maskbook/issues/2236 "https://github.com/DimensionDev/Maskbook/issues/2236")
 
-**プラットフォーム：**Gitcoin
+\**プラットフォーム：**Gitcoin
 
-**経験：**中級レベル
+\**経験：**中級レベル
 
-**カテゴリ：**Mask プラグイン
+\**カテゴリ：**Mask プラグイン
 
-**締め切り：**2 週間
+\**締め切り：**2 週間
 
-**報奨金：**1,000 DAI
+\**報奨金：**1,000 DAI
 
 **第 1 回目 問題の説明**
 
@@ -121,15 +121,15 @@ Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダ
 
 [https://github.com/DimensionDev/Maskbook/issues/2068](https://github.com/DimensionDev/Maskbook/issues/2068 "https://github.com/DimensionDev/Maskbook/issues/2068")
 
-**プラットフォーム：**Gitcoin
+\**プラットフォーム：**Gitcoin
 
-**経験：**中級レベル
+\**経験：**中級レベル
 
-**カテゴリ：**Mask プラグイン
+\**カテゴリ：**Mask プラグイン
 
-**締め切り：**4 週間
+\**締め切り：**4 週間
 
-**報奨金：**1,000 DAI
+\**報奨金：**1,000 DAI
 
 **第 1 回目 問題の説明**
 
@@ -153,15 +153,15 @@ Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダ
 
 [https://github.com/DimensionDev/Maskbook/issues/1947](https://github.com/DimensionDev/Maskbook/issues/1947 "https://github.com/DimensionDev/Maskbook/issues/1947")
 
-**プラットフォーム：**Gitcoin
+\**プラットフォーム：**Gitcoin
 
-**経験：**中級レベル
+\**経験：**中級レベル
 
-**カテゴリ：**Mask コア機能
+\**カテゴリ：**Mask コア機能
 
-**締め切り：**2 週間
+\**締め切り：**2 週間
 
-**バウンティサイズ：**500 DAI
+\**バウンティサイズ：**500 DAI
 
 **第 1 部： 問題の説明**
 
