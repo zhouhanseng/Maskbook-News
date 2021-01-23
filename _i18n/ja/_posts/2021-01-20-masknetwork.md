@@ -71,15 +71,15 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2160](https://github.com/DimensionDev/Maskbook/issues/2160 "https://github.com/DimensionDev/Maskbook/issues/2160")
 
-プラットフォーム：Gitcoin
+**プラットフォーム：**Gitcoin
 
-経験：中級レベル
+**経験：**中級レベル
 
-カテゴリ：Maskプラグイン
+**カテゴリ：**Maskプラグイン
 
-締め切り：2 週間
+**締め切り：**2 週間
 
-報奨金：500 DAI
+**報奨金：**500 DAI
 
 **第 1 回目 問題の説明**
 
