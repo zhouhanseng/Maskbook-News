@@ -49,17 +49,17 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2069](https://github.com/DimensionDev/Maskbook/issues/2069 "https://github.com/DimensionDev/Maskbook/issues/2069")
 
-\**プラットフォーム：**Gitcoin
+**プラットフォーム：**Gitcoin
 
-\**経験：**中級レベル
+**経験：**中級レベル
 
-\**カテゴリ：**Mask プラグイン
+**カテゴリ：**Mask プラグイン
 
-\**締め切り：**4 週間
+**締め切り：**4 週間
 
-\**報奨金：**1,000 DAI
+**報奨金：**1,000 DAI
 
-\**第 1 部：**問題の説明
+**第 1 部：**問題の説明
 
 我々はすでにファイルサービスのプロバイダとして Arweave を統合しており、ユーザーは任意のタイプのファイルをアップロードしてソーシャルネットワークの投稿に添付することができます。この機能を拡張し、ユーザーに多くのオプションを提供するために、私たちは Sia のようなより多くのプロバイダを追加したいと考えています。Arweave でやったのと同じように、ユーザーのストレージ料金の支払いを支援するマイクロサービスを作る方法を考える必要があるかもしれません。Sia チームからの公式ヘルプは、このバウンティで直接リンクすることができます。
 
@@ -71,19 +71,19 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2160](https://github.com/DimensionDev/Maskbook/issues/2160 "https://github.com/DimensionDev/Maskbook/issues/2160")
 
-\**プラットフォーム：**Gitcoin
+**プラットフォーム：**Gitcoin
 
-\**経験：**中級レベル
+**経験：**中級レベル
 
-\**カテゴリ：**Maskプラグイン
+**カテゴリ：**Maskプラグイン
 
-\**締め切り：**2 週間
+**締め切り：**2 週間
 
-\**報奨金：**500 DAI
+**報奨金：**500 DAI
 
 **第 1 回目 問題の説明**
 
-現在、私たちはファイルサービスの「バックエンド」として Arweave を使用しています。しかし、エンドポイントはいくつかの要因に影響される可能性があるため、安定していません。私たちは、世界中のユーザーのこの経験を改善するために、CDNを追加したいと考えています。
+現在、私たちはファイルサービスの「バックエンド」として Arweave を使用しています。しかし、エンドポイントはいくつかの要因に影響される可能性があるため、安定していません。私たちは、世界中のユーザーのこの経験を改善するために、CDN を追加したいと考えています。
 
 将来的には、より多くの "バックエンド"([https://github.com/DimensionDev/Maskbook/issues/2069](https://github.com/DimensionDev/Maskbook/issues/2160 "https://github.com/DimensionDev/Maskbook/issues/2160"))を追加する予定ですので、CDNもよろしくお願いします。
 
@@ -95,19 +95,19 @@ Serum は、オーダーブックとスワップの両方をサポートする�
 
 [https://github.com/DimensionDev/Maskbook/issues/2236](https://github.com/DimensionDev/Maskbook/issues/2236 "https://github.com/DimensionDev/Maskbook/issues/2236")
 
-\**プラットフォーム：**Gitcoin
+**プラットフォーム：**Gitcoin
 
-\**経験：**中級レベル
+**経験：**中級レベル
 
-\**カテゴリ：**Mask プラグイン
+**カテゴリ：**Mask プラグイン
 
-\**締め切り：**2 週間
+**締め切り：**2 週間
 
-\**報奨金：**1,000 DAI
+**報奨金：**1,000 DAI
 
 **第 1 回目 問題の説明**
 
-Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダーを任意のメディアタイプ、例えばGIF、ビデオ、あるいは html5 ページで装飾できるようにすることで、MaskNetwork のユーザーにも似たようなものを追加する価値があると思います。私の頭の中にはアイデアがありますが、可能性のある解決策をご自身で探っていただきたいと思います。ここではあなたのアイデアを提案してください。
+Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダーを任意のメディアタイプ、例えば GIF、ビデオ、あるいは html5 ページで装飾できるようにすることで、MaskNetwork のユーザーにも似たようなものを追加する価値があると思います。私の頭の中にはアイデアがありますが、可能性のある解決策をご自身で探っていただきたいと思います。ここではあなたのアイデアを提案してください。
 
 **第 2 部：リソース**
 
@@ -121,15 +121,15 @@ Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダ
 
 [https://github.com/DimensionDev/Maskbook/issues/2068](https://github.com/DimensionDev/Maskbook/issues/2068 "https://github.com/DimensionDev/Maskbook/issues/2068")
 
-\**プラットフォーム：**Gitcoin
+**プラットフォーム：**Gitcoin
 
-\**経験：**中級レベル
+**経験：**中級レベル
 
-\**カテゴリ：**Mask プラグイン
+**カテゴリ：**Mask プラグイン
 
-\**締め切り：**4 週間
+**締め切り：**4 週間
 
-\**報奨金：**1,000 DAI
+**報奨金：**1,000 DAI
 
 **第 1 回目 問題の説明**
 
@@ -153,15 +153,15 @@ Twitter ユーザーの@Prathkum さんに触発されて、Twitter のヘッダ
 
 [https://github.com/DimensionDev/Maskbook/issues/1947](https://github.com/DimensionDev/Maskbook/issues/1947 "https://github.com/DimensionDev/Maskbook/issues/1947")
 
-\**プラットフォーム：**Gitcoin
+**プラットフォーム：**Gitcoin
 
-\**経験：**中級レベル
+**経験：**中級レベル
 
-\**カテゴリ：**Mask コア機能
+**カテゴリ：**Mask コア機能
 
-\**締め切り：**2 週間
+**締め切り：**2 週間
 
-\**バウンティサイズ：**500 DAI
+**バウンティサイズ：**500 DAI
 
 **第 1 部： 問題の説明**
 
