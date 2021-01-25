@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2020-09-07
 timezone: 9
@@ -10,7 +10,6 @@ zh-Hans: []
 zh-Hant: []
 title: " Mask Network での非中央集権型データストレージやシェアーの方法"
 description: Mask Network での非中央集権型データストレージやシェアーの方法
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/文件存储.jpg"
 

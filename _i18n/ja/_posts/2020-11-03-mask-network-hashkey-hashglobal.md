@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2020-11-03
 timezone: 9
@@ -10,7 +10,6 @@ zh-Hans: []
 zh-Hant: []
 title: " Mask Network は数百万ドルの融資を受け、HashKey、HashGlobal等多くの機関が投資に参入"
 description: Mask Networkは数百万ドルの融資を受け、HashKey、HashGlobal等多くの機関が投資に参入
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/封面.png"
 

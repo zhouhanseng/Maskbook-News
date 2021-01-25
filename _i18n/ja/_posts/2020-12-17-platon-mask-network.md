@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2020-12-17
 timezone: 9
@@ -9,7 +9,6 @@ en: []
 zh-Hans: []
 zh-Hant: []
 title: PlatON と Mask Networkの戦略連携達成  プライバシー計算分野でのビジネス実現を進める
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109211309.jpg"
 description: The cooperation between PlatON and Mask Network will endow the platforms

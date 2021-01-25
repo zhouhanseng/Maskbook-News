@@ -14,7 +14,7 @@ fields:
   config:
     required: true
   label: Language
-  default: en
+  default: ja
   hidden: true
 - name: template
   type: text
@@ -61,7 +61,7 @@ fields:
 - name: location
   type: text
   config:
-    required: true
+    required: false
   label: Location
 - name: type
   type: select
