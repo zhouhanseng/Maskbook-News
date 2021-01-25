@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2020-12-11
 timezone: 9
@@ -9,7 +9,6 @@ en: []
 zh-Hans: []
 zh-Hant: []
 title: Mask Network 新バージョン立ち上げ、    より完全なオープン金融インテグレーション
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/00.png"
 description: 今回は従来の機能の基に、取引ウィジェットを更新し、「Fiat入金」を追加しました。

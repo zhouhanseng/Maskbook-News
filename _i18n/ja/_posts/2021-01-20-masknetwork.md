@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2021-01-20
 timezone: 9
@@ -10,7 +10,6 @@ zh-Hans: []
 zh-Hant: []
 title: MaskNetwork の報奨金リスト
 description: MaskNetwork の報奨金リスト
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-30.png"
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-lang: en
+lang: ja
 template: Japanese
 date: 2021-01-08
 timezone: 9
@@ -9,7 +9,6 @@ en: []
 zh-Hans: []
 zh-Hant: []
 title: Suji・Yan氏が「RadicalxChange」フェローシッププログラムのメンターに招かれました
-location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/_20210109210749.jpg"
 description: ユーザーのデータ生産は労働の新しい形である。
