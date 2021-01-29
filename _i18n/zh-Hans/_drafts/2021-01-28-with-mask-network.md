@@ -29,7 +29,7 @@ Roam for Micro Tasking — Make 1st Digital $ Together
 
 ![]({{ site.baseurl_root }}/uploads/1-36.jpg)
 
-就像 Balaji 说的**「通过一些机会均等的小任务」**让人们合力完成一个项目，并贡献自己的**「智慧」**。与胖车库，这里有趣的人 / 项目建立更长久的关系。
+就像 Balaji 说的「**通过一些机会均等的小任务」**让人们合力完成一个项目，并贡献自己的**「智慧」**。与胖车库，这里有趣的人 / 项目建立更长久的关系。
 
 > The thing that gets me up everyday is the equality of opportunity via micro tasking , quoted organic founder dating happening while there is public tasks and paid in crypto.
 >
@@ -63,3 +63,5 @@ Mask Network 的主要功能是对信息传输进行加解密，倡导用户珍�
 [https://github.com/DimensionDev/Maskbook/issues/2296](https://github.com/DimensionDev/Maskbook/issues/2296 "https://github.com/DimensionDev/Maskbook/issues/2296")
 
 [https://gitcoin.co/issue/DimensionDev/Maskbook/2296/100024668](https://gitcoin.co/issue/DimensionDev/Maskbook/2296/100024668 "https://gitcoin.co/issue/DimensionDev/Maskbook/2296/100024668")
+
+（本篇文章来源于胖车库 ，作者胖车库之喵比ter）
