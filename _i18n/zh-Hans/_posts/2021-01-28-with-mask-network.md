@@ -12,7 +12,7 @@ zh-Hant: []
 title: 转载｜「月半赏金计划」 with Mask Network
 description: ''
 location: 上海
-image: ''
+image: "{{ site.baseurl_root }}/uploads/3-32.png"
 
 ---
 Roam for Micro Tasking — Make 1st Digital $ Together
