@@ -13,23 +13,9 @@ assignees: guanbinrui
 ### Platform/Browser
 
 - [ ] Chrome
-
-  - Mask Version:
-  - Browser Version:
-
 - [ ] Firefox
-
-  - Mask Version:
-  - Browser Version:
-
 - [ ] Android
-
-  - Mask Version:
-  - Android Version:
-
 - [ ] iOS
-  - Mask Version:
-  - iOS Version:
 
 ## Bug Info
 
