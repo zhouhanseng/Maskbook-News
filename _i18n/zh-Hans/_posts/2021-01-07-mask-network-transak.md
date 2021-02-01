@@ -11,7 +11,7 @@ ja: []
 zh-Hant: []
 title: 新闻｜Mask Network 引入法币聚合器 Transak，共同推动更完善的开放金融体系
 description: ''
-location: Mask Network 宣布将与法币聚合器 Transak 正式建立合作关系，让互联网用户能够更加直接且迅速地体验到区块链的开放金融体系。
+location: 上海
 image: "{{ site.baseurl_root }}/uploads/1-33.jpg"
 
 ---
