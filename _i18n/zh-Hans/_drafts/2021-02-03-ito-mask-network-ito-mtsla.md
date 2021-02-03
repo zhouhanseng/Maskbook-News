@@ -23,7 +23,7 @@ image: "{{ site.baseurl_root }}/uploads/1-32.png"
 
 Mask Network 的交易板块允许用户直接在 Twitter 上进行虚拟货币的自由交易，将资产的掌控权交回到用户手中。作为最受年轻交易者喜爱的美股标的，$TSLA 当之无愧地成为 Mirror Protocol 和 Mask Network 之间合作的首选 ITO 标的！
 
-此次 ITO 活动中，用户在安装 Mask Network 插件后能够使用 $wBTC, $UST 或者 $OKB 购买 $mTSLA。活动发行的 $mTSLA 总数为100 个（约 $80000)，并将以活动开始时的市场行情价格的九折进行出售。每一个 ITO 参与地址最多能够认购一个 $mTSLA。
+此次 ITO 活动中，用户在安装 Mask Network 插件后能够使用 $wBTC, $UST 或者 $OKB 购买 $mTSLA。活动发行的 $mTSLA 总数为100 个，并将以活动开始时的市场行情价格的九折进行出售。每一个 ITO 参与地址最多能够认购一个 $mTSLA。
 
 本次 ITO 将在美东时间 2021 年 2 月 3 日下午 1 开始，即中国时间 2 月 4 日凌晨 2 点。Mirror Protocol 官方 Twitter 账号 @mirror_protocol 将会在活动时间开始时发出 ITO 相关推文。
 
@@ -45,19 +45,19 @@ Mask Network 现在已经为用户提供了法币入金渠道（由 Transak 提�
 
 北京时间 2 月 4 日凌晨 2:00
 
-**发行总价：**100 个 $mTSLA (约 $80000)
+**发行总价：**100 个 $mTSLA
 
-**单账户认购上限：**每个地址 1 个 $mTSLA (约 $700)
+**单账户认购上限：**每个地址 1 个 $mTSLA 
 
 **折扣：**9 折
 
-***该推文将会在活动开始时由 Mirror Protocol 官方 Twitter 账号 @mirror_protocol 发布。**
+\***该推文将会在活动开始时由 Mirror Protocol 官方 Twitter 账号 @mirror_protocol 发布。**
 
 *** $mTSLA 的认购价格以 ITO 开始时 $mTSLA 的价格为准。**
 
- ***推荐使用 Mask Network 的 Chrome 以及 Firefox 插件，Android 和 iOS 移动端版本仍在测试中。**
+\***推荐使用 Mask Network 的 Chrome 以及 Firefox 插件，Android 和 iOS 移动端版本仍在测试中。**
 
- ***活动开始前，请确保 Mask Network 插件已经安装并提前连接钱包。（现支持 MetaMask，WalletConnect 以及 Mask Wallet）**
+\***活动开始前，请确保 Mask Network 插件已经安装并提前连接钱包。（现支持 MetaMask，WalletConnect 以及 Mask Wallet）**
 
 Elon Musk 曾说，“In hindsight, it was inevitable.” 我们相信，开放金融将是未来的必然趋势。Mask Network 将继续和 Mirror Protocol 寻找更多的合作途径，将更多合成资产带给 Twitter 用户，突破传统世界与去中心化世界界限，为用户提供一个更为丰富的开放金融体验。我们期待更多的个人以及项目加入我们并通过 Mask Network 在 Twitter 上发行通证！
 
