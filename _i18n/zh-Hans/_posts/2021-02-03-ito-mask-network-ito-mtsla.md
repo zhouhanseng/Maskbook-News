@@ -47,13 +47,13 @@ Mask Network 现在已经为用户提供了法币入金渠道（由 Transak 提�
 
 **发行总价：**100 个 $mTSLA
 
-**单账户认购上限：**每个地址 1 个 $mTSLA 
+**单账户认购上限：**每个地址 1 个 $mTSLA
 
 **折扣：**9 折
 
 \***该推文将会在活动开始时由 Mirror Protocol 官方 Twitter 账号 @mirror_protocol 发布。**
 
-*** $mTSLA 的认购价格以 ITO 开始时 $mTSLA 的价格为准。**
+ ***$mTSLA 的认购价格以 ITO 开始时 $mTSLA 的价格为准。**
 
 \***推荐使用 Mask Network 的 Chrome 以及 Firefox 插件，Android 和 iOS 移动端版本仍在测试中。**
 
