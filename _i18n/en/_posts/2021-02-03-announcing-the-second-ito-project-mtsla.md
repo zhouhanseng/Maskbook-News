@@ -9,7 +9,7 @@ ja: []
 zh-Hans: []
 zh-Hant: []
 title: 'Announcing the Second ITO Project: $mTSLA'
-description: ''
+description: " Come and join the second ITO project: $mTSLA!"
 location: 'Shanghai '
 type: ''
 image: "{{ site.baseurl_root }}/uploads/1-32.png"
