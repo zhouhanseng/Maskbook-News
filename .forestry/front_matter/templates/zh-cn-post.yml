@@ -132,7 +132,6 @@ fields:
   hidden: true
 pages:
 - _i18n/en/_posts/2020-07-02-test-video.md
-- _i18n/zh-Hans/_posts/12.md
 - _i18n/zh-Hans/_posts/2019-12-10-dimension-股权公司-sujitech-llc-加入-ecma-international.md
 - _i18n/zh-Hans/_posts/2020-03-11-40-年前-盖茨写了一封信-软件业之后发生了怎样的改变.md
 - _i18n/zh-Hans/_posts/2020-05-19-maskbook-arweave.md
@@ -207,5 +206,6 @@ pages:
 - _i18n/zh-Hans/_posts/2021-01-20-转载｜第五届网络社会年会-格伦-韦尔-基进改变的政治哲学.md
 - _i18n/zh-Hans/_posts/2021-01-24-9.md
 - _i18n/zh-Hans/_posts/2021-01-28-转载｜开放社交协议会带来那些变革.md
+- _i18n/zh-Hans/_posts/2021-02-03-12.md
 - _i18n/zh-Hans/_posts/2021-02-03-ito-mask-network-ito-mtsla.md
 - _i18n/zh-Hans/_posts/2021-02-03-采访-反思过劳时代里-工作-的意义.md
