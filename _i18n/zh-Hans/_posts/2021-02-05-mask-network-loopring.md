@@ -12,7 +12,7 @@ zh-Hant: []
 title: 新闻｜Mask Network 与路印协议 Loopring 达成战略合作，共建以太坊二层生态
 description: ''
 location: 上海
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-34.png"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-34.png)
