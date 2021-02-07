@@ -12,7 +12,7 @@ title: MaskNetworkがLoopringと提携してイーサリアムレイヤー2エ�
 description: ''
 location: ''
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-34.png"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-34.png)
