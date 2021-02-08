@@ -28,9 +28,7 @@ Sujitech, LLC is the company behind Dimension. It is a technology business that 
 
 Sujitech, LLC and Mastodon have a very close relationship. It took over the maintenance of two Japanese nodes at Mastodon, Mstdn.jp, and Mastodon.cloud in June 2020. These two nodes are the third and fifth largest nodes on Mastodon, and have a total of more than 300,000 users. They also support the long term development of Fediverse.
 
-![]({{ site.baseurl_root }}/uploads/_20210207182114.jpg)
-
-Discussions of decentralized social media have been growing steadily in the internet industry in the past two years. More and more people are beginning to put their sights on decentralized social media. Jack Dorsey, the founder of Twitter, has also openly endorsed decentralization of social media.in 2019, Jack Dorsey announced that Twitter had been funding the development of a decentralized social media protocol called Bluesky. The mission of Bluesky is to help social media discover an open-source and decentralized standard that is able to decentralize the tremendous power currently held by centralized social media platforms.
+![]({{ site.baseurl_root }}/uploads/_20210207182114.jpg)Discussions of decentralized social media have been growing steadily in the internet industry in the past two years. More and more people are beginning to put their sights on decentralized social media. Jack Dorsey, the founder of Twitter, has also openly endorsed decentralization of social media.in 2019, Jack Dorsey announced that Twitter had been funding the development of a decentralized social media protocol called Bluesky. The mission of Bluesky is to help social media discover an open-source and decentralized standard that is able to decentralize the tremendous power currently held by centralized social media platforms.
 
 ![]({{ site.baseurl_root }}/uploads/2-36.png)
 
