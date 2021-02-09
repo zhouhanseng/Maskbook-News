@@ -47,8 +47,6 @@ Mask Network 是一款构建在现有社交网络平台之上的开源产品，�
 
 **需求描述：**
 
-***
-
 Minds 是一个基于区块链区块链技术与另类科技的社交网络。用户可以通过使用 Minds 来赚取金钱或加密货币，可以使用通证来推广你的帖子或为其他用户提供众筹。与主流的社交媒体网络相比，Minds 则更加关注个人隐私。（来源：维基百科）
 
 我们正在与 Minds 进行合作，目标是将我们完整功能集成到 Minds 中，以便现有的 Minds 用户可以使用到我们在 Twitter 和 Facebook 中相同的功能和界面，包括加解密以及插件执行环境 。
@@ -85,8 +83,6 @@ https://t.me/joinchat/HR15dCCrVzyKjrul
 
 **需求描述：**
 
-***
-
 ArDrive 是一款文件同步应用程序，使用户只需单次付费即可将其数据永久存储在 Arweave 上。我们的应用程序比较关注文件同步的核心功能（例如上传和下载）。与此同时，我们希望能为隐私文件提供最大的安全性并与 Arweave 钱包集成以进行付款。
 
 Mask Network 是一款浏览器插件，允许用户创建加密的帖子并选择可以解密的人。基于此访问控制系统以及能够将任意 DOM 元素注入社交媒体的功能，Mask Network 创建了一个开放的市场，欢迎所有人在自己喜欢的平台上创建自己的 Dapplet 或插件。
@@ -121,8 +117,6 @@ phil@ardrive.io
 
 ***
 
-***
-
 **3. 集成 Unlock Protocol 和 Mask Network**
 
 [https://github.com/DimensionDev/Maskbook/issues/2363](https://github.com/DimensionDev/Maskbook/issues/2363 "https://github.com/DimensionDev/Maskbook/issues/2363")
@@ -138,8 +132,6 @@ phil@ardrive.io
 **悬赏金额：**2000 DAI
 
 **需求描述：**
-
-***
 
 Mask Network 是一个浏览器插件，允许用户创建加密推文，且加密推文只有安装了 Mask Network 插件才能 “查看”。推文可以包含文本或图像。
 
@@ -165,7 +157,7 @@ Unlock Protocol 是一个基于智能合约的会员制协议，允许创建者�
 
 **平台：**Gitcoin
 
-**经验要求：**初级
+**经验要求：初级**
 
 **类别 :** 其他
 
@@ -174,8 +166,6 @@ Unlock Protocol 是一个基于智能合约的会员制协议，允许创建者�
 **悬赏金额：**500 DAI
 
 **需求描述：**
-
-***
 
 Twitter 的 CEO Jack Dorsey 在 2019 年 12 月 11 日 成立了名为「Bluesky」的研究小组，旨在为社交媒体探索开源且去中心化的标准。在今年的 1 月 22 日，Bluesky 公布了一份 61 页的《生态系回顾》报告，该报告讨论了构建去中心化社区平台的协议和应用程式。
 
@@ -214,8 +204,6 @@ E-mail: info@fat-garage.com
 **悬赏金额：**2500 USD
 
 **需求描述:**
-
-***
 
 上周， Clubhouse 风靡于全球网络，它展示了社交语音聊天室的潜在可能。Clubhouse 的成功绝不仅在于它的核心功能：语音聊天；同时也包含了很多在设计上的调整以及细节处理。因此，该 Bounty 想做到的不是简单的复刻，而是希望可以通过直接在 Twitter 上接入语音聊天室，来展示 Mask Network 作为一款中间件在现有互联网之上所能够实现的潜能。
 
