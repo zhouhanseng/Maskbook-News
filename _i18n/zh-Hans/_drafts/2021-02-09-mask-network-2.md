@@ -12,7 +12,7 @@ zh-Hant: []
 title: 悬赏｜Mask Network 赏金计划第 2 期
 description: Mask Network 最新赏金计划更新！
 location: 上海
-image: ''
+image: "{{ site.baseurl_root }}/uploads/2-37.png"
 
 ---
 Mask Network 是一款构建在现有社交网络平台之上的开源产品，注重保护用户的隐私以及权力，并自正式运行以来一直秉持技术开源的理念。我们希望能够借助社区以及优秀开发者的力量来完善技术，建设 Mask Network 生态，一同为所有的网络公民搭建一个连接目前互联网与新型开放网络的桥梁。
