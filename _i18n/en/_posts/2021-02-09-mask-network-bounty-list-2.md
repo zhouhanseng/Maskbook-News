@@ -159,9 +159,7 @@ For a more detailed description, you can refer to [this](https://docs.google.com
 
 [https://github.com/unlock-protocol/unlock](https://github.com/unlock-protocol/unlock "https://github.com/unlock-protocol/unlock")
 
-**4.Bluesky <Ecosystem Review> Translation** 
-
-**4.Bluesky<Ecosystem Review> Translation**
+**4.Bluesky-Ecosystem Review- Translation**
 
 [https://github.com/DimensionDev/Maskbook/issues/2296](https://github.com/DimensionDev/Maskbook/issues/2296 "https://github.com/DimensionDev/Maskbook/issues/2296")
 
