@@ -161,6 +161,8 @@ For a more detailed description, you can refer to [this](https://docs.google.com
 
 **4.Bluesky <Ecosystem Review> Translation** 
 
+**4.Bluesky<Ecosystem Review> Translation**
+
 [https://github.com/DimensionDev/Maskbook/issues/2296](https://github.com/DimensionDev/Maskbook/issues/2296 "https://github.com/DimensionDev/Maskbook/issues/2296")
 
 **_Platform:_** _Gitcoin_
