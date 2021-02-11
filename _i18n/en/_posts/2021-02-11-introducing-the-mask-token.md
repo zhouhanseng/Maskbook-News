@@ -12,7 +12,7 @@ title: Introducing the $MASK Token
 description: ''
 location: 'Shanghai '
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-38.png"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-38.png)
