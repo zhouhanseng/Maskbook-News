@@ -43,4 +43,6 @@ Mask Network is the core product of Dimension, which is positioned to become the
 
 Mask Network integrates decentralized social messaging, borderless payment network, and decentralized file storage and sharing to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.
 
-**_Follow us on_** [**_Twitter_**](http://twitter.com/realmaskbook) **_or join our chat groups on_**[ **_Telegram _**](https://t.me/Maskbook_group)**_and_** [**_Discord_**](https://t.me/Maskbook_group)**_!_**
+**_Follow us on_** **_Twitter_** **_or join our chat groups on_**[ ](https://t.me/Maskbook_group)**_Telegram** [**_**](https://t.me/Maskbook_group)**_and_** **_Discord!_**
+
+**_Discord:_** [https://discord.com/invite/cKGW45g](https://discord.com/invite/cKGW45g "https://discord.com/invite/cKGW45g")
