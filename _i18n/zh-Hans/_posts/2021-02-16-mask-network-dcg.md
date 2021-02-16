@@ -20,7 +20,7 @@ image: ''
 
 2020 年 11 月， Mask Network 刚刚完成了上一轮 200 万美元的融资，该轮融资由 HashKey 以及 Hash Global 联合领投。
 
-详情：[融资 \| Mask Network 获数百万美金融资，HashKey，Hash Global 等多家机构参投](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247486809&idx=2&sn=32b99e734fa4c57c8ab54f4e8598a166&chksm=fdc722cfcab0abd99878d3c9811537b8e656fff1380c3f458d1eb3bad643cf1e30f0f875f333&scene=21#wechat_redirect)
+详情：[融资 | Mask Network 获数百万美金融资，HashKey，Hash Global 等多家机构参投](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247486809&idx=2&sn=32b99e734fa4c57c8ab54f4e8598a166&chksm=fdc722cfcab0abd99878d3c9811537b8e656fff1380c3f458d1eb3bad643cf1e30f0f875f333&scene=21#wechat_redirect)
 
 过去 6 个月的时间对于 Mask Network 来说至关重要。Mask Network 发展至今花费了将近 3 年时间的来打磨产品以及塑造品牌形象。Mask Network 正在努力成为现有传统互联网通往新型开放网络的桥梁，方便现有社交网络中数亿的用户可以直达新的互联网，感受去中心化社交的魅力。在宣布此次融资完成之后，我们即将公布 Mask Network 另一项重大进展：Mask Network 将于近日完成其治理代币 $MASK 的发行 \[1\]。更多详情预计在未来 1 天内发布。
 
@@ -38,7 +38,7 @@ Mask Network 集去中心化隐私社交、无国界支付网络、去中心化�
 
 **\[1\] Mask Network 的新篇章——$MASK:**
 
-**中文版 （点击 “阅读原文” 可查）**
+**中文版** 
 
 [https://matters.news/@masknetwork/mask-network-%E7%9A%84%E6%96%B0%E7%AF%87%E7%AB%A0-mask-bafyreidclipyjpzn66ruily5faboefrvm42qchnsocln4d3xyyaqvuq36a](https://matters.news/@masknetwork/mask-network-%E7%9A%84%E6%96%B0%E7%AF%87%E7%AB%A0-mask-bafyreidclipyjpzn66ruily5faboefrvm42qchnsocln4d3xyyaqvuq36a "https://matters.news/@masknetwork/mask-network-%E7%9A%84%E6%96%B0%E7%AF%87%E7%AB%A0-mask-bafyreidclipyjpzn66ruily5faboefrvm42qchnsocln4d3xyyaqvuq36a")
 
