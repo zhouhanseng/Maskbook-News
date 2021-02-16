@@ -15,7 +15,7 @@ location: 上海
 image: ''
 
 ---
-![图片](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCAJhKLzgzUR2YWx3tYWlwca9UepmwHHEsRBbD1DdFvstX0SuhHKrtHLftlHIbrbstWG9tMWHxzIg/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)  
+![]({{ site.baseurl_root }}/uploads/1-39.png)  
 我们非常高兴地宣布 Mask Network 宣布已于近日正式完成新一轮 300 万美元的融资，由 DCG（Digital Currency Group） 领投，参与投资的机构有 Fundamental Labs、隆领投资、Animoca Brands、Moonwhale Ventures、Block0、3Commas、AHP Investments 等；个人投资者包括饿了么联合创始人汪渊、知名科幻作家陈楸帆、Max Webster、Qiao Wang 以及 Imran Khan 等。
 
 2020 年 11 月， Mask Network 刚刚完成了上一轮 200 万美元的融资，该轮融资由 HashKey 以及 Hash Global 联合领投。
@@ -30,7 +30,7 @@ Mask Network 创始人兼 CEO Suji Yan 说到：“在 2020 年，我们已经�
 
 **_-关于 Mask Network_**
 
-![图片](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHCAJhKLzgzUR2YWx3tYWlwcdvzkoZ68W545F0mWIxV0g3XGfmW6o6QU4Mr1O9YpUEoHicz276aaldQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/4-26.png)
 
 Mask Network（原名 Maskbook ）是一个帮助用户从 Web 2.0 无缝过渡到 Web 3.0 的门户。其提供的主要功能是对信息传输进行加解密，并围绕着这一功能不断发展。Mask Network 倡导用户珍视自己的数据资产并拥有主权。
 
