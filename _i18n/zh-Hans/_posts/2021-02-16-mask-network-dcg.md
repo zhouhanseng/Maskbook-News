@@ -10,7 +10,7 @@ en: []
 ja: []
 zh-Hant: []
 title: 融资｜Mask Network 完成新一轮融资，DCG 领投
-description: ''
+description: Mask Network 已正式完成新一轮 300 万美元的融资，由 DCG 领投。
 location: 上海
 image: ''
 
