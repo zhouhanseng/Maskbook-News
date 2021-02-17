@@ -123,4 +123,4 @@ For detailed ITO and Airdrop collection tutorials, please click here：
 
 [**How to Participate in ITO and Claims Airdrops of $MASK**](https://masknetwork.medium.com/how-to-participate-in-ito-and-claims-airdrops-of-mask-92f2c55530bb)
 
-**_Follow us on_** [**_Twitter_**](http://twitter.com/realmaskbook) **_or join our chat groups on_** [**_Telegram _**](https://t.me/Maskbook_group)**_and_** [**_Discord_**](https://discord.gg/cKGW45g)**_!_**
+**_Follow us on_** **_Twitter_** **_or join our chat groups on_** **_Telegram __and_** **_Discord!_**
