@@ -31,7 +31,7 @@ image: "{{ site.baseurl_root }}/uploads/1-2.jpeg"
 * 新しいペルソナを作成します。
 * ”Twitterアカウントで接続する”をクリックします。
 
-![]({{ site.baseurl_root }}/uploads/2-2.gif)
+![]({{ site.baseurl_root }}/uploads/2-3.gif)
 
 * MaskがTwitterのページにリダイレクトし、ユーザー名を検出します。
 * ユーザー名を確認して”Connect to twitter.com”をクリックします。
