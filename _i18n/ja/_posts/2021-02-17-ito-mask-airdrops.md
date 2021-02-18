@@ -119,3 +119,5 @@ image: "{{ site.baseurl_root }}/uploads/1-2.jpeg"
 ![]({{ site.baseurl_root }}/uploads/12-8.png)
 
 この画像は参考画像です
+
+（翻訳：Yutaka）
