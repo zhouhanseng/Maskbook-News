@@ -51,7 +51,7 @@ $MASK can be bought with **$USDT, $USDC, $DAI, $BUSD, $HUSD and $ETH**. Each add
 
 **_$MASK token bought during the ITO will all be locked until 02/26/2021, 3:00am UTC+0._**
 
-![]({{ site.baseurl_root }}/uploads/741993285704131882.png)
+![]({{ site.baseurl_root }}/uploads/ito.jpg)
 
 **ITO Rounds Breakdown (A total of 36 hours）**
 
