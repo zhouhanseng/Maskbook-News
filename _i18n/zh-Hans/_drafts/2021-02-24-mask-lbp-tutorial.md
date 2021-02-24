@@ -17,7 +17,7 @@ image: ''
 ---
 **Intro简介**
 
-$MASK 的 LBP 将在 [2021 年 2 月 24 日晚 11点（UTC](https://savvytime.com/converter/utc-to-taiwan-taipei-ca-san-francisco-ny-new-york-city-united-kingdom-london/jan-12-2021/3pm)+8） 开始，且此次活动持续时间为 36 小时。我们将使用 Balancer 的 LBP 机制来进行 $MASK 代币（4%）的拍卖，让用户和市场能够更合理地发现和获取 $MASK 的公允价值。
+$MASK 的 LBP 将在 2021 年 2 月 24 日晚 11点（UTC+8） 开始，且此次活动持续时间为 36 小时。我们将使用 Balancer 的 LBP 机制来进行 $MASK 代币（4%）的拍卖，让用户和市场能够更合理地发现和获取 $MASK 的公允价值。
 
 LBP (Liquidity Bootstraping Pool) 为荷兰式拍卖，或称 “降价式拍卖”。其拍卖价格将由高到低依次递减，请大家在参与 LBP 前先详细了解它的运作方式，请在自己预期的价格范围内进行购买，切勿盲目 Fomo。Balancer LBP 能够通过改变预定的资金权重，在没有任何参与者购买的情况下，拍卖品会随着时间变长而降低价格。
 
