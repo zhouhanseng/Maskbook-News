@@ -46,14 +46,15 @@ At the beginning of the LBP, we are going to put in 4,000,000 $MASK and $800,000
 
 **How to Purchase**
 
-1. After the LBP start at 3pm (GMT+0) Feb 24th, click [https://balancer.exchange/#/swap](https://balancer.exchange/#/swap%E3%80%82) and you will enter a page like the Picture 1 below.
-2. Press connect on the top right corner, choose a wallet as shown in Picture 2.
+\-After the LBP start at 3pm (GMT+0) Feb 24th, click [https://balancer.exchange/#/swap](https://balancer.exchange/#/swap%E3%80%82) and you will enter a page like the Picture 1 below.
+
+\-Press connect on the top right corner, choose a wallet as shown in Picture 2.
 
 ![]({{ site.baseurl_root }}/uploads/_20210224194010.png)
 
 ![]({{ site.baseurl_root }}/uploads/8-13.jpg)
 
-3. After connecting your wallet, go back to the main page and select "Asset".
+\-After connecting your wallet, go back to the main page and select "Asset".
 
 * $MASK LBP is paired with $USDC.
 * Please make sure that you have enough $ETH to pay for the gas in your wallet.
@@ -61,14 +62,13 @@ At the beginning of the LBP, we are going to put in 4,000,000 $MASK and $800,000
 
 ![]({{ site.baseurl_root }}/uploads/7-15.jpg)![]({{ site.baseurl_root }}/uploads/_20210224192908.jpg)
 
-4. Type in the contract address of $MASK. **0x69af81e73a73b40adf4f3d4223cd9b1ece623074**
+\-Type in the contract address of $MASK. **0x69af81e73a73b40adf4f3d4223cd9b1ece623074**
 
-
-1. Please make sure that you type in the correct address.
+\-Please make sure that you type in the correct address.
 
 ![]({{ site.baseurl_root }}/uploads/5-21.png)
 
-5. Type in a reasonable amount at a reasonable price. Click "Swap".
+\-Type in a reasonable amount at a reasonable price. Click "Swap".
 
 ![]({{ site.baseurl_root }}/uploads/4-30.png)
 
