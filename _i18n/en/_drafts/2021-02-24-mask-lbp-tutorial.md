@@ -39,7 +39,7 @@ At the beginning of the LBP, we are going to put in 4,000,000 $MASK and $800,000
 
 **Reminder:**
 
-\-Due to the mechanism of reverse auction, **DO NOT APE IN at the beginning, you will likely get REKT. Stay rational before any trade decisions.**
+\-Due to the mechanism of reverse auction, the price will trend down automatically if no one buys. The declining slope is the steepest at the very beginning. **Stay rational before any trade decisions.**
 
 \-The default max slippage is **0.5%**. Set it higher if you are buying with a relatively large order.
 
