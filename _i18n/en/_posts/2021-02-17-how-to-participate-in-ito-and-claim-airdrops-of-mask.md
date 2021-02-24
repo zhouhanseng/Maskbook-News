@@ -94,7 +94,7 @@ This image is for reference only
 ![]({{ site.baseurl_root }}/uploads/9-9.png)
 
 * After the transaction is confirmed, you will see the success page!
-* **$MASK bought during the ITO will all be locked up after 02/26/2021, 3:00am UTC+0.**
+* **$MASK bought during the ITO will all be locked up after 02/27/2021, 3:00am UTC+0.**
 
 ![]({{ site.baseurl_root }}/uploads/10-15.png)
 
