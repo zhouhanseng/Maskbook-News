@@ -49,7 +49,7 @@ To promote a fair initial distribution of token, the ITO is going to proceed in 
 
 $MASK can be bought with **$USDT, $USDC, $DAI, $BUSD, $HUSD and $ETH**. Each address will only be allowed to purchase a maximum of **2000 $MASK** **token** each round.
 
-**_$MASK token bought during the ITO will all be locked until 02/26/2021, 3:00am UTC+0._**
+**_$MASK token bought during the ITO will all be locked until 02/27/2021, 3:00am UTC+0._**
 
 ![]({{ site.baseurl_root }}/uploads/zuiixn-ito.jpg)
 
@@ -67,9 +67,9 @@ We are dedicated to following the principles of fairness and user friendliness i
 
 **$MASK LBP Details** （A total of 36 hours）
 
-> _Start Time: 02/23/2021, 15:00pm UTC+0_
+> _Start Time: 02/24/2021, 15:00pm UTC+0_
 >
-> _End Time: 02/25/2021, 3:00am UTC+0_
+> _End Time: 02/26/2021, 3:00am UTC+0_
 >
 > _Token supply: 4 million_
 >
@@ -115,7 +115,7 @@ The core theme of the airdrop is to give back to our early adopters and key part
 
 **Start of Trading**
 
-We will put $2 million USD equivalent of $MASK and $ETH （$1 million each) at the ratio determined by LBP in the Uniswap pool before **02/26/2021 3:00am UTC+0**, less than 24 hours after the conclusion of LBP.
+We will put $2 million USD equivalent of $MASK and $ETH （$1 million each) at the ratio determined by LBP in the Uniswap pool before **02/27/2021 3:00am UTC+0**, less than 24 hours after the conclusion of LBP.
 
 Any $MASK token pair voluntarily created before our official one will likely have very thin liquidity and we do not advise acquiring $MASK token from it.
 
