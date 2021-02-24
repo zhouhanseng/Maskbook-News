@@ -9,7 +9,7 @@ tags: []
 en: []
 ja: []
 zh-Hant: []
-title: Mask LBP Tutorial 教程
+title: '教程 | Mask LBP Tutorial '
 description: ''
 location: 上海
 image: ''
