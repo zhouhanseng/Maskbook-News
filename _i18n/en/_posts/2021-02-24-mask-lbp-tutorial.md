@@ -63,7 +63,8 @@ At the beginning of the LBP, we are going to put in 4,000,000 $MASK and $800,000
 
 4. Type in the contract address of $MASK. **0x69af81e73a73b40adf4f3d4223cd9b1ece623074**
 
-   Please make sure that you type in the correct address.
+
+1. Please make sure that you type in the correct address.
 
 ![]({{ site.baseurl_root }}/uploads/5-21.png)
 
