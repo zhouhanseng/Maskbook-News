@@ -111,7 +111,7 @@ This image is for reference only
 
 **ITO**
 
-* Click the blue “MASK” button circled in the image and claim your $MASK until **02/26/2021, 3:00am UTC+0.**
+* Click the blue “MASK” button circled in the image and claim your $MASK until **02/27/2021, 3:00am UTC+0.**
 
 ![]({{ site.baseurl_root }}/uploads/11-12.png)
 
