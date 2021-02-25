@@ -8,7 +8,7 @@ tags: []
 ja: []
 zh-Hans: []
 zh-Hant: []
-title: Check Airdrop (Not Claimable) Feature is Live!
+title: Check Airdrop Feature is Live!
 description: ''
 location: 'Shanghai '
 type: ''
@@ -17,15 +17,15 @@ image: "{{ site.baseurl_root }}/uploads/1-43.png"
 ---
 ![]({{ site.baseurl_root }}/uploads/1-43.png)
 
-Tomorrow our first round of Mask ITO will commence. It’s time to release our airdrop recipient list. The check airdrop feature is live now.
+Tomorrow our first round of $MASK ITO will commence. It’s time to release our airdrop recipient list. The check airdrop feature is live now.
 
-Click the blue MASK button on the top left screen and you will be able to view if and how many $MASKs you are entitled to. It’s not claimable now though, you have to wait until Friday, 24 hours after our LBP sale concludes.
+Click the blue "MASK" button on the top left screen and you will be able to view if and how many $MASKs you are entitled to. It’s not claimable now though, you have to wait until Saturday, 24 hours after our LBP sale concludes.
 
 ![]({{ site.baseurl_root }}/uploads/2-43.png)
 
 ![]({{ site.baseurl_root }}/uploads/3-43.png)
 
-We've also put the entire recipient list on Arweave and IPFS. The link to the list is tweeted using Mask’s encryption technology. We welcome everyone to check it out. Link to the tweet:
+We've also put the entire recipient list on Arweave and IPFS. The link to the list is tweeted using Mask’s encryption technology. We welcome everyone to check it out. 
 
 Last time we said that: “Inspired by Uniswap, Badger and other DeFi and Web 3.0 projects, we will not only give rewards to $MASK to our early supporters. Ecosystem participants like Gitcoin donors and active voters in DeFi governance will also be rewarded to show our appreciation of their efforts. We hope this can promote more meaningful contributions to the ecosystem.”
 
@@ -35,17 +35,17 @@ We divide the recipients into 2 major categories: Mask insider and Ecosystem Par
 
 **Key Metrics**
 
-Total number of addresses receiving the airdrop: 15,949
+Total Number of Addresses Receiving the Airdrop: 15,949
 
-Total $MASK airdropped: 1,067,780
+Total $MASK Airdropped: 1,067,780
 
-Median amount: 50
+Median Amount: 50
 
-Average amount: 67
+Average Amount: 67
 
-Number of addresses receiving > 200 $MASK: 147
+Number of Addresses Receiving > 200 $MASK: 147
 
-Number of addresses qualifying for >= 3 sub-categories: 62
+Number of Addresses Qualifying for >= 3 Sub-Categories: 62
 
 Table 1: Airdrop Classification and Number of Respective Recipients
 
@@ -74,7 +74,7 @@ Red packet was our first Ethereum based feature launched in Spring 2020. It pion
 
 **Initial Twitter Offering**
 
-Initial Twitter Offering is our latest feature aimed to revolutionize the asset issuance market. We’ve successfully launched 2 offerings with Loopring and Mirror. 208 people participated in the 2 offerings. We are a bit surprised that 2 other offerings took place and 3 people participated. So we decide to give additional rewards to those 3 addresses. It is indeed permissionless so we welcome anyone to utilize the ITO feature.
+Initial Twitter Offering is our latest feature aimed to revolutionize the asset issuance market. We’ve successfully launched 2 offerings with Loopring and Mirror Protocol. 208 people participated in the 2 offerings. We are a bit surprised that 2 other offerings took place and 3 people participated. So we decide to give additional rewards to those 3 addresses. It is indeed permissionless so we welcome anyone to utilize the ITO feature.
 
 ![]({{ site.baseurl_root }}/uploads/8-13.png)
 
@@ -84,7 +84,7 @@ We thought long and hard about who should get the reward. Inspired by the list o
 
 **Voters**
 
-Voters include both Snapshot voters and voters of major projects that's not in Snapshot: Maker, Compound, AAVE and Curve. We found a total of 11,828 addresses voted 2-10 times, and 1575 addresses voted over 10 times. All dated before 1/1/2021.
+Voters include both Snapshot voters and voters of major projects that's not in Snapshot: Maker, Compound, AAVE and Curve. We found a total of 11,828 addresses voted 2-10 times, and 1,575 addresses voted over 10 times. All dated before 1/1/2021.
 
 A few interesting tidbits. In the 4 projects outside Snapshot, we found a total of 1,584 addresses voted 2-10 times, and 254 addresses voted over 10 times.
 
@@ -92,10 +92,10 @@ Sushi has more than 3,000 voters, YFI 1,700+, Badger 1,300+, Maker and Yam 1,200
 
 **Gitcoin Donors:**
 
-We set the criteria to people who donated in more than 2 different rounds (Out of 8 total) because a lot of people came in donating a minimal amount after the Badger airdrop. We found 1,253. We favor our own 275 donors a bit more, understandably.
+We set the criteria to people who donated in more than 2 different rounds (out of 8 total) because a lot of people came in donating a minimal amount after the Badger airdrop. We found 1,253. We favor our own 275 donors a bit more, understandably.
 
 **ENS**
 
-This is our improvisation. We are first and foremost a project trying to bridge social networks and Web 3.0, so we look for people who tried a bit harder than others. We think putting twitter handles on ENS text records is a very good indicator since this costs gas. We found more than 500 people. We didn’t do it other way around, i.e. putting ENS as twitter display name due to gameable concerns.
+This is our improvisation. We are first and foremost a project trying to bridge social networks and Web 3.0, so we look for people who tried a bit harder than others. We think putting Twitter handles on ENS text records is a very good indicator since this costs gas. We found more than 500 people. We didn’t do it other way around, i.e. putting ENS as twitter display name due to gameable concerns.
 
 That concludes the explanation of our airdrop rationale. Have fun staying with your Mask!
