@@ -93,20 +93,4 @@ We set the criteria to people who donated in more than 2 different rounds (Out o
 
 This is our improvisation. We are first and foremost a project trying to bridge social networks and Web 3.0, so we look for people who tried a bit harder than others. We think putting twitter handles on ENS text records is a very good indicator since this costs gas. We found more than 500 people. We didn’t do it other way around, i.e. putting ENS as twitter display name due to gameable concerns.
 
-**ENS**
-
 That concludes the explanation of our airdrop rationale. Have fun staying with your Mask!
-
-1/5 In 10 hours, our first round of $MASK ITO will begin. It's time to release our airdrop recipient list. The airdrop checking feature (not claimable) is live now.
-
-2/5 Click the blue Mask button on the top left screen and you will be able to view how many $MASKs you are entitled to. It's not claimable now though, you have to wait until Friday, 24 hours after our LBP sale concludes.
-
-3/5 We've also written a post to explain the rationale behind how we arrive at the current airdrop structure. We are also sharing some interesting tidbits we 've found out along the way.
-
-4/5 We've also put the entire recipient list on Arweave and IPFS. Link is encrypted in this tweet. Use Mask to decrypt!
-
-link:
-
-5/5 Here's the tutorial again to use Mask to check your airdrop amount.
-
-Link: [https://masknetwork.medium.com/how-to-participate-in-ito-and-claims-airdrops-of-mask-92f2c55530bb](https://masknetwork.medium.com/how-to-participate-in-ito-and-claims-airdrops-of-mask-92f2c55530bb "https://masknetwork.medium.com/how-to-participate-in-ito-and-claims-airdrops-of-mask-92f2c55530bb")
