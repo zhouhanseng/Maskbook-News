@@ -63,15 +63,20 @@ Mask actually have a lot more features other than the 3 mentioned here. However 
 
 We’ve only issued NFT once, the election special. A total of 589 NFTs was given away free. We even covered gas back then. 230 holders for now, the guy with most NFTs has a whopping 66. 30 people have 5 NFTs or more.
 
-![](https://lh3.googleusercontent.com/MjM7tbNdgE0nL06Lzw1f6_RVA5nh8S-XSA9Sr1ScM1-b8HAPRK6YUYwYu-HcVPC--NqHzWw5Moy8eGzknB9EKsUo5QJbvKdAFQnGULb6zlVJ2N-kxb-wogpsgO85rB-CadLdijRV =447x249)**Red Packet**
+![]({{ site.baseurl_root }}/uploads/6-20.png)
+
+**Red Packet**
 
 Red packet was our first Ethereum based feature launched in Spring 2020. It pioneered in sending payment on top of Twitter in a decentralized manner. The Chinese New Year Red Packet campaign with Maker stormed the entire crypto Twitter. Ethereum founder Vitalik Buterin was even among the first batch of users and gave away some Ether for perhaps the only time since he is the famous “non-giver of Ether”. 110 addresses had more than 5 interactions with our red packet contract.
 
-![](https://lh4.googleusercontent.com/qQq1VbsOvk6LK3i4NARuB4Xg7ogqhzACBQgANHVeQ5m_ghwzBKNIC8M5k2lZaQ4z5lWp50NcbqlyrQUtLMqYlRACmvbLm52N4f9NEuS2oId3SmkBefv1HvKdkYR6N2sUdbdWLBVG =390x295)**Initial Twitter Offering**
+  
+![]({{ site.baseurl_root }}/uploads/7-17.png)
+
+**Initial Twitter Offering**
 
 Initial Twitter Offering is our latest feature aimed to revolutionize the asset issuance market. We’ve successfully launched 2 offerings with Loopring and Mirror. 208 people participated in the 2 offerings. We are a bit surprised that 2 other offerings took place and 3 people participated. So we decide to give additional rewards to those 3 addresses. It is indeed permissionless so we welcome anyone to utilize the ITO feature.
 
-![](https://lh6.googleusercontent.com/lkzs2jkrWmjPiZRdKNO3y7U_MSC1U-CaOP1BBd5zj4h4tiUxzk0SlRv29X2pTygiuhL2mpnnVM_Vnu1hv9Lc-5YlB7GI69DftY5te0iLGVLFk2ywE36JsgfTAkW_TF4Gdw0pZSpY =457x229)
+![]({{ site.baseurl_root }}/uploads/8-13.png)
 
 **Ecosystem Participants**
 
