@@ -1,4 +1,4 @@
-{% assign date_string = include.date | date: "%Y-%m-%d (%a) " %}
+{% assign date_string = include.date | date: "%Y-%m-%d" %}
 {% if include.timezone %}
   {% if include.timezone >= 0 %}
     {% assign date_string = date_string | append: "UTC+" | append: include.timezone %}
