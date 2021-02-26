@@ -19,13 +19,17 @@ image: "{{ site.baseurl_root }}/uploads/1-43.png"
 
 Tomorrow our first round of $MASK ITO will commence. It’s time to release our airdrop recipient list. The check airdrop feature is live now.
 
-Click the blue "MASK" button on the top left screen and you will be able to view if and how many $MASKs you are entitled to. It’s not claimable now though, you have to wait until Saturday, 24 hours after our LBP sale concludes.
+Install Mask if you haven't already. Click the blue “MASK” button on the top left screen and you will be able to view how many $MASKs you are entitled to. It's not claimable now though, you have to wait until Saturday, 3am (GMT+0) Feb 27th, 24 hours after our LBP sale concludes.
+
+Tutorial on how to install Mask and check/claim airdrop
+
+[https://news.mask.io/2021/02/17/how-to-participate-in-ito-and-claim-airdrops-of-mask](https://news.mask.io/2021/02/17/how-to-participate-in-ito-and-claim-airdrops-of-mask "https://news.mask.io/2021/02/17/how-to-participate-in-ito-and-claim-airdrops-of-mask")
 
 ![]({{ site.baseurl_root }}/uploads/2-43.png)
 
 ![]({{ site.baseurl_root }}/uploads/3-43.png)
 
-We've also put the entire recipient list on Arweave and IPFS. The link to the list is tweeted using Mask’s encryption technology. We welcome everyone to check it out. 
+We've also put the entire recipient list on Arweave and IPFS. The link to the list is tweeted using Mask’s encryption technology. We welcome everyone to check it out.
 
 Last time we said that: “Inspired by Uniswap, Badger and other DeFi and Web 3.0 projects, we will not only give rewards to $MASK to our early supporters. Ecosystem participants like Gitcoin donors and active voters in DeFi governance will also be rewarded to show our appreciation of their efforts. We hope this can promote more meaningful contributions to the ecosystem.”
 
@@ -69,7 +73,6 @@ We’ve only issued NFT once, the election special. A total of 589 NFTs was give
 
 Red packet was our first Ethereum based feature launched in Spring 2020. It pioneered in sending payment on top of Twitter in a decentralized manner. The Chinese New Year Red Packet campaign with Maker stormed the entire crypto Twitter. Ethereum founder Vitalik Buterin was even among the first batch of users and gave away some Ether for perhaps the only time since he is the famous “non-giver of Ether”. 110 addresses had more than 5 interactions with our red packet contract.
 
-  
 ![]({{ site.baseurl_root }}/uploads/7-17.png)
 
 **Initial Twitter Offering**
