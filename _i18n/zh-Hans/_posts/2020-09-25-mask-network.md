@@ -35,7 +35,7 @@ Mask Network（Maskbook）又双叒叕上线新功能了!
 
 — 新用户可以根据 提示一步一步进行安装，创建身份-> 连接 Twitter 账号；
 
-![]({{ site.baseurl_root }}/uploads/1-45.png)
+![]({{ site.baseurl_root }}/uploads/1-46.png)
 
 — Mask Network 会自动跳转到 Twitter 页面，并识别你的用户名，确认用户名后点击“Connect”；
 
