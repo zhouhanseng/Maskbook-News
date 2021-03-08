@@ -58,21 +58,35 @@ Mask Network（Maskbook）又双叒叕上线新功能了!
 
 ![]({{ site.baseurl_root }}/uploads/5-23.png)
 
+![]({{ site.baseurl_root }}/uploads/6-21.png)
+
 ### **— 行情查询**
 
 Mask Network现已接入 CoinMarketCap，你只要在 Twitter 页面看到”$XXX”（Eg：$BTC,$ETH) ，将鼠标滑动到上面，即可自动识别通证信息。
+
+![]({{ site.baseurl_root }}/uploads/7-18.png)
 
 ### **— Unsiwap**
 
 现在 Mask Network 也支持一键 Swap 的功能，显示 Token 行情后会自动识别 Uniswap 上的交易对，并在前端显示“Swap🔥”，点击“Swap🔥”即可一键买币。
 
+![]({{ site.baseurl_root }}/uploads/8-14.png)
+
 单击“Swap”购买通证
+
+![]({{ site.baseurl_root }}/uploads/9-10.png)
 
 输入金额并单击“Swap”
 
+![]({{ site.baseurl_root }}/uploads/10-17.png)
+
 确认价格并点击"Confirm Swap"
 
+![]({{ site.baseurl_root }}/uploads/11-13.png)
+
 在 MetaMask 上确认交易
+
+![]({{ site.baseurl_root }}/uploads/12-10.png)
 
 确认交易后，你也可以在 Etherscan 上查询交易信息
 
@@ -80,6 +94,12 @@ Mask Network现已接入 CoinMarketCap，你只要在 Twitter 页面看到”$XX
 
 — 点击右上角笑脸标志-> 点击“Enter Dashboard”进入 Mask 后台->点击进入“Wallets”；
 
+![]({{ site.baseurl_root }}/uploads/13-6.png)
+
 — 钱包内部会显示余额，如果没有找到相对应的 Token，点击右边“+ Add Token”，“Search”相对应的 Token 进行添加即可。
 
+![]({{ site.baseurl_root }}/uploads/14-5.png)
+
 搜索通证名称并添加，或者也可以点击“Add your own”添加
+
+![]({{ site.baseurl_root }}/uploads/15-3.png)
