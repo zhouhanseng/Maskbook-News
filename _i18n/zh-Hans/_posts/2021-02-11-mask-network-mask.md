@@ -15,7 +15,7 @@ location: 上海
 image: ''
 
 ---
-![](https://assets.matters.news/embed/08cd3534-53e4-4e09-a614-7ba5bcedde2d.png)
+![]({{ site.baseurl_root }}/uploads/1-47.png)
 
 **背景**
 
@@ -29,7 +29,7 @@ image: ''
 
 **Mask Network**
 
-![](https://assets.matters.news/embed/ff785226-95dd-4944-8c43-66dad18d67b9.png)
+![]({{ site.baseurl_root }}/uploads/4-23.jpg)
 
 Mask is the bridge, Mask is the foundation, Mask is meme.
 
@@ -61,7 +61,7 @@ $MASK 通证供应与分布
 
 * 创世通证的分配
 
-![](https://assets.matters.news/embed/7dc9ccf2-30c8-4454-b122-2081fccde6a8.png)
+![]({{ site.baseurl_root }}/uploads/3-45.png)
 
 * **3 年流通供应**
 
@@ -69,7 +69,7 @@ $MASK 通证供应与分布
 
 以下图表显示了通证持续解锁导致流通供应的逐渐增加
 
-![](https://assets.matters.news/embed/c55e49ec-fa03-41e0-aa5d-16c1397dd2c9.png)
+![]({{ site.baseurl_root }}/uploads/2-45.png)
 
 以下表格显示了每年的流通供应量。
 
