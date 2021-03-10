@@ -21,7 +21,7 @@ DEGO Finance is a cross-chain NFT+DeFi protocol and infrastructure. Mask Network
 
 As the bridge that connects Web 2.0 and Web 3.0, Mask Network also pays great attention to the NFT field. During the U.S. election in 2020, we have introduced "the Mask Network Election Special NFTs" and launched 589 NFTs on Twitter.
 
-Hope through the special NFT launch and the cooperation with DEGO Finance, we want to show that the transfer and display of NFT can be easily realized on centralized platforms such as Twitter. This is also why Mask Network exists, to keep integrating the boundaries between Web 2.0 and Web 3.0.
+ Through the special NFT launch and the cooperation with DEGO Finance, we want to show that the transfer and display of NFT can be easily realized on centralized platforms such as Twitter. This is also why Mask Network exists, to keep integrating the boundaries between Web 2.0 and Web 3.0.
 
 For more details on "Mask Network Election Special NFTs," see below:
 
