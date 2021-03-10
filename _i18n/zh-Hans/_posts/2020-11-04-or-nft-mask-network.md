@@ -15,7 +15,7 @@ description: ''
 ja: ''
 
 ---
-还记得 Mask Network 前段时间开发的行情 +Swap 功能（[教程 | 行情交易一网打尽，一起来玩转 Mask Network 新功能！](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）吗，该功能一经推出，引爆了推特，得到了加密社区的一致好评。
+还记得 Mask Network 前段时间开发的行情 +Swap 功能（[教程 \| 行情交易一网打尽，一起来玩转 Mask Network 新功能！](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）吗，该功能一经推出，引爆了推特，得到了加密社区的一致好评。
 
 很多人会问，Mask Network 下一步想做什么？
 
