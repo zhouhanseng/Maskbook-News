@@ -9,7 +9,7 @@ en: []
 ja: []
 zh-Hant: []
 title: 新闻｜DEGO Finance 将与 Mask Network 达成战略合作，共建 Web 3.0 时代的 NFT 入口
-description: ''
+description: 用户将能够在 Twitter 进行一键 NFT 创造与收藏！
 image: ''
 
 ---
