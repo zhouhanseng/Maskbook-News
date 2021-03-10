@@ -51,7 +51,7 @@ ja: ''
 
 比如 A 州有 20 张选举人票，结果在某日 8 点公布是特朗普或者拜登赢得该州，那么 Mask Network 将在之后发送一个含有 20 个 该州专属 NFT 的包。每个 NFT 会显示该州获胜者的头像，州地图，以及独一无二的编号。
 
-![](https://mmbiz.qpic.cn/mmbiz_gif/QpV1OYwdMHCdqyRgniccjlWpYxW6gAF4psZF2WPdcXfD58pib6vzbPGa6WbFR1EPTIs1STsRAYf4yia2maEibeanYw/640?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![]({{ site.baseurl_root }}/uploads/2-5.gif)
 
 NFT 红包跟普通红包很像也会遵循先到先得的规律，每个账号每次只能抢一个哦～欢迎大家多多参与！
 
