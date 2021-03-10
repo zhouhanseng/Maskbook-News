@@ -11,9 +11,11 @@ zh-Hant: []
 title: 活动 | 特朗普 OR 拜登？“美国大选 NFT 特别版”现已登陆 Mask Network
 location: 上海
 image: ''
+description: ''
+ja: ''
 
 ---
-还记得 Mask Network 前段时间开发的行情 +Swap 功能（[教程 \| 行情交易一网打尽，一起来玩转 Mask Network 新功能！](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）吗，该功能一经推出，引爆了推特，得到了加密社区的一致好评。
+还记得 Mask Network 前段时间开发的行情 +Swap 功能（[教程 | 行情交易一网打尽，一起来玩转 Mask Network 新功能！](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247485707&idx=1&sn=dbd489b48fb0cc27563d67ecc3f5e8e7&chksm=fdc7269dcab0af8b8425a54716533eebe6be0ae38ba1d87ca1433a8277d4df3048dcf775bf00&scene=21#wechat_redirect)）吗，该功能一经推出，引爆了推特，得到了加密社区的一致好评。
 
 很多人会问，Mask Network 下一步想做什么？
 
@@ -21,7 +23,7 @@ image: ''
 
 现在为你介绍 Mask Network “美国大选特别版 NFT”。
 
-![](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHCdqyRgniccjlWpYxW6gAF4pEPvEcjtUtJjIhmJRI3Fs7QgXMlnYGsLnn6VpYunlzjJUicbic9w5aeTQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/1.png)
 
 **对于通证化未来的畅想**
 
