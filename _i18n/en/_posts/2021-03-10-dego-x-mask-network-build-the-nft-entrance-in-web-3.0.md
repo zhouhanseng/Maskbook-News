@@ -15,7 +15,7 @@ image: "{{ site.baseurl_root }}/uploads/dego.png"
 ---
 ![]({{ site.baseurl_root }}/uploads/dego.png)
 
-Cross-chain NFT and DeFi protocol DEGO Finance has reached a strategic cooperation with the Web 3.0 product Mask Network. Both parties will conduct further conversation on the development of NFT on traditional social media platforms, how to bring users more value, and build an NFT entrance in the Web 3.0 era.
+Cross-chain NFT and DeFi protocol DEGO Finance has reached a strategic cooperation with the Web 3.0 product Mask Network. Both parties will conduct further conversation on the development of NFT on traditional social media platforms, how to bring users more value, and build an NFT entrance in  Web 3.0 .
 
 DEGO Finance is a cross-chain NFT+DeFi protocol and infrastructure. Mask Network and DEGO Finance reached an in-depth agreement in discovering how to land NFT's functionality and finance characteristics. Through this cooperation, both parties will work together in fields such as NFT blind boxes, games, and social networks. Users will be able to conduct NFT creation, collection, buying and selling on Twitter, all with a few clicks.
 
