@@ -21,7 +21,7 @@ DEGO Finance 是跨链的 NFT + DeFi 协议和基建设施，Mask Network 与 DE
 
 Mask Network 作为连接传统互联网与新型网络的桥梁，对 NFT 领域也给予了极大的关注。在此之前，Mask Network 已经进行过一次 NFT 活动—— “美国大选特别版 NFT”。在美国大选期间，共在 Twitter 上发放了 589 个特别版 NFT。
 
-[**活动 | 特朗普 OR 拜登？“美国大选 NFT 特别版”现已登陆 Mask Network**](https://news.mask.io/zh-Hans/2020/11/04/or-nft-mask-network)
+[**活动 \| 特朗普 OR 拜登？“美国大选 NFT 特别版”现已登陆 Mask Network**](https://news.mask.io/zh-Hans/2020/11/04/or-nft-mask-network)
 
 ![]({{ site.baseurl_root }}/uploads/1.png)
 
