@@ -23,7 +23,7 @@ ja: ''
 
 现在为你介绍 Mask Network “美国大选特别版 NFT”。
 
-![]({{ site.baseurl_root }}/uploads/1.png)
+![]({{ site.baseurl_root }}/uploads/22.png)
 
 **对于通证化未来的畅想**
 
