@@ -47,12 +47,12 @@ Gitcoin 的主要功能可分为五大类：悬赏（Bounties）、黑客松（H
 
 * [悬赏｜Mask Network 赏金计划全攻略](https://mp.weixin.qq.com/s/JDCkSCGxs6VADi85i0AuIg)
 
-  ![](https://lh6.googleusercontent.com/tlxOoCrnMCAL31ZcVMbYINPEqMiA89NyeQo9FoZC-4nggnFrsR_88R0bI3cXsIIJDqLtInXkyN_FQVd4s-Lhbgl5ns0rWXigC49rEqjzwQIWUaVEmozjEMcbwK7SpKcFiA =397x219)
+  ![]({{ site.baseurl_root }}/uploads/001.png)
 * [悬赏｜Mask Network 赏金计划第 2 期](https://mp.weixin.qq.com/s/K3iQYMckZNWglSA4QM-pgA)
 
-  ![](https://lh6.googleusercontent.com/sdkGMSxSwNI3Df5Q1PH1i9_lwifcvFSdX2kejde4iCIzjzKOg9ytmSc0cQHui35R3c4El4Kv-dGO9XkGV3jMYdW4ot5unIO7FtKjLu9dIw9Y8U0fU4fcd_YouH8DNB9dug =399x165)
+  ![]({{ site.baseurl_root }}/uploads/2-37.png)
 * [回顾｜第五届网络社会年会 —— 维塔利克.布特林：以太坊社群治理与 Gitcoin 的二次方募资](https://mp.weixin.qq.com/s/iKKlVRE1Y2uDxLk8b-wZbw)  
-  ![](https://lh4.googleusercontent.com/-FTX0NIDjfR7-8PUofoZVGZUGQk1qATH7__0FwuE_t8GHfZ6UJ_EjYRL8e8Cyim8OhtAsEMHoFbdJACxmzXNEdRrs0Dvl6YvS1Xh3-jhhzRi1z8VRpQTobfHlV6jyjJuFw =443x205)[​](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247487471&idx=1&sn=b200715ca60c350d6b0aa29053451686&chksm=fdc72079cab0a96f1f0047ad9d256230d98f31f6dbcec882f6ad29c61064a31ecf6dc63c3e52&scene=21#wechat_redirect)
+  ![]({{ site.baseurl_root }}/uploads/v.jpg)[​](http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&mid=2247487471&idx=1&sn=b200715ca60c350d6b0aa29053451686&chksm=fdc72079cab0a96f1f0047ad9d256230d98f31f6dbcec882f6ad29c61064a31ecf6dc63c3e52&scene=21#wechat_redirect)
 
 **\[1\] Mask Network 赏金计划:** [https://github.com/DimensionDev/Maskbook/issues?q=is%3Aissue+is%3Aopen+bounty](https://github.com/DimensionDev/Maskbook/issues?q=is%3Aissue+is%3Aopen+bounty "https://github.com/DimensionDev/Maskbook/issues?q=is%3Aissue+is%3Aopen+bounty")
 
