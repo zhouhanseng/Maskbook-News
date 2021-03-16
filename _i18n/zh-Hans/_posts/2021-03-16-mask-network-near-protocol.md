@@ -8,7 +8,7 @@ tags: []
 en: []
 ja: []
 zh-Hant: []
-title: Mask Network 将与 NEAR Protocol 达成深度合作，并联合发起赏金计划
+title: Mask Network 将与 NEAR Protocol 达成深度合作，并联合发起赏金
 description: ''
 image: "{{ site.baseurl_root }}/uploads/near.png"
 
@@ -19,11 +19,11 @@ Mask Network 将与 PoS 底层公链 NEAR Protocol 达成深度合作，双方�
 
 此次合作将以发布联合 Bounty 的方式启动，希望能够借助双方社区开发者的力量来完成生态的建设。首个 Bounty 的任务是将 NEAR Wallet 率先接入到 Mask Network 插件中。NEAR Wallet 是用于 NEAR Protocol 的、非托管的网页钱包，使用用户计算机上的 localStorage 以开放文本形式存储账户密钥，且该钱包还拥有可读账户名地址，gas 费、存储成本、助记词以及私钥等去中心化模块的隐性处理等特点。 NEAR Wallet 的接入将会给 Mask 用户带来更多钱包选择以及更优质的 DeFi 体验，对双方产品赋能，并为未来进一步的合作奠定坚实基础。
 
-Mask Network 的产品理念与 NEAR Protocol 的建设目标不谋而合，双方都想要建立一个更自由、更开放的互联网， 使用户能够掌控自己的资金，数据和身份，为用户提供一个更好的狐网络生态环境。相信此次 Bounty 仅仅是双方合作的起点，接下来更多的合作计划敬请关注双方社区动态，我们欢迎更多的社区开发者加入，打破生态壁垒，一同构建未来的开放网络！
+Mask Network 的产品理念与 NEAR Protocol 的建设目标不谋而合，双方都想要建立一个更自由、更开放的互联网， 使用户能够掌控自己的资金，数据和身份，为用户提供一个更好的网络生态环境。相信此次 Bounty 仅仅是双方合作的起点，接下来更多的合作计划敬请关注双方社区动态，我们欢迎更多的社区开发者加入，打破生态壁垒，一同构建未来的开放网络！
 
 Bounty 详情可点击以下链接：
 
-[https://github.com/DimensionDev/Maskbook/issues/2602](https://github.com/DimensionDev/Maskbook/issues/2602 "https://github.com/DimensionDev/Maskbook/issues/2602")
+[https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151](https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151 "https://gitcoin.co/issue/DimensionDev/Maskbook/2602/100025151")
 
 **关于 NEAR Protocol**
 
