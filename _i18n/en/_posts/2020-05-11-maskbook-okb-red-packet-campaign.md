@@ -11,13 +11,15 @@ title: Maskbook & OKB Red Packet Campaign
 location: 'Shanghai '
 type: ''
 image: ''
+description: ''
+ja: ''
 
 ---
 We are proud to announce that Maskbook has established a partnership with the OKB Ecosystem. From now on, OKB holders can claim and give out OKB red packet by Maskbook on twitter. To celebrate the cooperation, Maskbook and OKB will launch a special campaign from May 11th to 16th.
 
 Red Packet is a special feature in Maskbook which was launched in early 2020. Once users have installed the Maskbook Chrome/ Firefox plugin, they can claim and give out cryptocurrencies on Twitter.
 
-![]({{ site.baseurl_root }}/uploads/1.png)
+![]({{ site.baseurl_root }}/uploads/okb.png)
 
 **How to participate?**
 
