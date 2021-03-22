@@ -15,6 +15,10 @@ image: "{{ site.baseurl_root }}/uploads/convergence.png"
 ---
 ![]({{ site.baseurl_root }}/uploads/convergence.png)
 
+* Mask Network 将投资并与 DeFi 可互换资产协议 Convergence 合作，共同建设更广阔的开放金融系统。Mask Network 创始人以及 CEO Suji Yan 也将成为 Convergence 的顾问之一。
+* 作为合作的一部分，Convergence 上的项目计划将能通过 Mask Network 特有的 ITO 功能发行 Wrapped Security Tokens （WSTs），且后续允许用户在 Convergence 的AMM 池中进行交易。
+* Mask Network 和 Convergence 都相信，此次合作不但会带来更高的市场价值，还将让两个平台的可用性都得到巨大提升。
+
 近日，Mask Network 宣布投资 DeFi 资产协议 Convergence 并与其正式建立合作关系。双方项目将就基础设施搭建、资产发行、产品推广等方面达成持续合作，协作创新，携手开拓开放金融新视野。
 
 Mask Network 一直以来致力于将不同的去中心化应用带入到如 Twitter、Facebook 这样的社交网络之上，为用户搭建一个连接 Web 2.0 与 Web 3.0 的桥梁。其在近期推出的 ITO 功能也是基于这一愿想，在 IDO（首次去中心化发行） 基础上做出的功能衍生。
