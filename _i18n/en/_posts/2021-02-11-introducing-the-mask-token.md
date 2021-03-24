@@ -104,5 +104,3 @@ To engage the broader community, we have allocated 7% of $MASK total supply in a
 Because our first trading pair is on Uniswap, we need to provide liquidity to the $MASK liquidity pools. The initial liquidity pool will be set up by Mask team.
 
 We are going to publish another article in a few days to detail how the public launch and airdrop works.
-
-**_Follow us on_** [**_Twitter_**](http://twitter.com/realmaskbook) **_or join our chat groups on_** [**_Telegram _**](https://t.me/Maskbook_group)**_and_** [**_Discord_**](https://discord.gg/cKGW45g)**_!_**
