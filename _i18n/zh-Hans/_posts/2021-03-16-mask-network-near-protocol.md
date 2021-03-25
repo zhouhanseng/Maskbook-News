@@ -8,7 +8,7 @@ tags: []
 en: []
 ja: []
 zh-Hant: []
-title: Mask Network 将与 NEAR Protocol 达成深度合作，并联合发起赏金
+title: 新闻 | Mask Network 将与 NEAR Protocol 达成深度合作，并联合发起赏金
 description: ''
 image: "{{ site.baseurl_root }}/uploads/near.png"
 
