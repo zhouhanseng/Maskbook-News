@@ -21,7 +21,7 @@ Please referto:
 
 [https://news.mask.io/2021/02/11/introducing-the-mask-token](https://news.mask.io/2021/02/11/introducing-the-mask-token "https://news.mask.io/2021/02/11/introducing-the-mask-token")
 
-This article will publish the details of our first token unlock. See the table below for $MASK token unlock details in March, 2021:
+See the table below for $MASK token first unlock (March 29th, 2021) details:
 
 ![]({{ site.baseurl_root }}/uploads/654770200978803623.png)
 
