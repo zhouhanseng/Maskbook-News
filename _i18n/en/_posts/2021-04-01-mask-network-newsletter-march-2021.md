@@ -57,11 +57,11 @@ image: "{{ site.baseurl_root }}/uploads/1-50.png"
 
 ## - NFT
 
-🧩 [**DEGO x Mask Network | Build the NFT entrance in Web 3.0**](https://news.mask.io/2021/03/10/dego-x-mask-network-build-the-nft-entrance-in-web-3.0)
+🧩 [**DEGO x Mask Network \| Build the NFT entrance in Web 3.0**](https://news.mask.io/2021/03/10/dego-x-mask-network-build-the-nft-entrance-in-web-3.0)
 
 Mask Network has reached a strategic partnership with cross-chain NFT and DeFi protocol DEGO Finance. Both parties will work together in fields such as NFT blind boxes, games, and social networks. Users will be able to conduct NFT creation, collection, buying and selling on Twitter, all with a few clicks.
 
-**🔒** [**Mask Network x Cent | Buy the Tweet you just saw on Twitter**](https://news.mask.io/2021/03/26/mask-network-x-cent-buy-the-tweet-you-just-saw-on-twitter)
+**🔒** [**Mask Network x Cent \| Buy the Tweet you just saw on Twitter**](https://news.mask.io/2021/03/26/mask-network-x-cent-buy-the-tweet-you-just-saw-on-twitter)
 
 Mask Network is collaborating with Cent through a joint bounty to add NFTs directly to Twitter: bid and trade on tweets directly within Twitter to support those who tweet.
 
@@ -87,7 +87,7 @@ Mask Network reached a strategic partnership with the PoS blockchain NEAR Protoc
 
 Mask Network has invested and partnered with decentralized interchangeable asset protocol Convergence. Projects on Convergence could conduct Wrapped Security Token launchings through Initial Twitter Offering and trade them in the Convergence AMM pool.
 
-🙌 [**Mask Network x Polygon｜Other ways to play?**](https://news.mask.io/2021/03/23/mask-network-x-polygon-other-ways-to-play)
+🙌 [**Mask Network x Polygon\｜Other ways to play?**](https://news.mask.io/2021/03/23/mask-network-x-polygon-other-ways-to-play)
 
 Mask Network has collaborated with Layer 2 solution aggregator Polygon (formerly Matic Network), to conduct technical conversations about the current issues, such as traffic and high gas fee on Ethereum. Mask Network will first integrate QuickSwap, a decentralized exchange that is part of Polygon’s ecosystem through a joint bounty.
 
@@ -97,7 +97,7 @@ Mask Network has collaborated with Layer 2 solution aggregator Polygon (formerly
 
 ## - Community & Developer
 
-🎉 [**Mask Network x Gitcoin｜Gitcoin Grants Round 9**](https://gitcoin.co/grants/159/mask-networkmaskbook-the-portal-to-the-new-open-i)
+🎉 [**Mask Network x Gitcoin\｜Gitcoin Grants Round 9**](https://gitcoin.co/grants/159/mask-networkmaskbook-the-portal-to-the-new-open-i)
 
 Mask Network has been an active funder since Gitcoin Grants Round 6, and has published more than 20 bounties on Gitcoin. Meanwhile, MaskNetwork keeps on supporting the Gitcoin Grants Round 9, encouraging more developers into the ecosystem building of future blockchain and the development of open-source project.
 
