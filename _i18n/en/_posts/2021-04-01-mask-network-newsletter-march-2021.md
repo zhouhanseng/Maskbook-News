@@ -97,7 +97,7 @@ Mask Network has collaborated with Layer 2 solution aggregator Polygon (formerly
 
 ## - Community & Developer
 
-🎉 [**Mask Network x Gitcoin\｜Gitcoin Grants Round 9**](https://gitcoin.co/grants/159/mask-networkmaskbook-the-portal-to-the-new-open-i)
+🎉 [**Mask Network x Gitcoin \｜Gitcoin Grants Round 9**](https://gitcoin.co/grants/159/mask-networkmaskbook-the-portal-to-the-new-open-i)
 
 Mask Network has been an active funder since Gitcoin Grants Round 6, and has published more than 20 bounties on Gitcoin. Meanwhile, MaskNetwork keeps on supporting the Gitcoin Grants Round 9, encouraging more developers into the ecosystem building of future blockchain and the development of open-source project.
 
