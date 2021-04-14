@@ -25,7 +25,7 @@ Mask Network 是一款构建在现有社交网络平台之上的开源产品，�
 
 **·** [**悬赏｜Mask Network 赏金计划全攻略**](https://mp.weixin.qq.com/s/JDCkSCGxs6VADi85i0AuIg)
 
-[![图片](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHD1HSoU7ClLTPUy2O3xrurrvJrypLc4od8icDdfmG7tQJloeXWcE4laIEicUQ4CdbSwbKgTSicvzU4gA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)](https://mp.weixin.qq.com/s/JDCkSCGxs6VADi85i0AuIg)
+![]({{ site.baseurl_root }}/uploads/bounty-list.jpg)
 
 以下是 Mask Network 正在进行的赏金计划，请点击相关链接了解详情：
 
@@ -35,17 +35,12 @@ Mask Network 是一款构建在现有社交网络平台之上的开源产品，�
 
 [https://github.com/DimensionDev/Maskbook/issues/2323](https://github.com/DimensionDev/Maskbook/issues/2323 "https://github.com/DimensionDev/Maskbook/issues/2323")
 
-**平台：**Gitcoin
-
-**经验要求：**高级
-
-**类别 :** Mask 核心功能
-
-**时限：**1个月
-
-**悬赏金额：**2500 USD
-
-**需求描述：**
+* **平台：Gitcoin**
+* **经验要求： 高级**
+* **类别:  Mask 核心功能**
+* **时限：1个月**
+* **悬赏金额：2500 USD**
+* **需求描述：**
 
 Minds 是一个基于区块链区块链技术与另类科技的社交网络。用户可以通过使用 Minds 来赚取金钱或加密货币，可以使用通证来推广你的帖子或为其他用户提供众筹。与主流的社交媒体网络相比，Minds 则更加关注个人隐私。（来源：维基百科）
 
@@ -71,15 +66,11 @@ https://t.me/joinchat/HR15dCCrVzyKjrul
 
 [https://github.com/DimensionDev/Maskbook/issues/2362](https://github.com/DimensionDev/Maskbook/issues/2362 "https://github.com/DimensionDev/Maskbook/issues/2362")
 
-**平台：**Gitcoin
-
-**经验要求：**中级
-
-**类别 :** Mask 插件
-
-**时限：**4 周
-
-**悬赏金额：**2000 USD
+* 平台：Gitcoin
+* 经验要求：中级
+* 类别 : Mask 插件
+* 时限：4 周
+* 悬赏金额：2000 USD
 
 **需求描述：**
 
@@ -121,15 +112,11 @@ phil@ardrive.io
 
 [https://github.com/DimensionDev/Maskbook/issues/2363](https://github.com/DimensionDev/Maskbook/issues/2363 "https://github.com/DimensionDev/Maskbook/issues/2363")
 
-**平台：**Gitcoin
-
-**经验要求：**中级
-
-**类别 :** Mask 插件
-
-**时限：**4 周
-
-**悬赏金额：**2000 DAI
+* 平台：Gitcoin
+* 经验要求：中级
+* 类别 : Mask 插件
+* 时限：4 周
+* 悬赏金额：2000 DAI
 
 **需求描述：**
 
@@ -155,15 +142,11 @@ Unlock Protocol 是一个基于智能合约的会员制协议，允许创建者�
 
 [https://github.com/DimensionDev/Maskbook/issues/2296](https://github.com/DimensionDev/Maskbook/issues/2296 "https://github.com/DimensionDev/Maskbook/issues/2296")
 
-**平台：**Gitcoin
-
-**经验要求：初级**
-
-**类别 :** 其他
-
-**时限：**15 天
-
-**悬赏金额：**500 DAI
+* **平台：Gitcoin**
+* **经验要求：初级**
+* **类别 : 其他**
+* **时限：15 天**
+* **悬赏金额：500 DAI**
 
 **需求描述：**
 
@@ -193,15 +176,11 @@ E-mail: info@fat-garage.com
 
 [https://github.com/DimensionDev/Maskbook/issues/2375](https://github.com/DimensionDev/Maskbook/issues/2375 "https://github.com/DimensionDev/Maskbook/issues/2375")
 
-**平台：**Gitcoin
-
-**经验要求：**高级
-
-**类别 :** Mask 插件
-
-**时限：**4 周
-
-**悬赏金额：**2500 USD
+* 平台：Gitcoin
+* 经验要求：高级
+* **类别 :** Mask 插件
+* 时限：4 周
+* 悬赏金额：2500 USD
 
 **需求描述:**
 
