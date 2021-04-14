@@ -66,11 +66,11 @@ https://t.me/joinchat/HR15dCCrVzyKjrul
 
 [https://github.com/DimensionDev/Maskbook/issues/2362](https://github.com/DimensionDev/Maskbook/issues/2362 "https://github.com/DimensionDev/Maskbook/issues/2362")
 
-* 平台：Gitcoin
-* 经验要求：中级
-* 类别 : Mask 插件
-* 时限：4 周
-* 悬赏金额：2000 USD
+* **平台：Gitcoin**
+* **经验要求：中级**
+* **类别 : Mask 插件**
+* **时限：4 周**
+* **悬赏金额：2000 USD**
 
 **需求描述：**
 
@@ -112,11 +112,11 @@ phil@ardrive.io
 
 [https://github.com/DimensionDev/Maskbook/issues/2363](https://github.com/DimensionDev/Maskbook/issues/2363 "https://github.com/DimensionDev/Maskbook/issues/2363")
 
-* 平台：Gitcoin
-* 经验要求：中级
-* 类别 : Mask 插件
-* 时限：4 周
-* 悬赏金额：2000 DAI
+* **平台：Gitcoin**
+* **经验要求：中级**
+* **类别 : Mask 插件**
+* **时限：4 周**
+* **悬赏金额：2000 DAI**
 
 **需求描述：**
 
@@ -176,11 +176,11 @@ E-mail: info@fat-garage.com
 
 [https://github.com/DimensionDev/Maskbook/issues/2375](https://github.com/DimensionDev/Maskbook/issues/2375 "https://github.com/DimensionDev/Maskbook/issues/2375")
 
-* 平台：Gitcoin
-* 经验要求：高级
-* **类别 :** Mask 插件
-* 时限：4 周
-* 悬赏金额：2500 USD
+* **平台：Gitcoin**
+* **经验要求：高级**
+* **类别 : Mask 插件**
+* **时限：4 周**
+* **悬赏金额：2500 USD**
 
 **需求描述:**
 
