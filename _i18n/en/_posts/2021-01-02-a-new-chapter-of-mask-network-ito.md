@@ -41,8 +41,6 @@ We welcome various assets to be issued by the ITO platform. Existing tokens can 
 
 As for methods of offering, we support flat price first and allow sellers to offer tokens at a fixed price in batches (think Xiaomi style phone flash sales). Later we will support various forms of auctions and bonding curves to serve all kinds of offering needs.
 
-!\[Image for post\](https://miro.medium.com/freeze/max/38/1*TtNFmTTGq01k_eMkbEWmaw.gif?q=20 =640x480)
-
 ![]({{ site.baseurl_root }}/uploads/2.gif)
 
 Is it fun? Install [mask.io](http://mask.io/) and set up your own Mask account. Come and join the first-ever Twitter Offering! We hope ITO could be another pivotal step to bring true financial freedom to the general public.
