@@ -8,7 +8,7 @@ tags: []
 en: []
 ja: []
 zh-Hant: []
-title: 绿会青年领军基金携手Mask Network发起濒危动物铜版画拍卖活动
+title: 活动 | 绿会青年领军基金携手Mask Network发起濒危动物铜版画拍卖活动
 description: ''
 image: "{{ site.baseurl_root }}/uploads/nft-earth-day.png"
 
