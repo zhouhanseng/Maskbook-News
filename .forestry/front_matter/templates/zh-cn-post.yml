@@ -116,7 +116,6 @@ fields:
   hidden: true
 pages:
 - _i18n/en/_posts/2020-07-02-test-video.md
-- _i18n/zh-Hans/_posts/..md
 - _i18n/zh-Hans/_posts/2019-12-10-dimension-股权公司-sujitech-llc-加入-ecma-international.md
 - _i18n/zh-Hans/_posts/2020-03-11-40-年前-盖茨写了一封信-软件业之后发生了怎样的改变.md
 - _i18n/zh-Hans/_posts/2020-05-19-maskbook-arweave.md
@@ -221,3 +220,4 @@ pages:
 - _i18n/zh-Hans/_posts/2021-03-31-mask-network-2021-3.md
 - _i18n/zh-Hans/_posts/2021-04-02-mask-network-web-3.0.md
 - _i18n/zh-Hans/_posts/2021-04-14-加密迁徙-通往后数位时代的微观生境.md
+- _i18n/zh-Hans/_posts/2021-04-18-..md
