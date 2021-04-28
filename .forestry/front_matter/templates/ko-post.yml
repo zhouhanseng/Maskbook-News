@@ -1,5 +1,5 @@
 ---
-label: Japanese Post
+label: Korean Post
 hide_body: false
 fields:
 - name: layout
@@ -14,14 +14,14 @@ fields:
   config:
     required: true
   label: Language
-  default: ja
+  default: ko
   hidden: true
 - name: template
   type: text
   config:
     required: false
   label: Template
-  default: Japanese
+  default: Korean
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
   hidden: true
 - name: title
@@ -53,13 +53,13 @@ fields:
   config:
     required: false
     options:
-    - アクティビティ
-    - 通知
-    - レビュー
-    - ニュース
-    - 会議
-    - ニュース
-    - インタビュー
+    - 활동
+    - 주의
+    - 리뷰
+    - 뉴스
+    - 모임
+    - 뉴스
+    - 회견
     source:
       type: simple
       section: 
@@ -89,6 +89,19 @@ fields:
       path: 
   label: English
   hidden: true
+- name: ja
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: japanese-posts
+      file: 
+      path: 
+  label: Japanese
+  hidden: true
 - name: zh-Hans
   type: select
   default: []
@@ -115,33 +128,4 @@ fields:
       path: 
   label: Traditional Chinese
   hidden: true
-- name: ko
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: korean-posts
-      file: 
-      path: 
-  label: Korean
-  hidden: true
 pages:
-- _i18n/ja/_posts/2020-09-07-mask-network.md
-- _i18n/ja/_posts/2020-09-25-mask-net-work.md
-- _i18n/ja/_posts/2020-10-10-mask-network-maskbook.md
-- _i18n/ja/_posts/2020-11-03-mask-network-hashkey-hashglobal.md
-- _i18n/ja/_posts/2020-12-11-mask-network.md
-- _i18n/ja/_posts/2020-12-17-platon-mask-network.md
-- _i18n/ja/_posts/2020-12-21-mask-network-sia.md
-- _i18n/ja/_posts/2021-01-07-transak-mask-network-fiat.md
-- _i18n/ja/_posts/2021-01-08-suji-yan-radicalxchange.md
-- _i18n/ja/_posts/2021-01-09-mask-network-ito-loopring.md
-- _i18n/ja/_posts/2021-01-15-mask-network-mirror-protocol.md
-- _i18n/ja/_posts/2021-01-20-masknetwork.md
-- _i18n/ja/_posts/2021-02-07-masknetwork-loopring-2.md
-- _i18n/ja/_posts/2021-02-17-ito-mask-airdrops.md
-- _i18n/ja/_posts/2021-03-26-mask-2021-3-29.md
-- _i18n/ja/_posts/2021-03-31-mask-network-3-2021-3.md

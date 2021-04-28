@@ -114,3 +114,16 @@ fields:
       path: 
   label: Simpilified Chinese
   hidden: true
+- name: ko
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: korean-posts
+      file: 
+      path: 
+  label: Korean
+  hidden: true
