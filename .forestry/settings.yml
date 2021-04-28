@@ -21,6 +21,14 @@ sections:
   templates:
   - ja-post
 - type: directory
+  path: _i18n/ko/_posts
+  label: Korean
+  create: documents
+  match: "*"
+  exclude: "*.yml"
+  templates:
+  - ko-post
+- type: directory
   path: _i18n/zh-Hans/_posts
   label: Simplified Chinese
   create: documents
@@ -34,14 +42,6 @@ sections:
   match: "*"
   templates:
   - zh-tw-post
-- type: directory
-  path: _i18n/ko/_posts
-  label: Korean
-  create: documents
-  match: "*"
-  exclude: "*.yml"
-  templates:
-  - ko-post
 upload_dir: uploads
 public_path: "{{ site.baseurl_root }}/uploads"
 front_matter_path: ''

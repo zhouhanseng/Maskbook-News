@@ -101,19 +101,6 @@ fields:
       path: 
   label: Japanese
   hidden: true
-- name: zh-Hant
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: tranditional-chinese-posts
-      file: 
-      path: 
-  label: Traditional Chinese
-  hidden: true
 - name: ko
   type: select
   default: []
@@ -126,6 +113,19 @@ fields:
       file: 
       path: 
   label: Korean
+  hidden: true
+- name: zh-Hant
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tranditional-chinese-posts
+      file: 
+      path: 
+  label: Traditional Chinese
   hidden: true
 pages:
 - _i18n/en/_posts/2020-07-02-test-video.md

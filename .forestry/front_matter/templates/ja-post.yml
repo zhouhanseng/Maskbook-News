@@ -89,6 +89,19 @@ fields:
       path: 
   label: English
   hidden: true
+- name: ko
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: korean-posts
+      file: 
+      path: 
+  label: Korean
+  hidden: true
 - name: zh-Hans
   type: select
   default: []
@@ -114,19 +127,6 @@ fields:
       file: 
       path: 
   label: Traditional Chinese
-  hidden: true
-- name: ko
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: korean-posts
-      file: 
-      path: 
-  label: Korean
   hidden: true
 pages:
 - _i18n/ja/_posts/2020-09-07-mask-network.md
