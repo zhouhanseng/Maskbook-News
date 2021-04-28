@@ -1,5 +1,5 @@
 ---
-label: Traditional Chinese Post
+label: Korean Post
 hide_body: false
 fields:
 - name: layout
@@ -14,14 +14,14 @@ fields:
   config:
     required: true
   label: Language
-  default: zh-Hant
+  default: ko
   hidden: true
 - name: template
   type: text
   config:
     required: false
   label: Template
-  default: Traditional Chinese
+  default: Korean
   description: "⚠️DO NOT CHANGE THIS FIELD⚠️"
   hidden: true
 - name: title
@@ -49,23 +49,24 @@ fields:
   default: now
 - name: type
   type: select
-  default: Visiting Event
+  default: ''
   config:
     required: false
     options:
-    - 活動
-    - 預告
-    - 回顧
-    - 新聞
-    - 會議
-    - 快訊
-    - 採訪
+    - 활동
+    - 주의
+    - 리뷰
+    - 뉴스
+    - 모임
+    - 뉴스
+    - 회견
     source:
       type: simple
       section: 
       file: 
       path: 
   label: Type
+  hidden: true
 - name: image
   type: file
   config:
@@ -101,19 +102,6 @@ fields:
       path: 
   label: Japanese
   hidden: true
-- name: ko
-  type: select
-  default: []
-  config:
-    required: false
-    options: []
-    source:
-      type: pages
-      section: korean-posts
-      file: 
-      path: 
-  label: Korean
-  hidden: true
 - name: zh-Hans
   type: select
   default: []
@@ -127,3 +115,17 @@ fields:
       path: 
   label: Simpilified Chinese
   hidden: true
+- name: zh-Hant
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: tranditional-chinese-posts
+      file: 
+      path: 
+  label: Traditional Chinese
+  hidden: true
+pages:

@@ -89,6 +89,19 @@ fields:
       path: 
   label: Japanese
   hidden: true
+- name: ko
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: pages
+      section: korean-posts
+      file: 
+      path: 
+  label: Korean
+  hidden: true
 - name: zh-Hans
   type: select
   default: []
