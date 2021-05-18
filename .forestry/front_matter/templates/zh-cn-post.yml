@@ -129,6 +129,7 @@ fields:
   hidden: true
 pages:
 - _i18n/en/_posts/2020-07-02-test-video.md
+- _i18n/en/_posts/2021-05-18-mask-network-will-work-with-nym-in-plugin-development-for-better-privacy-protection.md
 - _i18n/ja/_posts/2021-04-25-ito.md
 - _i18n/ja/_posts/2021-05-07-ミドルウェアが世界を変える.md
 - _i18n/zh-Hans/_posts/2019-12-10-dimension-股权公司-sujitech-llc-加入-ecma-international.md
