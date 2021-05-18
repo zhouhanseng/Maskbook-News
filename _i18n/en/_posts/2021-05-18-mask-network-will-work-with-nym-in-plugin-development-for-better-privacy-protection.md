@@ -22,7 +22,7 @@ Mask Network and Nym will establish an encrypted communication channel together.
 
 On May 7th, Nym co-founder Harry Halpin joined Mask Network co-founder Yisi Liu for an online round-table discussion as part of a seminar about code obfuscation. The seminar was co-organized by the Technical University Delft in the Netherlands and Cornell Tech in New York. Yisi Liu was the seminar’s only participant from China. Harry invited him to provide a counterweight to his US-centric perspective. Their joint research, “The Limits of Obfuscation: Does Decentralisation Work?” showed that traditional technologies will never be able to compete with machine learning and AI technologies, which are improving by the day. People should therefore opt for decentralized technologies which are based on true encryption.
 
-![](https://lh3.googleusercontent.com/QlMXGwmnftnfXxtLjk2VOUTR9cDPSzt4lb6fuvacs_x2TKGYIHFbLvo7UTJ0ZoMcZ7QiZTRfF8RN9nBj-fyXqi3oBPBQ8SG8lwx4SBzpX21NytTx8KMnws-lfJmI6evvn6k50Vqf =493x859)
+![]({{ site.baseurl_root }}/uploads/nym2.jpg)
 
 In the future, Nym and Mask Network will cooperate to allow users to directly use the Nym network through Mask Network nodes, in addition to developing, smaller nodes such as encrypted private messaging. This will extend the possibility for more users to get involved in the Nym decentralized privacy network, and the opportunity to win testnet token rewards.
 
