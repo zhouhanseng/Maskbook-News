@@ -16,7 +16,7 @@ image: ''
 ---
 A monopoly business is the best business, but it is hard to be the monopoly in the Web 3.0 world due to fork and composability. Yet, we found the middleware business to be an exception. Chainlink is one such representation of middleware, while programs like TheGraph also provide a prime example of highly monopolistic middleware services. For easier understanding, I will go on to refer to these services as a reverse prophecy machine.
 
-![Image](https://lh5.googleusercontent.com/1adx8u2tnaIdiUn_3i01x0aHEapC-hab_4Q9I7ORQ6ma9silj5Vfa5gEeYE5GrGVhhDaLYRHO2xAbd2u6_NpahLFj62V1mCzX27PVxAo9QlcH3S2dfJVrP9KCnDePK17tKbuReWA =624x312)
+![]({{ site.baseurl_root }}/uploads/1-55.png)
 
 Chainlink: the internet -> blockchain (Web2 -> Web3)
 
@@ -26,7 +26,7 @@ In recent years, we have been looking for and laying the foundations of our midd
 
 The role of middleware is to break past the Internet’s barriers and become the bridge between Web 2.0 and Web 3.0, which is the prerequisite for large-scale applications. All great causes start from building bridges and paving roads: that is why we view the market’s enthusiasm over $LINK and $GRT as a strong reflection that society understands this idea. However, having a prophecy machine and a reverse prophecy machine is not enough because these services are built for machines. Mask Network, however, is created for humans.
 
-![](https://lh3.googleusercontent.com/BZAhCjOuTXsAazfzLtcFvGNDcFyzQePu1k3t2SK6FjCn5NvGtxIsVQuaFNRiaoMeI4M9qTQrPFrCBxWAwpD1tylDSvrfK7XS5EsTUhs5PrRv4OjULAY4YRe_wjvC0V_uuYLmVPrm =624x201)
+![]({{ site.baseurl_root }}/uploads/2-52.png)
 
 Chainlink: middleware for **machine**
 
@@ -46,7 +46,7 @@ I discovered Mask Network back in early 2020 when it was still called Maskbook. 
 
 **“You can’t beat something when it becomes too powerful, but you can stand on top of it.”**
 
-![](https://lh3.googleusercontent.com/uEuiiQAzH8yR8vzfwgemiX1qFFH9EsuIAubP9zWgc7FzdMLaU8ev0aS2tXEZ6HcY4q1l1losrF9njN6PMjZJIhNMOSAOCPBjRz8a4zZ-iCXkJeuvy9JbXOpuLhZAIxfxghXaogx3 =624x192)
+![]({{ site.baseurl_root }}/uploads/3-48.png)
 
 The saying “Software is eating the world” came from the internet pioneer, formerly founder of Netscape, Marc Andreessen’s article in the Wall Street Journal in August 2011. It seems to be true today, but it has an underlying meaning, that “programmers” are leading the way into the future. Many new technologies were first adopted by programmers and reached the larger public after its gradual optimization. For instance: Github is not just used by programmers anymore, and Python is used in more industries. Notion also uses “/”; a programmer’s favourite shortcut key, to improve user’s efficiency (instead of the archaic Ctrl+Key).
 
@@ -56,21 +56,21 @@ No matter how the big companies continue to develop new software, in the end, th
 
 There’s a script called “Greasemonkey” that is well loved by programmers in the know, who use it to buy train tickets during the holiday season because it is fast to develop and cheap to use. More importantly, users can install it easily and it is supported by Firefox and Chrome, so it is easy to utilize. There are a variety of apps like Greasemonkey in Mask Network’s dapplet market, which integrates all Web 2.0 apps into Web 3.0 seamlessly. One notable example is “Kuaichong.” To us, the Kuaichong dapplet is a milestone, akin to “Fruit Ninja” in the App Store.
 
-![Image](https://lh6.googleusercontent.com/3T0_weP9iyYjwjEuV7GioQTfG2JhM1MV1GOTCSTFHU-0uFDyeos5W5HVaUeSfjX1ZSpQLU-PTdzUPQkTbW49fgrluZnrLP_GoKB-sH3Od97UOHZDfRkdN8EBInu_Jn429DiDxapS =624x401)
+![]({{ site.baseurl_root }}/uploads/4-33.png)
 
 “Transak” trading dapplet
 
 After installing the Mask Network extension, users can open their eyes to a completely different world on Twitter and Facebook. Unlike the dark web, Mask Network is the gateway to a new civilization, where users can enter Web 3.0. As the world begins to rebuild everything on this newer web, there will be huge opportunities for many young people. The existence of Mask Network is no less than the App Store. In fact, it is the starting point of another app boom, except that this time, it’s called dapplet.
 
-![Image](https://lh5.googleusercontent.com/nToPkNYBrvtQiet2u294MuhGesM8gmsb4duUyjdT02C1qxgJHtWXfe8NfDOsdkxyNxkPQ3wLF_p3E1Oonuk1gmPVJI2o9VHjV1FgWNhR5uPUdm0zwGDdY23-ZjQlhoTItg_TXccV =624x843)
+![]({{ site.baseurl_root }}/uploads/5-27.png)
 
 Vitalik loves Mask Network!
 
 The shadow-dom technology Mask Network uses is mature but under-appreciated. So far, the most successful applet is the aforementioned Greasemonkey (or GM for short), which functions as an add-on on to Firefox/Chrome browser. It allows users to install some scripts which change the website based on HTML directly, making it easier to use.. Embedded technology can also help to improve the user experience of existing software without asking for permission.
 
-\**The popularity of GM has proven this doable.
+The popularity of GM has proven this doable.
 
-\**Young entrepreneurs are also able to use Mask Network’s dapplet technology, to break past the thick barriers of the big corporate monopoly.
+Young entrepreneurs are also able to use Mask Network’s dapplet technology, to break past the thick barriers of the big corporate monopoly.
 
 ![Image](https://lh3.googleusercontent.com/0ASROlkrhRloWr25473k5wdwCYVTINbU_zP6qtj8cITTBDCdMNb2qdYwlfR5W-2n11OL8HWSh0fRIToqQG_oyaQhTUunH0vScO0k6RZX5b2lumVeavj5YFBZOcNafXIgADQrqoYe =624x356)
 
@@ -88,20 +88,20 @@ At the end of this article, we will display some dapplets to peek into the futur
 
 Mask Network：The Portal to the New, Open Internet.
 
-![](https://lh5.googleusercontent.com/sQjsCrI0C2NtLj08s-YT_uxF_xFGUJ_tJui37iFMI1_BsofAsqr6Di7eyzZM0jQZaDmIkFmMN6BP2aA3lFoB2VEzItoHLtJqvM2OxmdJTJDLxVzSdsuS9HJ_-k8vn8UXws8Pdktq =624x704)
+![]({{ site.baseurl_root }}/uploads/7-21.png)
 
 Dapplet that could send encrypted Red Packet on Twitter
 
-![Image](https://lh4.googleusercontent.com/iS5Xf4pPUhSMrAF4PAP0MtroAjiyGobV1f_wp2FsgV_aCFP2FfZzqniYIFy2Lhm3anaGi6em2SX6Nh4llwk21VZ6C86iCiqV0QL9c_8xDokVYKVRmFUrpgerj_XUphp4YtY64Lmy =624x796)
+![]({{ site.baseurl_root }}/uploads/8-16.png)
 
 Initial Twitter Offering dapplet
 
-![](https://lh5.googleusercontent.com/sgiCih2KEj-ceRfS5pXaQXPfCj0ccm_w-iDeYFMe2wmz82tGgN_IGABNj1BOEOU8AaQKqX4bDHhE2Z4DD6i_TuHnFJNldv7FTBGip8Mup2wcIfCVWtQ6bl4l5NLkCll8S1aykIYB =624x429)
+![]({{ site.baseurl_root }}/uploads/9-12.png)
 
 Dapplet based on image steganography
 
 ステガノグラフィをベースにしたDapplet
 
-![](https://lh6.googleusercontent.com/5lKACKE6A9gm-WoJ38Nsve5qIqJyYtzWimP8z-sjzg7GwL3zB9MGD2diWpjnBu16mMNWi3gx4xdErg4-G_qb8NOyBsyvjHepcW6CLrdrGGjpBT02FpTrTZ2dmrxalnz2bs2nkp7q =624x717)
+![]({{ site.baseurl_root }}/uploads/10-19.png)![]({{ site.baseurl_root }}/uploads/11-15.png)
 
 Quadratic Funding dapplet
