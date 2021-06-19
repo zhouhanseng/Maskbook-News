@@ -14,11 +14,9 @@ type: ''
 image: ''
 
 ---
-查看带有完整超链接的原文请访问
+查看带有完整超链接的原文请访问：
 
 [https://vitalik.ca/general/2021/04/02/round9.html](https://vitalik.ca/general/2021/04/02/round9.html "https://vitalik.ca/general/2021/04/02/round9.html")
-
-或点击最下方 “阅读原文”
 
 ***
 
