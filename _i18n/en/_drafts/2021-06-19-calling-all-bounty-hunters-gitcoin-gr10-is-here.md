@@ -11,26 +11,21 @@ zh-Hant: []
 title: Calling All Bounty Hunters! Gitcoin GR10 is Here
 description: ''
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/_20210617123502.jpg"
 
 ---
-![](https://miro.medium.com/max/2400/1*FRCyC46ywpztZ_3RBrRX6w.jpeg =1200x675)
 
-![](https://miro.medium.com/max/3200/0*U8zL0vcUYzcsc2k0 =1600x800)
+![]({{ site.baseurl_root }}/uploads/_20210617123502.jpg)
 
 Gitcoin, the open-source software development incentive platform, will be holding its Grants Round 10 (GR10) from June 16th to July 1st. The development of the open-source Web 3.0 has long been Gitcoin’s core mission, and the campaign is being launched to provide financial incentives to Ethereum-based open source projects and development teams. Like previous donation campaigns, GR10 will use a secondary fundraising format to better support more projects.
 
 Grants Round 9 (GR9), held in March 2020, saw $1,380,000 in contributions and $500,000 in matched funds distributed across 812 projects. The hackathon in Grants Round 9 saw 2,250 participants and a total of $350,000 in bounty money. This Grants Round 10 hackathon will surpass the 9th round and will be the largest and most rewarding hackathon to date.
 
-![](https://miro.medium.com/max/60/0*pai1a8aT4HZL_0Lq?q=20 =1600x900)
-
-![](https://miro.medium.com/max/3200/0*pai1a8aT4HZL_0Lq =1600x900)
+![]({{ site.baseurl_root }}/uploads/2-38.jpg)
 
 Mask Network has been an active supporter of Gitcoin since GR6 and has posted 29 bounties since then. In GR10, Mask Network is also continuing to provide financial support to encourage more developers to participate in the future of blockchain and open source development ecosystem. Other projects in the main funding round include Polygon, Aave, Minds.com, The Graph, Badger Finance, Force, Uniswap, and more.
 
-![](https://miro.medium.com/max/40/0*mq4QnPIB-DbgxU7O?q=20 =538x789)
-
-![](https://miro.medium.com/max/1076/0*mq4QnPIB-DbgxU7O =538x789)
+![]({{ site.baseurl_root }}/uploads/3-50.png)
 
 In addition to funding recent rounds, Mask’s plugin also supported the Gitcoin project’s Twitter presence last June. Once the Mask plugin is installed, the Gitcoin project in the post is automatically recognized and a donation portal is created. Users can then donate directly to support the project without leaving the Twitter page. This will greatly simplify the process of raising money for projects on Gitcoin (add project to cart, checkout with zkSync…), and increasing the exposure of these great Web 3.0 projects.
 
@@ -38,9 +33,7 @@ Vitalik Buterin wrote [an article in his blog](https://vitalik.ca/general/2021/0
 
 See the latest 5 bounties in this round of Hackathon posted by Mask Network:
 
-![](https://miro.medium.com/max/60/0*ztOH8MnvdA_Z_IGU?q=20 =687x335)
-
-![](https://miro.medium.com/max/1374/0*ztOH8MnvdA_Z_IGU =687x335)
+![]({{ site.baseurl_root }}/uploads/4-34.png)
 
 [All bounties](https://gitcoin.co/dimensiondev/bounties)
 
