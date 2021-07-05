@@ -24,8 +24,6 @@ Community discussions for Mask Network users have always been scattered around v
 
 Click [here](http://we.mask.io/) to visit Mask Forum.
 
-!\[\](https://miro.medium.com/max/60/1*8n-uGFHAZtu7RBHX2OFJOg.jpeg?q=20 =700x704)
-
 ![]({{ site.baseurl_root }}/uploads/2-39.jpg)
 
 The Mask Forum will consist following categories: News & Announcements, General, Development &Technical, Products & Features, Proposals, and Knowledge Base.

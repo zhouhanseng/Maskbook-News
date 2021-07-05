@@ -23,8 +23,6 @@ $MASK is now available on BSC Network, the token contract is: [**0x2ed9a5c8c13b9
 
 The Red Packet plugin in the Mask extension now supports the BSC network and Polygon, so users could create, send, and receive encrypted Red Packets with any assets on BSC and Polygon directly on Twitter, using the two networks. In the future, Mask Network will continue developing its core functions on the two networks, such as ITO and Swaps.
 
-!\[\](https://miro.medium.com/max/60/1*o_fbZeLusHBCAPyi9nocyg.png?q=20 =700x284)
-
 ![]({{ site.baseurl_root }}/uploads/2-56.png)
 
 Mask Network received the strategic investment from Binance this April, and both parties aim to build a multi-chain metaverse that includes Binance Smart Chain. The completion of the cross-chain asset bridge is a key step for Mask Network to enter the Web 3.0 multi-chain era. The boundary of the Mask Network ecosystem has now expanded to BSC. Mask Network will cooperate with all sorts of amazing projects in the BSC ecosystem and take outstanding applications on BSC onto the Mask Network in a fast and seamless way, to attract more users to play in the more efficient and convenient Web 3.0 multi-chain universe.
