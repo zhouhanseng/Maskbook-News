@@ -11,7 +11,7 @@ zh-Hant: []
 title: 'We Are Online: The Mask Forum is Here'
 description: ''
 type: ''
-image: ''
+image: "{{ site.baseurl_root }}/uploads/1-61.png"
 
 ---
 ![]({{ site.baseurl_root }}/uploads/1-61.png)
