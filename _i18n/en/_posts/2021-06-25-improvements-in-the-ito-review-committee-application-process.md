@@ -54,7 +54,7 @@ Mask Network has been actively practicing and exploring the possibilities of ITO
 
 Improved process for “Community Choice ITO”:
 
-![]({{ site.baseurl_root }}/uploads/2-55.png)
+![]({{ site.baseurl_root }}/uploads/睿萱.png)
 
 1. The project fills out a [Google form](https://forms.gle/gUS34vrm1xNWQDe2A) with the required information (including but not limited to the white paper, team introduction, investment institutions, tokenomics, distribution mechanism, whether there are other IDO plans, etc.) and a preliminary ITO proposal (including but not limited to offering value, number of ITO rounds, token holding requirements, whitelist rules, etc.).
 2. The ITO Review Committee conducts round 1 discussion about the project and its preliminary ITO proposal for 48-hours and conducts Committee vote #1. If the project passes the vote (more than 7 members voted in the Committee, with the approval rate higher than 50%), then Mask Network will launch a Snapshot vote for all community members.
