@@ -14,7 +14,7 @@ type: ''
 image: ''
 
 ---
-![](https://lh6.googleusercontent.com/GGuDPUC-k8v4EukDkGnTTQizXlIjxzU36i1mEGM-8VitLsntnwFN945fohKDa3nkDY9hNaf2d86uTzSGxzcD6B43d_GY3fCr5rbAgph1Z77cX-MI-Xy6WW-RYHGu13ri2UOmOmo- =624x317)
+![]({{ site.baseurl_root }}/uploads/mask.png)
 
 Mask Network의 네이티브 토큰은 PancakeSwap의 Syrup Pools와 Farm에 상장될 예정입니다. 모든 토큰 홀더들이 Syrup Pools에서 $CAKE 스테이크로 $MASK를 받거나 Farm에서 $MASK 스테이크로 $CAKE를 받을 수 있습니다. 이자농사는 $MASK의 유동성을 증가시키고 $MASK의 사용 사례를 풍부하게 할 것입니다. 또한 Mask Bridge(bridge.mask.io)는 $MASK를 ETH와 BSC 사이에 빠르고 저렴하게 전환할 수 있는 도구로 출시되었습니다.
 
