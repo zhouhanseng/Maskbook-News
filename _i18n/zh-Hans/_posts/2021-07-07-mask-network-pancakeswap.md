@@ -24,7 +24,7 @@ Mask Network 的通证 $MASK 已上线 PancakeSwap Syrup Pool 和 Farm，开启�
 
 ![]({{ site.baseurl_root }}/uploads/02.jpeg)
 
-同时，我们也上线了 Mask Bridge（bridge.mask.io），它为 $MASK 通证在以太坊主网和币安智能链之间的转换提供一种快捷、经济的方式。请点击这里查看 Mask Bridge 的使用方法。
+同时，我们也上线了 Mask Bridge（bridge.mask.io），它为 $MASK 通证在以太坊主网和币安智能链之间的转换提供一种快捷、经济的方式。请[点击这里](https://news.mask.io/zh-Hans/2021/07/08/mask)查看 Mask Bridge 的使用方法。
 
 ![]({{ site.baseurl_root }}/uploads/03.jpeg)
 
