@@ -14,17 +14,16 @@ type: ''
 image: ''
 
 ---
-![](https://miro.medium.com/max/700/0*YB6SJssglYz2cASz =700x356)
+
+![]({{ site.baseurl_root }}/uploads/01.png)
 
 We are happy to announce that the native token of Mask Network is listed on Syrup Pools and Farm in PancakeSwap. All token holders could stake $CAKE in Syrup Pools or stake $MASK-$BNB LP in Farm, to earn $MASK or $CAKE accordingly. The Yield Farming will increase liquidity for $MASK, and enrich the use cases for $MASK token.
 
-Since the integration of Binance Smart Chain (BSC) in June, our team has been working hard in bringing amazing projects on BSC to Mask extension. The extension v1.34.0 will support PancakeSwap, providing more choices to users when swapping BEP20 assets.
-
-![](https://miro.medium.com/max/632/0*T5rwMZsv_NB2MRJN =632x635)
+Since the integration of Binance Smart Chain (BSC) in June, our team has been working hard in bringing amazing projects on BSC to Mask extension. The extension v1.34.0 will support PancakeSwap, providing more choices to users when swapping BEP20 assets.![]({{ site.baseurl_root }}/uploads/02.jpeg)
 
 Meanwhile, we have also launched the **Mask Bridge** ([bridge.mask.io](http://bridge.mask.io/)), which provides a simple and economic way to convert $MASK tokens between ERC20 and BEP20. See the end of this article for tutorials on how to use the Mask Bridge.
 
-![](https://miro.medium.com/max/700/0*cd1Cl_60TGL_-7IE =700x503)
+![]({{ site.baseurl_root }}/uploads/03.jpeg)
 
 ## **Stake $CAKE and earn $MASK on the Syrup Pools**
 
