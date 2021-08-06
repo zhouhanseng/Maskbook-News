@@ -14,7 +14,7 @@ type: ''
 image: ''
 
 ---
-![](https://miro.medium.com/max/700/1*vdHpjcLomvnphJsbYSVHOw.png =700x376)
+![]({{ site.baseurl_root }}/uploads/cover-pic-min.png)
 
 # **🔧 Engineering Update**
 
