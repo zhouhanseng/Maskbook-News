@@ -13,6 +13,7 @@ type: ''
 image: ''
 description: ''
 ja: ''
+ko: ''
 
 ---
 We are proud to announce that Maskbook has established a partnership with the OKB Ecosystem. From now on, OKB holders can claim and give out OKB red packet by Maskbook on twitter. To celebrate the cooperation, Maskbook and OKB will launch a special campaign from May 11th to 16th.
@@ -62,7 +63,3 @@ The smart contract address :
 [https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c.](https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c. "https://etherscan.io/token/0x75231f58b43240c9718dd58b4967c5114342a86c.")
 
 The address will migrate to OKChain (the public chain launched by OKEx) in the future.
-
-We are proud to announce that Maskbook has established a partnership with the OKB Ecosystem. From now on, OKB holders can claim and give out OKB red packet by Maskbook on twitter. To celebrate the cooperation, Maskbook and OKB will launch a special campaign from May 11th to 16th.
-
-Red Packet is a special feature in Maskbook which was launched in early 2020. Once users have installed the Maskbook Chrome/ Firefox plugin, they can claim and give out cryptocurrencies on Twitter.
