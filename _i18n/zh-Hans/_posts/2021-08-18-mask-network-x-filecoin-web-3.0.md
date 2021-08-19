@@ -14,8 +14,7 @@ description: ''
 image: ''
 
 ---
-![Image](https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHAzP9MEtYia93WHYibnlksGEqxgvL5oVv4otfMWtSAHbKQHlNukSE75JAicYztiaJhI35N2CYewypvBUQ/640?wx_fmt=png&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)  
-Mask Network 将和开源云存储市场 Filecoin（Filecoin.io）合作，一起助力 Web 3.0 的推广。
+![]({{ site.baseurl_root }}/uploads/filecoin.png)Mask Network 将和开源云存储市场 Filecoin（Filecoin.io）合作，一起助力 Web 3.0 的推广。
 
 Filecoin 是一个旨在存储人类社会最重要的信息的分布式网络，通过代码和加密钱包的形式对文件进行存储。这使开发者们可以在任何地方，轻松通过这种全新的数据存储形式访问文件，甚至实现数据自动存储。
 
