@@ -14,17 +14,13 @@ type: ''
 image: ''
 
 ---
-![](https://miro.medium.com/max/1400/0*ee9RAKCv6MWOvrix =700x331)
-
-Mask Network will work with open-source storage service provider [Filecoin](https://filecoin.io/), in the promotion of Web 3.0 concepts.
+![]({{ site.baseurl_root }}/uploads/filecoin.png)Mask Network will work with open-source storage service provider [Filecoin](https://filecoin.io/), in the promotion of Web 3.0 concepts.
 
 Filecoin is a decentralized storage network, designed to store humanity’s most important information. To store files, all you need is code and a crypto-wallet. This provides developers everywhere access to an entirely new data storage paradigm, even letting your programs store data autonomously.
 
 Mask Network has always wanted to be the bridge between Web 2.0 and Web 3.0. Through the Mask browser extension, Mask wants users to use amazing Dapps on traditional social media in a fast and easy way. Data and information are continuously generated in the digital world, but the meaning they bring will only be more far-reaching and perpetual only if they are retained. Therefore a decentralized data storage solution is the key to the building of a decentralized ecosystem. Mask Network pays close attention to the development of decentralized storage and partners with many outstanding decentralized storage projects. We believe storing files in a decentralized way is vital in showing the spirit of Web 3.0.
 
-![](https://miro.medium.com/max/60/0*7SX_SCihS5cpWmRg?q=20 =598x431)
-
-![](https://miro.medium.com/max/1196/0*7SX_SCihS5cpWmRg =598x431)
+!\[\](https://miro.medium.com/max/60/0*7SX_SCihS5cpWmRg?q=20 =598x431)
 
 Both Filecoin and Mask Network are firmly committed to bringing the idea of Web 3.0 to a broader group of users. Both parties share a high level of consensus on data privacy, data ownership, and permissionless community participation and governance. Through the bridge (Mask extension), users who know little about Web 3.0 could use applications built based on decentralization and open-source concepts on the platform they are familiar with, just within a few clicks. This greatly lowers the threshold of discovering the Web 3.0 world. By using these Dapps, users can enjoy features not available on the social media platforms such as file storage, information encryption, without changing social media platforms.
 
