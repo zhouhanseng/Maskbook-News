@@ -20,7 +20,7 @@ Filecoin 是一个旨在存储人类社会最重要的信息的分布式网络�
 
 Mask Network 一直以来都希望成为连接 Web 2.0 和 Web 3.0 的桥梁。通过开发浏览器扩展程序，期望用户可以在 Web 2.0 的传统社交媒体上方便、快捷地使用更多优秀的去中心化应用程序。在数字世界里，数据和信息一直源源不断地产生，但只有将其保留，他们带来的意义才会更持久，更深远。因此，如何以去中心化的方式存储数据，成为了构建去中心化应用程序生态里的重要一环。Mask Network 长期关注着去中心化存储的发展，此前也与不少优秀的去中心化存储项目达成了合作。我们相信，让数据以去中心化的状态存在，是展现 Web 3.0 灵魂的重要形式。
 
-![Image](https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHAzP9MEtYia93WHYibnlksGEqbslvC0tgLXXaVMpPSVTQ2iasCyqkiacxYK7086FoFiaVmyUaibiaYT8OJJw/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+![]({{ site.baseurl_root }}/uploads/0_7sx_scihs5cpwmrg.png)
 
 Filecoin 和 Mask Network 都坚定地想把 Web 3.0 的理念带给更广阔的用户群体。双方在数据隐私、数据所有权和无需许可的社群参与及治理上有着极高的共识。通过 Mask 扩展程序这座桥梁，对 Web 3.0 了解相对较少的用户，轻点鼠标就可以在自己熟悉的社交平台界面上使用基于去中心化、开源等理念开发的 Web 3.0 应用程序。这大大降低了探索 Web 3.0 世界的门槛。并且通过这些应用程序，用户可以使用如文件存储、信息加密解密等 Web 2.0 平台自身没有开发的功能。
 
