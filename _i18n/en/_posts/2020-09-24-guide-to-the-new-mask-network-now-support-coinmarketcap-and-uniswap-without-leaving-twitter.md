@@ -14,11 +14,12 @@ type: ''
 image: ''
 description: ''
 ja: ''
+ko: ''
 
 ---
 ![]({{ site.baseurl_root }}/uploads/54.jpg)
 
-> _Mask Network(Maskbook) is launching yet another new feature. We now support viewing crypto price charts (CoinMarketCap, CMC) and direct trading (Uniswap) without leaving Twitter!_
+> _Mask Network is launching yet another new feature. We now support viewing crypto price charts (CoinMarketCap, CMC) and direct trading (Uniswap) without leaving Twitter!_
 >
 > _Sounds awesome, right?_
 >
@@ -28,7 +29,8 @@ ja: ''
 
 **1:How to download Mask Network?**
 
-Download and Install Mask Network at [http://maskbook.com/install](http://maskbook.com/install "http://maskbook.com/install")[ ](https://t.co/81mZ0u9isl?amp=1)You can also search Maskbook in the chrome or firefox extension store.
+Download and Install Mask Network at [https://mask.io/download-links/](https://mask.io/download-links/ "https://mask.io/download-links/") .  
+You can also search Mask Network in the chrome or firefox extension store.
 
 **2: Onboarding Mask Network**
 
