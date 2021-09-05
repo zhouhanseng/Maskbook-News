@@ -9,7 +9,7 @@ google-ID: "UA-112060364-1"
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
   - { icon: "github", link: "https://github.com/DimensionDev/Maskbook" }
-  - { icon: "twitter", link: "https://twitter.com/realmaskbook" }
+  - { icon: "twitter", link: "https://twitter.com/realMaskNetwork" }
   - { icon: "envelope", link: "mailto:info@dimension.im" }
   - { icon: "rss-square", link: "/feed.xml" }
 # - {icon: 'rss-square', link: '/rss-feed.xml'}
