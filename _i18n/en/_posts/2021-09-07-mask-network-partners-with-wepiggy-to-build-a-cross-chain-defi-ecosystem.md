@@ -24,7 +24,7 @@ Mask Network and WePiggy have reached an agreement on the cross-chain DeFi ecosy
 
 Starting with cross-chain lending market building: **$MASK token has been evaluated and proposed to be listed on WePiggy lending protocol through WIP23 official governance voting**.
 
-**$MASK will be listed on the BSC mainnet at 15:00 UTC+8 Time on Sep 8.**
+**$MASK will be listed on the BSC mainnet at 15:00 UTC+8 Time on Sep 8th.**
 
 **$MASK will be listed on the ETH mainnet after Chainlink’s price feeds are ready to ensure the security of the lending and liquidation process.**
 
