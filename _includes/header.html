@@ -1,17 +1,84 @@
 <header class="masthead">
-  <h3 class="masthead-title">
+  <div class="masthead-nav">
     <a href="{{ site.baseurl_root }}/{{ site.lang | replace: 'en', '' }}">
       <img
         class="masthead-logo"
-        src="{{ site.baseurl_root }}/assets/img/logo.svg"
-        width="125"
+        src="{{ site.baseurl_root }}/assets/img/logo.png"
       />
     </a>
-    <small class="masthead-subtitle">{{ site.description }}</small>
 
-    {% comment %}
-      {% include menu.html %}
-    {% endcomment %}
-  </h3>
-  {% include language.html %}
+    <div class="masthead-links">
+      <a target="_blank" rel="noreferrer" href="https://mask.io">
+        Home
+      </a>
+      <a
+        id="news"
+        target="_blank" 
+        rel="noreferrer"        
+        href="/"
+      >
+        News
+      </a>
+      <a
+        target="_blank" 
+        rel="noreferrer"         
+        href="https://we.mask.io/"
+      >
+        Community
+      </a>
+      <a target="_blank" rel="noreferrer" href="https://mask.io/faq">
+        Help
+      </a>
+      <a
+        target="_blank" 
+        rel="noreferrer"          
+        href="https://kan-1.gitbook.io/mask-network/plugin-system/mask-plugin"
+      >
+        Docs
+      </a>
+      <a target="_blank" rel="noreferrer" href="https://mask.io/about">
+        About
+      </a>        
+    </div>
+
+    <a class="download-link" href="https://mask.io/download-links/" target="_blank" rel="noreferrer">Use Mask</a>
+
+    <div class="masthead-nav-menu">
+      <input type="checkbox" id="drawer-toggle" name="drawer-toggle"/>
+      <label for="drawer-toggle" id="drawer-toggle-label"></label>   
+      <div id="drawer">
+        <a target="_blank" rel="noreferrer" href="https://mask.io">
+          Home
+        </a>
+        <a
+          id="news"
+          target="_blank" 
+          rel="noreferrer"        
+          href="/"
+        >
+          News
+        </a>
+        <a
+          target="_blank" 
+          rel="noreferrer"         
+          href="https://we.mask.io/"
+        >
+          Community
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://mask.io/faq">
+          Help
+        </a>
+        <a
+          target="_blank" 
+          rel="noreferrer"          
+          href="https://kan-1.gitbook.io/mask-network/plugin-system/mask-plugin"
+        >
+          Docs
+        </a>
+        <a target="_blank" rel="noreferrer" href="https://mask.io/about">
+          About
+        </a>
+      </div>   
+    </div>
+  </div>
 </header>

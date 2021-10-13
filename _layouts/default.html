@@ -9,6 +9,14 @@
     {% include header.html %}
 
     <div class="post-container">
+      <h3>
+        <small class="masthead-subtitle">{{ site.description }}</small>
+
+        {% comment %}
+          {% include menu.html %}
+        {% endcomment %}
+      </h3>      
+      {% include language.html %}
       {{ content }}
     </div>
 
