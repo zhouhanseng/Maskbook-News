@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" hreflang="en" /><updated>2021-10-13T16:28:17+08:00</updated><id>/feed.xml</id><title type="html">News</title><subtitle>The Portal to the New, Open Internet.</subtitle><entry xml:lang="en"><title type="html">WE WANT YOU! Join Mask 2.0 Beta Test, Win Bug Bounties!</title><link href="/2021/09/27/we-want-you-join-mask-2.0-beta-test-win-bug-bounties" rel="alternate" type="text/html" title="WE WANT YOU! Join Mask 2.0 Beta Test, Win Bug Bounties!" /><published>2021-09-27T00:00:00+08:00</published><updated>2021-09-27T00:00:00+08:00</updated><id>/2021/09/27/we-want-you-join-mask-2.0-beta-test-win-bug-bounties</id><content type="html" xml:base="/2021/09/27/we-want-you-join-mask-2.0-beta-test-win-bug-bounties">&lt;p&gt;&lt;img src=&quot;/uploads/013.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Mask extension is about to go through some major updates. The Mask 2.0 is finally here!&lt;/p&gt;
+
+&lt;p&gt;We have talked about Mask 2.0 at many Townhall meetings, and all the amazing features will be with us shortly. We hereby sincerely invite our users to get a sneak peek of Mask 2.0 by joining our beta test. The Mask 2.0 bug bounty program has started accordingly. Win rewards from trying out new features, getting familiar with the features, spotting bugs, or giving improvement suggestions!&lt;/p&gt;
+
+&lt;h1 id=&quot;who-can-participate&quot;&gt;&lt;strong&gt;Who can participate?&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Mask 2.0 beta test has 100 spots. Choose one of the following options to reserve your spot.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Fill the &lt;a href=&quot;https://forms.gle/udpUcYjJhypYdWcG8&quot;&gt;application form&lt;/a&gt; (users who filled this form before September 26th, please DM your Discord username and Polygon wallet address to our Twitter &lt;a href=&quot;https://twitter.com/realMaskNetwork&quot;&gt;@realMaskNetwork&lt;/a&gt;)&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;ol&gt;
+      &lt;li&gt;Send a tweet with hashtag &lt;strong&gt;#Mask2Beta&lt;/strong&gt;, and use the Mask extension to encrypt your Discord username and Polygon wallet address to sign up for a Beta Test spot.&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;The 100 spots will be filled in a first-come-first-served manner. The sign-up period will end once the 100 spots are filled, and the list of participants will be posted on the Mask Forum.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;how-to-participate&quot;&gt;&lt;strong&gt;How to participate?&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Once the sign-up period is finished, users who are eligible to join the Beta Test will be invited to a Discord private channel, where the Mask team will post tutorials, assignments, and information about the bug bounty.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;what-kind-of-rewards-will-i-get&quot;&gt;&lt;strong&gt;What kind of rewards will I get?&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Mask Network developer team will assess all feedback users bring up. After the Beta Test is finished, bounty rewards will be distributed accordingly. Participants will have a chance to split a bug bounty prize pool worth of 30,000 $USDT. Please check the details regarding bug/report submission and the bounty reward system below.&lt;/li&gt;
+  &lt;li&gt;Users who participated in the Beta Test will receive an NFT badge.&lt;/li&gt;
+  &lt;li&gt;And there are more surprises… stay tuned!&lt;/li&gt;
+  &lt;li&gt;*All rewards will be calculated and published on October 30th. $USDT rewards will be distributed on Polygon (Matic).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;bug-bounty-details&quot;&gt;&lt;strong&gt;Bug Bounty Details&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;We will categorize bugs eligible for bounty rewards into &lt;strong&gt;Suggestions&lt;/strong&gt; and &lt;strong&gt;Bugs&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;suggestions&quot;&gt;Suggestions&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Suggestions&lt;/strong&gt; include but are not limited to front-end display error, plugin cards rendering/loading error, UI displacements, and other suggestions that do not jeopardize daily usage but may improve user experience.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;How to submit&lt;/strong&gt;: Please upload screenshots/screen recordings in &lt;a href=&quot;https://forms.gle/khzACsWHvA3oZewT8&quot;&gt;this form&lt;/a&gt; with some textual description.&lt;/li&gt;
+  &lt;li&gt;Issues that (Do not jeopardize daily usage but) may improve user experiences — &lt;em&gt;10 $USDT per suggestion&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Other bugs/issues described above — &lt;em&gt;20 $USDT per suggestion&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;If multiple users submitted the same &lt;strong&gt;suggestion&lt;/strong&gt;, then the first 2 users who submitted will be eligible for the reward.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;*Each beta-test participant can earn up to 200 $USDT bounty rewards for bringing up useful suggestions.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;technical-bugs&quot;&gt;Technical bugs&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Technical bugs&lt;/strong&gt; include but are not limited to: security vulnerabilities report or improvement reports&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bounty rewards for technical bugs vary from 100 $USDT to 1500 $USDT.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;How to submit&lt;/strong&gt;: please upload relevant reports or bug fix PR code directly on Github.&lt;/li&gt;
+  &lt;li&gt;Please check known bugs/issues &lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/4474&quot;&gt;here&lt;/a&gt; before reporting. Bugs or issues that have been reported and listed will not be eligible for rewards.. The Mask Network developer team will assess the eligibility based on the time of submission.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;* The Mask Network developer team reserves the right to define and categorize all bugs and issues submitted.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;terms-of-services&quot;&gt;&lt;strong&gt;Terms of services&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;The main purpose of Mask 2.0 Bug Bounty is to help Mask Network identify potential issues and risks that may impact the user experience.&lt;/li&gt;
+  &lt;li&gt;Mask Network will give rewards to users who are eligible for the bounty prize in Polygon (Matic) transactions. The details are listed above, and the specific size of bounty reward will be given by the Mask Network developer team after their thorough assessment. Each bug or suggestion may receive a different value of bounty reward.&lt;/li&gt;
+  &lt;li&gt;If unusual bug submission activities are detected, Mask Network reserves the right to disqualify that specific user to participate in Beta Test and to refuse making bounty reward payment.&lt;/li&gt;
+  &lt;li&gt;Mask Network reserves the right to define and categorize bugs and issues submitted by Beta Test participants and reserves the right to refuse to make bounty reward payments to Beta Test users.&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network Partners with Protocol Lab on Integration of Filecoin Decentralized Storage</title><link href="/2021/09/19/mask-network-partners-with-protocol-lab-on-integration-of-filecoin-decentralized-storage" rel="alternate" type="text/html" title="Mask Network Partners with Protocol Lab on Integration of Filecoin Decentralized Storage" /><published>2021-09-19T00:00:00+08:00</published><updated>2021-09-19T00:00:00+08:00</updated><id>/2021/09/19/mask-network-partners-with-protocol-lab-on-integration-of-filecoin-decentralized-storage</id><content type="html" xml:base="/2021/09/19/mask-network-partners-with-protocol-lab-on-integration-of-filecoin-decentralized-storage">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*TR9bk-Q1vSP2RCJ0 =700x356&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network announces it is receiving strategic support from &lt;a href=&quot;https://protocol.ai/&quot;&gt;Protocol Labs&lt;/a&gt; to help build a foundation for their future developments and innovations. The Mask Network seeks to be the bridge between the existing web2 and the new, open web3 by introducing web3 applications upon the mainstream social network, which is why integration with distributed and open-source technologies in Protocol Labs’ focus areas, such as Filecoin, is a major milestone for the Web 3.0 ecosystem. This partnership also involves $MASK in our DAO treasury and $FIL. Please read &lt;a href=&quot;https://we.mask.io/t/announcement-protocol-labs-purchased-mask-from-the-maskdao-treasury/495&quot;&gt;this post&lt;/a&gt; in our governance forum for more information.&lt;/p&gt;
+
+&lt;p&gt;Mask recently announced a collaboration with the &lt;a href=&quot;https://filecoin.io/blog/posts/mask-network-x-filecoin-bridging-the-gap-between-web2-and-web3/&quot;&gt;Filecoin&lt;/a&gt; ecosystem in which Protocol Labs is a major contributor. Filecoin is one of the leaders in decentralized storage networks and provides a foundation to store humanity’s most important information. Filecoin provides an alternative to an essential web service: make information and data perpetual, but in a decentralized way. The grant from Protocol Labs will provide foundational infrastructure and serve as a cornerstone for the decentralized world that the web3 ecosystem is striving to build.&lt;/p&gt;
+
+&lt;p&gt;Mask will work with Filecoin in the promotion of web3 concepts. With the help of Filecoin, Mask will explore more areas of decentralized technology while expanding the ecosystem to provide more options for users using dapps with the Mask extension.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“&lt;em&gt;Mask Network is a key innovator bridging the gap between Web2 and Web3. We’re delighted that the Filecoin integration will help bring next generation decentralized storage solutions to the Mask platform and their very engaged users. The Filecoin community is excited to lean into this collaboration and ultimately help accelerate the transition from Web 2.0 to Web 3.0 tech.&lt;/em&gt;”&lt;/p&gt;
+
+  &lt;p&gt;— — Colin Evran, Ecosystem Lead at Protocol Labs&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Mask Network looks to benefit with the support from Protocol Labs for their valuable insight and experience in relevant fields. Mask Network is looking forward to collaborating with them in the open, free metaverse.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-protocol-labs&quot;&gt;&lt;strong&gt;About Protocol Labs&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Protocol Labs is an open-source research, development, and deployment laboratory. Our projects include IPFS, Filecoin, libp2p, and many more. We aim to make human existence orders of magnitude better through technology. We are a fully distributed company. Our team of more than 100 members works remotely and in the open to improve the internet — humanity’s most important technology — as we explore new advances in computing and related fields.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network Partners with WePiggy to Build a Cross-Chain DeFi Ecosystem</title><link href="/2021/09/07/mask-network-partners-with-wepiggy-to-build-a-cross-chain-defi-ecosystem" rel="alternate" type="text/html" title="Mask Network Partners with WePiggy to Build a Cross-Chain DeFi Ecosystem" /><published>2021-09-07T00:00:00+08:00</published><updated>2021-09-07T00:00:00+08:00</updated><id>/2021/09/07/mask-network-partners-with-wepiggy-to-build-a-cross-chain-defi-ecosystem</id><content type="html" xml:base="/2021/09/07/mask-network-partners-with-wepiggy-to-build-a-cross-chain-defi-ecosystem">&lt;p&gt;&lt;img src=&quot;/uploads/2021-09-07-11-36-53.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are excited to announce that Mask Network builds a partnership with lending protocol WePiggy. The two parties will jointly explore the possibilities of technology integrations, and work together to build a cross-chain DeFi ecosystem.&lt;/p&gt;
+
+&lt;p&gt;Mask Network has been trying to create a decentralized applet (DApplet) ecosystem, and we position ourselves to be the bridge that connects internet users from Web 2.0 to Web 3.0. WePiggy focuses on building an open-source, non-custodial crypto-asset lending market protocol that helps users realize asset appreciation and maximize utilization across many blockchain networks. Both parties will work together in fields such as cross-chain DeFi ecosystem building, trying to build a broader on-chain world.&lt;/p&gt;
+
+&lt;p&gt;Mask Network and WePiggy have reached an agreement on the cross-chain DeFi ecosystem building. The cooperation will move forward steadily in stages according to the will of both parties.&lt;/p&gt;
+
+&lt;p&gt;Starting with cross-chain lending market building: &lt;strong&gt;$MASK token has been evaluated and proposed to be listed on WePiggy lending protocol through WIP23 official governance voting&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;$MASK will be listed on the BSC mainnet at 15:00 UTC+8 Time on Sep 8th.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;$MASK will be listed on the ETH mainnet after Chainlink’s price feeds are ready to ensure the security of the lending and liquidation process.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network will contribute to the trading liquidity building on DEXs, and the liquidity of MASK token in WePiggy’s lending market, to eliminate systemic risk of WePiggy protocol as much as possible.&lt;/p&gt;
+
+&lt;p&gt;More cooperation between WePiggy and MASK Network is on the way, $MASK token holders will be able to use features such as diversified portfolio management, cross-chain asset transfer, and lending on WePiggy in the future.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Mask Network is the portal that helps traditional internet users transition from Web2.0 to Web3.0. The integration will allow us to take more users into the DeFi world and provide them with secure, powerful and user-friendly cross-chain DeFi applications.”&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;– Ron, Zheng, Founder and CEO of WePiggy&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;“Mask wants to bridge the traditional internet and the new, open internet. Mask has always been trying to build an ecosystem that welcomes amazing projects on different blockchains. While WePiggy builds a cross-chain DeFi ecosystem, our vision aligns in connecting different parts of the Web 3.0 world together.”&lt;/em&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;em&gt;– Suji Yan, Founder and CEO of Mask Network&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;About WePiggy&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;WePiggy is an open-source, non-custodial, crypto-asset lending market protocol. In WePiggy’s market, users can deposit their crypto assets to earn interest or borrow other crypto assets by paying interest. WePiggy aims to spread the benefits of cryptocurrency’s freedom and transparency to the widest possible user community in a more friendly and simple way, as well as be a good partner for them in wealth management.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Partners with QuickSwap! Earn $MASK and $QUICK on QuickSwap</title><link href="/2021/09/04/mask-partners-with-quickswap-earn-mask-and-quick-on-quickswap" rel="alternate" type="text/html" title="Mask Partners with QuickSwap! Earn $MASK and $QUICK on QuickSwap" /><published>2021-09-04T00:00:00+08:00</published><updated>2021-09-04T00:00:00+08:00</updated><id>/2021/09/04/mask-partners-with-quickswap-earn-mask-and-quick-on-quickswap</id><content type="html" xml:base="/2021/09/04/mask-partners-with-quickswap-earn-mask-and-quick-on-quickswap">&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*26tHT8XkGnmiqP_j =700x356&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is happy to announce that the $MASK — $USDC pair is on QuickSwap Liquidity Mining Pool, and our native token $MASK is listed on Dragon’s Syrup.&lt;/p&gt;
+
+&lt;p&gt;After the integration of Polygon (Matic) in June, our team has been working hard in bringing good projects on Polygon to Mask extension. Users can now use QuickSwap on the Mask extension, providing more choices to users when swapping assets on Polygon (Matic).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/quickswap.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network added liquidity for the &lt;a href=&quot;https://quickswap.exchange/#/add/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7&quot;&gt;$MASK — $USDC pair&lt;/a&gt; on QuickSwap on August 13th. And now we are super happy to announce that liquidity providers of $MASK — $USDC pair will be able to earn income with the &lt;a href=&quot;https://quickswap.exchange/#/quick/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0xDEb69421fc2FbA0c3b4F8b1ae291029f7CCa344E&quot;&gt;Reward Pool&lt;/a&gt; on QuickSwap Liquidity Mining Pool.&lt;/p&gt;
+
+&lt;p&gt;Learn more about the $MASK-$USDC pair &lt;a href=&quot;https://info.quickswap.exchange/pair/0x253d637068fbf11b18d0f2a1bf3b167d37802687&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Liquidity Mining: Stake $MASK — $USDC to earn $QUICK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Reward: 6 $QUICK / day&lt;/p&gt;
+
+&lt;p&gt;Network: Polygon&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*Go6mFlPfPMECX44bpYTD9Q.jpeg =700x269&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here’s how it works:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quickswap.exchange/#/add/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174&quot;&gt;Provide Liquidity in $MASK — $USDC&lt;/a&gt; in the “Pools” tab.&lt;/li&gt;
+  &lt;li&gt;In the “LP Mining” tab under “Farms,” find the &lt;a href=&quot;https://quickswap.exchange/#/quick/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0xDEb69421fc2FbA0c3b4F8b1ae291029f7CCa344E&quot;&gt;$MASK — $USDC pool&lt;/a&gt; and deposit $MASK — $USDC LP, and start earning $QUICK rewards.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;Staking: Stake $dQUICK to earn $MASK on&lt;/strong&gt; &lt;a href=&quot;https://quickswap.exchange/#/syrup/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/0x15cB4132e4438F11fde5199aC6aE15881f1C1456&quot;&gt;&lt;strong&gt;Dragon’s Syrup Pool&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Reward: $500k worth of $MASK&lt;/p&gt;
+
+&lt;p&gt;Start Time: September 3rd, 13:00 PM (UTC)&lt;/p&gt;
+
+&lt;p&gt;End Time: November 2nd, 13:00 PM (UTC)&lt;/p&gt;
+
+&lt;p&gt;Network: Polygon&lt;/p&gt;
+
+&lt;p&gt;Reward Duration: 60 days&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/1*HkaF013m1tpu8Px6RWOk1g.png =700x291&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Visit &lt;a href=&quot;http://bridge.mask.io/&quot;&gt;bridge.mask.io&lt;/a&gt; to transfer your $MASK from Ethereum Mainnet to Polygon.&lt;/p&gt;
+
+&lt;p&gt;Please be careful!&lt;/p&gt;
+
+&lt;p&gt;The official $MASK token contract address on Polygon is: &lt;strong&gt;0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Any other $MASK token will be a scam and will result in a financial loss for users. Do not buy tokens from any other token address. Always verify the token address before purchasing tokens.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Quickswap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;QuickSwap is a fork of the originator of Automated Market Makers in the now rapidly expanding DeFi sector of the Cryptocurrency industry, Uniswap. Both, of course, are magical. Only, rather than settling for the magic of unicorns, we’ve opted for the magic of dragons. It’s a much faster kind of magic, currently only available in a land far far away, known by the locals as Layer 2. Although it’s very very far far away, to get there requires only a few clicks on a mouse, via the magical MATIC portal, aided by a fanciful Fox with a Mask.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Update | NFT Gallery is On the Way, Get a Glimpse of the Metaverse on Twitter</title><link href="/2021/09/04/update-nft-gallery-is-on-the-way-get-a-glimpse-of-the-metaverse-on-twitter" rel="alternate" type="text/html" title="Update | NFT Gallery is On the Way, Get a Glimpse of the Metaverse on Twitter" /><published>2021-09-04T00:00:00+08:00</published><updated>2021-09-04T00:00:00+08:00</updated><id>/2021/09/04/update-nft-gallery-is-on-the-way-get-a-glimpse-of-the-metaverse-on-twitter</id><content type="html" xml:base="/2021/09/04/update-nft-gallery-is-on-the-way-get-a-glimpse-of-the-metaverse-on-twitter">&lt;p&gt;&lt;img src=&quot;/uploads/update1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Following the widely recognized features such as ITO (Initial Twitter Offering) and token price info display &amp;amp; swap, Mask Network is once again welcoming new features in the NFT realm. After supporting the display and bidding of NFTs on platforms such as OpenSea and Rarible, the NFT Gallery feature is about to go live on the Mask extension, which provides &lt;strong&gt;a place to display NFT collection right on top of the curator’s social media profile, provides an alternative to NFTs after they have been “bid, sold, and owned”.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network has always been cultivating in the NFT realm. During the 2020 U.S. election, Mask introduced the concept of NFT to mainstream social media by distributing the “Election Special NFTs.” In early 2021, when the NFT concept started to gain momentum, Mask Network supported the identification and display of URLs of works in well-known NFT platforms such as OpenSea and Rarible. Through the Mask extension, users can view the prices of NFTs directly on Twitter and bid on them immediately. But this only covers the tip of the iceberg of the NFT world. More applications for NFT beyond being minted, traded, and auctioned are yet to be explored.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/nft-display-one.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask has introduced the NFT Gallery feature in the &lt;strong&gt;yet-to-be-released v1.36.6 (click&lt;/strong&gt; &lt;a href=&quot;https://github.com/DimensionDev/Maskbook/releases/download/v1.36.6/Maskbook.chromium.zip&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;to download and try it first!)&lt;/strong&gt;. After installing the Mask extension and switch to the Ethereum mainnet, users can view the NFTs owned by others on their personal homepage, below the “NFTs” tab. Users could also include their ENS information in their Twitter username or bio, to display the NFTs they own.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/vitalik-nfts.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We believe that the NFT Gallery is not only a list of NFTs, a platform to display the NFTs owned by users, but also &lt;strong&gt;a window to the metaverse&lt;/strong&gt;. Just as the NFT itself is more than art, the NFT Gallery is more than the user’s aesthetic taste. It implies user’s personal characteristics and their life in the Web 3.0 world. Through this window, you can see others’ CryptoPunks, Loots, NFT cards, ENS domains, and other virtual identities in the Web 3.0 metaverse.&lt;/p&gt;
+
+&lt;p&gt;NFT is crucial in the building of the metaverse, which is why Mask Network chose to develop the NFT Gallery feature when building the bridge between Web 2.0 and Web 3.0. Mask hopes that more users will get a glimpse of the vast Web 3.0 world and become interested in it on Twitter.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network ITO contract has successfully passed SlowMist security audit</title><link href="/2021/08/26/mask-network-ito-contract-has-successfully-passed-slowmist-security-audit" rel="alternate" type="text/html" title="Mask Network ITO contract has successfully passed SlowMist security audit" /><published>2021-08-26T00:00:00+08:00</published><updated>2021-08-26T00:00:00+08:00</updated><id>/2021/08/26/mask-network-ito-contract-has-successfully-passed-slowmist-security-audit</id><content type="html" xml:base="/2021/08/26/mask-network-ito-contract-has-successfully-passed-slowmist-security-audit">&lt;p&gt;&lt;img src=&quot;/uploads/0_yxgusbltm0unjkqo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To ensure the security of user assets, Mask Network invited SlowMist to conduct an audit of Mask Network’s ITO contract from June 7 to June 15, 2021. We are delighted to announce that the Mask Network Initial Twitter Offering contract has successfully passed the SlowMist security audit, that &lt;strong&gt;the contract was free of security vulnerabilities and weaknesses&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;SlowMist adopted a white box test, conducting vulnerability analysis and vulnerability mining based on the source code of the ITO contract and security tests on the code modules through scripting tools, and conducting security tests from an external attacker’s perspective, combined manual and internal tools. Following this audit, Mask Network will continue to monitor potential issues that may arise to ensure the smooth implementation of ITO and other related processes and functions to keep user assets and information secure.&lt;/p&gt;
+
+&lt;p&gt;Click &lt;a href=&quot;https://github.com/DimensionDev/InitialTwitterOffering/blob/master/audits/SlowMist_Audit_Report_English.pdf&quot;&gt;here&lt;/a&gt; to view the audit report.&lt;/p&gt;
+
+&lt;p&gt;Technology is the foundation of the smooth and secure operation of the Mask extension. We rely on code and contracts to bring our ideas of Web 3.0 and decentralization to life. Therefore, we attach a high priority to the technical security of the Mask extension. The industry has been paying extra attention to contract security. With this audit, Mask Network hopes to demonstrate a responsible and rigorous attitude to our users and will continue to be vigilant about technical issues in the future to deliver a better user security experience.&lt;/p&gt;
+
+&lt;p&gt;After the integration of Polygon and BSC, all functions on the Mask extension (ITO, Swap…) have been available on multi-chained. Mask Network will conduct long-term cooperation with SlowMist Technology to ensure the high technical requirements and further protect users’ operation in the era of multi-chain.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About SlowMist&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;SlowMist Technology is a company focused on blockchain ecological security. It was founded by a team with more than ten years of front-line network security attack-defense experiences, and the team members have created the security project with world-class influence. SlowMist Technology is already a top international blockchain security company, served many global well-known projects mainly through “the security solution that integrated the threat discovery and threat defense while tailored to local conditions,” including cryptocurrency exchanges (such as Huobi, OKEx, Binance, etc.), cryptocurrency wallets (such as imToken, RenrenBit, MYKEY, etc.), smart contracts (such as TrueUSD, HUSD, OKUSD, etc.), DeFi projects (such as: 1inch, BlackHoleSwap, JUST, etc.), the underlying public chain (such as EOS, OKExChain, PlatON, etc.), there are thousands of commercial customers, customers distributed in more than a dozen major countries and regions.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network RSS Feed Integrated with Crypto.com</title><link href="/2021/08/20/mask-network-rss-feed-integrated-with-crypto.com" rel="alternate" type="text/html" title="Mask Network RSS Feed Integrated with Crypto.com" /><published>2021-08-20T00:00:00+08:00</published><updated>2021-08-20T00:00:00+08:00</updated><id>/2021/08/20/mask-network-rss-feed-integrated-with-crypto.com</id><content type="html" xml:base="/2021/08/20/mask-network-rss-feed-integrated-with-crypto.com">&lt;p&gt;&lt;img src=&quot;/uploads/1_uefkb6ildvbi-cz9foglca.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Crypto.com launched a &lt;a href=&quot;https://crypto.com/price/mask-network&quot;&gt;Mask Network Price Page&lt;/a&gt;, to allow direct access to Mask Network’s news feed.&lt;/p&gt;
+
+&lt;p&gt;This feature will enable Crypto.com users to obtain the latest news and updates from Mask Network “MASK”, a leading Web 3.0 project.&lt;/p&gt;
+
+&lt;p&gt;Crypto.com users can stay on top of Mask Network’s latest updates on its products and services in addition to accessing the latest MASK price, volume, and market capitalization data.&lt;/p&gt;
+
+&lt;p&gt;MASK, the native governance token of Mask Network was listed on Crypto.com App in &lt;a href=&quot;https://blog.crypto.com/crypto-com-app-lists-mask-network-mask/&quot;&gt;July 2021&lt;/a&gt;. As a major player in the cryptocurrency industry, Crypto.com’s listing makes it easy for users to trade MASK tokens at true cost, with USD, EUR, GBP, and 20+ other fiat currencies. In addition to MASK, there are currently over 100 cryptocurrencies that are listed on Crypto.com App and available for trade.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Mask Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0. The foundational technology of Mask Network is a peer-to-peer encrypted messaging application, with new functions continuously being created around this foundation. We at Mask Network are strong believers in the ownership economy. People should own what they produce, people should own their data, their attention and the virtual space they choose to contribute to.&lt;/p&gt;
+
+&lt;p&gt;Mask Network integrates decentralized social messaging, borderless payment network, decentralized file storage and sharing, decentralized finance, DAO and NFT to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;About Crypto.com&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Founded in 2016, Crypto.com has grown into a fully-fledged and well-known international cryptocurrency hub in just a few short years. Its crypto ecosystem consists of the &lt;a href=&quot;https://crypto.com/app&quot;&gt;Crypto.com App,&lt;/a&gt; &lt;a href=&quot;https://crypto.com/exchange&quot;&gt;Crypto.com Exchange&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/defi-wallet&quot;&gt;Crypto.com DeFi Wallet&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/defi/swap&quot;&gt;DeFi Swap&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/defi-wallet#earn&quot;&gt;Crypto Earn,&lt;/a&gt; &lt;a href=&quot;https://crypto.com/credit&quot;&gt;Crypto Credit&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/price/&quot;&gt;Price Page&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/nft/marketplace&quot;&gt;NFT marketplace&lt;/a&gt;, &lt;a href=&quot;https://crypto.com/defi/dashboard/gas-fees&quot;&gt;Ethereum Gas Fees Tracker&lt;/a&gt;, and many other services. Crypto.com works with regulatory institutions all over the globe and aims to bring you the most convenient way to buy, sell, trade, and spend cryptocurrencies.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network × Filecoin | Feel Web 3.0 in Decentralized Data Storage</title><link href="/2021/08/18/mask-network-x-filecoin-feel-web-3.0-in-decentralized-data-storage" rel="alternate" type="text/html" title="Mask Network × Filecoin | Feel Web 3.0 in Decentralized Data Storage" /><published>2021-08-18T00:00:00+08:00</published><updated>2021-08-18T00:00:00+08:00</updated><id>/2021/08/18/mask-network-x-filecoin-feel-web-3.0-in-decentralized-data-storage</id><content type="html" xml:base="/2021/08/18/mask-network-x-filecoin-feel-web-3.0-in-decentralized-data-storage">&lt;p&gt;&lt;img src=&quot;/uploads/filecoin.png&quot; alt=&quot;&quot; /&gt;Mask Network will work with open-source storage service provider &lt;a href=&quot;https://filecoin.io/&quot;&gt;Filecoin&lt;/a&gt;, in the promotion of Web 3.0 concepts.&lt;/p&gt;
+
+&lt;p&gt;Filecoin is a decentralized storage network, designed to store humanity’s most important information. To store files, all you need is code and a crypto-wallet. This provides developers everywhere access to an entirely new data storage paradigm, even letting your programs store data autonomously.&lt;/p&gt;
+
+&lt;p&gt;Mask Network has always wanted to be the bridge between Web 2.0 and Web 3.0. Through the Mask browser extension, Mask wants users to use amazing Dapps on traditional social media in a fast and easy way. Data and information are continuously generated in the digital world, but the meaning they bring will only be more far-reaching and perpetual only if they are retained. Therefore a decentralized data storage solution is the key to the building of a decentralized ecosystem. Mask Network pays close attention to the development of decentralized storage and partners with many outstanding decentralized storage projects. We believe storing files in a decentralized way is vital in showing the spirit of Web 3.0.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/0_7sx_scihs5cpwmrg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Both Filecoin and Mask Network are firmly committed to bringing the idea of Web 3.0 to a broader group of users. Both parties share a high level of consensus on data privacy, data ownership, and permissionless community participation and governance. Through the bridge (Mask extension), users who know little about Web 3.0 could use applications built based on decentralization and open-source concepts on the platform they are familiar with, just within a few clicks. This greatly lowers the threshold of discovering the Web 3.0 world. By using these Dapps, users can enjoy features not available on the social media platforms such as file storage, information encryption, without changing social media platforms.&lt;/p&gt;
+
+&lt;p&gt;Through this collaboration, Mask Network will integrate the data storage paradigm by Filecoin, providing more choices for users. Both parties will also issue several bounties about decentralized storage jointly, thus welcoming and encouraging more developers to build in the Mask ecosystem.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-filecoin&quot;&gt;&lt;strong&gt;About Filecoin&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Filecoin, the world’s largest decentralized network, allows users to store, request, and transfer data via a verifiable marketplace. Filecoin is completely open-source, enabling people from all over the world to participate. The Filecoin protocol runs on an advanced and novel proof system — a combination of Proof of Spacetime (PoSt) and Proof of Replication (PoRep), to provide unmatched efficiency and reliability. Filecoin’s advanced technology provides a robust foundation to store the world’s most valuable data sets. An alternative to costly cloud storage, the Filecoin network offers efficiently priced and geographically decentralized storage, minimizing financial barriers and allowing users to take advantage of its unmatched network capabilities.&lt;/p&gt;
+
+&lt;h2 id=&quot;about-mask-network&quot;&gt;&lt;strong&gt;About Mask Network&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;Mask Network is the core product of Dimension, which is positioned to become the bridge that connects internet users from Web 2.0 to Web 3.0. The foundational technology of Mask Network is a peer-to-peer encrypted messaging application, with new functions continuously being created around this foundation. We at Mask Network are strong believers in the ownership economy. People should own what they produce, people should own their data, their attention, and the virtual space they choose to contribute to.&lt;/p&gt;
+
+&lt;p&gt;Mask Network integrates decentralized social messaging, borderless payment network, decentralized file storage and sharing, decentralized finance, DAO, and NFT to provide a safe and convenient portal for users to jump right into the continent of decentralized finance and then the new world of Web 3.0.&lt;/p&gt;</content><author><name></name></author><summary type="html">Mask Network will work with open-source storage service provider Filecoin, in the promotion of Web 3.0 concepts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network Launches the SocialFi Alliance with 15 Founding Partners</title><link href="/2021/08/16/mask-network-launches-the-socialfi-alliance-with-15-founding-partners" rel="alternate" type="text/html" title="Mask Network Launches the SocialFi Alliance with 15 Founding Partners" /><published>2021-08-16T00:00:00+08:00</published><updated>2021-08-16T00:00:00+08:00</updated><id>/2021/08/16/mask-network-launches-the-socialfi-alliance-with-15-founding-partners</id><content type="html" xml:base="/2021/08/16/mask-network-launches-the-socialfi-alliance-with-15-founding-partners">&lt;p&gt;&lt;img src=&quot;/uploads/1_kpitmmg_ztzu9jqvuj9olg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network is proud to launch the &lt;a href=&quot;https://twitter.com/Social_DeFi&quot;&gt;SocialFi Alliance&lt;/a&gt; with 15 founding partners.&lt;/p&gt;
+
+&lt;p&gt;Founding partners include Polygon, as the full stack ethereum scaling solution, and 7 social DeFi apps all running on Polygon — lottery DApp PoolTogether, social trading DApp dHEDGE, social saving DApp GoodGhosting, prediction market DApp Augur, and trading widgets including SushiSwap, QuickSwap, and DODO. We have also invited 4 ecosystem partners: developer community Gitcoin, fiat on-ramp solution Transak, NFT badge provider Project Galaxy, multi-chain incubator Impossible Finance. Finally, we have enlisted the help of 3 community and media partners: Real Satoshi, Bankless DAO, and Global Coin Research.&lt;/p&gt;
+
+&lt;p&gt;Mask has always been building the bridge between Web 2.0 social networks and Web 3.0 DApps. We have thought long and hard about what DApps we should bring to Web 2.0 social networks. From the Wall Street Bet revolution to Tik-Tok investors, to the ultra addictive crypto community on Twitter, &lt;strong&gt;social networks and finance have proven to be a match made in heaven.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network took the crypto community on Twitter by storm when we launched our first $DAI Red Packet in February 2020, launched the first Uniswap trading plugin in September 2020, and the first Initial Twitter Offering in January 2021. However, they were all later hindered by the high Ethereum gas fee, which renders smaller transactions completely unviable on the Ethereum mainnet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Now with the support of multi-chain on Mask Network, and having the Ethereum Layer 2 ready, the cost has come down to a negligible level&lt;/strong&gt;. We can finally introduce a whole new suite of social DeFi applications and hope to mesh your personal finance with your social networks. In hindsight, the GameStop SAGA should have happened right here on Reddit/Twitter with the social trading plugins.&lt;/p&gt;
+
+&lt;p&gt;We have seen the enthusiasm with DeFi and GameFi within the crypto community, and Mask Network is trying to bring outstanding DeFi/GameFi projects onto the Mask extension, so more users could use it on top of the mainstream social network. Meanwhile, Mask Network has been thinking about ways of bringing the features of Mask extension and Web 2.0 social networks into the DeFi world. Mask Network hopes to bring the vibrancy and interactivity of social networks onto decentralized finance activities. Therefore, Mask Network got in touch with projects that are pivotal in the space, to form the SocialFi Alliance together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;We handpicked this batch of the social DeFi apps&lt;/strong&gt; to cover both the core features like swap and swap aggregator and more consumer-level features like social trading, lottery, social savings, and sports/election betting. We look forward to making your personal finance experience a lot more complete with additional DeFi apps of different utilities blossoming in the ecosystem in the foreseeable future.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It’s worth noting that the integration of the dHEDGE, PoolTogether, GoodGhosting, and Augur plugins on Mask extension were all completed by developers in the Mask Network community during the Gitcoin Grants Round 10 Hackathon.&lt;/strong&gt; This is a very promising sneak peek of the decentralized Mask community we would love to see, where community developers integrate decentralized applications to the Mask extension, and gradually form a Mask decentralized app ecosystem with thousands of DApps, built mostly with community developer contribution.&lt;/p&gt;
+
+&lt;p&gt;We believe that with the vast majority of the Internet users also being social network users, &lt;strong&gt;getting DeFi directly onto the major social networks like Twitter, Facebook could be the most critical step towards large-scale user adoption of DeFi and Web 3.0 applications.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network will initiate a series of campaigns to introduce the SocialFi Alliance members to more users on the Mask extension, in an easy, affordable way. Further details will be released at the launch announcement for each event.&lt;/p&gt;
+
+&lt;p&gt;We welcome all projects who share our vision to join forces with us. We will expand the SocialFi Alliance to multichain and many, many more applications.&lt;/p&gt;
+
+&lt;p&gt;Let’s meet in the decentralized world.&lt;/p&gt;
+
+&lt;h2 id=&quot;list-of-partners&quot;&gt;&lt;strong&gt;List of Partners&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;full-stack-ethereum-scaling-solution&quot;&gt;&lt;strong&gt;Full Stack Ethereum Scaling solution&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/0xPolygon&quot;&gt;&lt;strong&gt;&lt;em&gt;Polygon&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://polygon.technology/&quot;&gt;&lt;strong&gt;Polygon&lt;/strong&gt;&lt;/a&gt; &lt;strong&gt;is the first well-structured, easy-to-use platform for Ethereum scaling and infrastructure development.&lt;/strong&gt; Its core component is Polygon SDK, a modular, flexible framework that supports &lt;strong&gt;building and connecting&lt;/strong&gt; Secured Chains like Plasma, Optimistic Rollups, zkRollups, Validium, etc, and Standalone Chains like Polygon POS, designed for flexibility and independence. Polygon’s scaling solutions have seen widespread adoption with 500+ Dapps, ~567M+ txns, and ~6M+ daily txns.&lt;/p&gt;
+
+&lt;h3 id=&quot;defi-apps&quot;&gt;&lt;strong&gt;DeFi Apps&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/goodghosting&quot;&gt;&lt;strong&gt;&lt;em&gt;GoodGhosting&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;GoodGhosting is a lossless savings game, with some friendly competition. By joining a social savings pool, you commit to saving towards a fixed goal. Regular savers — who reach the goal — are rewarded more than people who do not. At the end of the month, everyone gets their initial deposit back. But only the winning players earn extra rewards. This means you earn higher interest rates than when you would save by yourself.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/dHedgeOrg&quot;&gt;&lt;strong&gt;&lt;em&gt;dHEDGE&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;dHEDGE is a social trading app where managers can operate a fund and followers can directly invest into the pool to enjoy the strategy. dHEDGE just launched its brand new V2 on Matic.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/PoolTogether_&quot;&gt;&lt;strong&gt;&lt;em&gt;PoolTogether&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;PoolTogether is a lossless lottery game. The reward is either generated from savings interest or from an outside sponsor. The chance of winning is calculated by dividing your deposit by the entire pool size.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/AugurProject&quot;&gt;&lt;strong&gt;&lt;em&gt;Augur&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Augur is the original prediction market on Ethereum. Augur started back in 2015 and is now on Matic as well. Users can participate in sports game betting, election betting, and crypto game betting. (Will certain token’s price go up or down)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/SushiSwap&quot;&gt;&lt;strong&gt;&lt;em&gt;SushiSwap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Sushi is the home of DeFi. The SushiSwap community is building a comprehensive, decentralized trading platform for the future of finance. Sushi has long been the fan-favorite among the crypto community and has been a long-term partner of Mask.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/QuickswapDEX&quot;&gt;&lt;strong&gt;&lt;em&gt;QuickSwap&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;QuickSwap is a next-gen Layer 2 DEX. Trade at lightning-fast speeds with near-zero gas fees.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/BreederDodo&quot;&gt;&lt;strong&gt;&lt;em&gt;DODO&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;DODO is a multichain decentralized exchange/liquidity provider for everyone, powered by the Proactive Market Making (PMM) algorithm. DODO is also a DEX aggregator and is live on ETH, BSC, and Polygon.&lt;/p&gt;
+
+&lt;h3 id=&quot;ecosystem-partners&quot;&gt;&lt;strong&gt;Ecosystem Partners&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Developer Community:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/gitcoin&quot;&gt;&lt;strong&gt;&lt;em&gt;Gitcoin&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Gitcoin is our Developer Community Partner, a community of builders, creators, and protocols at the center of open web ecosystems. People come to Gitcoin to develop their future and the future of the open internet.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Fiat on-ramp:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/transak_finance&quot;&gt;&lt;strong&gt;&lt;em&gt;Transak&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Transak is also the default fiat onramp solution for MetaMask. If you don’t have cash or assets on Matic but still want to participate in the social DeFi app trial, then Transak has it all for you. You can use Transak to directly deposit from a credit card or bank account to your Matic address.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;NFT:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/ProjectGalaxyHQ&quot;&gt;&lt;strong&gt;&lt;em&gt;Project Galaxy&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Project Galaxy is building a permissionless infrastructure that powers on-chain credentials with plug-and-play NFT modules.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multi-chain incubator:&lt;/em&gt;&lt;/strong&gt; &lt;a href=&quot;https://twitter.com/impossiblefi&quot;&gt;&lt;strong&gt;&lt;em&gt;Impossible Finance&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Impossible Finance is a multi-chain incubator, launchpad, and swap platform which offers a robust product-first ecosystem that supports top-tier blockchain projects to targeted user audiences. Impossible Finance will match its incubated projects with native sector tracks such as social.&lt;/p&gt;
+
+&lt;h3 id=&quot;community--media-partners&quot;&gt;&lt;strong&gt;Community &amp;amp; Media Partners&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/realsatoshinet&quot;&gt;&lt;strong&gt;RealSatoshi&lt;/strong&gt;&lt;/a&gt; is dubbed “the Wall Street Bet of the East”, Realsatoshi is arguably the best Chinese crypto investing community. The founders of Realsatoshi also had stellar performance over the course of this bull run and have been managing a dHEDGE Pool for a long while.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/banklessDAO&quot;&gt;&lt;strong&gt;Bankless DAO&lt;/strong&gt;&lt;/a&gt; is a decentralized global community with one mission: To help the world&lt;a href=&quot;https://twitter.com/search?q=%23gobankless&amp;amp;src=hashtag_click&quot;&gt; #gobankless&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Globalcoinrsrch&quot;&gt;&lt;strong&gt;Global Coin Research&lt;/strong&gt;&lt;/a&gt; is a tokenized DAO of crypto readers, writers, and investors with direct access to high-quality content and deals.&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry><entry xml:lang="en"><title type="html">Mask Network Newsletter (July)</title><link href="/2021/08/06/mask-network-newsletter-july" rel="alternate" type="text/html" title="Mask Network Newsletter (July)" /><published>2021-08-06T00:00:00+08:00</published><updated>2021-08-06T00:00:00+08:00</updated><id>/2021/08/06/mask-network-newsletter-july</id><content type="html" xml:base="/2021/08/06/mask-network-newsletter-july">&lt;p&gt;&lt;img src=&quot;/uploads/cover-pic-min.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;-engineering-update&quot;&gt;&lt;strong&gt;🔧 Engineering Update&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;-mask-for-extension&quot;&gt;🌍 Mask for Extension&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;v1.35.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Improve token list&lt;/p&gt;
+
+&lt;p&gt;Contract readonly method rpc&lt;/p&gt;
+
+&lt;p&gt;Add a plugin to integrate with Good Ghosting&lt;/p&gt;
+
+&lt;p&gt;Use swc to replace ts-loader&lt;/p&gt;
+
+&lt;p&gt;Upgrade to holoflows-kit 0.9.0&lt;/p&gt;
+
+&lt;p&gt;Enable es2020 syntax&lt;/p&gt;
+
+&lt;p&gt;dHEDGE v2&lt;/p&gt;
+
+&lt;p&gt;Allow public shared post decrypted when author is unknown&lt;/p&gt;
+
+&lt;p&gt;Add PoolTogether plugin&lt;/p&gt;
+
+&lt;p&gt;Web3 eth getPastLogs&lt;/p&gt;
+
+&lt;p&gt;Support switch plugin on or off&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v1.34.1&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;No more feat, just bug fix&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v1.34.0&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;ITO BSC Polygon history&lt;/p&gt;
+
+&lt;p&gt;PancakeSwap and QuickSwap&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;v1.33.2&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Reduce block number queries&lt;/p&gt;
+
+&lt;p&gt;ITO BSC polygon history&lt;/p&gt;
+
+&lt;p&gt;Update polygon explorer url&lt;/p&gt;
+
+&lt;h2 id=&quot;-mask-for-ios&quot;&gt;📱 Mask for iOS&lt;/h2&gt;
+
+&lt;p&gt;The iOS update includes all updates from &lt;strong&gt;v1.29.12&lt;/strong&gt; to &lt;strong&gt;v1.34.0&lt;/strong&gt;. The update includes UI design and upgrade specific to mobile devices; the support of BSC and Polygon; PancakeSwap and QuickSwap; support of plugins include Collectibles, Snapshot, vCent, and more.&lt;/p&gt;
+
+&lt;h2 id=&quot;️-mask-for-android&quot;&gt;🤖️ Mask for Android&lt;/h2&gt;
+
+&lt;p&gt;The Android update includes all updates from &lt;strong&gt;v1.29.12&lt;/strong&gt; to &lt;strong&gt;v1.34.0&lt;/strong&gt;. The update includes UI design and upgrade specific to mobile devices; the support of BSC and Polygon; PancakeSwap and QuickSwap; support of plugins include Collectibles, Snapshot, vCent, and more.&lt;/p&gt;
+
+&lt;h1 id=&quot;-ecosystem-building&quot;&gt;&lt;strong&gt;🌳&lt;/strong&gt; Ecosystem Building&lt;/h1&gt;
+
+&lt;h2 id=&quot;--multi-chain&quot;&gt;- Multi-Chain&lt;/h2&gt;
+
+&lt;h3 id=&quot;-the-mask-bridge-is-live&quot;&gt;🌉 The Mask Bridge is Live!&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/700/1*uIy-9whHbZHZpe3bBmYS5A.jpeg =700x524&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Bridge supports asset transfer between:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ethereum Mainnet and Binance Smart Chain;&lt;/li&gt;
+  &lt;li&gt;Ethereum Mainnet and Polygon&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Visit the&lt;/em&gt; &lt;a href=&quot;https://bridge.mask.io/&quot;&gt;&lt;em&gt;Mask Bridge&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;See the&lt;/em&gt; &lt;a href=&quot;https://realmaskbook.notion.site/Convert-MASK-from-ERC20-to-BEP20-7e982c16c1404d758a3c94b1e5ee9ca2&quot;&gt;&lt;em&gt;tutorial&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-mask-is-listed-on-binance-bridge&quot;&gt;🌉 &lt;a href=&quot;https://twitter.com/BinanceChain/status/1417752500317290500?s=20&quot;&gt;$MASK is listed on Binance Bridge&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/binance-bridge.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;community&quot;&gt;&lt;strong&gt;🏘Community&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;-july-townhall&quot;&gt;🏫 July Townhall&lt;/h2&gt;
+
+&lt;p&gt;Mask Network held the July Townhall Meeting on July 20th.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/2.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the Townhall meeting, we discussed issues including:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The future building of the Mask ecosystem&lt;/li&gt;
+  &lt;li&gt;Our take on the NFTs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;See&lt;/em&gt; &lt;a href=&quot;https://realmaskbook.notion.site/Mask-Network-July-TownHall-Recap-a7f2a2533d0f446b8e80aced8d998c0a&quot;&gt;&lt;em&gt;Meeting Notes&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ecosystem-community-event--platon-air&quot;&gt;🎙Ecosystem community event — PlatON AIR&lt;/h2&gt;
+
+&lt;p&gt;Our founder and CEO Suji Yan attended the first episode of PlatON AIR. In this Twitter Spaces event, Suji Yan and Dr.Xavier from LatticeX Foundation shared ideas about privacy-preserving computation.&lt;/p&gt;
+
+&lt;p&gt;See &lt;a href=&quot;https://youtu.be/XkHm-YIKB64&quot;&gt;screen recording&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;-mask-token&quot;&gt;&lt;strong&gt;💰 $MASK token&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;h2 id=&quot;-mask-is-listed-on-pancakeswap-syrup-pools--farms&quot;&gt;🥞 &lt;a href=&quot;https://masknetwork.medium.com/mask-is-listed-on-pancakeswap-syrup-pools-farms-58a2a65ef5f2&quot;&gt;$MASK is listed on PancakeSwap Syrup Pools &amp;amp; Farms&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Stake $CAKE and earn $MASK on the Syrup Pools&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Total Tokens: 111,000 $MASK&lt;/li&gt;
+  &lt;li&gt;Distribution Duration: 60 Days&lt;/li&gt;
+  &lt;li&gt;Start Block: 8943700 (approx. 09:00 AM July 7th, UTC)&lt;/li&gt;
+  &lt;li&gt;Finish Block: 10671700 (approx. 09:00 AM Sept 5th, UTC)&lt;/li&gt;
+  &lt;li&gt;Token Rewards per Block: 0.06423 $MASK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Stake $MASK-$BNB LP in Farm and earn $CAKE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/674/1*GB8VQoioCXi8M6PN7VSCgw.jpeg =674x229&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-mask-is-listed-on-coinbase--cryptocom&quot;&gt;💲 $MASK is listed on Coinbase &amp;amp; Crypto.com&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/coinbase-tweet.jpg&quot; alt=&quot;&quot; /&gt;&lt;img src=&quot;/uploads/crypto-com.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="" /></entry></feed>

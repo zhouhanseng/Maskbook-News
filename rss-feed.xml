@@ -1,27 +1,140 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 	<channel>
-		<title>{{ site.title | xml_escape }}</title>
-		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-		<link>{{ site.baseurl }}</link>
-		<atom:link href="{{ site.baseurl }}{{ page.path | replace: '/', '' }}" rel="self" type="application/rss+xml" />
-		{% for post in site.posts limit:10 %}
+		<title>News</title>
+		<description>The Portal to the New, Open Internet.</description>
+		<link></link>
+		<atom:link href="rss-feed.xml" rel="self" type="application/rss+xml" />
+		
 			<item>
-				<title>{{ post.title | xml_escape }}</title>
-				{% if post.author %}
-					<dc:creator>{{ post.author | xml_escape }}</dc:creator>
-				{% endif %}
-				{% if post.excerpt %}
-					<description>{{ post.excerpt | xml_escape }}</description>
-				{% else %}
-					<description>{{ post.content | xml_escape }}</description>
-				{% endif %}
-				<pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-				<link>{{ site.baseurl }}{{ post.url | replace: '/', '' }}</link>
-				<guid isPermaLink="true">{{ site.baseurl }}{{ post.url | replace: '/', '' }}</guid>
+				<title>WE WANT YOU! Join Mask 2.0 Beta Test, Win Bug Bounties!</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/013.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 27 Sep 2021 00:00:00 +0800</pubDate>
+				<link>20210927we-want-you-join-mask-2.0-beta-test-win-bug-bounties</link>
+				<guid isPermaLink="true">20210927we-want-you-join-mask-2.0-beta-test-win-bug-bounties</guid>
 			</item>
-		{% endfor %}
+		
+			<item>
+				<title>Mask Network Partners with Protocol Lab on Integration of Filecoin Decentralized Storage</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*TR9bk-Q1vSP2RCJ0 =700x356&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sun, 19 Sep 2021 00:00:00 +0800</pubDate>
+				<link>20210919mask-network-partners-with-protocol-lab-on-integration-of-filecoin-decentralized-storage</link>
+				<guid isPermaLink="true">20210919mask-network-partners-with-protocol-lab-on-integration-of-filecoin-decentralized-storage</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network Partners with WePiggy to Build a Cross-Chain DeFi Ecosystem</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/2021-09-07-11-36-53.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Tue, 07 Sep 2021 00:00:00 +0800</pubDate>
+				<link>20210907mask-network-partners-with-wepiggy-to-build-a-cross-chain-defi-ecosystem</link>
+				<guid isPermaLink="true">20210907mask-network-partners-with-wepiggy-to-build-a-cross-chain-defi-ecosystem</guid>
+			</item>
+		
+			<item>
+				<title>Update | NFT Gallery is On the Way, Get a Glimpse of the Metaverse on Twitter</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/update1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 04 Sep 2021 00:00:00 +0800</pubDate>
+				<link>20210904update-nft-gallery-is-on-the-way-get-a-glimpse-of-the-metaverse-on-twitter</link>
+				<guid isPermaLink="true">20210904update-nft-gallery-is-on-the-way-get-a-glimpse-of-the-metaverse-on-twitter</guid>
+			</item>
+		
+			<item>
+				<title>Mask Partners with QuickSwap! Earn $MASK and $QUICK on QuickSwap</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;https://miro.medium.com/max/1400/0*26tHT8XkGnmiqP_j =700x356&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Sat, 04 Sep 2021 00:00:00 +0800</pubDate>
+				<link>20210904mask-partners-with-quickswap-earn-mask-and-quick-on-quickswap</link>
+				<guid isPermaLink="true">20210904mask-partners-with-quickswap-earn-mask-and-quick-on-quickswap</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network ITO contract has successfully passed SlowMist security audit</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/0_yxgusbltm0unjkqo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Thu, 26 Aug 2021 00:00:00 +0800</pubDate>
+				<link>20210826mask-network-ito-contract-has-successfully-passed-slowmist-security-audit</link>
+				<guid isPermaLink="true">20210826mask-network-ito-contract-has-successfully-passed-slowmist-security-audit</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network RSS Feed Integrated with Crypto.com</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/1_uefkb6ildvbi-cz9foglca.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 20 Aug 2021 00:00:00 +0800</pubDate>
+				<link>20210820mask-network-rss-feed-integrated-with-crypto.com</link>
+				<guid isPermaLink="true">20210820mask-network-rss-feed-integrated-with-crypto.com</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network × Filecoin | Feel Web 3.0 in Decentralized Data Storage</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/filecoin.png&quot; alt=&quot;&quot; /&gt;Mask Network will work with open-source storage service provider &lt;a href=&quot;https://filecoin.io/&quot;&gt;Filecoin&lt;/a&gt;, in the promotion of Web 3.0 concepts.&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Wed, 18 Aug 2021 00:00:00 +0800</pubDate>
+				<link>20210818mask-network-x-filecoin-feel-web-3.0-in-decentralized-data-storage</link>
+				<guid isPermaLink="true">20210818mask-network-x-filecoin-feel-web-3.0-in-decentralized-data-storage</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network Launches the SocialFi Alliance with 15 Founding Partners</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/1_kpitmmg_ztzu9jqvuj9olg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Mon, 16 Aug 2021 00:00:00 +0800</pubDate>
+				<link>20210816mask-network-launches-the-socialfi-alliance-with-15-founding-partners</link>
+				<guid isPermaLink="true">20210816mask-network-launches-the-socialfi-alliance-with-15-founding-partners</guid>
+			</item>
+		
+			<item>
+				<title>Mask Network Newsletter (July)</title>
+				
+				
+					<description>&lt;p&gt;&lt;img src=&quot;/uploads/cover-pic-min.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</description>
+				
+				<pubDate>Fri, 06 Aug 2021 00:00:00 +0800</pubDate>
+				<link>20210806mask-network-newsletter-july</link>
+				<guid isPermaLink="true">20210806mask-network-newsletter-july</guid>
+			</item>
+		
 	</channel>
 </rss>

@@ -27,6 +27,7 @@ body {
   color: #000;
   line-height: 1.75rem;
   background-color: #fff;
+  margin: 0;
 }
 
 @media (max-width: 30em) {
@@ -92,24 +93,21 @@ hr {
 .container {
   margin-left: auto;
   margin-right: auto;
-  width: 730px;
+  width: 100%;
 }
 
 /*48em*/
-
-@media (max-width: 1110px) {
-  .container {
-    width: 90vw;
-  }
-}
 
 /*
   Masthead
 */
 
-.masthead {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
+.masthead-nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1.5rem;
+  height: 5rem;
   margin-bottom: 4rem;
   font-family: -apple-system, 'SF Pro Text', 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif, 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'Noto Sans CJK TC', 'Noto Sans CJK JP', 'Heiti SC';
 }
@@ -118,18 +116,168 @@ hr {
   color: black;
 }
 
-.masthead-title a {
-  font-size: 2rem;
-  text-decoration: none;
+.masthead-nav > a {
   color: #505050;
+  display: flex;
+  align-items: center;
+}
+
+.masthead-links {
+  width: 40%;
+  min-width: 450px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;  
+  font-size: 1.25rem;
+  height: 100%;
+  color: rgba(17, 24, 39);
+  line-height: 1.75rem;
+  font-weight: 300;  
+}
+
+.masthead-nav-menu {
+  display: none;
+}
+
+#drawer-toggle {
+  opacity: 0;
+}
+
+#drawer-toggle-label::before {
+  content: '';
+  position: relative;
+  top: -12px;
+  height: 32px; 
+  width: 32px;
+  display: block;
+  z-index: 1;
+  background-image: url(/assets/img/menu.svg);
+  background-size: contain;
+  transform: scaleX(0.8);
+}
+
+#drawer-toggle:checked ~ #drawer-toggle-label::before {
+  position: absolute;
+  top: 24px;  
+  right: 18px;
+  background-image: url(/assets/img/close.png);
+  transform: scaleX(1);  
+}
+
+#drawer-toggle-label {
+  display: block;
+}
+
+#drawer {
+  display: none;
+}
+
+body:has(#drawer-toggle:checked) {
+  overflow: hidden;
+}
+
+#drawer-toggle:checked ~ #drawer-toggle-label {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 200%;
+  background: rgba(0, 0, 0, 0.4); 
+  width: 100%;
+}
+
+#drawer-toggle:checked ~ #drawer {
+  position: fixed;
+  z-index: 100;
+  top: 0;
+  left: 0;
+  background: #fff;
+  width: 288px;
+  height: 200%;  
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;  
+}
+
+#drawer a {
+  text-decoration: none;
+  padding-top: 1rem/* 16px */;
+  padding-bottom: 1rem/* 16px */;
+  border-bottom: solid;
+  border-bottom-width: 1px;
+  border-color: rgba(209, 213, 219);
+}
+
+@media (max-width: 850px) {
+  .masthead-links {
+    display: none;
+  }
+
+  .masthead-nav-menu {
+    display: block;
+  }
+
+  .masthead-nav {
+    padding-right: 1rem;
+  }
+
+  a.download-link {
+    display: none;
+  }
+  .post-container {
+    width: 90% !important;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+}
+
+@media (max-width: 350px) {
+  .masthead-nav {
+    padding-right: 0rem;
+  }  
+  #drawer-toggle:checked ~ #drawer {
+    width: 240px;
+  }
+}
+
+.masthead-links a {
+  text-decoration: none;
+}
+
+.masthead-links a#news {
+  font-weight: 700;
+  color:rgba(37, 99, 235);
+  border-bottom: solid;
+  border-bottom-width: 2px;
+  border-color: rgba(37, 99, 235);
+  height: 100%;
+  align-items: center;
+  display: flex;
+  padding: 0 0.5rem;
 }
 
 .masthead-logo {
+  width: 16.67%;
+  min-width: 110px;
+  max-width: 140px;
   border-radius: 0;
 }
 
+a.download-link {
+  color: #fff !important;
+  text-decoration: none;
+  border-color: rgba(37, 99, 235);
+  background-color: rgba(37, 99, 235);
+  border-radius: 9999px;
+  border-style: solid;
+  cursor: pointer;
+  padding: 0.25rem 1.35rem;
+}
+
 .masthead-subtitle {
-  font-weight: 500;
   color: #999;
   display: block;
 }
@@ -187,6 +335,9 @@ hr {
 .post-container {
   margin-bottom: 4rem;
   word-break: break-word;
+  width: 730px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .post-container h1 {
@@ -568,3 +719,4 @@ td {
 .fa-rss-square:hover {
   color: #ff6600;
 }
+

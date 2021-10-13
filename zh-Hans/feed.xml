@@ -1,0 +1,870 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-Hans"><generator uri="https://jekyllrb.com/" version="3.6.3">Jekyll</generator><link href="/zh-Hans/feed.xml" rel="self" type="application/atom+xml" /><link href="/zh-Hans/" rel="alternate" type="text/html" hreflang="zh-Hans" /><updated>2021-10-13T16:28:20+08:00</updated><id>/zh-Hans/feed.xml</id><title type="html">News</title><subtitle>The Portal to the New, Open Internet.</subtitle><entry xml:lang="zh-Hans"><title type="html">就等你来！参与Mask 2.0 内测，赢取 Bug 赏金！</title><link href="/zh-Hans/2021/09/27/mask-2.0-bug" rel="alternate" type="text/html" title="就等你来！参与Mask 2.0 内测，赢取 Bug 赏金！" /><published>2021-09-27T00:00:00+08:00</published><updated>2021-09-27T00:00:00+08:00</updated><id>/zh-Hans/2021/09/27/mask-2.0-bug</id><content type="html" xml:base="/zh-Hans/2021/09/27/mask-2.0-bug">&lt;p&gt;&lt;img src=&quot;/uploads/013.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 即将迎来重大更新，Mask 2.0 要来了！你期待吗？&lt;/p&gt;
+
+&lt;p&gt;在多次 Townhall 会议中被提及的 Mask 扩展程序 2.0 版本即将发布。我们在此发出诚挚邀请，欢迎用户提前体验 Mask 2.0，参与内测。Mask 2.0 Bug 赏金计划现已开启，除了抢先体验 Mask 2.0 的新功能外，能够玩转 Mask 扩展程序的新功能，找出 bug，或者提出改进建议的内测用户，都将有机会获得惊喜奖励！&lt;/p&gt;
+
+&lt;h3 id=&quot;谁可以参与&quot;&gt;&lt;strong&gt;谁可以参与？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;本次 Mask 2.0 内测共有 100 个名额，有以下两种参与方式：
+    &lt;ol&gt;
+      &lt;li&gt;填写 &lt;a href=&quot;https://forms.gle/udpUcYjJhypYdWcG8&quot;&gt;2.0 测试申请表单&lt;/a&gt;（9 月 26 日前填写过该表单的用户，请将您的 Discord 用户名和 Polygon 钱包地址私信发送至 Mask Network 官方 Twitter &lt;a href=&quot;https://twitter.com/realMaskNetwork&quot;&gt;@realMaskNetwork&lt;/a&gt;）。&lt;/li&gt;
+      &lt;li&gt;在 Twitter 上带 &lt;strong&gt;#Mask2Beta&lt;/strong&gt;，并用 Mask 扩展程序加密 Discord 用户名和 Polygon 钱包地址发送推文，即可报名参加内测。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;内测的 100 个名额将按照表单提交和推文发布的时间顺序产生，100 个内测名额满后报名将即刻结束，内测名单将公布在 Mask 论坛。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;如何参与&quot;&gt;&lt;strong&gt;如何参与？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;内测报名结束后，获得内测资格的用户将进入 Discord 私密群组，届时群组内会发布内测教程和任务，以及 bug 赏金的相关提交事宜。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;我能获得什么奖励&quot;&gt;&lt;strong&gt;我能获得什么奖励？&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mask Network 技术团队将对内测用户提出的问题进行评估，并在内测结束后发放相应的赏金。参与内测的用户均有机会瓜分总额为 $30,000 的 bug bounty 奖池。bug 提交和赏金奖励具体细则请查看下文。&lt;/li&gt;
+  &lt;li&gt;参与内测的用户可以获得纪念 NFT 奖励。&lt;/li&gt;
+  &lt;li&gt;更多惊喜，敬请期待…！&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;*所有奖励统计将在 10 月 30 日公布，所有通证奖励将在公布后以 Polygon (Matic) 上 $USDT 的形式发放。&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;bug-赏金细则&quot;&gt;Bug 赏金细则&lt;/h3&gt;
+
+&lt;p&gt;可获得赏金的问题分为「体验建议（Suggestion）」 和「程序漏洞（Bug）」&lt;/p&gt;
+
+&lt;h4 id=&quot;体验建议-suggestion&quot;&gt;体验建议 Suggestion&lt;/h4&gt;
+
+&lt;p&gt;「体验建议 Suggestion」 包括但不限于：前端显示错误、插件卡片无法加载/加载错误、UI 错位、以及其他（可正常使用但）可改善用户体验的建议等&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;如何提交：请在&lt;a href=&quot;https://forms.gle/khzACsWHvA3oZewT8&quot;&gt;表单&lt;/a&gt;内附上相关操作截图/录屏和相关的文字描述
+    &lt;ul&gt;
+      &lt;li&gt;非技术相关 bug 的赏金金额：
+        &lt;ul&gt;
+          &lt;li&gt;（可正常使用但）改进用户体验的：10 $USDT/个&lt;/li&gt;
+          &lt;li&gt;上面描述的其他 bug：20 $USDT/个&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;如果多名内测用户提交了同一个&lt;strong&gt;体验建议&lt;/strong&gt;，则按照表单提交时间顺序的前 2 名用户可以获得奖励。&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;*每位参加 Mask 2.0 内测的用户最高将获得 $200 的&lt;strong&gt;体验建议&lt;/strong&gt;赏金奖励。&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;程序漏洞-bug&quot;&gt;&lt;strong&gt;程序漏洞 Bug&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;「程序漏洞 Bug」包括但不限于：涉及安全性等风险的代码漏洞或改进建议&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;程序漏洞 bug&lt;/strong&gt; 的赏金金额从 $100 到 $1500 不等。&lt;/li&gt;
+  &lt;li&gt;如何提交：请通过&lt;a href=&quot;https://forms.gle/khzACsWHvA3oZewT8&quot;&gt;表单&lt;/a&gt;上传提交相关的技术报告或在 Github 上提交 bug fix PR 代码&lt;/li&gt;
+  &lt;li&gt;已知技术问题和建议可在&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues&quot;&gt;这里&lt;/a&gt;查看，如果提交的体验建议或程序漏洞已经被列出则将无法获赏金奖励，Mask Network 技术团队会根据提交的具体时间判断该提交是否有效。&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;*定义和分类被提交的技术问题的最终解释权由 Mask Network 技术团队所有。&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;免责声明&quot;&gt;&lt;strong&gt;免责声明&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Mask 2.0 Bug Bounty 活动的主要目标为帮助 Mask Network 发现 Mask 扩展程序 2.0 版本运行中可能存在的任何影响用户体验的问题或风险。&lt;/li&gt;
+  &lt;li&gt;Mask Network 将通过在 Polygon (Matic) 上转账的形式向符合 bounty 获取标准的用户支付一定金额的赏金。赏金标准已在文章中进行完整诠释，赏金的具体金额将由 Mask Network 技术团队评估相关报告后得出，每个 bug 或修改建议可得的赏金均有差异。&lt;/li&gt;
+  &lt;li&gt;如在活动中发现一切非常规 bug 提交行为，Mask Network 有权取消该用户的内测权利并拒绝支付赏金。&lt;/li&gt;
+  &lt;li&gt;Mask Network 有权保留其对内测用户提交 bug 定义及分类的最终解释权，并拥有拒绝向内测用户支付 bounty 赏金的权利。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">Mask Network 与 WePiggy 达成战略合作，共同构建跨链 DeFi 生态</title><link href="/zh-Hans/2021/09/06/mask-network-wepiggy-defi" rel="alternate" type="text/html" title="Mask Network 与 WePiggy 达成战略合作，共同构建跨链 DeFi 生态" /><published>2021-09-06T00:00:00+08:00</published><updated>2021-09-06T00:00:00+08:00</updated><id>/zh-Hans/2021/09/06/mask-network-wepiggy-defi</id><content type="html" xml:base="/zh-Hans/2021/09/06/mask-network-wepiggy-defi">&lt;p&gt;&lt;img src=&quot;/uploads/2021-09-07-11-36-53.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 与借贷协议 WePiggy 建立了战略合作伙伴关系。双方将共同探索技术融合的可能性，共同构建跨链 DeFi 生态。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 一直都在努力创建去中心化的应用程序生态系统，并期望成为连接现有互联网 Web 2.0 和新型开放的互联网 Web 3.0 的桥梁。WePiggy 则专注于构建一个开源、非托管的加密资产借贷市场协议，帮助用户实现资产增值并在多链之间实现资金效率的最大化。双方将在跨链 DeFi 生态建设等方面展开合作，努力构建一个更广阔的链上世界。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 与 WePiggy 就跨链 DeFi 生态建设等问题达成了共识，并将逐步开展合作。合作将根据双方彼此社区的意愿分阶段稳步推进，第一步将从跨链借贷市场建设入手：&lt;strong&gt;目前 $MASK 通证已通过上线 WePiggy 借贷协议的评估以及 WIP23 正式治理投票。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;$MASK 将于 9 月 8 日 15:00（UTC+8）在 WePiggy 平台中的 BSC 网络上线。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;$MASK 还将在 Chainlink 喂价准备完毕之后上线以太坊主网，以确保借贷、清算流程的安全性。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 将为 $MASK 通证在 DEX 上的交易流动性，以及在 WePiggy 借贷市场的流动性做出贡献，以尽可能消除 WePiggy 协议的系统性风险。&lt;/p&gt;
+
+&lt;p&gt;在未来，双方将展开更多合作。$MASK 通证持有者将可以在 WePiggy 上使用诸多功能，比如多元化的投资组合管理、跨链资产转移和借贷等。&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Mask Network 是帮助传统互联网用户从 Web 2.0 过渡到 Web 3.0 的重要流量入口。此次集成将使 WePiggy 触及更大的用户群体，将更多用户引入 DeFi 世界，并为他们提供安全、强大和用户体验优异的跨链 DeFi 应用程序。”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;– Ron Zheng, WePiggy 的创始人兼 CEO&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Mask Network 一直试图连接传统互联网和新型开放互联网。Mask 一直想要创建一个生态系统，其中包含各个链上的优秀项目。我们发现 WePiggy 也在构建这样一个跨链的 DeFi 生态系统。我想我们在这方面的愿景非常相似，就是把 Web 3.0 世界的各个部分连接起来。”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;– Suji Yan, Mask Network 创始人兼 CEO&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 WePiggy&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;WePiggy 是一个开源，非托管的加密资产借贷市场协议。在WePiggy的市场上，用户可存入特定的加密资产赚取利息，也可以支付一定的利息借取某种加密资产。WePiggy 协议旨在将加密资产自由和透明的福祉，以更友好和简洁的方式，向尽可能广泛的用户群体传播，成为他们管理财富的好伙伴。在优先考虑资金安全的前提下，WePiggy 积极打造更加多元化的借贷市场，优化智能合约的执行效率，拓展更多维度的业务逻辑。在 WePiggy 多链部署计划下，WePiggy 将覆盖以太坊、OKExChain、币安智能链、Polygon、火币生态链、Arbitrum 以及其它优秀的公链和二层网络。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">升级｜NFT Gallery 即将上线，为传统社交平台打开通向元宇宙的新窗口</title><link href="/zh-Hans/2021/09/04/nft-gallery" rel="alternate" type="text/html" title="升级｜NFT Gallery 即将上线，为传统社交平台打开通向元宇宙的新窗口" /><published>2021-09-04T00:00:00+08:00</published><updated>2021-09-04T00:00:00+08:00</updated><id>/zh-Hans/2021/09/04/nft-gallery</id><content type="html" xml:base="/zh-Hans/2021/09/04/nft-gallery">&lt;p&gt;&lt;img src=&quot;/uploads/update1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;继 ITO（首次推特发行）、通证价格查询&amp;amp;兑换、OpenSea &amp;amp; Rarible 等平台上的 NFT 预览和竞价之后，Mask 将上线 NFT Gallery 功能，该功能为 NFT 玩家们提供在社交媒体主页上展示 NFT 的平台，关注 NFT 在「被拥有」后的故事。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 一直都高度关注着 NFT 领域。在 2020 年美国大选期间，Mask 通过发放「美国大选特别版 NFT」，第一次将 NFT 的概念带到了主流社交媒体上。而在 NFT 概念开始火爆的 2021 年初，Mask 插件支持了对 OpenSea、Rarible 等头部 NFT 拍卖平台内作品 URLs 的识别和展示。通过 Mask 插件，用户可以直接在 Twitter 上查看相关 NFT 作品的价格，并立刻竞拍购买。但这仅仅涵盖了 NFT 世界的冰山一角。NFT 在被铸造、交易、拍卖之外的更多应用价值还等待着探索。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/nft-display-one.gif&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask 扩展程序现在已经更新 NFT Gallery 功能。前往 Github 下载安装最新版本的 Mask 扩展程序后将网络切换至以太坊主网，插件就会自动识别 ENS 域名，钱包地址等，从而在个人主页上展示出 ta 所拥有的 NFT。同时，我们欢迎用户将自己的 ENS 域名和钱包地址放进 Twitter bio 中，让其他的 MASK 用户欣赏你拥有的 NFTs。在即将发布的 &lt;a href=&quot;https://github.com/DimensionDev/Maskbook/releases/download/v1.36.6/Maskbook.chromium.zip&quot;&gt;v1.36.6 版本&lt;/a&gt;中，NFT Gallery 功能得到了优化，用户将获得更流畅的使用体验。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/vitalik-nfts.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;我们相信，NFT Gallery 不仅是一个展示 NFT 的列表，一个把用户拥有的 NFT 一一列举的平台，它更是 Web2.0 用户通往 Wen3.0、通往元宇宙世界的一扇窗。就像 NFT 本身不仅仅是艺术品一样，NFT Gallery 里展示的也绝不仅仅是用户的艺术审美品味，更是用户的个人特质，是用户在 Web 3.0 世界里生活的点点滴滴。通过这扇窗户，你可以看到别人拥有的 CryptoPunk 头像、Loot、NFT 卡牌、ENS 域名等等他们在 Web 3.0 元宇宙的虚拟身份。&lt;/p&gt;
+
+&lt;p&gt;NFT 在元宇宙的构建中至关重要，这也是 Mask Network 在搭建 Web 2.0 和 Web 3.0 之间桥梁时选择开发 NFT Gallery 功能的原因。Mask 希望更多用户能在 Twitter 上方便地一瞥广袤的 Web 3.0 世界，并对 Web 3.0 世界产生兴趣。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">$MASK 上线 QuickSwap，开启通证质押活动&amp;amp;流动性挖矿</title><link href="/zh-Hans/2021/09/04/mask-quickswap" rel="alternate" type="text/html" title="$MASK 上线 QuickSwap，开启通证质押活动&amp;流动性挖矿" /><published>2021-09-04T00:00:00+08:00</published><updated>2021-09-04T00:00:00+08:00</updated><id>/zh-Hans/2021/09/04/mask-quickswap</id><content type="html" xml:base="/zh-Hans/2021/09/04/mask-quickswap">&lt;p&gt;&lt;img src=&quot;/uploads/0_26tht8xkgnmiqp_j.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 的通证 $MASK 现已上线 QuickSwap LP Mining 和 Dragon’s Syrup，开启流动性挖矿。&lt;/p&gt;
+
+&lt;p&gt;自从六月接入 Polygon（Matic）后，Mask Network 团队就一直努力将 Polygon 上的优秀项目带到 Mask 插件中。用户现在可以在 Mask 插件上使用 QuickSwap，使其在 Polygon 上进行资产兑换的时候拥有更多选择。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/quickswap.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;8 月 13 日，Mask Network 在 QuickSwap 上添加了 $MASK - $USDC 交易对的流动性。为该交易对添加了流动性的用户，现在可以在 QuickSwap 的 Liquidity Mining Pool 中质押 $MASK - $USDC LP，并获得流动性挖矿的额外收益。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://info.quickswap.exchange/pair/0x253d637068fbf11b18d0f2a1bf3b167d37802687&quot;&gt;查看&lt;/a&gt; $MASK - $USDC 交易对的详细信息：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;质押 $MASK - $USDC LP，赚取 $QUICK&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;奖励：6 $QUICK/天&lt;/p&gt;
+
+&lt;p&gt;网络：Polygon&lt;/p&gt;
+
+&lt;p&gt;QuickSwap Liquidity Mining Pool ：&lt;strong&gt;https://quickswap.exchange/#/quick/0x2B9E7ccDF0F4e5B24757c1E1a80e311E34Cb10c7/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174/0xDEb69421fc2FbA0c3b4F8b1ae291029f7CCa344E&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/lm-pool.jpeg&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+如何质押：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;在 QuickSwap 上方的 “Pools” 界面中为 $MASK - $USDC 交易对添加流动性。&lt;/li&gt;
+  &lt;li&gt;在 “Farms” 下的 “LP Mining” 界面中，找到 $MASK - $USDC 资金池 并存入 $MASK - $USDC LP，即可开始获得 $QUICK 收益。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;与此同时，$MASK 也上线了 QuickSwap 的 Dragon’s Syrup 池。&lt;/p&gt;
+
+&lt;p&gt;$dQUICK 的持有者可以&lt;strong&gt;质押 $dQUICK，赚取 $MASK&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;奖励：价值 $500k 的 $MASK&lt;/p&gt;
+
+&lt;p&gt;开始时间：9 月 3 日 21:00 UTC+8&lt;/p&gt;
+
+&lt;p&gt;结束时间：11 月 2 日 21:00 UTC+8&lt;/p&gt;
+
+&lt;p&gt;网络：Polygon&lt;/p&gt;
+
+&lt;p&gt;奖励持续时间：60 天&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/dragon-pool.png&quot; alt=&quot;&quot; /&gt;&lt;br /&gt;
+&lt;strong&gt;请注意！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Polygon 上 $MASK 合约地址为：&lt;a href=&quot;https://polygonscan.com/token/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7&quot; title=&quot;https://polygonscan.com/token/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7&quot;&gt;&lt;strong&gt;https://polygonscan.com/token/0x2b9e7ccdf0f4e5b24757c1e1a80e311e34cb10c7&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;请注意辨别。&lt;/p&gt;
+
+&lt;p&gt;如果没有 Polygon 上的 $MASK，可以在 &lt;strong&gt;bridge.mask.io&lt;/strong&gt; 将以太坊主网上的 $MASK 通证进行跨链。&lt;/p&gt;
+
+&lt;p&gt;其他任何形式的 $MASK 通证都可能是骗局，并有带来经济损失的风险。请勿在其他通证地址购买，并在购买行为发生前注意核对通证地址。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">Mask Network ITO 合约通过慢雾审计</title><link href="/zh-Hans/2021/08/26/mask-network-ito" rel="alternate" type="text/html" title="Mask Network ITO 合约通过慢雾审计" /><published>2021-08-26T00:00:00+08:00</published><updated>2021-08-26T00:00:00+08:00</updated><id>/zh-Hans/2021/08/26/mask-network-ito</id><content type="html" xml:base="/zh-Hans/2021/08/26/mask-network-ito">&lt;p&gt;&lt;img src=&quot;/uploads/0_yxgusbltm0unjkqo.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;为了确保 Mask 用户的资金安全，Mask Network 邀请慢雾安全团队于 2021 年 6 月 7 日至 6 月 15 日对 Mask Network 的 ITO 合约进行了审计，结果为通过，&lt;strong&gt;确认 Mask Initial Twitter Offering 智能合约无安全漏洞和弱点&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;慢雾的安全团队不仅基于 ITO 合约的源代码进行脆弱性分析和漏洞挖掘，还通过脚本工具对代码模块进行了安全测试，并站在外部从攻击者角度进行了安全测试，使用人工结合内部工具对代码进行了分析。接受这次审计并获得理想的结果后，Mask Network 仍会在未来持续关注可能出现的潜在问题，确保 ITO 和其他相关流程和功能的顺利实现，保证用户的资产和信息安全。&lt;/p&gt;
+
+&lt;p&gt;点击&lt;a href=&quot;https://github.com/DimensionDev/InitialTwitterOffering/blob/master/audits/SlowMist_Audit_Report_Chinese.pdf&quot;&gt;这里&lt;/a&gt;查看审计报告：&lt;/p&gt;
+
+&lt;p&gt;技术是 Mask 插件安全高效运行的基础。我们对 Web 3.0 和去中心化等概念的相关畅想，均依靠代码和合约实现。因此我们高度重视 Mask 的技术安全问题。请慢雾的安全团队进行 ITO 合约审计，也是为了和行业内的顶尖团队联手，最大程度地确保用户的资产安全。在业内普遍重视合约安全性的当下，Mask Network 希望以此为契机，向用户展示负责和严谨的态度，同时在未来也会继续对技术问题保持时刻警省，在用户安全和体验上交出一份更好答卷。&lt;/p&gt;
+
+&lt;p&gt;接入 Polygon 和 BSC 后，Mask 插件上的各个功能（ITO、Swap…）均已实现了多链化。Mask Network 会和慢雾科技展开长期合作，一如既往地保证对技术的高要求，在多链时代，进一步为用户的操作进行全方位的保驾护航。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于慢雾&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;慢雾科技是一家专注区块链生态安全的公司，由拥有十多年一线网络安全攻防实战的团队创建，团队成员曾经创造过世界级影响力的安全项目。慢雾科技的团队曾为许多全球知名的项目输出过“融合了威胁发现和威胁防御的本地化定制安全解决方案”，包括多个交易所、钱包、智能合约、DeFi 项目等。慢雾的上千名商业客户遍布多个国家和地区。&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">Mask Network × Filecoin：通过去中心化数据存储，感受 Web 3.0</title><link href="/zh-Hans/2021/08/18/mask-network-x-filecoin-web-3.0" rel="alternate" type="text/html" title="Mask Network × Filecoin：通过去中心化数据存储，感受 Web 3.0" /><published>2021-08-18T00:00:00+08:00</published><updated>2021-08-18T00:00:00+08:00</updated><id>/zh-Hans/2021/08/18/mask-network-x-filecoin-web-3.0</id><content type="html" xml:base="/zh-Hans/2021/08/18/mask-network-x-filecoin-web-3.0">&lt;p&gt;&lt;img src=&quot;/uploads/filecoin.png&quot; alt=&quot;&quot; /&gt;Mask Network 将和开源云存储市场 Filecoin（Filecoin.io）合作，一起助力 Web 3.0 的推广。&lt;/p&gt;
+
+&lt;p&gt;Filecoin 是一个旨在存储人类社会最重要的信息的分布式网络，通过代码和加密钱包的形式对文件进行存储。这使开发者们可以在任何地方，轻松通过这种全新的数据存储形式访问文件，甚至实现数据自动存储。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 一直以来都希望成为连接 Web 2.0 和 Web 3.0 的桥梁。通过开发浏览器扩展程序，期望用户可以在 Web 2.0 的传统社交媒体上方便、快捷地使用更多优秀的去中心化应用程序。在数字世界里，数据和信息一直源源不断地产生，但只有将其保留，他们带来的意义才会更持久，更深远。因此，如何以去中心化的方式存储数据，成为了构建去中心化应用程序生态里的重要一环。Mask Network 长期关注着去中心化存储的发展，此前也与不少优秀的去中心化存储项目达成了合作。我们相信，让数据以去中心化的状态存在，是展现 Web 3.0 灵魂的重要形式。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/uploads/0_7sx_scihs5cpwmrg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Filecoin 和 Mask Network 都坚定地想把 Web 3.0 的理念带给更广阔的用户群体。双方在数据隐私、数据所有权和无需许可的社群参与及治理上有着极高的共识。通过 Mask 扩展程序这座桥梁，对 Web 3.0 了解相对较少的用户，轻点鼠标就可以在自己熟悉的社交平台界面上使用基于去中心化、开源等理念开发的 Web 3.0 应用程序。这大大降低了探索 Web 3.0 世界的门槛。并且通过这些应用程序，用户可以使用如文件存储、信息加密解密等 Web 2.0 平台自身没有开发的功能。&lt;/p&gt;
+
+&lt;p&gt;通过这次合作，Filecoin 的存储功能将正式接入 Mask 插件，广大用户在使用 Web 3.0 应用程序时可以拥有更多选择。双方在将来也会联合发布和去中心化存储相关的赏金，欢迎并激励更多开发者参与 Mask 生态的建设。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 Filecoin&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Filecoin 是世界上最大的去中心网络，它允许用户通过一个可验证的市场存储、请求、传输数据。Filecoin 完全开源，使全世界的人们都可以参与进来。Filecoin 的协议运行在一个高级、新型的证明系统上——时空证明（PoSt）和复制证明（PoRep）的结合，提供了无与伦比的高效率和高可靠性。Filecoin 的先进技术为存储世界上最有价值的数据集提供了强大的基础。Filecoin 网络提供了高效的价格，和地理上分散的存储，最大限度地减少了经济上的障碍，并允许用户采用其无与伦比的网络能力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;关于 Mask Network&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 是一个帮助用户从 Web 2.0 无缝过渡到 Web 3.0 的门户。其提供的主要功能是对信息传输进行加解密，并围绕着这一功能不断发展。Mask Network 倡导用户珍视自己的隐私数据，个人资产并拥有主权。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 集去隐私社交，无国界支付网络，去中心化文件存储与分享，去中心化金融，治理（DAO）、NFT 于一体，帮助用户在 Twitter、Facebook 等传统社交网络上保护自身的隐私，数据，资产和权利。Mask Network 创建了一个去中心化的应用程序生态系统，为数以万计的用户搭建了一个连接 Web 2.0（现有互联网）和 Web 3.0（新型开放的互联网）的桥梁。&lt;/p&gt;</content><author><name></name></author><summary type="html">Mask Network 将和开源云存储市场 Filecoin（Filecoin.io）合作，一起助力 Web 3.0 的推广。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">回顾｜MaskTalk EP1：Mask Network 对话 Axie Infinity，Web 3.0 时代的游戏产业</title><link href="/zh-Hans/2021/08/16/masktalk-ep1-mask-network-axie-infinity-web-3.0" rel="alternate" type="text/html" title="回顾｜MaskTalk EP1：Mask Network 对话 Axie Infinity，Web 3.0 时代的游戏产业" /><published>2021-08-16T00:00:00+08:00</published><updated>2021-08-16T00:00:00+08:00</updated><id>/zh-Hans/2021/08/16/masktalk-ep1-mask-network-axie-infinity-web-3.0</id><content type="html" xml:base="/zh-Hans/2021/08/16/masktalk-ep1-mask-network-axie-infinity-web-3.0">&lt;p&gt;&lt;strong&gt;翻译：CryptoC&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;MaskTalk 是由 Mask Network 发起的一档聚焦 Web 3.0 行业热点的 Podcast。第一期节目嘉宾为 Axie Infinity 的联合创始人和增长负责人 Jihoz、Mask Network的CEO、创始人 Suji Yan 以及拥有多年大型游戏公司、娱乐、生态投资经验的特邀嘉宾 D。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jihoz 首先对 Axie Infinity 做了如下介绍：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Axie 的核心理念是通过一种有趣、趋同又略带怀旧的面貌呈现出那个令人兴奋又审慎的区块链新世界。在这个意义上， Axie 是奇幻的数字宠物。你可以与他们战斗，也可以收集他们。奥秘之处在于我们借 NFT 和加密技术来真正赋权于玩家，使他们更好地控制游戏内经济。这种新模式将游戏内支出的 95% 都流向玩家群体，游戏的基本开发费用只占用一小部分，并不会占用全部的游戏收入。这样一来，游戏中的经济自由与产权得到了保障。&lt;/p&gt;
+
+&lt;p&gt;我认为这很让人兴奋，因为人们开始意识到这种新的游戏运行方式的惊艳之处。你也可暂将它 “曲解” 为我们降低了数字世界中的税率。大多数游戏都把税率降低到 4.25%，我们还进一步通过访问治理通证，分散了游戏的所有权。因此，即便是那 4.25% 的市场费用也会成为社区资产。Sky Mavis公司只允许有访问治理代币权的人来接触资产。这就是 Axie，它基本是人们称为 “边玩边赚 （Play-to-Earn）” 新模式的令人兴奋之处。有些人将 Axie 类比《部落冲突》或 “边玩边赚” 版本的《愤怒的小鸟》。虽然我们是一种类型定义（genre-defining）的游戏，尚处于早期，但我们有 96 万用户，理想的话会在接下来的几天内突破百万。我想你知道我们是最大、最常用的加密应用程序之一，也可能是目前最常用的链上加密应用程序， Axie 协议在上个月的产值超过了 2 亿美元。一切进展的很顺利。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D 分享了一些关于游戏行业的见解：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我们着眼于新的行业趋势，尤其是可实现新型互动活动的前沿技术，还将花大量时间研究新一代的思维、行为、心理模式，以及他们如何在现实生活和网络中度日。所以我也与 Jihoz 见了几次面讨论 Axie。Axie 绝对是一个非常有趣的项目，也绝对是目前市场上 “边玩边赚” 游戏模式的一个典型，因此不管是对于 Web 3.0 或区块链来说，我们的信念背后都存在一些假设，包括要如何看待这种变化了的消费者模式。也许我也可以简单地先聊聊这些。&lt;/p&gt;
+
+&lt;p&gt;首先，是对&lt;strong&gt;数字资产所有权与产权的一种持续上升+演进的需求&lt;/strong&gt;。我们的一个关键假设是，长远来看，随着我们拥有更好的网络，AR、VR 技术来助力沉浸体验，以及更好的计算能力，人们肯定会花更多的时间上网。沉浸式的环境让人们会很自然地，以在现实世界中珍惜自己的物理财产类似的方式，去珍惜他们的数字资产与财产。这绝对是 NFT 兴起的关键心理驱动因素之一，人们希望持有数字财产并拥有真正的所有权。&lt;/p&gt;
+
+&lt;p&gt;其次，跟&lt;strong&gt;年轻一代的行为模式&lt;/strong&gt;有关。对于 Z 世代来说，我们注意到他们确实是喜欢 “边玩边赚” 的一代，这意味着对他们来说，任何类型的娱乐都不仅仅是为了好玩。他们&lt;strong&gt;总是在寻找某种投资机会或收入来源&lt;/strong&gt;。他们想要得到某种回报。这不仅在区块链游戏中很明显，也适用于任何类型的收藏品交易，比如运动鞋、服装或二手交易。我们认为区块链技术和 “边玩边赚” 模式加速了这类消费者的行为模式，会改变人们协作创造的方式。在传统的 IP 世界设想如果与现有 IP 或正规现成的 IPC、Pokémon 合作来创建一个自己的游戏，会是个极其艰难的过程，不得不进行大量的业务开发会谈才能获得 IP 等等。但是借助 NFT 的互操性和可组合性，可以想象在未来，创作者和开发者可以完全基于一些现成的数字资产去构建新的游戏玩法。一切都可以在以太坊或其他智能协议上完成。&lt;/p&gt;
+
+&lt;p&gt;最后，我们真的很期待看到&lt;strong&gt;更多的区块链原生玩法&lt;/strong&gt;。区块链原生意味着它只存在于区块链上而无法通过其他技术实现。“边玩边赚” 绝对是其中一种模式。同时，我们也期待看到更多能提升玩家体验的区块链原生游戏，真正激励出大规模的战斗类游戏，以及引领玩家更好地构建和组织自己的社区。这是一个相对复杂的话题，期待后面更多的交流。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关于元宇宙（Metaverse）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Suji&lt;/strong&gt;：关于元宇宙，我相信有很多播客或文章谈到过它来科幻小说的词源，以及这个概念在今天的演变。我想补充一些个人观点，与这部科幻小说同一时代的 1996 年，电子前沿基金会（Electronic Frontier Foundation，EFF）的创始人约翰-彼得-巴洛 （John Perry Barlow）撰写了一份《赛博空间独立宣言（Declaration of the Independence of Cyberspac）》，颇具革命性。它实际上不仅关乎游戏，而且描述了由网络空间的人自己去管理空间的一种潜在未来。在此意义上，我们称他们为网络公民。这与我对元宇宙的看法非常相似，不仅是游戏或金融层面的，还是一个可以栖居之地，就像现实世界里你我居住的国家一样。它有等级，组织和朋友。你可能与团队合作每天赚取 $AXS，用你可爱的电子宠物对战。这就是我对元宇宙的感受。 Mask 的视角与对元宇宙的传统认知不那么接近，我们不提供游戏，也没有土地可供购买。但有趣的是人们如此活跃地谈论着去中心化的元宇宙或互联网的未来，比如加密树（Crypto Tree）。无论是 CryptoPunk 还是包括 Axie 在内的任何类型的 NFT，都在传统互联网 Twitter 上引起了大量讨论，我们感兴趣的是如何将两个世界连接在一起。这可能有点早，但我设想的未来是我可以在 Twitter 上将自己最喜欢的 Axie 发送给朋友们，然后我们在 Twitter 上创建一个群聊。这个群聊可能会变成像 YGG（Yield Games Guild）那样的东西，我们可以在这个群聊中一起耕种、一起战斗，但同时我们仍有现实世界的工作。我们在现实世界里花费的时间会越来越少，而在去中心化或元宇宙世界中花费的时间越来越多。如此这般去连接两个世界就是我们正在努力做的事情，实际上也是值得一看的精彩内容之一。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jihoz&lt;/strong&gt;：对我来说， 元宇宙是个充满活力的词，最近大家都在谈论它。但我仍然认为我们很难真正知道它会是什么样子。就像流行文化可以决定我们头脑中一些先入为主观念的偏好一样。不过我们应该开始接近了。开始看到在线数字经济，深度社交、乐趣享受和文化塑造，同时也为新的工作和收入来源迁移（migrate）。元宇宙背后的数字世界也可能意义深重。它可以通过与这个现实世界的互动来改善人的实际生活。通过 Axie，我们看到的是复杂的社会群体形成了自己的文化与习俗。人们开始对 Axie 族群的归属感高于自己实际所属的民族。显然，我们已开始注意到我们认为可能是元宇宙已浮出水面的一些端倪；而这一切还处于非常初期的阶段。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关于 Web 3.0 和去中心化&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Suji&lt;/strong&gt;： Web 3.0 实际上是个时髦说法。即使作为被认为是领先项目之一的 Mask Network 的创始人，我也无法说清它到底是什么。如果我们想谈论什么是 Web 2.0，以及与现实世界相对的元宇宙，我会说传统破碎的 Web 2.0 已经不那么有意思了，大家的满意度也是莫衷一是。但我们必须使用它，因为大家都在使用/玩 Twitter、Facebook、Instagram 或传统游戏。我们对它不满意，但既然所有的朋友都在那里，自己也不得不去。然后 Web 3.0 出现了，它最初被称为语义网（Semantic Web），是一种更好的网络基础设施集成方式，而不是什么网络自由。但如果你也看 HBO 美剧《硅谷》，你会意识到在 2014 年到 2016 年左右，加密行业已开始涉足这一概念。首先是以太坊，然后是游戏。各路创始人也开始谈论 Web 3.0，将其描述为一个更好、更开放和免费的互联网。这些应用程序可以绕过当前的小审查、管辖、国籍或性别等等。今天的人们基本上是活在一个强框架里，但他们可以在 Axie 世界中与真正的朋友互动。也许不是真正的人类朋友而是人工智能朋友或数字宠物朋友。我认为这些是构成 Web 3.0 定义的东西。有很多人尝试构建一种类似于当前 Web 2.0 的替代解决方案。有人试图在以太坊区块链上建立一个更好的 Twitter。有人试图为更好的社交网络（如 Steemit）构建特定的区块链。还有人尝试构建游戏。Minecraft 上有一种模式试图将加密通证连接到其中，但最终，这些模式都逐渐消失。但近年来，这些东西的互换性和可能性都大不相同了。所以当你把一个带有登陆协议的稳定币放在 DeFi 世界，由于我们已有更多的用例，它变得更为强大，你可以吸引人们将现实世界中的银行资金换成稳定币去赚取 DeFi 项目的利息。而 Axie 是 GameFi 的完美典范。如果你把 Mask 之类的其他东西放进去，我不确定会发生什么，但一定会产生更多的可能性。&lt;/p&gt;
+
+&lt;p&gt;我们有一个更强大的联盟去实在地改变人们在自己国家的根本生活方式。生活在南亚的人们可能一边依靠流通货币生活，一边在 Mask Network 社交，在 Axie 上赚钱。他们在去中心化的社交网络上展示和炫耀他们最好的 NFT，就像显摆得到了某个社群的奖杯那样。互联网以来，人类历史的根本变化之一将是，随着所有协议的兼容性变得越来越强大，我们将不再需要传统的银行或物理身份。之后我们可以过上体面和幸福的生活，就像 Jihoz 提到的那样，这种 “边玩边赚” 的革命可以成为玩家的主要收入来源。我实际上在几年前写过几篇相关的文章但并非是针对游戏项目的。我当时用的术语是 “数字劳动”，现在是”玩耍劳动”。你虽然在玩，但实际上是在为这个游戏系统、这个 Web 3.0 游戏化的世界工作，这个词在养活你。就像你从欧洲国家移民来美国一样。只要你乘坐着五月花号，它就会带你在新大陆靠岸。这一次我们从各个地方启航最终进入元宇宙，并将 Axie Infinity 带到其中，也还有其他协议可以帮助人们，这是我的感觉。我们很高兴看到可以做哪些投资。最终它会改变游戏规则。这是我对未来三到五年内 Web 3.0 游戏的看法和期望。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jihoz&lt;/strong&gt;：我认为这会非常有趣。我们已经将游戏的某些方面去中心化，例如游戏内的玩家经济、大量内容营销、以及新用户的引导。这一切基本上都是在社区内，由社区完成的。现在 Sky Mavis 仍在开发游戏的玩法。从长远来看，为了能够满足数亿人的需求和品味（希望能有数亿人）去开放 IP ，允许社区开发者、第三方开发者加入生态系统并在 Axie 之上进行构建。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt;：这是个非常大的话题，我认为对于传统游戏公司和游戏开发商来说，是一个非常具有革命性意义的话题，尤其是对每个拥有基于免费游戏和实时运营模式的公司。如果商业模式是基于订阅或一次性购买，那么增加可以基于 NFT 或其他非效用驱动、非竞争驱动的数字资产购买可能更容易，并将它们转换为去中心化的概念。但我认为，对于任何一家严重依赖免费实时运营模式的公司来说，毫无疑问，从传统游戏世界中走出这种模式将是一条漫长的道路。但正如我们今天去观察市场，有些公司已经在试水，也许走这条路可以分三个阶段进行。&lt;/p&gt;
+
+&lt;p&gt;首先，会看到公司为他们的游戏去售卖基于 &lt;strong&gt;NFT&lt;/strong&gt; 的数字方案和数字装备。它们不是由效能竞争力驱动的，所以并没有真正改变游戏的核心经济和生态系统。它只是将项目的实际层（actual layer）添加到游戏本身。&lt;/p&gt;
+
+&lt;p&gt;第二阶段，我认为会有&lt;strong&gt;更多的公司承认数字资产的产权&lt;/strong&gt;。只要有一家的例子，就会慢慢起到更多的激励作用，以及至少对数字资产自由交易的更高包容度。因为目前数字产权基本是被禁止的，或至少不鼓励玩家交易他们的游戏财产。&lt;/p&gt;
+
+&lt;p&gt;第三阶段就是我们所说的&lt;strong&gt;经济体制的最终开放&lt;/strong&gt;，这将是一个非常痛苦和漫长的过程。它基本上是从 100% 的计划经济过渡到自由市场。所以从根本的设计来看，你过去如何组织你的游戏，所有的供需完全由你控制，你可以根据消费者的行为模式进行改变。但在自由市场中，你只是在设计规则，一旦规则被设定，就不能再增加额外的供应或需求。所以我认为这肯定需要从游戏设计层面进行大量思考。这个过程里非常有趣的是看传统游戏公司最终如何去适应它。但从创新的角度来看，我们认为第一次创新将主要来自加密原生团队，因为他们并不受传统规则等约束。因此，创新很可能来自加密世界中的中小型企业或创业团队。但传统游戏公司还是有优势的。从效能和生产力的角度来看他们仍然可以提供一些东西。一旦他们看到某些东西已经得到验证，就会真正迎合市场新趋势。这样一来将会有相当多的传统游戏公司转向加密世界并开放他们的经济体系。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;关于盈利模式：免费游戏（Free-to-Play）v.s. 边玩边赚（Play-to-Earn）&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Suji&lt;/strong&gt;：“免费游戏（Free-to-Play）” 并不是什么新鲜事。它与一些互联网企业非常相似，例如 Youtube、Twitter、Facebook。有一种说法是，如果产品是免费的，那用户实际上就是产品。虽然我们尽量不被系统框住，不支付太多，但实际上我们还是支付了。这就是传统游戏公司的收入方式，这不是一件坏事。有很多很棒的游戏。我是《原神》游戏的忠实粉丝。这些游戏是非现实化的。你没有真正的生意与真正的合作伙伴，真正的友谊可能存在。即使游戏很像现实世界，但你在游戏中没有真正的伙伴关系和真正的组织。每次有购买行为时，都免不了提醒自己，嘿伙计，游戏开发商唯一希望我们做的就是让我们支付更多。&lt;/p&gt;
+
+&lt;p&gt;如果 “边玩边赚（Play-to-Earn）” 模式可以适用于不同的场景，那么它就可以创建一个 DAO 社区。虽然今天的游戏或 DAO 社区看起来不那么精致，但它最终会自发参与。虽然目前还没有学术论文指出这一点，但 “边玩边赚” 基本上是从左翼经济学家的视角出发的。非常有趣的是，一种新的类似于工会的联盟正在形成，这是真实又非常独特的。然后是 Zuck-verse。Mask Network 的早期的原始名字是 Maskbook。众所周知这是对 Facebook 的讽刺词。然后我们升级到 Mask Network，现在我们想成为一家元宇宙公司。不仅通过社交网络与朋友聊天，也在上面工作。但如果没有真正的组织，没有真正的业务，没有真正的等级制度，没有像 YGG 这样真正的工会参与，最终它仍然是 100% 由公司权力武装起来的。这是非常有趣的。这种 “边玩边赚” 的模式，尽管它可能不如米哈游 《原神》的影响那么惊人，但我个人对这种经济如何运作并对现实世界产生影响非常感兴趣，它养活了人们，而不把人们当做产品。我们现在是游戏玩家，是实际上为系统做出贡献的人。我们付出了努力，得到一些回报。现在连 Facebook 也想成为一家元宇宙公司，我认为最终所有这些传统的 Web 2.0 平台都会变成更好的社交网络。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Jihoz&lt;/strong&gt;：我从来没有真正对比特币和加密货币感兴趣。作为一个非技术人员，其实我从 2011 年就开始看加密货币了。但我一直在想，我为什么要买它？开一家公司，设置一台计算机来解决数学问题，并通过它来赚取电费成本？所以我一直觉得作为一个非技术人员，加密不适合我。但后来我发现了 NFT。这似乎是一个我可以利用我一些背景的体系。比如作为游戏玩家、收藏家，包括我对稀缺性与美学的理解，我的勇气，我作为游戏玩家努力工作的能力来真正改善我的财务状况。&lt;/p&gt;
+
+&lt;p&gt;因此，我通过 CryptoKitties 去体验了一下，第一个月的增长速度如此之快，甚至可以靠繁殖和出售猫赚钱。但这只是一种尝试，很多 Axie 联合创始人有这样的想法，如果我们要建立真正可持续的东西，并能不断获得新用户，增加漏斗的顶部，同时留住人们，那会是什么样的一款游戏？它必须足够有趣，其中的经济必须真正平衡，必须是一个人们可以将他们的时间和精力转化为真正价值的系统。因此这些关键参数是我们构建产品时的要求。所以我认为 “边玩边赚” 真的是靠谱的，对吧？到目前为止，区块链是非常安全的，有很多开发人员，为什么？因为我们创建了这些系统来激励安全。筹款非常容易，因为投资者和投机者对通证有很多需求，我们一直缺少的需求，缺失的环节是我们需要真正去创造永恒的盛夏光年，供日常用户实际享用这些产品。&lt;/p&gt;
+
+&lt;p&gt;所以对我来说，“边玩边赚” 是我们采用区块链所需的缺失环节，因为这是非技术人员、普通人第一次可以体验成为这些平台所有者的好处，并因工作而获得奖励。我们已经奖励了许多不同类型的区块链工作，但我们还没有奖励最重要的事情，即实际使用。你可以说 DeFi 在一定程度上做到了这一点，但 DeFi 的进入门槛仍然很高。如果你有很多钱，那么DeFi 是有用的，但如果你想白手起家，或只作为兴趣去探险一下，那么它就不是那么酷了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;D&lt;/strong&gt;：实际上，我不认为 “免费游戏” 和 “边玩边赚” 是完全互斥的概念。所以首先，从不同的定义层面来说，如果你认为 “免费游戏” 意味着免费访问，以换取你的数字自治和数字权利，这个概念或商业模式在这个去中心化的区块链世界中是行不通的。但是如果将 “免费游戏” 视为一种降低壁垒成本从而获得更多用户并获得更好使用率的商业模式，那么它可以与 “边玩边赚” 的收入模型相结合。也许一开始可以免费玩，但加入游戏后，它就像一条发展道路，可以去遵循并最终获得一些价值。关于 “边玩边赚” 的另一件事，正如 Suji 和 Jihoz 所提到的，它确实在游戏中实现了一个真正的经济组织。在传统的游戏世界中，我们也有工会，或者我们所说的 MCNs，或者类似于 YGG 的组织，但是他们没有工具或基础设施来使他们能在传统游戏中去进行大规模的组织。有时，当他们坏了规矩时会被禁止。当然，“边玩边赚” 可以为创作者和开发者创造实际的激励，让他们在游戏门户内开发用户生成的内容，这也很棒。在传统游戏中，开发商或 CP 和用户是经济的两端。但我认为可以通过在系统中引入一个有趣复杂的其他利益相关者层，来真正为系统注入活力，使它有组织者、创造者和社区开发者。因此，借助区块链赋能系统，其他利益相关者可以在系统中协同工作，共同做出贡献。&lt;/p&gt;
+
+&lt;p&gt;最后，我想强调的是，虽然 “边玩边赚” 将成为游戏世界中一场非常重要的革命，但纯娱乐性、“为玩而玩（Play-for-fun）” 的玩家也将非常重要。因为如果仔细考虑一下 “边玩边赚”，最终会遭遇一个问题——如果每个人都在赚钱，那么游戏本身的价值从何而来？在传统的世界里，你有一份工作来谋生，但你也有娱乐和消费。对于 “为玩而玩” 的玩家群体，如果在区块链游戏中扩大这部分用户群，激励更多的单纯为了娱乐的人，（他们的行为模式更多是娱乐驱动和消费驱动，而不是财务驱动），那么你将拥有一个更健康、更大的生态系统，人们为劳动力做出贡献，而你拥有足够多的消费者和用户去消费那些被创造的价值。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;来自社区的问题：&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;（提问 &lt;strong&gt;Jihoz&lt;/strong&gt;）&lt;strong&gt;Axie&lt;/strong&gt; 的开发是否有吸引特定地域的游戏玩家？&lt;/p&gt;
+
+&lt;p&gt;这是个好问题。Axie 的开发注重全球化的吸引力。目前除了中非共和国之外，我们在这地球上每个国家都有 Axie 玩家，尤其在东南亚、南美大受欢迎。这些地方的许多新兴国家里，最低工资通常非常低。我认为第一批进入元宇宙或这些 “边玩边赚” 游戏经济体的移民肯定有些来自新兴国家，也有很多交易量来自藏家和那些只是在发达市场上花钱买乐子的人。所以这有点像一个异常有趣的协同效果。&lt;/p&gt;
+
+&lt;p&gt;[Jihoz掉线了一会儿。]&lt;/p&gt;
+
+&lt;p&gt;我们有来自世界各地的玩家，新兴市场的使用率很高。值得强调的是，我们有很棒的社区领袖，也有很多来自发达市场的流量，比如北美、欧洲、韩国、日本。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;（提问 D）这种去中心化的 Web 3.0 趋势是否会改变您的观点或您在游戏行业的行为方式，以及投资策略？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;我不会说必然会有某种转变，但我认为这绝对是一个新的重点关注领域。在我看来，区块链从根本上改变了社会生产关系。它正在重构社会和特定经济的组织方式，不同类型的利益相关者获得激励以及价值交易的方式。为此，我们非常密切地关注市场。正如我在前面介绍中提到的，区块链原生游戏是我们非常感兴趣的一个领域。利用技术的创新玩法也可以吸引主流玩家。基本上是将生产力社会关系的变化与生产力本身的提高相结合。例如基于 AR 技术，纯 AI 驱动。它为每个人提供了全新的体验，但同时你得明白，在基础设施层面它是在区块链上设计的。这是超级强大的力量。你去看看互联网历史上的所有进化演变，主要都是由生产力驱动的。但生产力本身仍然非常重要。它实实在在增强了实用性并提供了新的体验。因此，如果将社会生产力关系的变化与经济体系和社区的赋权结合起来，将其与生产力提高本身结合起来，这将真的成为一股致命的力量，并且具有非常好的大众市场潜力，是我们在 Web 3.0 中真正期待的东西。&lt;/p&gt;
+
+&lt;p&gt;以上是MaskTalk第一集中的所有内容。如果你喜欢这个对话，可以关注 Mask Network 的 Twitter 帐户&lt;a href=&quot;https://twitter.com/realmaskbook&quot;&gt;@realmaskbook&lt;/a&gt;，更多内容丰富的 MaskTalk 节目将在未来上线。&lt;/p&gt;</content><author><name></name></author><summary type="html">翻译：CryptoC</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">新闻｜SocialFi Alliance 成立，Mask Network、Polygon 等共 16 家合作伙伴加入</title><link href="/zh-Hans/2021/08/16/socialfi-alliance-mask-network-polygon-16" rel="alternate" type="text/html" title="新闻｜SocialFi Alliance 成立，Mask Network、Polygon 等共 16 家合作伙伴加入" /><published>2021-08-16T00:00:00+08:00</published><updated>2021-08-16T00:00:00+08:00</updated><id>/zh-Hans/2021/08/16/socialfi-alliance-mask-network-polygon-16</id><content type="html" xml:base="/zh-Hans/2021/08/16/socialfi-alliance-mask-network-polygon-16">&lt;p&gt;&lt;img src=&quot;/uploads/1_kpitmmg_ztzu9jqvuj9olg.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 很高兴能与首批 15 个合作伙伴一起成立去中心化社交金融联盟（SocialFi Alliance）。&lt;/p&gt;
+
+&lt;p&gt;首批联盟成员包括 Layer 2 解决方案 Polygon；7 个去中心化社交金融应用，包括无损乐透彩票 PoolTogether、去中心化资管协议 dHEDGE、预测市场 Augur、储蓄游戏 GoodGhosting、去中心化交易平台 SushiSwap、去中心化交易平台 QuickSwap、去中心化交易平台 DODO；4 个生态合作伙伴，包括开发者社区 Gitcoin、法币通道提供商 Transak、NFT 徽章提供商 Galaxy、多链孵化器 Impossible Finance，以及 3 个社区媒体合作伙伴，包括真本聪、Bankless DAO 和 Global Coin Research。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 作为 Web 2.0 社交网络和 Web 3.0 去中心化应用之间的桥梁，一直在认真思考怎样的 DApps 才最适合引入 Web 2.0 的社交网络。从 Reddit 的 Wall Street Bet 论坛革命，到 Tik-Tok 投资者的风靡，再到令人非常沉迷的 Crypto Twitter，社交与金融的不解之缘不言而喻。&lt;/p&gt;
+
+&lt;p&gt;从 2020 年 2 月第一次在社交平台上加密货币红包的发布，到同年 9 月第一个 Uniswap 交易插件的上线，再到 2021 年 1 月第一个首次推特发行 Initial Twitter Offering（ITO），Mask Network 已经多次通过社交金融产品席卷 Twitter 上的加密社区。但以太坊的 gas fee 波动对用户的操作成本和体验有着巨大的影响，在 Mask Network 接入 BSC 和 Polygon 开启多链时代后，使得用户的交易成本大幅降低。我们终于可以引入一整套社交金融应用，融合个人理财与社交网络，就像你使用微信和支付宝理财一样。后见之明的说，如果 GameStop 事件中的散户交易者可以在 Twitter 上使用交易插件，也许会带来加倍的效应。&lt;/p&gt;
+
+&lt;p&gt;DeFi、GameFi 等话题均在加密社群引起了广泛讨论，Mask Network 也努力地把这些领域内的优秀项目接入 Mask 插件，让更多用户在主流社交网站上就可以交互使用。同时我们也在思考，如何将 Mask 插件和 Web 2.0 社交网站的特点带入 DeFi 世界，为去中心化的金融操作增添社交互动的乐趣。因此我们邀请多个在 Social DeFi 领域有所见解的伙伴，一起组成 SocialFi Alliance。&lt;/p&gt;
+
+&lt;p&gt;我们精心挑选了首批去中心化社交金融应用，既涵盖了交易和聚合交易的核心功能，也包括了更接近普通用户的社交交易、彩票、社交存钱和体育/大选竞猜。我们期待在不久的将来，通过生态内更多即将大放异彩的社交金融应用，使用户获得更加完整的个人理财体验。&lt;/p&gt;
+
+&lt;p&gt;值得一提的是，&lt;strong&gt;dHEDGE、PoolTogether、GoodGhosting 以及 Augur 这些 Mask 拓展程序插件的接入，都是由社区开发者在 Gitcoin 第十期黑客松的过程中完成的。&lt;/strong&gt;这让我们无比欣喜，因为这与 Mask 心目中未来的去中心化生态不谋而合：开发并接入应用的工作由社区开发者自主完成，并逐渐形成一个拥有成千上万的去中心化小程序的生态系统。&lt;/p&gt;
+
+&lt;p&gt;我们认为，绝大多数的互联网用户都使用社交网络，让 DeFi 应用直接出现在如 Twitter、Facebook、Reddit 等主流社交网站上，可能是 DeFi 和 Web 3.0 走向主流用户的最关键一步。&lt;/p&gt;
+
+&lt;p&gt;我们将开启一系列和 SocialFi Alliance 成员合作的活动，让更多用户更加经济、快捷地了解联盟成员，更多详情将在活动开启时公布。&lt;/p&gt;
+
+&lt;p&gt;欢迎所有和我们有相同愿景的 DApps 一起加入，共同拓展 SocialFi Alliance 的边界。我们希望可以早日见证 10 亿 DeFi、Web 3.0 用户时代的到来。&lt;/p&gt;
+
+&lt;p&gt;让我们在去中心化的世界里相遇。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;合作伙伴列表&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Layer 2 解决方案&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Polygon：&lt;/strong&gt;Polygon 是一个协议和一个框架，用于构建和连接兼容以太坊的区块链网络。在以太坊上聚集可扩展的解决方案，支持多链的以太坊生态系统。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;DeFi 应用&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;SushiSwap：&lt;/strong&gt;SushiSwap 可以说是 DeFi 的大本营。SushiSwap 社区正在构建一个全面的、去中心化的交易平台。SushiSwap 一直以来是加密货币社区中的宠儿，也是 Mask Network 的长期合作伙伴。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;QuickSwap：&lt;/strong&gt;QuickSwap 是下一代 Layer 2 DEX。以快如闪电的速度进行交易，几乎没有 gas fee。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;DODO：&lt;/strong&gt;DODO 是一个多链去中心化的交易所/流动性供应商，由 PMM 算法驱动。DODO 也是一个 DEX 聚合器，并在 ETH、BSC 和 Polygon 上线。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;GoodGhosting：&lt;/strong&gt;GoodGhosting 是一个无损但是伴随着友好竞争的储蓄游戏。通过投入资金进入储蓄池，用户们向着一个固定的目标一起进行储蓄。经常储蓄并且达到目标的用户会比没有达到目标的人得到更多奖励。在周期结束时，每个人都能拿回他们的初始存款，但是只有获胜的玩家才能获得额外的奖励。这意味着你赚取的利息比你自己储蓄时要高。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;dHEDGE：&lt;/strong&gt;dHEDGE 是一款社交交易应用，基金经理可以根据各种策略构建投资组合，投资者也可以一键直接跟单基金经理的策略和组合。dHEDGE 刚刚在 Polygon 上发布了 V2。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;PoolTogether：&lt;/strong&gt;PoolTogether 是一个无损彩票游戏，可以同时实现活期存款和购买彩票。奖金有两个来源：存款利息，和外部赞助。中奖的概率取决于你存入的金额与总资金池的比例。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Augur：&lt;/strong&gt;Augur 最早建立于 2015 年，可以说是历史上第一个 DeFi 项目，是原生在以太坊上的预测市场，现也支持 Polygon 。用户可以参与体育比赛的投注、选举投注和加密货币游戏投注。（某些通证的价格会上升或者下降）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;生态伙伴&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Gitcoin：&lt;/strong&gt;Gitcoin 是处于开放网络生态系统中心的建设者、创造者和协议的社区。Gitcoin 欢迎所有人来到社区，发展他们的未来和开放互联网的未来。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Transak：&lt;/strong&gt;Transak 是我们的长期法币通道合作伙伴。也是 MetaMask 的法币通道默认选项。如果你在 Polygon 上没有现金或者资产，但又想要体验社交金融应用，那么 Transak 能帮你打通这一切。你可以通过 Transak 来直接用信用卡或者银行账户里转钱到你的 Polygon 地址上。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Project Galaxy：&lt;/strong&gt;Galaxy 在建立一个去中心化的基础设施，能让链上信用有一个即插即用的 NFT 证明。任何合格的揭幕活动参与者，都将可以得到由 Galaxy 支持的 NFT 徽章。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Impossible Finance：&lt;/strong&gt;Impossible Finance 是一个多链的孵化器，发行平台和交易平台。它提供了一个坚实的产品优先的生态系统，并支持顶尖区块链项目找到其合适的用户市场。Impossible Finance会把他们符合的项目匹配到其合适的领域，例如社交。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;社区与媒体合作伙伴&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;真本聪：&lt;/strong&gt;被誉为东方 WSB 的真本聪很可能是最好的中国数字货币投资社区。真本聪的创始人们也都在这轮牛市中获得了惊人的业绩，他们同时也已经管理了一个 dHEDGE 池子很久了。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Bankless DAO：&lt;/strong&gt;一个去中心化的全球社区，他们有着一个共同的目标，让全世界人都不需要用银行。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Global Coin Research：&lt;/strong&gt;是一个通证化的去中心化自治组织，由区块链领域的读者，作者和投资者共同组成，并向他们提供高质量的内容和投资机会。&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">月报｜Mask Network 七月动态（2021 年 7 月）</title><link href="/zh-Hans/2021/08/01/mask-network-2021-7" rel="alternate" type="text/html" title="月报｜Mask Network 七月动态（2021 年 7 月）" /><published>2021-08-01T00:00:00+08:00</published><updated>2021-08-01T00:00:00+08:00</updated><id>/zh-Hans/2021/08/01/mask-network-2021-7</id><content type="html" xml:base="/zh-Hans/2021/08/01/mask-network-2021-7">&lt;p&gt;&lt;img src=&quot;/uploads/cover-pic-min.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-开发进展&quot;&gt;&lt;strong&gt;🔧 开发进展&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;--mask-extension&quot;&gt;&lt;strong&gt;- Mask Extension&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;p&gt;v 1.35.0&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;改进通证图标的显示细节&lt;/li&gt;
+  &lt;li&gt;改进在任何网络状态下的合约数据调用方式&lt;/li&gt;
+  &lt;li&gt;增加与 GoodGhosting 集成的插件&lt;/li&gt;
+  &lt;li&gt;使用 swc 替代 ts-loader&lt;/li&gt;
+  &lt;li&gt;升级至 holoflows-kit 0.9.0&lt;/li&gt;
+  &lt;li&gt;启用 es2020 语法&lt;/li&gt;
+  &lt;li&gt;添加 dHEDGE v2 支持&lt;/li&gt;
+  &lt;li&gt;允许解密发件人未知的公共帖子&lt;/li&gt;
+  &lt;li&gt;增加 PoolTogether 插件&lt;/li&gt;
+  &lt;li&gt;改善 Web3 获取 ITO 历史记录的方式&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;v1.34.1&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;修复多个 bug&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;v1.34.0&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;进一步改善 ITO 在 BSC，Polygon 中的历史记录支持&lt;/li&gt;
+  &lt;li&gt;增加 PancakeSwap 和 QuickSwap&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;v1.33.2&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;优化区块查询&lt;/li&gt;
+  &lt;li&gt;增加 ITO 在 BSC，Polygon 中的历史记录支持&lt;/li&gt;
+  &lt;li&gt;更新 Polygon 区块浏览器地址&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;--mask-ios&quot;&gt;&lt;strong&gt;- Mask iOS&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;此次 iOS 版本更新包括从 v1.29.12 到 v1.34.0 的所有更新。更新包括针对移动设备的 UI 特性设计升级；增加 BSC 和 Polygon 的多链支持；增加 PancakeSwap 和 QuickSwap 入口；支持 Collectibles、Snapshot、vCent 等插件等等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;--mask-android&quot;&gt;&lt;strong&gt;- Mask Android&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;此次 Android 版本更新包括从 v1.29.12 到 v1.34.0 的所有更新。更新包括针对移动设备的 UI 特性设计升级；增加 BSC 和 Polygon 的多链支持；增加 PancakeSwap 和 QuickSwap 入口；支持 Collectibles、Snapshot、vCent 等插件等等。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;v1.29.12 - v1.34.0&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;UI 更新&lt;/li&gt;
+  &lt;li&gt;支持 BSC 和 Polygon&lt;/li&gt;
+  &lt;li&gt;增加 PancakeSwap 和 QuickSwap 入口&lt;/li&gt;
+  &lt;li&gt;增加对 Collectibles 和 Snapshot 等的支持&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-生态系统建设&quot;&gt;&lt;strong&gt;🌳 生态系统建设&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;h3 id=&quot;--多链&quot;&gt;&lt;strong&gt;- 多链&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;-mask-资产跨链桥-mask-bridge-上线&quot;&gt;&lt;strong&gt;⛓ Mask 资产跨链桥 Mask Bridge 上线&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yibX9bxYnUBgWVyVnP08EsFPoWsVR2gx1a0Xa4jfyicNkoZDG5ia1Z60P5Q/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 的资产跨链桥 Mask Bridge（bridge.mask.io）正式上线，为 $MASK 通证在以太坊主网和币安智能链（BSC）及 Polygon 之间的转换提供一种快捷、经济的方式。&lt;/p&gt;
+
+&lt;p&gt;点击查看&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&amp;amp;mid=2247488724&amp;amp;idx=2&amp;amp;sn=cf0432401be47fcd5caeab2225f64065&amp;amp;chksm=fdc73b42cab0b254ee258b53e45be584dc953f77f181944349f184b77abbd7493828305b9a58&amp;amp;scene=21#wechat_redirect&quot;&gt;&lt;strong&gt;资产跨链教程&lt;/strong&gt;&lt;/a&gt;。&lt;/p&gt;
+
+&lt;h4 id=&quot;-mask-通证上线-binance-bridge&quot;&gt;&lt;strong&gt;⛓ $MASK 通证上线 Binance Bridge&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yibib7CXFibdwDODe0yhlvmsGtUeicvT4z6YKHcz6Id7geEUOqqP6gAusN2g/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;--社区建设&quot;&gt;&lt;strong&gt;- 社区建设&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;-mask-network-七月-townhall&quot;&gt;&lt;strong&gt;🏘 Mask Network 七月 Townhall&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yib3FcovGYAQ0VKvtXvC8I9Un39joWtLDlMMh1bFzcBicPHD83PFbBf9FA/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 于 7 月 20 日举行了第二场社区 Townhall。Townhall 中谈论了 Mask 生态系统建设和 NFT 等的未来计划。&lt;/p&gt;
+
+&lt;p&gt;Townhall 全程录屏：&lt;a href=&quot;https://youtu.be/3lGecVhGVC8&quot; title=&quot;https://youtu.be/3lGecVhGVC8&quot;&gt;https://youtu.be/3lGecVhGVC8&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;点击今日次条，查看 Townhall 记录。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;🎙 生态系统社区活动 - PlatON AIR&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Mask Network 的创始人及 CEO Suji Yan 参与了 PlatON AIR 的第一集对谈活动。在活动中，Suji和 LatticeX Foundation 的 Dr. Xavier 探讨了隐私保护计算的相关话题。&lt;/p&gt;
+
+&lt;p&gt;活动全程录屏：&lt;a href=&quot;https://youtu.be/XkHm-YIKB64&quot; title=&quot;https://youtu.be/XkHm-YIKB64&quot;&gt;https://youtu.be/XkHm-YIKB64&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;-mask-通证&quot;&gt;&lt;strong&gt;💰 $MASK 通证&lt;/strong&gt;&lt;/h3&gt;
+
+&lt;h4 id=&quot;-mask-上线-pancakeswap-开启通证质押活动流动性挖矿&quot;&gt;&lt;strong&gt;🥞 $MASK 上线 PancakeSwap ，开启通证质押活动&amp;amp;流动性挖矿&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://mp.weixin.qq.com/s?__biz=MzU4OTkwNDYzMw==&amp;amp;mid=2247488724&amp;amp;idx=1&amp;amp;sn=e867a8a69f37c450a0be2297246dbe82&amp;amp;chksm=fdc73b42cab0b25424182ffb5faaf4f43ce80d6fe4f39f0e9c5d40beaf1f589724e413b85182&amp;amp;scene=21#wechat_redirect&quot;&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_png/QpV1OYwdMHDyRjia3TC9w8uBeCFzSutWkxhPgTXgDM8gSRa7Oe4gFTJ7VG0aYXPoibtBnMz3cUOWRm755J5zxRXw/640?wx_fmt=png&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;在 Syrup Pools 中质押 $CAKE，赚取 $MASK&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;通证总数：111,000 $MASK&lt;/li&gt;
+  &lt;li&gt;分发总时长：60 天&lt;/li&gt;
+  &lt;li&gt;起始区块：8943700（约 7 月 7 日 17:00 UTC+8）&lt;/li&gt;
+  &lt;li&gt;终止区块：10671700（约 9 月 5 日 17:00 UTC+8）&lt;/li&gt;
+  &lt;li&gt;每区块的奖励：0.06423 $MASK&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;在 Farm 里质押 $MASK - $BNB LP，赚取 $CAKE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yibrlm282rRthmViarCwbduNdvV2uiaNsW3pfhZQx73Wiag4s4lDM2BWib9Lg/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;-mask-上线-coinbase-和-cryptocom&quot;&gt;&lt;strong&gt;💲 $MASK 上线 Coinbase 和 Crypto.com&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;h4&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yibaVpnFzpPaLHBxcYWVt52ZrAjnHCprl91ibyCu7ia3cTxfiaZA9QaXKAfQ/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://mmbiz.qpic.cn/mmbiz_jpg/QpV1OYwdMHDlCUNYVIyZgHIFpicp709yibLFatdEeGBChI0fLYCzpDqic5uKtXMOyicnWwzt55P45Ib3vFYm2W9ZYg/640?wx_fmt=jpeg&amp;amp;tp=webp&amp;amp;wxfrom=5&amp;amp;wx_lazy=1&amp;amp;wx_co=1&quot; alt=&quot;图片&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry><entry xml:lang="zh-Hans"><title type="html">Web 3.0 桥梁构建之旅：图解 Mask Network 生态全景</title><link href="/zh-Hans/2021/07/13/web-3.0-mask-network" rel="alternate" type="text/html" title="Web 3.0 桥梁构建之旅：图解 Mask Network 生态全景" /><published>2021-07-13T00:00:00+08:00</published><updated>2021-07-13T00:00:00+08:00</updated><id>/zh-Hans/2021/07/13/web-3.0-mask-network</id><content type="html" xml:base="/zh-Hans/2021/07/13/web-3.0-mask-network">&lt;blockquote&gt;
+  &lt;p&gt;Mask Network 致力于打造 Web 2.0 到 Web 3.0 的低门槛入口，并实现 Web 3.0 底层、应用层和社区生态的全方位拓展。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;撰文 : 钱自宜&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;本文转载自链闻，请&lt;/strong&gt;&lt;a href=&quot;https://www.chainnews.com/articles/857968041389.htm&quot;&gt;&lt;strong&gt;点击查看&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;原文。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;DeFi 的爆发为加密货币市场乃至区块链技术带来了前所未有的活力，「去中心化」与「金融」有机结合让市场切实体验到了加密世界的魅力，不过随着 DeFi 逐渐走向成熟，越来越多的人开始了新的思考，金融以外的下一个爆发点会在哪里？而被视作去中心化应用「终极目标」的 Web 3.0，则成为了最热门的答案之一。&lt;/p&gt;
+
+&lt;p&gt;旨在打造 Web 3.0 应用程序生态的 Mask Network，构建了帮助用户 &lt;strong&gt;从 Web 2.0 无缝过渡到 Web 3.0 的 中间件基础设施&lt;/strong&gt; 。在缩短加密世界与互联网时代产品距离的同时，也让更多人能够在金融领域以外更「轻便」地接触并使用加密资产或去中心化应用，曾经遥不可及的 Web3.0 时代，已正在发生。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 项目成立于 2018 年 7 月，原名 Maskbook，于 2020 年 10 月改名为 Mask Network。2021 年 2 月 11 日，Mask Network 推出了治理代币 MASK，并在随后的两周内分三轮完成了 ITO （首次推特发行） 。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 还致力于多链开发，并于 6 月中上旬正式接入了 &lt;strong&gt;Polygon&lt;/strong&gt; 和 &lt;strong&gt;BSC&lt;/strong&gt; ，以此进一步扩展自身的生态版图，不断为生态添砖加瓦。&lt;/p&gt;
+
+&lt;p&gt;据链闻统计，截止 2021 年 6 月 28 日，Mask Network 已经形成了涵盖 &lt;strong&gt;DeFi&lt;/strong&gt; 、 &lt;strong&gt;工具&lt;/strong&gt; 、 &lt;strong&gt;存储&lt;/strong&gt; 、 &lt;strong&gt;NFT&lt;/strong&gt; 等多个领域的多样化生态体系，协议内的生态项目共计 &lt;strong&gt;41 个&lt;/strong&gt; ，并且这一数字还在持续增加。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://img.chainnews.com/material/images/0bd53791fcc357598e9b8efb305db09e_12CpR8Q.jpg-article&quot; alt=&quot;Web 3.0 桥梁构建之旅：图解 Mask Network 生态全景&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;defi&quot;&gt;DeFi&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Uniswap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://uniswap.org/&quot;&gt;&lt;strong&gt;Uniswap&lt;/strong&gt;&lt;/a&gt; 是部署在&lt;strong&gt;以太坊&lt;/strong&gt;网络上的去中心化代币交换协议。通过 MaskNetwork，用户可以在 Twitter 上直接查看代币在 CoinMarketCap 或 CoinGecko 上的价格走势，并且可以通过连接自己的钱包，进行 Uniswap 交易。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SushiSwap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sushi.com/&quot;&gt;&lt;strong&gt;SushiSwap&lt;/strong&gt;&lt;/a&gt; 分叉自 Uniswap，支持流动性挖矿奖励，2020 年 9 月 10 日，在 SBF 的组织下，Sushiswap 完成了流动性迁移，正式与 Uniswap 分离。SushiSwap 在 Mask Network 上的使用方式近似于 Uniswap。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;0x Protocol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://0x.org/&quot;&gt;&lt;strong&gt;0x 协议&lt;/strong&gt;&lt;/a&gt; 是一个面向以太坊的开源去中心化协议。与 Uniswap 和 Sushiswap 不同的是，0x 是一个聚合交易协议，可以自动从全网所有去中心化交易所里寻找最合适的价格组合，用户直接用 0x，不再需要去各个单独的交易协议比较价格。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Convergence&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://conv.finance/&quot;&gt;&lt;strong&gt;Convergence&lt;/strong&gt;&lt;/a&gt; 是去中心化可转换资产协议，通过在一个易于使用的界面上将 WST 与实用型代币 （UT） 统一起来，并且引用或与其他 DeFi 协议相结合，在 DeFi 空间中实现与现实世界资产向转换的协议。Mask Network 已投资 Convergence 并已正式建立合作关系，Mask Network 创始人 Suji Yan 也将作为顾问加入 Convergence。&lt;/p&gt;
+
+&lt;p&gt;Convergence 上的项目可以通过 Mask Network 提供的「首次推特发行」功能，对封装的证券型代币进行发行，并可在 Convergence 的自动做市商 （AMM） 池中进行交易。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/880601723791.htm&quot;&gt;&lt;strong&gt;Mask Network 与 Convergence 将针对 ITO 和证券型代币展开合作&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/03/22/convergence-mask-network-wsts-ito&quot;&gt;&lt;strong&gt;新闻｜Convergence 获 Mask Network 投资并达成合作，预计实现 WSTs 的 ITO 发行&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Serum&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://projectserum.com/&quot;&gt;&lt;strong&gt;Serum&lt;/strong&gt;&lt;/a&gt; 是由 Project Serum 和其他加密资产以及 DeFi 领域专家们共同创立的支持无需第三方信任跨链交易的完全去中心化交易所。整个 Serum 生态系统将完全交给用户，交给加密货币社区运行——完全去中心化。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/1722&quot;&gt;&lt;strong&gt;Solana and Serum in Maskbook&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Loopring&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://loopring.org/&quot;&gt;&lt;strong&gt;Loopring&lt;/strong&gt;&lt;/a&gt; 是去中心化交易的解决方案，包括 Web 钱包 Loopr、网页版的去中心化交易平台、不使用私钥的网页版去中心化交易 Circulr、imToken 可嵌入 H5DEX、Loopr iOS 原生钱包。此前在 Mask Network 新发布的 ITO 功能中，&lt;strong&gt;路印&lt;/strong&gt;协议 Loopring 已经作为首个 ITO 项目与 Mask Network 进行了初步的合作，双方在 Layer 2 扩容技术、zkRollup 等方面有着深度技术交流，同时在应用层面上，Mask Network 和路印协议 Loopring 还会就二层红包功能展开合作。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/02/05/mask-network-loopring&quot;&gt;&lt;strong&gt;新闻｜Mask Network 与路印协议 Loopring 达成战略合作，共建以太坊二层生态&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Mirror Protocol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mirror.finance/&quot;&gt;&lt;strong&gt;Mirror Protocol&lt;/strong&gt;&lt;/a&gt; 是稳定币项目 &lt;strong&gt;Terra&lt;/strong&gt; 推出的合成资产协议，可追踪股票、期货、交易所交易基金和其他传统金融资产的价格，从而将加密货币市场与传统市场融合起来。通过 Mask Network，用户可以直接在社交网站 （Twitter ） 上进行合成资产 （mAssets） 的行情浏览以及交易。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/01/15/mask-network-mirror-protocol&quot;&gt;&lt;strong&gt;新闻｜Mask Network 与 Mirror Protocol 达成合作，进一步突破开放金融市场界限&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;DeBank&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://debank.com/&quot;&gt;&lt;strong&gt;DeBank&lt;/strong&gt;&lt;/a&gt; 是基于数据仪表盘的的多合一 DeFi 钱包，可以帮助用户追踪 DeFi 应用，比较 DeFi 利率、管理 DeFi 资产、查找 DeFi 项目、分析 DeFi 风险。Mask Network 是 DeBank OpenAPI 首批合作伙伴。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/694885556044.htm&quot;&gt;&lt;strong&gt;DeBank 开启 OpenAPI 计划，供 DeFi 开发者获取实时用户投资组合和行业数据&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;MCDEX&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://mcdex.io/&quot;&gt;&lt;strong&gt;MCDEX&lt;/strong&gt;&lt;/a&gt; 全称 Monte Carlo Decentralized Exchange，用于交易数字货币衍生品的去中心化交易平台。MCDEX 已与 Mask Network 等多家投资机构达成投资意向。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/267464494626.htm&quot;&gt;&lt;strong&gt;MCDEX 社区提案为 DAO 融资 700 万美元，已与多家投资机构达成初步投资意向&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;everFinance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ever.finance/&quot;&gt;&lt;strong&gt;everFinance&lt;/strong&gt;&lt;/a&gt; 旨在为所有人提供没有时空界限的去中心化金融服务。其目标是提升用户体验，降低开发⻔槛，为所有人提供去中心化可信的金融应用。Mask Network 参投其种子轮融资。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;[**投融资周报&lt;/td&gt;
+        &lt;td&gt;基础设施赛道频现大额融资，资管领域保持高度活跃**](https://www.chainnews.com/articles/017678668400.htm)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Zerion&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://zerion.io/&quot;&gt;&lt;strong&gt;Zerion&lt;/strong&gt;&lt;/a&gt; 创建了无需信任的银行体系，为所有财务用例提供安全、无缝的访问。Zerion 旨在成为通往去中心化金融世界的门户，基于区块链的 DeFi 去中心化金融协议，在 0x、Uniswap、Kyber、Compound、MakerDao 等应用上均可使用。&lt;/p&gt;
+
+&lt;h3 id=&quot;nft&quot;&gt;NFT&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Rarible&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rarible.com/&quot;&gt;&lt;strong&gt;Rarible&lt;/strong&gt;&lt;/a&gt; 是 NFT 发行与交易平台，创建和出售由区块链保护的数字藏品。Mask Network 插件现已支持 Rarible 上 NFT 在 社交平台 （如 Twitter） 的展示和竞价。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;OpenSea&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://opensea.io/&quot;&gt;&lt;strong&gt;OpenSea&lt;/strong&gt;&lt;/a&gt; 是一个去中心化的 NFT 市场，类似于一个 NFT 的 eBay，你可以在其中购买、出售、拍卖等等。Mask Network 插件现已支持 OpenSea 上 NFT 在 社交平台 （如 Twitter） 的展示和竞价。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MOCA&lt;/strong&gt; （Museum of Crypto Art)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://museumofcryptoart.com/&quot;&gt;&lt;strong&gt;MOCA&lt;/strong&gt;&lt;/a&gt; 作为第一个和加密艺术有关的文化机构，将成为和数字艺术、加密文化、前沿科技、NFT 革命相关话语的前沿空间。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DEGO Finance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dego.finance/&quot;&gt;&lt;strong&gt;DEGO Finance&lt;/strong&gt;&lt;/a&gt; 是跨链的 NFT + DeFi 协议和基建设施，Mask Network 和 DEGO 将就 NFT 盲盒，游戏，社交进行一步的合作，用户将可在 Twitter 进行一键 NFT 创造，收藏与买卖。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/03/10/dego-finance-mask-network-web-3.0-nft&quot;&gt;&lt;strong&gt;新闻｜DEGO Finance 将与 Mask Network 达成战略合作，共建 Web 3.0 时代的 NFT 入口&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Cent&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://v.cent.co/&quot;&gt;&lt;strong&gt;Cent&lt;/strong&gt;&lt;/a&gt; 是一个推文交易平台，Mask Network 期望用户可以直接在 Twitter 上买卖推文，并在不久的将来提供实时查询推文 NFT 价格查询功能，用户刷到喜欢的内容，或者想要支持生产的人 / 机构，也可以直接出价，从而拥有相关推文。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/03/25/mask-network-x-cent-mask-network-twitter&quot;&gt;&lt;strong&gt;新闻｜Mask Network x Cent：通过 Mask Network，在 Twitter 上买你刚刷到的推&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://gitcoin.co/issue/DimensionDev/Maskbook/2599&quot;&gt;&lt;strong&gt;Display V.Cent Current Bid Price Of The Tweet Directly On Twitter&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Treasureland&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://treasureland.market/&quot;&gt;&lt;strong&gt;Treasureland&lt;/strong&gt;&lt;/a&gt; 是一个跨链 NFT 发行与交易平台，使用户能够一键创建 NFT，并方便地购买、出售或拍卖。Mask Network 曾参投 Treasureland 种子轮融资。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;AlchemyNFT&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://alchemynft.org/&quot;&gt;&lt;strong&gt;AlchemyNFT&lt;/strong&gt;&lt;/a&gt; 是 Alphawallet 发布的 NFT 合成工具，引入了全新的组件，使 NFT 所有者可以对其 NFT 资产进行操作，可以再创造、混编、组合和验证 NFT，并可以添加新的实用功能和权益。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Unlock Protocol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://unlock-protocol.com/&quot;&gt;&lt;strong&gt;UNLOCK&lt;/strong&gt;&lt;/a&gt; 是一种基于区块链的访问控制协议，使创作者能够在不依赖中间人的情况下通过其内容或软件获利。它允许消费者以一致的方式管理所有订阅，并在共享他们使用的最佳内容和应用时获得折扣。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Flow&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.onflow.org/&quot;&gt;&lt;strong&gt;Flow&lt;/strong&gt;&lt;/a&gt; 是由 Dapper Labs 开发的一种协议，用于建立基于以太坊的价值代币的自分配存储，旨在支持游戏应用，以驱动整个数字资产生态。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DoinGud&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://doingud.com/&quot;&gt;&lt;strong&gt;DoinGud&lt;/strong&gt;&lt;/a&gt; 是一个生态系统，旨在探索数字内容、创造者、和给予经济的未来。在这里，各个领域的策展人和创造者可以和自己的社群及收藏家联系，并支持他们选择的社会影响组织。DoinGud 平台和最顶尖的创造者、技术人员、社群及相关公司合作开发，为人们带来次世代的 NFT 体验。&lt;/p&gt;
+
+&lt;h3 id=&quot;多链&quot;&gt;多链&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Ethereum&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ethereum.org/&quot;&gt;&lt;strong&gt;Ethereum&lt;/strong&gt;&lt;/a&gt; 是一个开源的可编程区块链，提供了一套图灵完备的脚本语言，允许任何人编写智能合约和发行代币，由全网共同记账，账本公开透明且不可篡改。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Polygon&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://polygon.technology/&quot;&gt;&lt;strong&gt;Polygon&lt;/strong&gt;&lt;/a&gt; 是一种协议和框架，用于构建和连接与以太坊兼容的区块链网络，Polygon 的使命是成为以太坊上 Layer 2 解决方案聚合器，实现以太坊网络本身未能实现的搭建性能，弥补目前以太坊生态缺失的重要环节。Mask Network 将与 Polygon 针对以太坊目前出现的拥堵以及高矿工费问题展开技术交流协作，聚焦 DeFi 领域的性能优化，为用户为用户营造一个更加快捷、实用的去中心化交易环境。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2021/03/23/mask-network-x-polygon&quot;&gt;&lt;strong&gt;新闻｜Mask Network X Polygon：还能怎么玩&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Binance Smart Chain&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.binance.org/&quot;&gt;&lt;strong&gt;币安智能链&lt;/strong&gt;&lt;/a&gt; 可实现智能合约创建以及 BNB 质押挖矿等功能。Mask Network 获币安 Binance 战略投资，将加速 Mask Network 的多链开发。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NEAR Protocol&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://near.org/&quot;&gt;&lt;strong&gt;NEAR&lt;/strong&gt;&lt;/a&gt; 旨在创建完全分片、可扩展的 PoS 区块链。Mask Network （MASK）已与 NEAR Protocol 达成深度合作，合作以联合 Bounty 的方式启动，希望能够借助双方社区开发者的力量来完成生态的建设。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;[**新闻&lt;/td&gt;
+        &lt;td&gt;Mask Network 将与 NEAR Protocol 达成深度合作，并联合发起赏金**](https://news.mask.io/zh-Hans/2021/03/16/mask-network-near-protocol)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2602&quot;&gt;&lt;strong&gt;Integrate NEAR wallet into Mask&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Solana&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://solana.com/&quot;&gt;&lt;strong&gt;Solana&lt;/strong&gt;&lt;/a&gt; 是一个基于历史工作证明 （Proof of History，PoH） 的高性能底层公链。Mask 是 Solana 资助计划的首批 12 家受助项目之一。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/401153080463.htm&quot;&gt;&lt;strong&gt;Solana 基金会公布资助计划的首批 12 家受助项目&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;工具&quot;&gt;工具&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;CoinMarketCap&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://coinmarketcap.com/&quot;&gt;&lt;strong&gt;Coinmarketcap&lt;/strong&gt;&lt;/a&gt; 是一个加密数字市场信息平台，聚合了全球加密货币交易数据，包括市值，排行等数据信息。Mask Network 的插件允许用户可以直接在 Twitter 上查看 CoinMarketCap 上的信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CoinGecko&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.coingecko.com/&quot;&gt;&lt;strong&gt;CoinGecko&lt;/strong&gt;&lt;/a&gt; 是一个加密数字货币排名图表应用，剖析数字货币相关的交易、市值及其他数据，组织开发活动、社区等。Mask Network 的插件允许用户可以直接在 Twitter 上查看 CoinGecko 上的信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Transak&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://transak.com/&quot;&gt;&lt;strong&gt;Transak&lt;/strong&gt;&lt;/a&gt; 是一种连接法币和加密资产的合规性支付解决方案，允许用户以法币购买加密资产。安装 Mask Network 插件的用户可以在社交平台上直接搜索加密资产，除了已实现的行情浏览功能，Transak 的接入使用户能在不离开社交平台的情况下直接进行资产的购买。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/677671026865.htm&quot;&gt;&lt;strong&gt;Web3 隐私产品 Mask Network 引入法币聚合器 Transak&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;以太坊生态&quot;&gt;以太坊生态&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;MetaMask&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://metamask.io/&quot;&gt;&lt;strong&gt;MetaMask&lt;/strong&gt;&lt;/a&gt; 是一个浏览器插件钱包，Mask Network 插件支持连接 MetaMask 钱包，用户可直接在 Mask Network 上连接或导入 MetaMask，并在推特上使用加密钱包。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;EPNS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://epns.io/&quot;&gt;&lt;strong&gt;EPNS&lt;/strong&gt;&lt;/a&gt; 是以太坊信息推送服务项目，通过 EPNS，用户钱包可以接收 DApp 通知。目前，该项目已获得币安 Labs、IOSG、Coinbase 前 CTO Balaji Srinivasan、&lt;strong&gt;Gitcoin&lt;/strong&gt; 联合创始人 Scott Moore 等的上百万美元融资。EPNS 为 Mask Network 创建了一个通道，允许团队通过 EPNS 协议提供的去中心化通知服务与其目标钱包地址进行通信。推送提醒可以根据要求被定制，通知用户他们的买 / 卖 / 交换订单被确认、NFT 被铸造、新的治理提议等等信息。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://medium.com/ethereum-push-notification-service/building-web3-on-top-of-web2-0-with-mask-io-29d0d5e562e5&quot;&gt;&lt;strong&gt;Building Web3 on top of Web2.0 with Mask.io&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;存储&quot;&gt;存储&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Arweave&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://arweave.org/&quot;&gt;&lt;strong&gt;Arweave&lt;/strong&gt;&lt;/a&gt; 是一个基于区块链的文件存储协议，用户可以通过 Mask Network 插件在任何平台浏览其历史数据，其中包括帖子，互动信息，甚至是个人日记等隐私数据。Mask Network 将会为用户提供一个访问 Arweave 上存储历史记录的门户，并同时提供一套保护用户个人数据隐私的加密方案。对普通用户来说体验有些类似 Dropbox 和百度网盘。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;[**新闻&lt;/td&gt;
+        &lt;td&gt;Mask Network 获 Arweave 资金支持**](https://news.mask.io/zh-Hans/2020/05/19/maskbook-arweave)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Sia&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://sia.tech/&quot;&gt;&lt;strong&gt;Sia&lt;/strong&gt;&lt;/a&gt; 是由 Nebulous Labs 创建的分散存储网络，它使用对等分散网络创建了一个云存储市场，其中一些用户充当主机，在其磁盘中提供可用空间，而其他用户充当使用该存储空间的租户。既 Arweave 之后， Sia 是 Mask 引入的第二个文件存储与分享的技术提供方，为用户提供更加简单、高速并且去中心化的文件存储功能。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;table&gt;
+    &lt;tbody&gt;
+      &lt;tr&gt;
+        &lt;td&gt;[**新闻&lt;/td&gt;
+        &lt;td&gt;Mask Network 与 Sia 联合发起赏金计划，提供更多文件存储选择**](https://news.mask.io/zh-Hans/2020/12/21/mask-network-sia)&lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/tbody&gt;
+  &lt;/table&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://github.com/DimensionDev/Maskbook/issues/2069&quot;&gt;&lt;strong&gt;Adding Sia Network as another provider for the file service&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;IPFS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ipfs.io/&quot;&gt;&lt;strong&gt;IPFS&lt;/strong&gt;&lt;/a&gt; 即 InterPlanetary File System，一个点对点的分布式文件系统，旨在创建持久且分布式存储和共享文件的网络传输协议。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Meson Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meson.network/&quot;&gt;&lt;strong&gt;Meson Network&lt;/strong&gt;&lt;/a&gt; 是基于区块链 Layer 2 的下一代存储加速网络，通过挖矿的形式聚合闲置服务器，调度带宽资源并将其服务于文件以及流媒体加速市场，包含传统网站、视频、直播及区块链存储方案。Mask Network 参与了 Meson 的 90 万美元种子轮融资。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/085498553124.htm&quot;&gt;&lt;strong&gt;存储加速网络 Meson Network 完成 90 万美元种子轮融资，Mask Network、Youbi 和 SevenX 等参投&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;GunDB&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;用户在 Twitter 和 Facebook 上看到一个加密推送后，其 Mask Network 插件会解码该消息并检测用户是否在加密信息收件人名单中。如果用户在这个名单里，Mask Network 将查询 &lt;a href=&quot;https://gun.eco/&quot;&gt;&lt;strong&gt;GunDB&lt;/strong&gt;&lt;/a&gt; 以获取加密的 AES 密钥，并使用用户的私钥对其进行解密。在此之后，接受者的界面上将能看到解密后的信息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;ArDrive&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ardrive.io/&quot;&gt;&lt;strong&gt;ArDrive&lt;/strong&gt;&lt;/a&gt; 是一个功能齐全的文件永久存储应用，是去中心化版本的 Dropbox，具有隐私、抗审查的特性，可提供更加安全的永久性数据存储方案。&lt;/p&gt;
+
+&lt;h3 id=&quot;web-30--社区建设&quot;&gt;Web 3.0 &amp;amp; 社区建设&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Gitcoin&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;开源软件资助平台 &lt;a href=&quot;https://gitcoin.co/&quot;&gt;&lt;strong&gt;Gitcoin&lt;/strong&gt;&lt;/a&gt; 旨在通过区块链支持各类开源项目，促进开源运动的发展。Mask Network 为 Gitcoin 第 9 期赞助方之一，并且 Mask 的插件已支持 Gitcoin 项目在 Twitter 上的展示。安装 Mask 插件后，Twitter 贴文中的 Gitcoin 项目就会被自动识别并生成捐赠入口。用户可以直接捐赠支持，无需离开 Twitter 页面。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/243542866052.htm&quot;&gt;&lt;strong&gt;Gitcoin 关闭第 9 期捐助计划，总共筹得 138 万美元&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;DWeb Shanghai&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://getdweb.net/&quot;&gt;&lt;strong&gt;DWeb Shanghai&lt;/strong&gt;&lt;/a&gt; 是全球 DWeb 的一个 &lt;a href=&quot;https://www.chainnews.com/articles/github.com/DWebShanghai&quot;&gt;&lt;strong&gt;分支&lt;/strong&gt;&lt;/a&gt;，目的是为了聚集本地的开发者、设计师、旅行家、音乐家、数学家或任何对现有互联网有自己思考想法的志同道合的人，一起向着一个更好的互联网而努力。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DAOSquare&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.daosquare.io/&quot;&gt;&lt;strong&gt;DAOSquare&lt;/strong&gt;&lt;/a&gt; 诞生于以太坊社区 MetaCartel，致力于 Web3 时代孵化器的构建，其目标是成为 Web3 时代的 Y Combinator。Mask Network 为 DAOSquare 种子轮投资机构之一。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://www.chainnews.com/news/126197572966.htm&quot;&gt;&lt;strong&gt;DAOSquare 完成种子轮融资，投资人包括 Youbi、SNZ 和 IOSG&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;RadicalxChange&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.radicalxchange.org/&quot;&gt;&lt;strong&gt;RadicalxChange&lt;/strong&gt;&lt;/a&gt; 是一个活跃的艺术家、企业家、学者社区，它致力于倡导竞争、自由、开放的市场机制，以减少社会不平等，修复社会分裂与分歧，从而带来广泛共享的公平、繁荣与合作。2020 年底，Dimension &amp;amp; Mask Network 创始人 Suji Yan 受邀成为 RadicalxChange 基金会的导师。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;延伸阅读：&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;https://news.mask.io/zh-Hans/2020/12/03/suji-yan-radicalxchange&quot;&gt;&lt;strong&gt;新闻｜Suji Yan 受邀成为「 RadicalxChange 」基金会导师&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;RSS3&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://rss3.io/&quot;&gt;&lt;strong&gt;RSS3&lt;/strong&gt;&lt;/a&gt; 是为 Web 3.0 时代内容社交网络设计的开放协议。RSS3 将和 Mask Network 一起在 Twitter 上创建 SuperFollow Dapplett，它将在 Twitter 上为所有 Mask 和 RSS3 用户添加 Patreon 功能。 在社群开发者的帮助下，Mask 正在努力将下面这些优秀的 Web3.0 应用程序加入 Mask 插件。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;dHEDGE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.dhedge.org/&quot;&gt;&lt;strong&gt;dHEDGE&lt;/strong&gt;&lt;/a&gt; 是以太坊合成资产的资产管理平台。该项目建立在 Synthetix 的衍生品流动性协议之上，它可以允许用户模仿借鉴表现最佳的投资经理人的交易和策略。经理将代表基金池做出交易决策。所有基金池都可以选择公开，允许任何用户加入或披露给特定的以太坊地址。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PoolTogether&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://pooltogether.com/&quot;&gt;&lt;strong&gt;PoolTogether&lt;/strong&gt;&lt;/a&gt; 是一个利用去中心化金融协议来创建「无损」彩票的项目。用户可以购买彩票，所有从彩票销售中收集的资金都进入奖池，从去中心化的金融协议 Compound 和 yEarn Vaults 中获得收益。每个人都能拿回他们自己的资金，但有一个人会赢得所有从池子里赚取的累积利息，并且没有人失去他们的本金。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;RealityCards&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://realitycards.io/&quot;&gt;&lt;strong&gt;Reality Cards&lt;/strong&gt;&lt;/a&gt; 是一个新兴的预测市场，可以将下注结果变成可购买、可拥有的 NFT。在结果揭晓前后，人们都会对其下注的内容产生强烈的展示欲。无需投注结果，而是拥有结果。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;GoodGhosting&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://goodghosting.com/&quot;&gt;&lt;strong&gt;GoodGhosting&lt;/strong&gt;&lt;/a&gt; 是一个为用户设计的强制储蓄的定投挑战游戏，所有参与者需要设定储蓄时间以及每次储蓄的资金量，可以用 USDC 或者 DAI 支付。所有用户投入储蓄池的资产将会被分配到 Aave 和 Yearn 获得借贷收益。当游戏结束时，所有本金都会返回给每一位用户，但是只有坚持每一次都定投没有错过的用户，才能瓜分资金池内的利息。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Omen&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://omen.eth.link/&quot;&gt;&lt;strong&gt;Omen&lt;/strong&gt;&lt;/a&gt; 是由去中心化自治组织 Dxdao 推出的市场预测协议，基于 Gnosis Protocol 创建。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Augur&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://augur.net/&quot;&gt;&lt;strong&gt;Augur&lt;/strong&gt;&lt;/a&gt; Turbo 是去中心化预测市场 Augur 发布的基于 Polygon 的体育竞猜平台，平台将使用 Chainlink 作为预言机解决方案。用户目前可以为美国篮球协会 （NBA） 、美国职业棒球大联盟 （MLB） 、自由搏击 （MMA） 、奥运会等创建预测市场，未来将会支持足球、网球、高尔夫、电竞等赛事。&lt;/p&gt;
+
+&lt;h3 id=&quot;隐私&quot;&gt;隐私&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;PlatON&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://platon.network/&quot;&gt;&lt;strong&gt;PlatON&lt;/strong&gt;&lt;/a&gt; 是面向未来的下一代计算架构。同构多链架构，RELOAD 覆盖网络 / 主链+多应用链，去中心化分布式 RPC 框架。Mask Network 将和 PlatON 达成战略合作，共同推进隐私计算领域的商业落地。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phala Network&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://phala.network/&quot;&gt;&lt;strong&gt;Phala Network&lt;/strong&gt;&lt;/a&gt; 是 Polkadot 上的隐私计算平行链，通过可信计算技术实现图灵完备的隐私合约，既保证智能合约可靠执行，又不必泄露敏感数据。Mask Network 与 Phala Network 将在保护个人隐私产品图谱、 Web 3.0 数据生态建设等领域进行深度合作。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nym&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;隐私基础设施&lt;/strong&gt; &lt;a href=&quot;https://nymtech.net/&quot;&gt;&lt;strong&gt;Nym&lt;/strong&gt;&lt;/a&gt; 通过结合区块链来开发保护元数据安全的 混合网络协议，打造有效防止大规模监视的隐私网络层基础架构。Mask Network 与 Nym 达成合作，将共同开发加密私信小插件，以及实现在 Mask Network 插件上使用 Nym 测试网。&lt;/p&gt;
+
+&lt;h3 id=&quot;总结&quot;&gt;总结&lt;/h3&gt;
+
+&lt;p&gt;从一开始的用户在 Twitter 上发送加密文字，存储文件和分享，到在 Twitter 上查看加密货币的行情或者购买，或者直接发行资产，再到展示 NFT，构建自己的多链平台，Mask Network 一直在致力于丰富自己的生态版图。&lt;/p&gt;
+
+&lt;p&gt;从 Mask Network 生态版图可以看出，Mask 致力于构建 &lt;strong&gt;Web2.0 到 Web3.0 的入口&lt;/strong&gt; ，并实现 &lt;strong&gt;Web3.0 底层&lt;/strong&gt; 、 &lt;strong&gt;应用层&lt;/strong&gt; 、 &lt;strong&gt;社区生态&lt;/strong&gt; 等多个层面的同时拓展。&lt;/p&gt;
+
+&lt;p&gt;在 &lt;strong&gt;入口方面&lt;/strong&gt; ，Mask Network 接入了 Transak 法币聚合通道解决入金问题，接入了 Metamask 和 Wallet Connect 作为第三方钱包解决方案，接入 CMC、CoinGecko、DeBank、Zerion 等数据工具以提升使用体验，还会接入其他主流社交网站，一些开源社交软件和浏览器以扩大入口。&lt;/p&gt;
+
+&lt;p&gt;在去中心化的 Web3.0 世界，底层计算链 /Layer2 从仅支持以太坊拓展到了 BSC 和 Polygon，并将进一步接入 Solana、Near 等新兴公链。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Web3.0 和存储方面&lt;/strong&gt; ，存储从 Arweave 拓展到了 Sia 和 IPFS 并接入了基于 Arweave 的 ArDrive，并拓展到了其他新一代互联网必备的底层设施，如做带宽交易的 Meson 和将 Web2.0 时代的 RSS 内容分发升级的 RSS3。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;应用层 DeFi 方面&lt;/strong&gt; 不仅早已完成了核心交易应用如 Uniswap、&lt;strong&gt;Sushi&lt;/strong&gt;、0x 的接入，和第一方的 ITO 资产发行，且已经把触角伸向了更细分更亲民合适社交的应用如做社交交易的 dHEDGE，做既可存钱又同时买彩票的 Pooltogether、社交存钱游戏如 GoodGhosting、各种预测市场如 Reality Card、Augur 以及 Omen 等。Mask 试图成为 Web 2.0 社交网络用户进入 Web 3.0 新世界以后类似支付宝的一站式理财入口。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NFT 方面&lt;/strong&gt; ，Mask 也已经接入了 OpenSea、Rarible、Cent、Treasureland 等各大主流 NFT 交易平台，致力于给用户提供完整的小程序电商购买各类数字商品的体验，无需离开社交网站即可完成挑选购买全流程。&lt;/p&gt;
+
+&lt;p&gt;最为关键的是，Mask 的生态建设已经从团队官方开发，逐步过渡到了大比例的新应用和新拓展由社区开发者负责开发接入，而这与 Mask Network 在社区生态方面的长期建设密不可分，如资助 Gitcoin，举办 DWeb 和 RadicalxChange 中国区活动等等。&lt;/p&gt;
+
+&lt;p&gt;Mask Network 的愿景是实现一个 &lt;strong&gt;基于现有社交网络的去中心化隐私层&lt;/strong&gt; ，随着 Web 3.0 理念的深入人心，人们对于数据隐私的关注以及 Mask Network 对去中心化应用的新探索，具备先发优势的 Mask Network 或将成为 Web 3.0 破局走向大众的关键点。&lt;/p&gt;
+
+&lt;p&gt;免责声明：作为区块链信息平台，本站所发布文章仅代表作者个人观点，与链闻 ChainNews 立场无关。文章内的信息、意见等均仅供参考，并非作为或被视为实际投资建议。&lt;/p&gt;</content><author><name></name></author><summary type="html">Mask Network 致力于打造 Web 2.0 到 Web 3.0 的低门槛入口，并实现 Web 3.0 底层、应用层和社区生态的全方位拓展。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/zh-Hans" /></entry></feed>
