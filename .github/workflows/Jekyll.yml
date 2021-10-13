@@ -1,7 +1,7 @@
 on:
   push:
     branches: 
-      - master
+      - feat/new-nav
 
 jobs:
   build:
